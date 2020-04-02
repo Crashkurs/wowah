@@ -64,20 +64,6 @@
 20498;Silithidenchitin;2;10517;11685
 24858;Marschenkrabblerhelm;1;85686;107108
 14775;Verheererwollwäsche;1;50000;50000
-12359;Thoriumbarren;10;99900;99900
-12359;Thoriumbarren;2;9566;11958
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;8;79900;79900
-12359;Thoriumbarren;15;83500;120000
-12359;Thoriumbarren;20;138000;158000
-12359;Thoriumbarren;20;138000;158000
-12359;Thoriumbarren;20;89580;113600
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;10;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;20;89580;113600
 22838;Hasttrank;5;169999;174444
 22838;Hasttrank;5;169999;174444
 22838;Hasttrank;5;169999;174444
@@ -107,15 +93,6 @@
 11144;Echtsilberrute;1;26257;32822
 11144;Echtsilberrute;1;29500;34550
 14746;Titanischer Gürtel;1;10000;15000
-23436;Lebendiger Rubin;1;155000;200000
-23436;Lebendiger Rubin;1;140000;140000
-23436;Lebendiger Rubin;1;140000;140000
-23436;Lebendiger Rubin;1;145000;0
-23436;Lebendiger Rubin;1;289999;299999
-23436;Lebendiger Rubin;1;289999;299999
-23436;Lebendiger Rubin;2;400000;440000
-23436;Lebendiger Rubin;1;183200;229000
-23436;Lebendiger Rubin;4;600000;750000
 14747;Titanische Stulpen;1;4500;6000
 29734;Muster: Dicke Netherschuppenbrustplatte;1;699999;699999
 29734;Muster: Dicke Netherschuppenbrustplatte;1;466639;518488
@@ -172,31 +149,6 @@
 33825;Schädelfischsuppe;3;111696;139620
 33825;Schädelfischsuppe;20;979500;979800
 23131;Vorlage: Klobiger Blutgranat;1;198750;200000
-10940;Seltsamer Staub;6;11304;14130
-10940;Seltsamer Staub;6;11304;14130
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;20;58000;58880
-10940;Seltsamer Staub;20;58000;58880
-10940;Seltsamer Staub;2;5800;5888
-10940;Seltsamer Staub;6;11304;14130
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;5;9420;11775
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;20;57500;58700
-10940;Seltsamer Staub;6;13420;16776
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;20;103500;110000
-10940;Seltsamer Staub;17;49300;50048
-10940;Seltsamer Staub;6;10100;15088
-10940;Seltsamer Staub;20;103500;110000
 22572;Luftpartikel;1;21817;24508
 22572;Luftpartikel;1;21817;24508
 22572;Luftpartikel;1;23822;24756
@@ -245,7 +197,6 @@
 16971;Muschelette Surprise;20;17109;19011
 16971;Muschelette Surprise;20;17109;19011
 24978;Häscherhelm;1;399999;499999
-24978;Häscherhelm;1;54991;57900
 31288;Des Meisters Treter;1;44962;150000
 23765;Khoriumzielfernrohr;1;493750;599999
 23765;Khoriumzielfernrohr;1;720911;901138
@@ -347,9 +298,6 @@
 25011;Erobererbeinplatten;1;140000;150000
 25011;Erobererbeinplatten;1;78768;80000
 13051;Hexenfuror;1;39000;39000
-13051;Hexenfuror;1;40000;53500
-13051;Hexenfuror;1;40000;53500
-13051;Hexenfuror;1;74366;80000
 13756;Roher Sommerbarsch;20;55500;59000
 13756;Roher Sommerbarsch;10;27500;29500
 13756;Roher Sommerbarsch;10;69596;87870
@@ -445,12 +393,9 @@
 13039;Schädelspalterarmbrust;1;26000;28899
 13039;Schädelspalterarmbrust;1;22040;27550
 21843;Magieerfüllte Netherstofftasche;1;685000;700000
-21843;Magieerfüllte Netherstofftasche;1;720000;759000
 21843;Magieerfüllte Netherstofftasche;1;685000;700000
 15112;Starre Armreife;1;49900;49900
 22839;Zerstörungstrank;5;181111;184444
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
 22839;Zerstörungstrank;5;181111;184444
 22839;Zerstörungstrank;5;181111;184444
 22839;Zerstörungstrank;5;181111;184444
@@ -461,29 +406,7 @@
 22839;Zerstörungstrank;5;181111;184444
 22839;Zerstörungstrank;5;181111;184444
 22839;Zerstörungstrank;5;181111;184444
-22839;Zerstörungstrank;5;180000;185000
 22839;Zerstörungstrank;5;181111;184444
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;193800;193800
-22839;Zerstörungstrank;5;193800;193800
-22839;Zerstörungstrank;5;193800;193800
-22839;Zerstörungstrank;5;193800;193800
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
-22839;Zerstörungstrank;5;180000;185000
 25241;Eschentallangbogen;1;135636;169545
 27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;404300;467875
@@ -553,14 +476,6 @@
 22913;Rezept: Hasttrank;1;452419;565524
 22913;Rezept: Hasttrank;1;480000;489800
 22913;Rezept: Hasttrank;1;780000;880000
-23079;Tiefenperidot;20;215000;240000
-23079;Tiefenperidot;20;175000;175000
-23079;Tiefenperidot;1;7600;9500
-23079;Tiefenperidot;2;15000;16500
-23079;Tiefenperidot;2;15000;16500
-23079;Tiefenperidot;2;20963;23292
-23079;Tiefenperidot;1;8248;8249
-23079;Tiefenperidot;20;165000;170000
 23636;Pläne: Todeslied;1;179999;249999
 23636;Pläne: Todeslied;1;252947;281281
 23636;Pläne: Todeslied;1;310000;320000
@@ -624,15 +539,6 @@
 14552;Palisadenschulterstücke;1;40290;44000
 14552;Palisadenschulterstücke;1;64444;71604
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
-22522;Überragendes Zauberöl;1;133350;133800
-22522;Überragendes Zauberöl;1;133350;133800
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;156800;196000
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;249900;279900
 22553;Formel: Waffe - Potenz;1;2999900;2999900
@@ -655,23 +561,6 @@
 10938;Geringe Magieessenz;10;79900;79900
 10938;Geringe Magieessenz;10;79900;79900
 10938;Geringe Magieessenz;7;42515;53144
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;2;14000;15000
-23077;Blutgranat;2;14000;15000
-23077;Blutgranat;1;6666;7407
-23077;Blutgranat;1;6821;6822
-23077;Blutgranat;2;7500;0
-23077;Blutgranat;1;5184;6480
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;20;100000;149999
-23077;Blutgranat;1;9950;10000
-23077;Blutgranat;5;79325;86305
-23077;Blutgranat;20;179980;199980
-23077;Blutgranat;20;292592;349940
 13049;Claymore des Dekanats;1;18000;20000
 25273;Abgesägte Schrotflinte;1;41244;60000
 13511;Fläschchen der destillierten Weisheit;1;161799;161999
@@ -727,7 +616,6 @@
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
-17201;Rezept: Eierflip;1;53782;67228
 24047;Brillanter Dämmerstein;1;59576;75596
 24047;Brillanter Dämmerstein;1;95000;99999
 24047;Brillanter Dämmerstein;1;95000;99999
@@ -756,9 +644,6 @@
 24047;Brillanter Dämmerstein;1;66000;66000
 24047;Brillanter Dämmerstein;1;66000;66000
 24047;Brillanter Dämmerstein;1;95000;99999
-7974;Scharfes Muschelfleisch;4;12800;16000
-7974;Scharfes Muschelfleisch;2;1400;3200
-7974;Scharfes Muschelfleisch;6;10450;20000
 25220;Glorreiche Kriegsaxt;1;151980;160000
 8028;Pläne: Runenverzierter Mithrilhammer;1;133750;150000
 14581;Dokebibrustschutz;1;7004;8755
@@ -888,8 +773,6 @@
 24908;Talbalgschulterschutz;1;52976;56900
 19768;Urzeitliches Tigerleder;3;59000;90000
 22146;Buch: Gabe der Wildnis III;1;140000;150000
-8152;Fläschchen großes Mojo;15;33000;49500
-8152;Fläschchen großes Mojo;1;745;1385
 14674;Rudellordgurt;1;15000;15000
 24926;Ango'roshgürtel;1;58297;72872
 17200;Rezept: Lebkuchen;1;113000;141500
@@ -904,13 +787,6 @@
 25035;Silbergefütterter Umhang;1;62556;78196
 31276;Stiefel des Zeloten;1;261263;278600
 24898;Gemarterter Helm;1;54937;57900
-21881;Netherweberseide;2;25000;27500
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;2;25000;27500
-21881;Netherweberseide;2;25000;27500
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;5;77500;87450
 14554;Beinplatten des Wolkenbehüters;1;153180;200000
 25233;Schlachtsense;1;59550;85688
 25233;Schlachtsense;1;127933;129900
@@ -1017,8 +893,6 @@
 29739;Arkaner Foliant;20;3979980;3979980
 8118;Heraldische Armschienen;1;50000;50000
 17007;Steinreißerstulpen;1;11697;80000
-24168;Vorlage: Geflochtene Eterniumkette;1;85000;90000
-24168;Vorlage: Geflochtene Eterniumkette;1;45000;70000
 13885;34-pfündiger Rotkiemen;1;390;19000
 13885;34-pfündiger Rotkiemen;1;330050;379500
 17056;Leichte Feder;4;13000;21000
@@ -1142,18 +1016,6 @@
 25653;Reitgerte;1;695859;869824
 25653;Reitgerte;1;695859;869824
 25089;Bittstellerrute;1;91629;114537
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;181620;189525
-20748;Hervorragendes Manaöl;1;181620;189525
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
-20748;Hervorragendes Manaöl;1;175500;185500
 17194;Festtagsgewürze;10;16750;17500
 25649;Knotenhautlederfetzen;20;72912;91140
 25649;Knotenhautlederfetzen;20;72912;91140
@@ -1191,8 +1053,6 @@
 21861;Magieerfüllte Netherstoffrobe;1;235199;293999
 21861;Magieerfüllte Netherstoffrobe;1;235199;293999
 21861;Magieerfüllte Netherstoffrobe;1;235199;293999
-13057;Blutpike;1;12800;16000
-13057;Blutpike;1;10973;13900
 25121;Gefürchteter Streitkolben;1;209219;261524
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 13876;40-pfündiger Zackenbarsch;1;10089;20098

@@ -104,10 +104,7 @@
 13051;Hexenfuror;1;74366;80000
 9850;Beschwörermantel;1;3591;0
 15187;Prätorianerschulterstücke;1;16377;20000
-13046;Blanchards Schädelbrecher;1;58500;59999
 13046;Blanchards Schädelbrecher;1;52563;60000
-13046;Blanchards Schädelbrecher;1;52563;55000
-13046;Blanchards Schädelbrecher;1;44404;50449
 15737;Muster: Schimärenstiefel;1;6664;8330
 7076;Essenz der Erde;1;95000;99000
 7076;Essenz der Erde;1;95000;99000
@@ -204,7 +201,6 @@
 9965;Kriegstreiberschulterstücke;1;14959;19999
 15541;Tückische Kettenbeinschützer;1;30000;30000
 14963;Oberhäuptlingsschulterstücke;1;49038;54487
-9295;Rezept: Unsichtbarkeitstrank;1;19999;24499
 9932;Brigadereif;1;12384;17980
 15336;Zänkergamaschen;1;6500;8000
 9847;Beschwörerumhang;1;2668;5520
@@ -250,14 +246,7 @@
 5637;Großer Fangzahn;1;9200;9800
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
-13890;Panzerfisch;20;2300;6000
-13890;Panzerfisch;20;2300;6000
-13890;Panzerfisch;2;711;790
-13890;Panzerfisch;20;2300;6000
-13890;Panzerfisch;20;7118;7909
-13890;Panzerfisch;20;6400;8000
 13890;Panzerfisch;6;1860;2532
-13890;Panzerfisch;1;310;385
 15415;Blaue Drachenschuppe;1;4749;5276
 15278;Sonnenwendstab;1;75429;150000
 17201;Rezept: Eierflip;1;53782;67228
@@ -296,11 +285,6 @@
 15412;Grüne Drachenschuppe;20;105000;111100
 15743;Muster: Schwerer Skorpidgürtel;1;89999;99999
 15420;Eisenfeder;13;1950;2200
-15420;Eisenfeder;40;6800;7960
-15420;Eisenfeder;1;150;165
-15420;Eisenfeder;1;150;165
-15420;Eisenfeder;1;150;165
-15420;Eisenfeder;50;5000;8000
 15121;Robuste Stiefel;1;6085;7032
 15352;Kopfjägerrundschild;1;13123;16404
 18257;Rezept: Erheblicher Verjüngungstrank;1;2469500;3087500
@@ -325,7 +309,6 @@
 9252;Unteres Kartenfragment;1;77536;96920
 9252;Unteres Kartenfragment;1;77536;96920
 13064;Jainas Feuerteufel;1;190000;200000
-13064;Jainas Feuerteufel;1;59999;99999
 8152;Fläschchen großes Mojo;5;6663;7403
 8152;Fläschchen großes Mojo;2;1490;2770
 18333;Buchband des Fokus;1;1134878;1418598
@@ -425,10 +408,7 @@
 17683;Buch: Gabe der Wildnis II;1;39999;49999
 17683;Buch: Gabe der Wildnis II;1;39999;49999
 15575;Spiegelpanzergürtel;1;10000;20000
-7071;Eiserne Gürtelschnalle;5;47440;50000
-7071;Eiserne Gürtelschnalle;5;47440;50000
 7071;Eiserne Gürtelschnalle;1;4500;6500
-7071;Eiserne Gürtelschnalle;2;9000;13000
 2770;Kupfererz;3;3598;3997
 2770;Kupfererz;20;44080;55100
 2770;Kupfererz;20;44080;55100
@@ -439,7 +419,6 @@
 13066;Wyrmtöterschiftung;1;23574;30000
 13066;Wyrmtöterschiftung;1;23574;39900
 13066;Wyrmtöterschiftung;1;31000;39899
-13885;34-pfündiger Rotkiemen;1;390;19000
 13885;34-pfündiger Rotkiemen;1;330050;379500
 14976;Erhabene Stulpen;1;21286;30000
 15323;Zündschrotflinte;1;26686;50000
@@ -524,7 +503,6 @@
 7070;Elementarwasser;3;19500;21000
 10073;Rechtschaffener Helm;1;9858;30000
 15331;Zänkergelenkbänder;1;199900;199900
-15621;Greifenpanzerrundschild;1;49500;63000
 15621;Greifenpanzerrundschild;1;23649;46000
 17057;Glänzende Fischschuppen;16;2329;2912
 17057;Glänzende Fischschuppen;1;200;220
@@ -585,9 +563,6 @@
 13058;Khoospitze;1;27308;34135
 13058;Khoospitze;1;25942;32428
 13058;Khoospitze;1;25942;32428
-9294;Rezept: Wildrankentrank;1;14000;17000
-9294;Rezept: Wildrankentrank;1;100000;150000
-9294;Rezept: Wildrankentrank;1;8830;11038
 8167;Schildkrötenschuppe;5;50000;50000
 18046;Rezept: Zartes Wolfsteak;1;9600;12000
 10003;Schwarze Magiestoffhandschuhe;1;99148;99999
@@ -612,10 +587,6 @@
 10978;Kleiner gleißender Splitter;1;237;297
 10978;Kleiner gleißender Splitter;1;237;297
 11083;Seelenstaub;20;140000;159400
-13057;Blutpike;1;9000;13000
-13057;Blutpike;1;12800;16000
-13057;Blutpike;1;10973;13900
-13057;Blutpike;1;9564;13205
 13062;Donnerholz;1;9571;11964
 13062;Donnerholz;1;34150;35722
 15648;Eisenhautschild;1;68156;85196

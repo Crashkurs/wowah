@@ -49,7 +49,6 @@
 32655;Kristallgewebte Armschienen;1;1950000;2220000
 30036;Gürtel des langen Weges;1;6500000;6900000
 30036;Gürtel des langen Weges;1;9407999;11759999
-32464;Netheriterz;2;6200;7750
 32464;Netheriterz;20;100016;111129
 32464;Netheriterz;5;25004;27782
 30038;Gürtel der Zauberwucht;1;13900000;13999998
@@ -83,16 +82,7 @@
 29740;Teuflische Waffen;1;160100;160500
 32062;Elixier der erheblichen Seelenstärke;19;412300;540360
 32062;Elixier der erheblichen Seelenstärke;20;499999;650000
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
 32062;Elixier der erheblichen Seelenstärke;20;499999;650000
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
-32062;Elixier der erheblichen Seelenstärke;5;189375;198900
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
-32062;Elixier der erheblichen Seelenstärke;5;189375;198900
-32062;Elixier der erheblichen Seelenstärke;5;109375;150000
-32062;Elixier der erheblichen Seelenstärke;5;199999;199999
 32662;Flammender Quarzstab;1;345000;350000
 31906;Furien 6;1;100000000;150000000
 30042;Gürtel der naturgleichen Kraft;1;9000000;10000000
@@ -196,8 +186,6 @@
 31905;Furien 7;1;911600;1139500
 31905;Furien 7;1;877500;880000
 32409;Unerbittlicher Erdsturmdiamant;1;819899;819899
-32409;Unerbittlicher Erdsturmdiamant;1;815000;819900
-32409;Unerbittlicher Erdsturmdiamant;1;845000;850000
 30032;Roter Gürtel der Schlacht;1;14406305;15540000
 30032;Roter Gürtel der Schlacht;1;9000000;9150000
 30032;Roter Gürtel der Schlacht;1;9000000;9150000
@@ -237,17 +225,6 @@
 32388;Schattenstaub;1;13500;14500
 30305;Muster: Stiefel der naturgleichen Anmut;1;180000;250000
 30305;Muster: Stiefel der naturgleichen Anmut;1;189500;237500
-30809;Mal des Sargeras;10;91850;102060
-30809;Mal des Sargeras;10;91850;102060
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;4;40000;40000
-30809;Mal des Sargeras;1;9417;11772
-30809;Mal des Sargeras;1;9464;11831
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;6;55110;61236
-30809;Mal des Sargeras;250;2605000;2700000
 32670;Ausgelaugte Zweihandaxt;1;203003;259090
 32658;Abzeichen der Hartnäckigkeit;1;8500000;8900000
 32580;Flinkschlagarmschienen;1;4504533;5500000
