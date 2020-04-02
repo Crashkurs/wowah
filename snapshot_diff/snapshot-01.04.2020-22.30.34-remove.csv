@@ -1,62 +1,16 @@
 4417;Bauplan: Große Zephyriumladung;1;4800;16000
 4417;Bauplan: Große Zephyriumladung;1;6012;8000
-4345;Muster: Rote Wollstiefel;1;29999;39999
 4404;Silberkontakt;10;4250;5000
 4404;Silberkontakt;20;8500;10000
 2771;Zinnerz;2;1081;1352
 4347;Muster: Verstärkte Wollschultern;1;2425;3032
-4347;Muster: Verstärkte Wollschultern;1;2304;2880
 4369;Tödliche Donnerbüchse;1;29536;38545
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
 4338;Magiestoff;20;198500;199500
 4338;Magiestoff;20;198500;199500
-4338;Magiestoff;4;25596;31996
 4338;Magiestoff;14;58660;58660
-4338;Magiestoff;20;99998;109998
 4338;Magiestoff;5;22000;23500
 4338;Magiestoff;20;57500;60000
-4338;Magiestoff;2;10406;11962
-4338;Magiestoff;1;2700;2900
 4338;Magiestoff;2;10175;10200
-4338;Magiestoff;20;99998;109998
-4338;Magiestoff;20;62160;77700
-4338;Magiestoff;17;6375;85000
-4338;Magiestoff;20;66260;76920
-4338;Magiestoff;20;66260;76920
-4338;Magiestoff;20;7500;100000
-4338;Magiestoff;20;7500;100000
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;50940;57420
 32745;Muster: Schulterpolster des erneuerten Lebens;1;220050;240000
 32745;Muster: Schulterpolster des erneuerten Lebens;1;229999;249999
 32745;Muster: Schulterpolster des erneuerten Lebens;1;229999;249999
@@ -84,19 +38,6 @@
 34330;Schweres Knotenhautrüstungsset;6;67500;120000
 1710;Großer Heiltrank;1;600;600
 1710;Großer Heiltrank;2;875;1400
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;5;12000;15000
-4337;Dicke Spinnenseide;6;19168;21298
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;2;4300;4600
-4337;Dicke Spinnenseide;1;560;950
-4337;Dicke Spinnenseide;5;7428;9285
 32751;Muster: Lebendige Erdschultern;1;461392;512658
 32751;Muster: Lebendige Erdschultern;1;188750;220000
 32751;Muster: Lebendige Erdschultern;1;178750;180000
@@ -111,21 +52,10 @@
 4461;Raptorbalg;1;344;382
 4461;Raptorbalg;6;2065;2295
 4461;Raptorbalg;6;2065;2295
-4461;Raptorbalg;7;1965;2457
-4461;Raptorbalg;8;2500;2700
 1718;Basiliskenbalghose;1;20000;65000
 8365;Rohe Mithrilkopfforelle;3;2000;3099
 8365;Rohe Mithrilkopfforelle;10;19576;24470
 3356;Königsblut;20;11056;13820
-6358;Öliges Schwarzmaul;6;89099;90000
-6358;Öliges Schwarzmaul;4;58099;60000
-6358;Öliges Schwarzmaul;4;58099;60000
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;3;43099;45000
-1728;Teebus Langschwert der Loderflammen;1;9509404;9990000
 32833;Geläuterte Jaggalperle;1;15199;18999
 32833;Geläuterte Jaggalperle;1;20500;21000
 32833;Geläuterte Jaggalperle;1;20500;21000
@@ -157,24 +87,9 @@
 4349;Muster: Phönixhose;1;89999;99999
 32662;Flammender Quarzstab;1;345000;350000
 32658;Abzeichen der Hartnäckigkeit;1;8500000;8900000
-2592;Wollstoff;20;990;0
-2592;Wollstoff;20;18000;23004
 2592;Wollstoff;20;18912;23640
 2592;Wollstoff;20;28500;29000
 2592;Wollstoff;20;28500;29000
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;4;3318;4148
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;990;0
-2592;Wollstoff;12;11100;13100
-2592;Wollstoff;20;18000;23004
 1717;Doppelverbundtunika;1;9669;12087
 32664;Traumkristallband;1;299900;300000
 4425;Rolle der Beweglichkeit III;1;44768;58461
@@ -183,8 +98,6 @@
 6361;Roher Regenbogenflossenthunfisch;5;8403;9336
 1722;Dornsteinvorschlaghammer;1;59110;59999
 1722;Dornsteinvorschlaghammer;1;38000;47500
-1722;Dornsteinvorschlaghammer;1;34580;43225
-1722;Dornsteinvorschlaghammer;1;33779;41077
 34622;Wirbelschnitter;1;1500000;2250000
 6373;Elixier der Feuermacht;9;25112;27902
 1263;Hirnhacker;1;137559;152844
@@ -225,7 +138,6 @@
 4562;Abspalteraxt;1;33191;41489
 4562;Abspalteraxt;1;953;2592
 4480;Donnernder Glücksbringer;10;8975;20000
-4480;Donnernder Glücksbringer;10;8500;20000
 4498;Brauner Lederranzen;1;2000;2300
 4498;Brauner Lederranzen;1;2000;2300
 4498;Brauner Lederranzen;1;2000;2300

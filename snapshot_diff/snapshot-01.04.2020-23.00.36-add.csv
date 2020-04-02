@@ -3,7 +3,6 @@
 4417;Bauplan: Große Zephyriumladung;1;6012;8000
 13004;Fackel von Austen;1;78821;87578
 4345;Muster: Rote Wollstiefel;1;3841;4802
-4345;Muster: Rote Wollstiefel;1;29999;39999
 2771;Zinnerz;2;1081;1352
 6037;Echtsilberbarren;20;51136;63920
 6037;Echtsilberbarren;20;51136;63920
@@ -11,55 +10,12 @@
 6037;Echtsilberbarren;16;39508;51136
 6037;Echtsilberbarren;20;51136;63920
 12820;Feuerwasser der Winterfelle;3;30000;30000
-4347;Muster: Verstärkte Wollschultern;1;2304;2880
 4369;Tödliche Donnerbüchse;1;29536;38545
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;7500;100000
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;50940;57420
-4338;Magiestoff;20;66260;76920
-4338;Magiestoff;20;66260;76920
-4338;Magiestoff;17;6375;85000
-4338;Magiestoff;20;7500;100000
-4338;Magiestoff;1;2700;2900
 4338;Magiestoff;20;67780;76140
-4338;Magiestoff;20;62160;77700
-4338;Magiestoff;20;99998;109998
-4338;Magiestoff;20;99998;109998
-4338;Magiestoff;2;10406;11962
-4338;Magiestoff;4;25596;31996
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;50940;57420
 4338;Magiestoff;20;57400;57400
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
 4338;Magiestoff;20;57400;57400
 4338;Magiestoff;12;34440;34440
 4338;Magiestoff;3;24925;25444
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
 12365;Verdichteter Stein;20;7500;9900
 11175;Große Netheressenz;1;50000;60000
 11175;Große Netheressenz;1;119999;119999
@@ -137,18 +93,7 @@
 21845;Urmondstoff;1;326000;335000
 14343;Kleiner glänzender Splitter;20;20100;37600
 14256;Teufelsstoff;1;21000;21000
-4337;Dicke Spinnenseide;1;2222;2322
 4337;Dicke Spinnenseide;1;1850;1850
-4337;Dicke Spinnenseide;5;12000;15000
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;2;4300;4600
-4337;Dicke Spinnenseide;6;19168;21298
-4337;Dicke Spinnenseide;1;560;950
-4337;Dicke Spinnenseide;5;7428;9285
 4337;Dicke Spinnenseide;1;1850;1850
 4337;Dicke Spinnenseide;1;1850;1850
 4337;Dicke Spinnenseide;1;1850;1850
@@ -165,8 +110,6 @@
 4410;Bauplan: Schattenschutzbrille;1;6000;8000
 4410;Bauplan: Schattenschutzbrille;1;6716;8395
 16204;Illusionsstaub;20;131200;151200
-4461;Raptorbalg;8;2500;2700
-4461;Raptorbalg;7;1965;2457
 14048;Runenstoffballen;4;28224;35280
 14048;Runenstoffballen;10;114872;143590
 14048;Runenstoffballen;10;114872;143590
@@ -187,16 +130,7 @@
 24272;Schattenstoff;1;366000;375000
 19261;Kriegsfürst 4;1;41632;46258
 6358;Öliges Schwarzmaul;1;14000;15000
-6358;Öliges Schwarzmaul;3;43099;45000
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;5;73099;75099
-6358;Öliges Schwarzmaul;4;58099;60000
-6358;Öliges Schwarzmaul;4;58099;60000
-6358;Öliges Schwarzmaul;6;89099;90000
-6358;Öliges Schwarzmaul;5;73099;75099
 13003;Lord Alexanders Streitaxt;1;169999;199999
-1728;Teebus Langschwert der Loderflammen;1;9509404;9990000
 1728;Teebus Langschwert der Loderflammen;1;2999404;3500000
 17056;Leichte Feder;20;20210;21000
 12363;Arkankristall;2;51200;64000
@@ -287,23 +221,8 @@
 13035;Schlangenschnitzler;1;40461;44956
 3858;Mithrilerz;20;115952;144940
 12717;Pläne: Löwenherzhelm;1;3499999;3999999
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
 2592;Wollstoff;20;17740;19800
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;18000;23004
-2592;Wollstoff;20;990;0
-2592;Wollstoff;12;11100;13100
-2592;Wollstoff;4;3318;4148
 2592;Wollstoff;20;17740;19800
-2592;Wollstoff;20;990;0
 2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;9500;10000
 4425;Rolle der Beweglichkeit III;1;44768;58461
 4425;Rolle der Beweglichkeit III;1;14371;17964
@@ -313,8 +232,6 @@
 9233;Elixier der Dämonenentdeckung;2;4000;4000
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;89999;99999
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;59589;75362
-1722;Dornsteinvorschlaghammer;1;33779;41077
-1722;Dornsteinvorschlaghammer;1;34580;43225
 24916;Nethersturmschulterschutz;1;442905;450000
 9262;Schwarzes Vitriol;2;9337;11672
 19231;Bestien 3;1;78750;80000
@@ -500,7 +417,6 @@
 8190;Hanzos Schwert;1;71511;79457
 4562;Abspalteraxt;1;953;2592
 4562;Abspalteraxt;1;33191;41489
-4480;Donnernder Glücksbringer;10;8500;20000
 10939;Große Magieessenz;5;95000;110000
 10939;Große Magieessenz;3;40100;54500
 10939;Große Magieessenz;3;50000;70000

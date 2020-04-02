@@ -28,12 +28,6 @@
 890;Stab des verrückten Sängers;1;1999900;1999900
 23835;Gnomischer Geflügelisierer;1;4000000;4996700
 14374;Blutrote Sandalen;1;599900;599900
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;171602;180000
-31285;Brustschutz der Kralle;1;160380;178200
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;175000;180000
 24057;Königliches Nachtauge;1;142500;142500
 24057;Königliches Nachtauge;1;110000;159999
 24057;Königliches Nachtauge;1;110000;159999
@@ -63,11 +57,6 @@
 2059;Wachpostenumhang;1;999900;999900
 9262;Schwarzes Vitriol;12;15673;19592
 31238;Drachenknochenring;1;113145;141432
-23439;Edeltopas;1;150000;150000
-23439;Edeltopas;1;150000;150000
-23439;Edeltopas;1;150000;150000
-23439;Edeltopas;1;269999;289999
-23439;Edeltopas;1;269999;289999
 25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;220000;320000
 25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;215000;270000
 25897;Starker Erdsturmdiamant;1;792980;991225
@@ -98,11 +87,6 @@
 22838;Hasttrank;5;165500;174999
 22838;Hasttrank;5;172500;172500
 22838;Hasttrank;5;165500;174999
-23437;Talasit;1;37240;46550
-23437;Talasit;1;45000;60000
-23437;Talasit;1;115000;120000
-23437;Talasit;1;95600;119500
-23437;Talasit;1;45000;60000
 21885;Urwasser;1;83144;103930
 31234;Kristallklinge der Draenei;1;201075;400000
 31234;Kristallklinge der Draenei;1;347770;397771
@@ -129,7 +113,6 @@
 31289;Stab der göttlichen Eingebung;1;289949;299999
 31289;Stab der göttlichen Eingebung;1;339874;340000
 31240;Schuppen der Bestie;1;188888;199999
-31201;Illidariumhang;1;454836;500000
 31201;Illidariumhang;1;4000155;4209061
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
@@ -137,26 +120,12 @@
 19700;Münze der Hakkari;5;148960;186200
 19700;Münze der Hakkari;3;135000;148500
 19700;Münze der Hakkari;5;242320;269245
-22788;Flammenkappe;10;168310;179900
-22788;Flammenkappe;20;300000;300000
-22788;Flammenkappe;20;300000;300000
-22788;Flammenkappe;20;300000;300000
 19705;Münze der Schädelspalter;3;210000;252000
 19705;Münze der Schädelspalter;5;307472;384340
 19705;Münze der Schädelspalter;1;73743;81937
 19705;Münze der Schädelspalter;9;709585;728232
 23804;Bauplan: Energieverstärkungsbrille;1;350000;390000
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;85000;90000
 23440;Dämmerstein;3;245000;300000
-23440;Dämmerstein;1;89999;99999
-23440;Dämmerstein;1;89999;99999
-23440;Dämmerstein;1;89999;99999
-23440;Dämmerstein;1;89999;99999
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
 19704;Münze der Sandwüter;3;161636;189545
 19704;Münze der Sandwüter;1;55620;69526
 19704;Münze der Sandwüter;1;65000;79500
@@ -213,14 +182,6 @@
 31173;Stiefel der Unbändigkeit;1;47451;50000
 31246;Nagabalggamaschen;1;190000;299999
 31200;Schild des unberechenbaren Fußsoldaten;1;251838;297200
-32249;Gischtsmaragd;1;167200;209000
-32249;Gischtsmaragd;1;167200;209000
-32249;Gischtsmaragd;1;180000;199000
-32249;Gischtsmaragd;1;180000;199000
-32249;Gischtsmaragd;1;180000;199000
-32249;Gischtsmaragd;1;180000;199000
-32249;Gischtsmaragd;1;167200;209000
-32249;Gischtsmaragd;1;180000;199000
 31226;Gamaschen des Durchtriebenen;1;215473;259999
 23883;Bauplan: Heiltrankeinspritzung;1;696250;750000
 24059;Mächtiger Edeltopas;1;189997;189998
@@ -241,9 +202,6 @@
 7078;Essenz des Feuers;1;8899;8899
 9187;Elixier der großen Beweglichkeit;12;75876;89100
 9187;Elixier der großen Beweglichkeit;10;60000;60000
-25844;Adamantitrute;1;249900;249900
-25844;Adamantitrute;1;249900;249900
-25844;Adamantitrute;1;150000;180000
 20967;Citrinanhänger der goldenen Heilung;1;95082;99000
 20967;Citrinanhänger der goldenen Heilung;1;95082;99000
 20967;Citrinanhänger der goldenen Heilung;1;95082;99000
@@ -259,10 +217,6 @@
 858;Geringer Heiltrank;5;344;382
 858;Geringer Heiltrank;3;206;229
 31196;Amulett der Weihung;1;103389;120734
-31196;Amulett der Weihung;1;101321;118319
-31196;Amulett der Weihung;1;100000;100000
-31196;Amulett der Weihung;1;100000;100000
-31196;Amulett der Weihung;1;73182;80000
 5635;Scharfe Klaue;5;4692;5214
 5635;Scharfe Klaue;3;2815;3128
 22446;Große Planaressenz;1;219498;219498
@@ -271,12 +225,6 @@
 22446;Große Planaressenz;1;139579;174099
 22446;Große Planaressenz;1;139579;174099
 22446;Große Planaressenz;1;139579;174099
-25906;Vorlage: Brutaler Erdsturmdiamant;1;309580;508225
-25906;Vorlage: Brutaler Erdsturmdiamant;1;165000;170000
-25906;Vorlage: Brutaler Erdsturmdiamant;1;309580;508225
-25906;Vorlage: Brutaler Erdsturmdiamant;1;179540;185800
-25906;Vorlage: Brutaler Erdsturmdiamant;1;175000;180000
-25906;Vorlage: Brutaler Erdsturmdiamant;1;205600;309500
 25906;Vorlage: Brutaler Erdsturmdiamant;1;156800;196000
 23104;Gezackter Tiefenperidot;1;9612;10999
 23104;Gezackter Tiefenperidot;1;9612;10999
@@ -302,8 +250,6 @@
 22793;Manadistel;20;85000;0
 22793;Manadistel;20;85000;0
 22793;Manadistel;20;85000;0
-23441;Nachtauge;1;98899;128899
-23441;Nachtauge;1;98899;128899
 23441;Nachtauge;1;125000;130000
 10209;Oberherrenschiftung;1;18906;38000
 3369;Grabmoos;5;9125;15485
@@ -329,10 +275,6 @@
 25867;Erdsturmdiamant;1;660000;680100
 25899;Grober Erdsturmdiamant;1;945000;990000
 25899;Grober Erdsturmdiamant;1;945000;990000
-31186;Braxxis' Stab des Schlummers;1;148190;164655
-31186;Braxxis' Stab des Schlummers;1;129999;139999
-31186;Braxxis' Stab des Schlummers;1;129999;139999
-31186;Braxxis' Stab des Schlummers;1;110367;140000
 31186;Braxxis' Stab des Schlummers;1;135000;149000
 31175;Handgelenksschützer des Klingentänzers;1;66244;70000
 31175;Handgelenksschützer des Klingentänzers;1;66244;66666
@@ -426,15 +368,6 @@
 24056;Leuchtendes Nachtauge;1;119999;128899
 24056;Leuchtendes Nachtauge;1;120000;127500
 24056;Leuchtendes Nachtauge;1;120000;127500
-31190;Schulterpolster des Träumers;1;135432;150480
-31190;Schulterpolster des Träumers;1;147259;163621
-31190;Schulterpolster des Träumers;1;135432;150480
-31190;Schulterpolster des Träumers;1;121600;152000
-31190;Schulterpolster des Träumers;1;149999;174999
-31190;Schulterpolster des Träumers;1;135432;150480
-31190;Schulterpolster des Träumers;1;190486;229999
-31190;Schulterpolster des Träumers;1;150486;160000
-31190;Schulterpolster des Träumers;1;141324;150479
 12695;Pläne: Strahlende Handschuhe;1;142158;161287
 19702;Münze der Blutfratzen;10;550000;585000
 19702;Münze der Blutfratzen;5;167700;209625
@@ -443,17 +376,6 @@
 19701;Münze der Gurubashi;1;37908;47385
 19701;Münze der Gurubashi;18;500000;527094
 19701;Münze der Gurubashi;1;75767;84185
-22450;Kristall der Leere;1;44073;49999
-22450;Kristall der Leere;2;126387;126400
-22450;Kristall der Leere;1;47500;47500
-22450;Kristall der Leere;1;47500;47500
-22450;Kristall der Leere;1;49559;63699
-22450;Kristall der Leere;1;44073;49999
-22450;Kristall der Leere;1;44073;49999
-22450;Kristall der Leere;1;44073;49999
-22450;Kristall der Leere;1;44073;49999
-22450;Kristall der Leere;1;122233;134498
-22450;Kristall der Leere;1;122233;134498
 31153;Axt der Legion;1;471233;523592
 31153;Axt der Legion;1;649903;799900
 31153;Axt der Legion;1;350000;400000
@@ -463,10 +385,6 @@
 27425;Tüpfelteufelsfinne;5;6245;8645
 23438;Stern der Elune;1;115000;120000
 23438;Stern der Elune;1;115000;120000
-23438;Stern der Elune;10;300000;350000
-23438;Stern der Elune;1;69999;89999
-23438;Stern der Elune;20;600000;0
-23438;Stern der Elune;1;45000;89900
 10998;Geringe Astralessenz;10;79900;79900
 10998;Geringe Astralessenz;10;79900;79900
 10998;Geringe Astralessenz;10;79900;79900

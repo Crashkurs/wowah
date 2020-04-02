@@ -89,7 +89,6 @@
 13134;Gürtel des Gladiators;1;11574;20000
 6211;Rezept: Elixier der Ogerstärke;1;60000;0
 8399;Muster: Feste Skorpidstiefel;1;3842;4803
-8399;Muster: Feste Skorpidstiefel;1;4044;5056
 22839;Zerstörungstrank;5;229800;229800
 22839;Zerstörungstrank;5;229800;229800
 22839;Zerstörungstrank;5;229800;229800
@@ -159,7 +158,6 @@
 22457;Urmana;1;199558;199578
 6622;Schwert des Eifers;1;51710;64638
 2955;Hut des Ersten Maats;1;359500;360000
-6662;Elixier des Riesenwuchses;20;349950;399900
 6660;Julies Dolch;1;89999;99999
 6660;Julies Dolch;1;98700;109667
 6562;Schimmernde Stiefel;1;2500;4000
@@ -213,7 +211,6 @@
 22445;Arkaner Staub;20;359998;379998
 22445;Arkaner Staub;20;359998;379998
 22445;Arkaner Staub;20;359998;379998
-8401;Muster: Feste Skorpidgamaschen;1;2062;4000
 8401;Muster: Feste Skorpidgamaschen;1;3040;3800
 8401;Muster: Feste Skorpidgamaschen;1;3040;3800
 8401;Muster: Feste Skorpidgamaschen;1;3040;3800
@@ -265,9 +262,6 @@
 6661;Rezept: Pikantes Deviat Supreme;1;172;600000
 6661;Rezept: Pikantes Deviat Supreme;1;250000;250000
 3037;Peitschenholzdoppelbogen;1;17307;21634
-8836;Arthas' Tränen;10;71425;85000
-8836;Arthas' Tränen;9;72240;95300
-8836;Arthas' Tränen;7;77567;86618
 14172;Bukaniersroben;1;99900;99900
 9224;Elixier des Dämonentötens;20;801499;845499
 7076;Essenz der Erde;4;284796;284796
@@ -311,15 +305,11 @@
 9172;Unsichtbarkeitstrank;5;107600;109500
 9172;Unsichtbarkeitstrank;5;107600;109500
 6663;Rezept: Elixier des Riesenwuchses;1;169965;169982
-6663;Rezept: Elixier des Riesenwuchses;1;159999;169999
-6663;Rezept: Elixier des Riesenwuchses;1;173679;179599
 3172;Ebergedärme;8;420;450
 2409;Muster: Dunkle Ledertunika;1;39540;45176
 7070;Elementarwasser;1;35351;57323
 7070;Elementarwasser;1;35351;57323
 2883;Pläne: Tödlicher Bronzepoignard;1;4704;5880
-2915;Taraneisbrecher;1;53200;66500
-2915;Taraneisbrecher;1;102840;113550
 13446;Erheblicher Heiltrank;4;19600;19600
 8827;Elixier des Wasserwandelns;20;15000;19000
 8827;Elixier des Wasserwandelns;1;899;1099
@@ -352,8 +342,6 @@
 14127;Ritualtuch;1;99900;99900
 19283;Portal 7;1;758750;800000
 12997;Rotbarts Wappen;1;299900;299900
-8402;Muster: Fester Skorpidhelm;1;7820;9776
-8402;Muster: Fester Skorpidhelm;1;5928;7410
 8402;Muster: Fester Skorpidhelm;1;5631;7039
 8951;Elixier der großen Verteidigung;10;21368;26710
 8951;Elixier der großen Verteidigung;1;2083;2604
@@ -365,7 +353,6 @@
 8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
 8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
 8838;Sonnengras;20;69900;70000
-8838;Sonnengras;9;49999;80000
 8838;Sonnengras;20;69900;70000
 8838;Sonnengras;1;1000;1500
 8838;Sonnengras;20;21800;30000
@@ -374,19 +361,12 @@
 8838;Sonnengras;20;35000;35000
 8838;Sonnengras;20;35000;35000
 8838;Sonnengras;20;75000;85000
-8838;Sonnengras;20;81800;89900
-8838;Sonnengras;20;89999;90000
-8838;Sonnengras;20;89999;90000
 7080;Essenz des Wassers;1;60000;80000
 7080;Essenz des Wassers;3;232084;257872
 7080;Essenz des Wassers;1;60000;80000
 14047;Runenstoff;12;19080;19080
 13031;Kugel des Dunstmantels;1;137600;159500
 4414;Bauplan: Tragbarer bronzener Mörser;1;60000;0
-8831;Lila Lotus;1;4104;5130
-8831;Lila Lotus;1;5440;6800
-8831;Lila Lotus;1;4800;6000
-8831;Lila Lotus;1;2000;5000
 8831;Lila Lotus;20;89000;90000
 14374;Blutrote Sandalen;1;299900;299900
 20750;Zauberöl;1;20000;30000
@@ -423,11 +403,6 @@
 7072;Nagaschuppe;1;2187;2734
 15261;Mammutbaumzweig;1;43296;54120
 2990;Brünierte Gamaschen;1;9585;13732
-3075;Flammenauge;1;82609;95000
-3075;Flammenauge;1;205073;209500
-3075;Flammenauge;1;62609;70000
-3075;Flammenauge;1;62609;68888
-3075;Flammenauge;1;49552;56941
 2924;Krokiliskenfleisch;2;270;290
 2924;Krokiliskenfleisch;2;618;686
 2924;Krokiliskenfleisch;2;100;300

@@ -14,17 +14,8 @@
 6661;Rezept: Pikantes Deviat Supreme;1;480000;499999
 886;Schwarzmetallkurzschwert;1;9436;11796
 7068;Elementarfeuer;1;4500;5000
-7068;Elementarfeuer;1;2999;4999
-7068;Elementarfeuer;1;2080;7600
-7068;Elementarfeuer;1;4600;4900
-7068;Elementarfeuer;1;4600;4900
-7068;Elementarfeuer;1;4600;4900
-7068;Elementarfeuer;1;8691;9656
 3037;Peitschenholzdoppelbogen;1;21496;22773
 3037;Peitschenholzdoppelbogen;1;23504;24056
-3172;Ebergedärme;10;456;570
-3172;Ebergedärme;6;273;342
-3172;Ebergedärme;7;319;399
 3172;Ebergedärme;8;420;450
 3042;BKP "Spatz" Kleinkaliber;1;49999;79999
 6889;Kleines Ei;1;7999;8999
@@ -54,9 +45,6 @@
 4623;Geringer Steinschildtrank;1;4562;4599
 4696;Lapidis immervoller Humpen;1;65720;87151
 3058;Waldlederhandschuhe;1;11023;13400
-6663;Rezept: Elixier des Riesenwuchses;1;189961;189980
-6663;Rezept: Elixier des Riesenwuchses;1;199900;199900
-6663;Rezept: Elixier des Riesenwuchses;1;169999;189999
 3385;Geringer Manatrank;1;300;330
 4725;Oberbrigadierschulterstücke;1;19999;19999
 4562;Abspalteraxt;1;2847;2935
@@ -124,12 +112,6 @@
 4480;Donnernder Glücksbringer;10;8975;20000
 3075;Flammenauge;1;205073;209500
 3075;Flammenauge;1;79999;99999
-4625;Feuerblüte;1;9900;9900
-4625;Feuerblüte;10;73800;79999
-4625;Feuerblüte;1;5759;7199
-4625;Feuerblüte;20;99999;120000
-4625;Feuerblüte;20;99999;120000
-4625;Feuerblüte;19;109999;110000
 4625;Feuerblüte;3;19500;29000
 4625;Feuerblüte;20;7500;100000
 4625;Feuerblüte;20;7500;100000
@@ -151,8 +133,6 @@
 1529;Jade;1;32222;33333
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;17500;28800
 3173;Bärenfleisch;10;9552;13690
-3173;Bärenfleisch;5;5476;6845
-3173;Bärenfleisch;2;2124;2360
 4304;Dickes Leder;6;48000;54000
 4498;Brauner Lederranzen;1;2000;2300
 4498;Brauner Lederranzen;1;2000;2300
@@ -160,17 +140,10 @@
 4498;Brauner Lederranzen;1;2000;2300
 6835;Schwarze Smokinghose;1;2556;5000
 5634;Trank der freien Aktion;2;68000;70000
-7070;Elementarwasser;1;8319;10355
-7070;Elementarwasser;1;8319;10355
-7070;Elementarwasser;1;8319;10355
 7070;Elementarwasser;1;8000;8000
 7070;Elementarwasser;1;15623;17359
 7070;Elementarwasser;2;11200;15500
-2997;Wollstoffballen;10;35264;44080
-2997;Wollstoffballen;1;3000;4000
-2997;Wollstoffballen;10;30000;40000
 2997;Wollstoffballen;10;31500;44000
-2997;Wollstoffballen;2;6080;7600
 3197;Steinfräserclaymore;1;29500;37500
 871;Wirbelwindaxt;1;254442;300000
 1081;Knuspriges Spinnenfleisch;4;690;736
@@ -179,8 +152,6 @@
 3020;Ausdauernde Kappe;1;18982;24900
 1206;Moosachat;1;20600;50000
 4234;Schweres Leder;11;75000;79475
-4234;Schweres Leder;20;130000;145000
-4234;Schweres Leder;20;130000;145000
 3167;Dickes Spinnenhaar;1;68;1000
 2564;Elfengeistklauen;1;17718;22148
 2564;Elfengeistklauen;1;14525;17500

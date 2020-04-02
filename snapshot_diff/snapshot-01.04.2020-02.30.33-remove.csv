@@ -1,5 +1,3 @@
-23766;Geeichtes Eterniumzielfernrohr;1;2100021;2990000
-23766;Geeichtes Eterniumzielfernrohr;1;2070000;2406200
 23766;Geeichtes Eterniumzielfernrohr;1;2087099;2425099
 29533;Kobrahautbeinrüstung;1;1535000;1535000
 27663;Schwarzgebratener Sporenfisch;20;133499;137999
@@ -100,22 +98,9 @@
 24401;Unbekannte Pflanzenteile;11;132375;149999
 24401;Unbekannte Pflanzenteile;1;3400;3633
 22574;Feuerpartikel;1;21619;27024
-22574;Feuerpartikel;5;97544;121930
-22574;Feuerpartikel;1;23784;25670
-22574;Feuerpartikel;1;23784;25670
-22574;Feuerpartikel;1;23784;25670
-22574;Feuerpartikel;5;102684;128355
-22574;Feuerpartikel;1;23784;25670
-22574;Feuerpartikel;1;22593;24385
-22574;Feuerpartikel;1;22593;24385
-22574;Feuerpartikel;1;22593;24385
 23625;Pläne: Helm der Eidestreue;1;185000;200000
 23625;Pläne: Helm der Eidestreue;1;143600;179500
 23625;Pläne: Helm der Eidestreue;1;140000;170000
-10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;14683;18354
-10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;1312;11100
-10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;7839;9799
-10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;3800;4750
 22376;Kampfzerschlissenes Stoffstück;1;252805;316007
 27700;Rezept: Würziger Flusskrebs;1;245027;306284
 27502;Rolle der Ausdauer V;5;21856;34820
@@ -283,9 +268,7 @@
 3864;Citrin;1;1307;1634
 3864;Citrin;1;1064;1330
 3864;Citrin;1;1569;2043
-3864;Citrin;1;2900;3500
 3864;Citrin;1;1699;1888
-3864;Citrin;20;104000;200000
 14585;Dokebigamaschen;1;7638;9548
 21854;Netherstoffrobe;1;143900;150000
 24791;Expeditionsstiefel;1;129511;163264
@@ -399,10 +382,7 @@
 14775;Verheererwollwäsche;1;29000;29000
 7911;Echtsilbererz;6;7617;9522
 24205;Vorlage: Massiver Dämmerstein;1;495000;550000
-16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
 16052;Bauplan: Modularer Stimmenverstärker;1;1279620;1599526
-16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
-16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
 24212;Vorlage: Königliches Nachtauge;1;299999;499999
 13888;Dunkelklauenhummer;20;156800;196000
 16254;Formel: Waffe - Lebensdiebstahl;1;95600;119501
@@ -484,14 +464,6 @@
 22797;Alptraumsaat;20;263000;277500
 22797;Alptraumsaat;20;263000;277500
 22797;Alptraumsaat;20;263000;277500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;3;28500;28500
-22797;Alptraumsaat;4;29500;38000
 23116;Massiver Golddraenit;1;3750;10000
 23116;Massiver Golddraenit;1;3750;10000
 23116;Massiver Golddraenit;1;3750;10000
@@ -547,9 +519,7 @@
 24047;Brillanter Dämmerstein;1;60000;60000
 24047;Brillanter Dämmerstein;1;60000;60000
 24047;Brillanter Dämmerstein;1;60000;60000
-19267;Elementarkartenset;1;3999993;3999999
 19267;Elementarkartenset;1;3039999;3799999
-19267;Elementarkartenset;1;3670000;3770000
 24050;Schimmernder Dämmerstein;1;99999;110099
 24050;Schimmernder Dämmerstein;1;120000;169999
 24050;Schimmernder Dämmerstein;1;120000;169999
@@ -599,12 +569,6 @@
 14047;Runenstoff;20;26880;28980
 14047;Runenstoff;20;26880;28980
 14047;Runenstoff;9;12096;13041
-14047;Runenstoff;19;11400;30000
-14047;Runenstoff;20;29000;29900
-14047;Runenstoff;20;31900;41900
-14047;Runenstoff;20;29000;29900
-14047;Runenstoff;20;29000;29900
-14047;Runenstoff;20;29376;39920
 2592;Wollstoff;18;10891;15500
 2592;Wollstoff;17;15900;15900
 2592;Wollstoff;5;5000;5500
@@ -615,8 +579,6 @@
 17706;Pläne: Schneide des Winters;1;265620;332025
 17706;Pläne: Schneide des Winters;1;265620;332025
 19262;Kriegsfürst 5;1;174964;174982
-19262;Kriegsfürst 5;1;156560;169999
-19262;Kriegsfürst 5;1;299999;299999
 14491;Muster: Runenstoffhose;1;27500;39000
 6272;Muster: Blaue Leinenrobe;1;132125;165157
 4623;Geringer Steinschildtrank;1;4562;4599
@@ -629,38 +591,14 @@
 34622;Wirbelschnitter;1;1500000;2250000
 34622;Wirbelschnitter;1;2999600;2999900
 31305;Ceds Schnitzer;1;149580;187976
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;234498;234999
 21884;Urfeuer;1;192080;194902
 21884;Urfeuer;1;192080;194902
 21884;Urfeuer;1;192080;194902
 21884;Urfeuer;1;192080;194902
 21884;Urfeuer;1;192080;194902
 21884;Urfeuer;1;192080;194902
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;205900;218000
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;1;205900;218000
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
 21309;Schneemannset;1;505600;632000
 7493;Hauptmannsarmschienen;1;8000;8000
-21213;Konservierter Tannenzweig;20;970000;1000000
-21213;Konservierter Tannenzweig;10;37231;46540
-21213;Konservierter Tannenzweig;10;37231;46540
 21213;Konservierter Tannenzweig;10;37232;46540
 21887;Knotenhautleder;20;227500;240000
 21887;Knotenhautleder;20;227500;240000
@@ -692,12 +630,9 @@
 37915;Muster: Ausgehschuhe;1;1875;10000
 7077;Herz des Feuers;4;231606;289508
 7077;Herz des Feuers;1;50600;59999
-23784;Adamantitrahmen;10;850000;900000
-23784;Adamantitrahmen;1;95000;98000
 23784;Adamantitrahmen;1;95000;100000
 23784;Adamantitrahmen;1;95000;100000
 23784;Adamantitrahmen;1;95000;100000
-23784;Adamantitrahmen;1;95000;98000
 31673;Knusperschlange;20;325999;375999
 31673;Knusperschlange;20;325999;375999
 31673;Knusperschlange;20;325999;375999
@@ -761,12 +696,7 @@
 2453;Beulengras;20;2080;2600
 2453;Beulengras;18;1872;2340
 14496;Muster: Teufelsstoffkapuze;1;11096;11098
-23771;Grünes Rauchsignal;5;101875;113500
 23771;Grünes Rauchsignal;20;397500;400000
-23771;Grünes Rauchsignal;5;101875;113500
-23771;Grünes Rauchsignal;5;101875;113500
-23771;Grünes Rauchsignal;5;101875;113500
-23771;Grünes Rauchsignal;11;226974;252194
 11610;Pläne: Dunkeleisenpulverisierer;1;467152;583940
 22866;Fläschchen des reinen Todes;5;970200;975100
 22866;Fläschchen des reinen Todes;1;195800;195900
@@ -943,16 +873,6 @@
 24272;Schattenstoff;1;366000;384900
 24272;Schattenstoff;1;396000;399000
 24272;Schattenstoff;1;364000;382700
-24272;Schattenstoff;1;376000;380000
-24272;Schattenstoff;1;364000;382800
-24272;Schattenstoff;1;376000;380000
-24272;Schattenstoff;1;376000;380000
-24272;Schattenstoff;1;376000;380000
-24272;Schattenstoff;1;366000;380000
-24272;Schattenstoff;1;366000;380000
-24272;Schattenstoff;1;364000;382800
-24272;Schattenstoff;1;364000;382800
-24272;Schattenstoff;1;364000;382800
 24272;Schattenstoff;1;364000;383000
 24272;Schattenstoff;1;364000;383000
 24272;Schattenstoff;1;364000;383000
@@ -995,9 +915,6 @@
 22452;Urerde;5;215000;230000
 22452;Urerde;5;215000;230000
 22452;Urerde;1;42112;42499
-22452;Urerde;20;660000;800000
-22452;Urerde;20;700000;750000
-22452;Urerde;1;54412;54912
 22452;Urerde;1;42112;42499
 22452;Urerde;1;49555;54044
 8492;Papageienkäfig (Grünflügelara);1;1500;0
@@ -1022,10 +939,6 @@
 785;Maguskönigskraut;20;11900;14900
 29540;Verstärkte Bergbautasche;1;495000;500000
 22825;Elixier der Heilkraft;20;1494880;1499680
-22825;Elixier der Heilkraft;2;177500;180000
-22825;Elixier der Heilkraft;9;793750;850000
-22825;Elixier der Heilkraft;20;1112233;1199999
-22825;Elixier der Heilkraft;20;1195000;1199800
 23637;Pläne: Hand der Ewigkeit;1;180000;250000
 1486;Baumrindenjacke;1;313600;392000
 21877;Netherstoff;20;45000;50000
@@ -1112,7 +1025,6 @@
 27501;Rolle der Willenskraft V;5;249995;299995
 3309;Barbarischer Lendenschurz;1;6699;20000
 8827;Elixier des Wasserwandelns;20;13749;19799
-19265;Kriegsfürst 8;1;45951;57439
 19265;Kriegsfürst 8;1;57593;57599
 16049;Bauplan: Dunkeleisenbombe;1;739999;924999
 1204;Der grüne Turm;1;22500;54750

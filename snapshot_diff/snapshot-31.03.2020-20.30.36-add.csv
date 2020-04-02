@@ -40,12 +40,6 @@
 22785;Teufelsgras;20;125000;129000
 22785;Teufelsgras;20;125000;129000
 22785;Teufelsgras;20;115000;122200
-7068;Elementarfeuer;1;2999;4999
-7068;Elementarfeuer;1;2080;7600
-7068;Elementarfeuer;1;4600;4900
-7068;Elementarfeuer;1;4600;4900
-7068;Elementarfeuer;1;8691;9656
-7068;Elementarfeuer;1;4600;4900
 31288;Des Meisters Treter;1;609033;676704
 31288;Des Meisters Treter;1;609033;676704
 31288;Des Meisters Treter;1;554962;599900
@@ -53,9 +47,6 @@
 3037;Peitschenholzdoppelbogen;1;23504;24056
 3037;Peitschenholzdoppelbogen;1;21496;22773
 29723;Muster: Kobraschuppenkapuze;1;159600;199500
-3172;Ebergedärme;10;456;570
-3172;Ebergedärme;7;319;399
-3172;Ebergedärme;6;273;342
 13103;Polster der Giftspinne;1;5179;10000
 22446;Große Planaressenz;5;725000;750000
 22446;Große Planaressenz;5;725000;750000
@@ -186,10 +177,7 @@
 3058;Waldlederhandschuhe;1;11023;13400
 23077;Blutgranat;1;3750;10000
 23077;Blutgranat;1;3750;10000
-6663;Rezept: Elixier des Riesenwuchses;1;169999;189999
-6663;Rezept: Elixier des Riesenwuchses;1;199900;199900
 6663;Rezept: Elixier des Riesenwuchses;1;173679;179599
-6663;Rezept: Elixier des Riesenwuchses;1;189961;189980
 23572;Urnether;1;69999;79999
 23572;Urnether;1;69999;79999
 23572;Urnether;1;69999;79999
@@ -402,12 +390,6 @@
 3820;Würgetang;1;908;1136
 3075;Flammenauge;1;205073;209500
 3075;Flammenauge;1;79999;99999
-4625;Feuerblüte;19;109999;110000
-4625;Feuerblüte;1;9900;9900
-4625;Feuerblüte;20;99999;120000
-4625;Feuerblüte;20;99999;120000
-4625;Feuerblüte;1;5759;7199
-4625;Feuerblüte;10;73800;79999
 14047;Runenstoff;19;11400;30000
 15253;Köpfklinge;1;47320;50000
 13444;Erheblicher Manatrank;5;32000;60000
@@ -528,8 +510,6 @@
 22789;Terozapfen;20;179999;189999
 24211;Vorlage: Leuchtendes Nachtauge;1;45000;0
 23197;Götze des Mondes;1;179999;209999
-3173;Bärenfleisch;2;2124;2360
-3173;Bärenfleisch;5;5476;6845
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;309600;509500
 4304;Dickes Leder;20;159000;180000
@@ -574,11 +554,6 @@
 22577;Schattenpartikel;7;14200;26000
 24193;Vorlage: Klobiger lebendiger Rubin;1;657773;750859
 13000;Stab von Hale Magiebrand;1;169999;179999
-7070;Elementarwasser;1;8319;10355
-2997;Wollstoffballen;1;3000;4000
-2997;Wollstoffballen;10;30000;40000
-2997;Wollstoffballen;2;6080;7600
-2997;Wollstoffballen;10;35264;44080
 3821;Golddorn;20;20000;25000
 22790;Urflechte;20;49999;59999
 22790;Urflechte;20;49999;59999
@@ -663,7 +638,6 @@
 27502;Rolle der Ausdauer V;1;1020;1500
 19267;Elementarkartenset;1;3670000;3770000
 13027;Knochenquetscher;1;45599;49599
-4234;Schweres Leder;20;130000;145000
 3167;Dickes Spinnenhaar;1;68;1000
 13511;Fläschchen der destillierten Weisheit;5;787500;875000
 22449;Großer Prismasplitter;2;397670;399870

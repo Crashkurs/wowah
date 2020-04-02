@@ -15,10 +15,7 @@
 33052;Fischerschmaus;10;63000;70000
 33052;Fischerschmaus;10;63000;70000
 13055;Knochenkauer;1;54050;66500
-13056;Rasender Schläger;1;99999;109999
-13056;Rasender Schläger;1;117600;119500
 13056;Rasender Schläger;1;72495;145000
-13056;Rasender Schläger;1;116900;129889
 8152;Fläschchen großes Mojo;5;7365;8184
 18661;Bauplan: Weltvergrößerer;1;25100;110000
 18661;Bauplan: Weltvergrößerer;1;92825;116032
@@ -26,8 +23,6 @@
 22577;Schattenpartikel;3;18259;22824
 22577;Schattenpartikel;10;62144;77680
 23573;Gehärteter Adamantitbarren;13;905000;1040000
-22576;Manapartikel;2;51200;55500
-22576;Manapartikel;1;21089;26362
 22576;Manapartikel;2;41200;49900
 15291;Harpyienstachler;1;29386;40000
 22445;Arkaner Staub;6;99846;101994
@@ -53,23 +48,6 @@
 8390;Muster: Großer Voodooumhang;1;11636;14546
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;585601;650668
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;585601;650668
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;20;129900;133300
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;1;6672;7124
-23424;Teufelseisenerz;10;66725;71240
 20827;Ring der Silbermacht;1;13209;14677
 20827;Ring der Silbermacht;1;13209;14677
 20827;Ring der Silbermacht;1;13209;14677
@@ -82,7 +60,6 @@
 20827;Ring der Silbermacht;1;13209;14677
 20827;Ring der Silbermacht;1;13209;14677
 20827;Ring der Silbermacht;1;13209;14677
-15323;Zündschrotflinte;1;26686;30000
 5498;Kleine irisierende Perle;7;20826;23141
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 13876;40-pfündiger Zackenbarsch;1;10089;20098
@@ -141,21 +118,8 @@
 7069;Elementarluft;1;27395;28217
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
 15251;Treffsicheres Schwert;1;53432;66791
-21884;Urfeuer;1;206000;217500
 21884;Urfeuer;1;195900;208400
 21884;Urfeuer;1;195900;208400
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;205900;218000
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;205900;218000
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
-21884;Urfeuer;1;206000;217500
 8398;Muster: Feste Skorpidhandschuhe;1;38000;47500
 11175;Große Netheressenz;3;189999;199999
 11175;Große Netheressenz;4;228150;285188
@@ -244,11 +208,7 @@
 22452;Urerde;3;148000;149900
 22452;Urerde;3;148000;149900
 24199;Vorlage: Gediegener Stern der Elune;1;607543;707270
-24199;Vorlage: Gediegener Stern der Elune;1;607999;759999
-24199;Vorlage: Gediegener Stern der Elune;1;499999;799999
-24199;Vorlage: Gediegener Stern der Elune;1;499999;799999
 13885;34-pfündiger Rotkiemen;1;390;19000
-13885;34-pfündiger Rotkiemen;1;330050;379500
 23077;Blutgranat;2;13698;15220
 23077;Blutgranat;2;13698;15220
 13444;Erheblicher Manatrank;1;17320;19244

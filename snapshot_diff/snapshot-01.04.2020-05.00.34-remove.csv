@@ -2,7 +2,6 @@
 19821;Durchstochene Voodoopuppe;1;268092;335115
 21301;Grüne Helferbox;1;100;99999
 2802;Loderflammenemblem;1;72437;90000
-8846;Gromsblut;20;399999;400000
 8846;Gromsblut;6;102250;110000
 16216;Formel: Umhang - Großer Widerstand;1;35164;43956
 13492;Rezept: Läuterungstrank;1;19538;26173
@@ -37,14 +36,9 @@
 23424;Teufelseisenerz;5;27500;30000
 23424;Teufelseisenerz;20;129900;133300
 23424;Teufelseisenerz;10;66725;71240
-23424;Teufelseisenerz;20;91200;124000
-23424;Teufelseisenerz;2;9120;11400
-23424;Teufelseisenerz;1;4893;5437
-23424;Teufelseisenerz;1;5000;5000
 25897;Starker Erdsturmdiamant;1;821792;896500
 24830;Nexuspilgergürtel;1;27783;69900
 14301;Knochenwerfers Bindungen;1;8176;14900
-14301;Knochenwerfers Bindungen;1;8176;16000
 23437;Talasit;1;44999;49999
 23437;Talasit;1;44999;49999
 23437;Talasit;1;44999;49999
@@ -114,7 +108,6 @@
 8845;Geisterpilz;2;13406;16758
 22146;Buch: Gabe der Wildnis III;1;114000;142500
 8839;Blindkraut;1;2862;3000
-8839;Blindkraut;3;8200;8500
 24478;Jaggalperle;1;4377;5472
 24478;Jaggalperle;1;4377;5472
 24478;Jaggalperle;7;29108;36386
@@ -286,18 +279,8 @@
 16204;Illusionsstaub;1;8743;9943
 25215;Stachelbewehrte Axt;1;110053;129800
 24589;Feuerherzgurt;1;16072;39900
-8838;Sonnengras;20;79980;99980
-8838;Sonnengras;20;299999;299999
-8838;Sonnengras;20;79980;99980
-8838;Sonnengras;20;79980;99980
-8838;Sonnengras;20;79980;99980
 8838;Sonnengras;20;71800;80000
 8838;Sonnengras;20;71800;80000
-8838;Sonnengras;9;49999;80000
-8838;Sonnengras;20;89999;90000
-8838;Sonnengras;20;89999;90000
-8838;Sonnengras;20;79980;99980
-8838;Sonnengras;20;299999;299999
 4235;Schwerer Balg;4;358000;377500
 14291;Arachnidische Armreife;1;7245;15000
 23427;Eterniumerz;1;27798;29899
@@ -344,26 +327,6 @@
 19710;Orangefarbenes Schmuckstück der Hakkari;1;109999;150000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;109999;150000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;114000;142500
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
-21886;Urleben;1;129999;149999
 21864;Seelenstoffschultern;1;555676;669595
 21864;Seelenstoffschultern;1;555676;669595
 21864;Seelenstoffschultern;1;555676;669595
@@ -393,15 +356,8 @@
 19715;Goldenes Schmuckstück der Hakkari;1;199840;249800
 27678;Grollhuffleisch;20;89532;113040
 31910;Delirium Ass;1;58853;73567
-23438;Stern der Elune;10;300000;350000
-23438;Stern der Elune;1;69999;89999
-23438;Stern der Elune;20;600000;0
-23438;Stern der Elune;1;115000;120000
-23438;Stern der Elune;1;115000;120000
 20404;Verschlüsselter Schattenhammertext;3;33500;34500
-14343;Kleiner glänzender Splitter;4;4216;4684
 14343;Kleiner glänzender Splitter;20;35952;47440
-14343;Kleiner glänzender Splitter;2;2265;2832
 14265;Blutgewebte Wickeltücher;1;14779;20000
 11174;Geringe Netheressenz;1;9076;12246
 14227;Eisenweberseide;1;63750;69900
