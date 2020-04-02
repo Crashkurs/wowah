@@ -7,31 +7,9 @@
 20749;Hervorragendes Zauberöl;1;107920;134900
 20749;Hervorragendes Zauberöl;1;107920;134900
 20749;Hervorragendes Zauberöl;1;107920;134900
-8170;Unverwüstliches Leder;4;30000;40000
 11733;Buchband der Konstitution;1;150100;200000
 11733;Buchband der Konstitution;1;189543;238179
-14344;Großer glänzender Splitter;1;45000;50000
-14344;Großer glänzender Splitter;1;45000;50000
-14344;Großer glänzender Splitter;1;45000;50000
-14344;Großer glänzender Splitter;1;45000;50000
-14344;Großer glänzender Splitter;1;45000;50000
-14344;Großer glänzender Splitter;1;50000;51500
-14344;Großer glänzender Splitter;1;50000;51500
-14344;Großer glänzender Splitter;4;199900;209000
-14344;Großer glänzender Splitter;4;199900;209000
-14344;Großer glänzender Splitter;4;199900;209000
-14344;Großer glänzender Splitter;20;999999;1045000
-14344;Großer glänzender Splitter;20;999999;1045000
-17057;Glänzende Fischschuppen;20;2272;2840
-17057;Glänzende Fischschuppen;20;2272;2840
-17057;Glänzende Fischschuppen;4;428;536
-17057;Glänzende Fischschuppen;1;100;120
-17057;Glänzende Fischschuppen;20;2000;2500
-17057;Glänzende Fischschuppen;20;2000;2500
-17057;Glänzende Fischschuppen;8;800;1000
 24731;Deliriumsschulterschutz;1;74665;93332
-8171;Unverwüstlicher Balg;9;6768;8460
-8171;Unverwüstlicher Balg;2;3993;4437
 14466;Muster: Froststofftunika;1;7133;8917
 14466;Muster: Froststofftunika;1;7133;8917
 14466;Muster: Froststofftunika;1;7000;8000
@@ -42,17 +20,8 @@
 11225;Formel: Armschiene - Große Ausdauer;1;62325;79900
 11084;Großer gleißender Splitter;1;4724;5906
 11084;Großer gleißender Splitter;5;23624;29530
-11084;Großer gleißender Splitter;4;10400;25500
-11084;Großer gleißender Splitter;5;22040;27550
-11084;Großer gleißender Splitter;2;8976;11220
-11084;Großer gleißender Splitter;1;4187;5234
-11084;Großer gleißender Splitter;1;4187;5234
 11202;Formel: Schild - Ausdauer;1;9950;49900
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;70375;90000
-1726;Knochenspeer mit Giftspitze;1;30740;34155
-13033;Zelotenklinge;1;12141;29900
-13033;Zelotenklinge;1;17000;30000
-13033;Zelotenklinge;1;46696;51884
 6362;Roher Steinschuppenkabeljau;20;41777;46419
 6362;Roher Steinschuppenkabeljau;20;99980;99980
 6362;Roher Steinschuppenkabeljau;20;10000;14000
@@ -112,9 +81,6 @@
 13038;Windhauch;1;13247;16559
 13038;Windhauch;1;13944;17431
 13038;Windhauch;1;14500;16500
-13040;Herzsuchende Armbrust;1;49999;59124
-13040;Herzsuchende Armbrust;1;50000;70000
-13040;Herzsuchende Armbrust;1;71279;79199
 9295;Rezept: Unsichtbarkeitstrank;1;18619;23274
 9295;Rezept: Unsichtbarkeitstrank;1;12299;19999
 9295;Rezept: Unsichtbarkeitstrank;1;15199;18999
@@ -143,8 +109,6 @@
 1722;Dornsteinvorschlaghammer;1;33779;41077
 21885;Urwasser;1;129898;129898
 14445;Giftschleierseidenroben;1;18529;20000
-2770;Kupfererz;16;10620;20000
-2770;Kupfererz;10;5000;8000
 9294;Rezept: Wildrankentrank;1;36428;45536
 9294;Rezept: Wildrankentrank;1;10000;10000
 6359;Feuerflossenschnapper;20;8050;10000
@@ -154,21 +118,17 @@
 6358;Öliges Schwarzmaul;4;58099;60000
 6358;Öliges Schwarzmaul;6;89099;90000
 13035;Schlangenschnitzler;1;40461;44956
-9327;DELTA-Daten-Sicherheitszugangskarte;1;5860;7325
-9327;DELTA-Daten-Sicherheitszugangskarte;1;937;5000
 21844;Seelenstoffballen;6;1754633;1803292
 13034;Schnellstahlrapier;1;60000;80000
 14374;Blutrote Sandalen;1;299900;299900
 11382;Blut des Berges;1;449999;459999
 11407;Zerrissener Bärenpelz;1;224;320
 11098;Formel: Umhang - Geringer Schattenwiderstand;1;13500;22200
-11098;Formel: Umhang - Geringer Schattenwiderstand;1;6950;8900
 13031;Kugel des Dunstmantels;1;11415;14269
 13031;Kugel des Dunstmantels;1;11415;14269
 13031;Kugel des Dunstmantels;1;137600;159500
 9359;Wirts drittes Bein;1;62646;78308
 22445;Arkaner Staub;6;73326;73872
-2771;Zinnerz;2;1081;1352
 11737;Buchband der Gier;1;999900;999900
 11754;Schwarzer Diamant;1;1127;1252
 11754;Schwarzer Diamant;1;1127;1252
@@ -181,7 +141,6 @@
 22459;Sphäre der Leere;1;2000;4500
 22459;Sphäre der Leere;1;2000;4500
 22459;Sphäre der Leere;1;2000;4500
-9385;Archaischer Verteidiger;1;18000;22500
 3819;Winterbiss;3;4033;4482
 24650;Astralanische Hose;1;86227;107784
 17195;Unechter Mistelzweig;20;435;1000
@@ -202,20 +161,5 @@
 22825;Elixier der Heilkraft;2;167500;170000
 22825;Elixier der Heilkraft;20;1104879;1199579
 22825;Elixier der Heilkraft;20;1132500;1195000
-4338;Magiestoff;3;8610;8610
-4338;Magiestoff;17;6375;85000
-4338;Magiestoff;3;24925;25444
-4338;Magiestoff;1;2700;2900
 11177;Kleiner strahlender Splitter;3;888;1110
-9293;Rezept: Magiewiderstandstrank;1;25422;36856
-9293;Rezept: Magiewiderstandstrank;1;19000;35000
-21843;Magieerfüllte Netherstofftasche;1;390000;410000
-21843;Magieerfüllte Netherstofftasche;1;390000;410000
-21843;Magieerfüllte Netherstofftasche;1;390000;410000
-21843;Magieerfüllte Netherstofftasche;1;390000;410000
-17056;Leichte Feder;5;13512;15013
-17056;Leichte Feder;5;13579;15088
-17056;Leichte Feder;5;13512;15013
-17056;Leichte Feder;5;13512;15013
-17056;Leichte Feder;5;13579;15088
 17056;Leichte Feder;20;20210;21000

@@ -223,10 +223,6 @@
 4498;Brauner Lederranzen;1;1500;1800
 4498;Brauner Lederranzen;1;1500;1800
 4498;Brauner Lederranzen;1;1500;1800
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
 22710;Blutdistel;9;225000;261000
 31888;Segen 3;1;195999;244999
 17722;Muster: Handschuhe des Altvaters;1;151050;160000
@@ -644,34 +640,8 @@
 19284;Portal 8;1;95000;120000
 15846;Salzstreuer;1;391250;405000
 24218;Vorlage: Strahlender Talasit;1;499900;499900
-11175;Große Netheressenz;1;49566;63333
-11175;Große Netheressenz;9;564393;705492
-11175;Große Netheressenz;1;95000;110000
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;1;119999;119999
-11175;Große Netheressenz;6;570000;660000
-11175;Große Netheressenz;1;95000;110000
-11175;Große Netheressenz;1;95000;110000
-11175;Große Netheressenz;1;54500;58000
-11175;Große Netheressenz;1;54500;58000
-11175;Große Netheressenz;1;54500;58000
-11175;Große Netheressenz;1;54500;58000
-11175;Große Netheressenz;1;54500;58000
-11175;Große Netheressenz;1;54500;58000
 15745;Muster: Runenverzierter Ledergürtel;1;15000;15000
 7048;Azurblaue Seidenkapuze;1;2517;4500
-10939;Große Magieessenz;5;95000;110000
-10939;Große Magieessenz;3;50000;70000
-10939;Große Magieessenz;3;40100;54500
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;19000;21500
 15648;Eisenhautschild;1;67580;84475
 4301;Muster: Barbarischer Gürtel;1;4000;14500
 15925;Gesellenstock;1;25000658;26500000
@@ -709,10 +679,6 @@
 8838;Sonnengras;20;35000;35000
 8838;Sonnengras;20;75000;85000
 8838;Sonnengras;20;81800;89900
-3356;Königsblut;20;10900;19000
-3356;Königsblut;1;880;940
-3356;Königsblut;11;6080;7601
-3356;Königsblut;20;15000;19000
 31884;Segen 5;1;1319603;1319735
 31884;Segen 5;1;780000;1000000
 19269;Elementar 2;1;29998;29999
@@ -895,14 +861,7 @@
 19700;Münze der Hakkari;3;135000;148500
 4480;Donnernder Glücksbringer;10;8500;20000
 13442;Mächtiger Wuttrank;1;20000;20000
-3357;Lebenswurz;1;1175;1469
-3357;Lebenswurz;1;193;194
 3357;Lebenswurz;10;10000;15000
-3357;Lebenswurz;20;15050;35000
-3357;Lebenswurz;20;15050;35000
-3357;Lebenswurz;2;5388;5986
-3357;Lebenswurz;20;22250;33300
-3357;Lebenswurz;2;5500;5900
 13135;Fürstliche Armschützer;1;24803;36004
 13135;Fürstliche Armschützer;1;24803;36004
 22795;Teufelsblüte;20;5000;6500
@@ -961,7 +920,6 @@
 23635;Pläne: Runenverzierte Eterniumklinge;1;180000;240000
 23635;Pläne: Runenverzierte Eterniumklinge;1;400000;490000
 23635;Pläne: Runenverzierte Eterniumklinge;1;400000;490000
-2592;Wollstoff;10;495;10000
 23637;Pläne: Hand der Ewigkeit;1;180000;250000
 23637;Pläne: Hand der Ewigkeit;1;143397;239330
 8492;Papageienkäfig (Grünflügelara);1;51500;200000

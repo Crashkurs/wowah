@@ -172,11 +172,6 @@
 31204;Kanonenklinge;1;212923;255500
 31222;Kopfputz des inneren Zorns;1;236116;264625
 31285;Brustschutz der Kralle;1;151602;169900
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;151381;168201
-31285;Brustschutz der Kralle;1;188900;199900
-31285;Brustschutz der Kralle;1;175000;180000
 31293;Gurt des Sturms;1;103620;129525
 23490;Teufelseisenkettentunika;1;70000;90000
 23490;Teufelseisenkettentunika;1;70000;90000
@@ -222,8 +217,6 @@
 32226;Gezackter Gischtsmaragd;1;531999;664999
 32226;Gezackter Gischtsmaragd;1;531999;664999
 32226;Gezackter Gischtsmaragd;1;689999;699999
-29733;Muster: Netherdrachenhandschuhe;1;90000;180000
-29733;Muster: Netherdrachenhandschuhe;1;169745;228605
 29733;Muster: Netherdrachenhandschuhe;1;110000;160000
 33823;Blutflossenwels;6;51297;64122
 10978;Kleiner gleißender Splitter;1;189;237
@@ -233,17 +226,7 @@
 10978;Kleiner gleißender Splitter;4;848;852
 25055;Alexandritring;1;1116377;1145472
 24988;Felsfaustschulterklappen;1;180000;190000
-10940;Seltsamer Staub;1;5033;5592
-10940;Seltsamer Staub;10;47610;52900
-10940;Seltsamer Staub;20;70000;90000
 10940;Seltsamer Staub;13;45500;58500
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
-10940;Seltsamer Staub;20;70000;90000
 10940;Seltsamer Staub;20;60000;80000
 10940;Seltsamer Staub;20;60000;80000
 10940;Seltsamer Staub;15;50000;65000
@@ -298,17 +281,6 @@
 13446;Erheblicher Heiltrank;1;14999;19999
 31191;Armschienen aus Krokiliskenbalg;1;78387;97984
 22457;Urmana;1;199558;199578
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
@@ -320,17 +292,8 @@
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
-22457;Urmana;1;199999;200999
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
 22457;Urmana;1;199558;199578
@@ -501,9 +464,7 @@
 24060;Glänzender Edeltopas;1;159900;159900
 24060;Glänzender Edeltopas;1;169999;189999
 24060;Glänzender Edeltopas;1;169999;189999
-28100;Flüchtiger Heiltrank;5;27500;30000
 28100;Flüchtiger Heiltrank;2;3769;4712
-28100;Flüchtiger Heiltrank;5;9424;11780
 22459;Sphäre der Leere;1;2000;4500
 22459;Sphäre der Leere;1;2000;4500
 22459;Sphäre der Leere;1;2000;4500
@@ -644,7 +605,6 @@
 28101;Instabiler Manatrank;5;77500;79999
 27498;Rolle der Beweglichkeit V;5;228495;228495
 27498;Rolle der Beweglichkeit V;2;91398;91398
-27498;Rolle der Beweglichkeit V;5;190237;200000
 27498;Rolle der Beweglichkeit V;5;227625;249500
 27498;Rolle der Beweglichkeit V;5;227625;249500
 27498;Rolle der Beweglichkeit V;5;227625;249500

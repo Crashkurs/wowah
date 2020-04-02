@@ -100,8 +100,6 @@
 31910;Delirium Ass;1;35000;40000
 31910;Delirium Ass;1;37500;50000
 31910;Delirium Ass;1;47381;52645
-31896;Sturm 7;1;667500;670000
-31896;Sturm 7;1;230000;600000
 31896;Sturm 7;1;578800;589900
 18265;Muster: Flimmerkernwickelt¸cher;1;5999999;5999999
 18265;Muster: Flimmerkernwickelt¸cher;1;5999999;5999999
@@ -140,7 +138,6 @@
 18661;Bauplan: Weltvergrˆﬂerer;1;25100;110000
 15243;Tˆdlicher Kris;1;11806;14500
 6338;Silberrute;1;4600;4799
-2771;Zinnerz;2;1081;1352
 2771;Zinnerz;20;10750;11100
 23101;M‰chtiger Flammenspessarit;1;29999;39999
 23101;M‰chtiger Flammenspessarit;1;29999;39999
@@ -186,9 +183,6 @@
 15261;Mammutbaumzweig;1;43296;54120
 22824;Elixier der erheblichen St‰rke;20;299500;299800
 22824;Elixier der erheblichen St‰rke;20;299500;299800
-31892;Sturm Ass;1;155542;172825
-31892;Sturm Ass;1;99900;99900
-31892;Sturm Ass;1;190816;198020
 15341;Pfadfinderfuﬂpolster;1;4545;5000
 32470;Balg eines Netherminenschinders;4;24912;31140
 3819;Winterbiss;3;4033;4482
@@ -210,67 +204,9 @@
 25907;Vorlage: Zerstˆrerischer Himmelsfeuerdiamant;1;95600;119500
 25907;Vorlage: Zerstˆrerischer Himmelsfeuerdiamant;1;140000;150000
 25907;Vorlage: Zerstˆrerischer Himmelsfeuerdiamant;1;205600;309500
-22797;Alptraumsaat;4;29500;38000
-22797;Alptraumsaat;20;250960;256000
 22797;Alptraumsaat;20;198480;199999
 22797;Alptraumsaat;20;198480;199999
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;2;21998;25998
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;180100;189999
-22449;Groﬂer Prismasplitter;1;180100;189999
-22449;Groﬂer Prismasplitter;5;630100;639999
-22449;Groﬂer Prismasplitter;5;630100;639999
-22449;Groﬂer Prismasplitter;5;630100;639999
-22449;Groﬂer Prismasplitter;5;630100;639999
-22449;Groﬂer Prismasplitter;5;630100;639999
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;117500;124500
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;110930;123255
-22449;Groﬂer Prismasplitter;1;110100;120000
-22449;Groﬂer Prismasplitter;1;110100;120000
-22449;Groﬂer Prismasplitter;1;110100;120000
-22449;Groﬂer Prismasplitter;3;353928;353964
 22449;Groﬂer Prismasplitter;1;115000;117000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;89680;124000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
-22449;Groﬂer Prismasplitter;1;120000;125000
 22450;Kristall der Leere;1;122233;134498
 22450;Kristall der Leere;1;122233;134498
 29528;Trommeln des Krieges;1;199999;199999
@@ -356,8 +292,6 @@
 27422;Stachelkiemenforelle;20;18240;22800
 27422;Stachelkiemenforelle;20;18240;22800
 27422;Stachelkiemenforelle;20;39980;39980
-31911;Delirium 8;1;1994800;2118500
-31911;Delirium 8;1;2227500;2230000
 31911;Delirium 8;1;1999999;1999999
 15127;Robuste Schultern;1;13270;16588
 38225;Mycahs Botanikerbeutel;1;1900000;2100000
@@ -446,123 +380,20 @@
 24056;Leuchtendes Nachtauge;1;120000;125000
 24056;Leuchtendes Nachtauge;1;120000;125000
 24056;Leuchtendes Nachtauge;1;120000;125000
-22445;Arkaner Staub;5;61105;61560
 22445;Arkaner Staub;1;10000;11950
 22445;Arkaner Staub;1;10000;11950
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;4;40100;50000
-22445;Arkaner Staub;6;73326;73872
-22445;Arkaner Staub;3;36663;36936
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;237136;243920
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
 22445;Arkaner Staub;1;10000;11950
 22445;Arkaner Staub;1;10000;11950
 22445;Arkaner Staub;1;10000;11950
 22445;Arkaner Staub;1;10000;11950
 24628;Sklaventreiberhandgelenkssch¸tzer;1;77121;96402
-27503;Rolle der St‰rke V;5;242424;252525
-27503;Rolle der St‰rke V;1;40187;44900
-27503;Rolle der St‰rke V;1;40187;44900
-27503;Rolle der St‰rke V;1;40187;44900
-27503;Rolle der St‰rke V;1;40187;44900
-27503;Rolle der St‰rke V;1;40187;44900
 27503;Rolle der St‰rke V;1;60682;62426
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;224495;224495
-27503;Rolle der St‰rke V;5;224495;224495
-27503;Rolle der St‰rke V;2;89798;89798
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;190937;200000
-27503;Rolle der St‰rke V;5;190937;200000
-27503;Rolle der St‰rke V;5;190937;200000
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;2;72958;91198
 27503;Rolle der St‰rke V;5;214500;226500
 27503;Rolle der St‰rke V;5;214500;226500
 27503;Rolle der St‰rke V;5;214500;226500
 27503;Rolle der St‰rke V;5;214500;226500
 27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;1;30187;40000
-27503;Rolle der St‰rke V;1;30187;40000
 27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;4;180020;196000
-27503;Rolle der St‰rke V;2;110375;120000
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;181995;227495
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;190937;200000
-27503;Rolle der St‰rke V;5;214500;226500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
-27503;Rolle der St‰rke V;5;309600;359500
 27503;Rolle der St‰rke V;5;214500;226500
 23793;Schweres Knotenhautleder;4;168000;177799
 23793;Schweres Knotenhautleder;4;168000;177799
@@ -704,7 +535,6 @@
 31901;Furien Ass;1;118164;147705
 31901;Furien Ass;1;125000;130000
 31901;Furien Ass;1;152883;184632
-6512;J¸ngerrobe;1;10000;15000
 6512;J¸ngerrobe;1;286;14900
 15115;Starre Handschuhe;1;99900;99900
 15331;Z‰nkergelenkb‰nder;1;599900;599900
@@ -827,8 +657,6 @@
 14804;Kampfrauschhelm;1;48828;61036
 14757;Tˆterhose;1;9553;13192
 19227;Bestien Ass;1;12999999;14999999
-24274;Runenverzierter Zauberfaden;1;2920000;3000000
-24274;Runenverzierter Zauberfaden;1;2623300;2887900
 19236;Bestien 8;1;1900000;1990000
 19236;Bestien 8;1;1992500;1999999
 19236;Bestien 8;1;1992500;1999999
@@ -895,27 +723,7 @@
 35759;Kraftvoller Gischtsmaragd;1;531999;664999
 24683;Erzmagiermantel;1;252563;300000
 34827;Adligenmonokel;1;326665;408332
-24477;Jaggalmuschelfleisch;6;1152;1440
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;10;3128;3910
-24477;Jaggalmuschelfleisch;7;1050;1300
-24477;Jaggalmuschelfleisch;10;2280;2850
-24477;Jaggalmuschelfleisch;10;2280;2850
-24477;Jaggalmuschelfleisch;5;6650;8800
-24477;Jaggalmuschelfleisch;10;2280;2850
 4306;Seidenstoff;12;2700;10000
-4306;Seidenstoff;5;6201;6890
-4306;Seidenstoff;20;15600;19500
-4306;Seidenstoff;10;7050;10000
-4306;Seidenstoff;20;17000;20000
-4306;Seidenstoff;20;17000;20000
-4306;Seidenstoff;20;17000;20000
-4306;Seidenstoff;20;18000;19500
-4306;Seidenstoff;20;18000;19500
-4306;Seidenstoff;12;9400;10000
 20867;Onyxgˆtze;1;10000;20000
 11175;Groﬂe Netheressenz;1;54500;58000
 11175;Groﬂe Netheressenz;1;54500;58000
@@ -925,11 +733,7 @@
 11175;Groﬂe Netheressenz;1;54500;58000
 24597;Sternenfeuersch‰rpe;1;50000;120000
 6401;Muster: Dunkles Seidenhemd;1;30000;47500
-32665;Kristallgewebter Umhang;1;226952;230000
-32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;799999;999999
-32665;Kristallgewebter Umhang;1;226952;230000
-32665;Kristallgewebter Umhang;1;226952;230000
 25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;220000;320000
 25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;215000;270000
 23104;Gezackter Tiefenperidot;1;7600;9500
@@ -1082,37 +886,6 @@
 19230;Bestien 2;1;228750;350000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1229999;1229999
 34220;Wechselhafter Himmelsfeuerdiamant;1;1229999;1229999
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1593998
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1593998
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1593998
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1147498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1105000;1120000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104000;1110000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104000;1110000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104000;1110000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104000;1110000
-34220;Wechselhafter Himmelsfeuerdiamant;1;972220;977725
-34220;Wechselhafter Himmelsfeuerdiamant;1;972220;977725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 15250;Gleiﬂender Flamberg;1;10342;12099
 15250;Gleiﬂender Flamberg;1;22064;27580
 32582;Armschienen des erneuerten Lebens;1;3441331;3699164
@@ -1176,7 +949,6 @@
 4338;Magiestoff;20;157500;190000
 4338;Magiestoff;20;157500;190000
 4338;Magiestoff;20;157500;190000
-4338;Magiestoff;1;2700;2900
 24645;Astralanischer G¸rtel;1;209836;270000
 6362;Roher Steinschuppenkabeljau;20;41777;46419
 6362;Roher Steinschuppenkabeljau;20;99980;99980
@@ -1234,8 +1006,6 @@
 29158;Echtsilberring des Kommandanten;1;33857;37619
 29158;Echtsilberring des Kommandanten;1;33857;37619
 15291;Harpyienstachler;1;29386;40000
-24305;Muster: Cape der Entschlossenheit;1;110000;110000
-24305;Muster: Cape der Entschlossenheit;1;105790;132238
 15251;Treffsicheres Schwert;1;53432;66791
 27498;Rolle der Beweglichkeit V;5;450625;491500
 27498;Rolle der Beweglichkeit V;5;450625;491500
@@ -1311,46 +1081,12 @@
 32428;Herz der Dunkelheit;5;110000;115000
 11152;Formel: Handschuhe - Angeln;1;119105;132339
 18333;Buchband des Fokus;1;880000;880000
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;46700;57700
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;10000;12000
 20827;Ring der Silbermacht;1;1312;11900
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13359;14843
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;46700;57700
-20827;Ring der Silbermacht;1;46700;57700
-20827;Ring der Silbermacht;1;46700;57700
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
-20827;Ring der Silbermacht;1;13209;14677
 24641;Nebelschilfkapuze;1;59515;76144
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
 31878;Vorlage: Verschleierter Edeltopas;1;259574;324468
 31878;Vorlage: Verschleierter Edeltopas;1;400000;475000
 31878;Vorlage: Verschleierter Edeltopas;1;335889;373210

@@ -11,9 +11,7 @@
 10561;Mithrilgehäuse;1;76901;79001
 10561;Mithrilgehäuse;1;76901;79001
 10561;Mithrilgehäuse;1;76901;79001
-10561;Mithrilgehäuse;1;51500;60000
 10561;Mithrilgehäuse;1;76901;79001
-10561;Mithrilgehäuse;1;51500;60000
 10561;Mithrilgehäuse;1;76901;79001
 10561;Mithrilgehäuse;1;76901;79001
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;2349;2937
@@ -44,9 +42,6 @@
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;14;45752;57190
-11139;Großer leuchtender Splitter;2;9236;11546
-11139;Großer leuchtender Splitter;1;3104;3880
-11139;Großer leuchtender Splitter;1;3104;3880
 19281;Portal 5;1;15100;35000
 13058;Khoospitze;1;25942;32428
 19441;Riesiger Giftbeutel;1;2757;4063
@@ -89,13 +84,11 @@
 13116;Schiftung der Ungesehenen;1;58057;80000
 16051;Bauplan: Thoriumpatronen;1;27500;30000
 16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;33750;55000
-14047;Runenstoff;6;10070;29588
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
-14047;Runenstoff;14;14000;21000
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
 14047;Runenstoff;20;22000;29900
@@ -115,21 +108,11 @@
 12363;Arkankristall;1;3000;49900
 12363;Arkankristall;1;42999;49999
 6580;Verteidigungsstarke Tunika;1;5000;7500
-22851;Fläschchen der Stärkung;1;113399;138899
-22851;Fläschchen der Stärkung;1;130000;138000
-22851;Fläschchen der Stärkung;1;130000;135000
-22851;Fläschchen der Stärkung;1;130000;135000
-22851;Fläschchen der Stärkung;1;130000;135000
-22851;Fläschchen der Stärkung;1;130000;135000
 22851;Fläschchen der Stärkung;1;130000;139899
-22851;Fläschchen der Stärkung;1;113399;138899
-22851;Fläschchen der Stärkung;1;113399;138899
-22851;Fläschchen der Stärkung;1;113399;138899
 22851;Fläschchen der Stärkung;1;130000;139899
 22851;Fläschchen der Stärkung;1;130000;139899
 22851;Fläschchen der Stärkung;1;113399;139999
 22851;Fläschchen der Stärkung;1;113399;139999
-22851;Fläschchen der Stärkung;1;130000;138000
 8173;Dickes Rüstungsset;10;69900;79900
 8173;Dickes Rüstungsset;2;2302;2878
 8190;Hanzos Schwert;1;119315;149144
@@ -256,9 +239,7 @@
 13115;Schafsledermantel;1;16343;18159
 13120;Armschienen des tiefen Zorns;1;32516;35920
 13120;Armschienen des tiefen Zorns;1;32779;36421
-19702;Münze der Blutfratzen;1;30000;40000
 19702;Münze der Blutfratzen;10;550000;585000
-19702;Münze der Blutfratzen;1;35305;44132
 4349;Muster: Phönixhose;1;89999;99999
 13139;Bauchripper;1;120000;150000
 13139;Bauchripper;1;39297;43663
@@ -307,10 +288,7 @@
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48000;48000
 10606;Bauplan: Fallschirmumhang;1;1500;2400
-13134;Gürtel des Gladiators;1;37305;46632
 13134;Gürtel des Gladiators;1;45710;57138
-13134;Gürtel des Gladiators;1;11574;20000
-13134;Gürtel des Gladiators;1;31574;40000
 19284;Portal 8;1;97957;122447
 19284;Portal 8;1;95000;120000
 22542;Formel: Stiefel - Vitalität;1;750000;770000
@@ -358,8 +336,6 @@
 12361;Blauer Saphir;1;10500;23000
 12361;Blauer Saphir;1;18819;23524
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;8500;10000
-10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;89999;99999
-10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;59589;75362
 11144;Echtsilberrute;1;100000;100000
 11144;Echtsilberrute;1;100000;100000
 11144;Echtsilberrute;1;100000;100000
@@ -396,7 +372,6 @@
 11754;Schwarzer Diamant;20;17520;21900
 11754;Schwarzer Diamant;20;17520;21900
 10608;Bauplan: Heckenschützenzielfernrohr;1;5000;7500
-10608;Bauplan: Heckenschützenzielfernrohr;1;1425;20000
 19705;Münze der Schädelspalter;3;210000;252000
 19282;Portal 6;1;205659;228510
 19282;Portal 6;1;175000;190000
@@ -413,7 +388,6 @@
 8256;Schlangenhautstiefel;1;15535;17544
 13138;Der Verstummer;1;17298;19900
 13138;Der Verstummer;1;42939;47710
-22452;Urerde;1;52999;54999
 13133;Schulterklappen des Drachenfeuers;1;90334;100371
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;1;6786;8987
@@ -454,17 +428,9 @@
 4345;Muster: Rote Wollstiefel;1;3841;4802
 4345;Muster: Rote Wollstiefel;1;21988;24432
 6401;Muster: Dunkles Seidenhemd;1;30000;47500
-22825;Elixier der Heilkraft;10;566000;597500
 22825;Elixier der Heilkraft;2;177500;180000
 22825;Elixier der Heilkraft;2;177500;180000
 22825;Elixier der Heilkraft;5;448750;450000
-22825;Elixier der Heilkraft;2;167500;170000
-22825;Elixier der Heilkraft;2;167500;170000
-22825;Elixier der Heilkraft;2;167500;170000
-22825;Elixier der Heilkraft;2;167500;170000
-22825;Elixier der Heilkraft;20;1104879;1199579
-22825;Elixier der Heilkraft;20;1132500;1195000
-22825;Elixier der Heilkraft;10;566000;597500
 4338;Magiestoff;5;25995;28883
 4338;Magiestoff;20;177500;189900
 4338;Magiestoff;20;177500;189900
@@ -527,13 +493,8 @@
 22451;Urluft;1;169768;169785
 22451;Urluft;1;169768;169785
 22451;Urluft;1;169801;169802
-22451;Urluft;1;169701;169802
 22451;Urluft;1;146000;160000
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
 22451;Urluft;1;169768;169785
-22451;Urluft;1;169701;169802
 22451;Urluft;1;169701;169802
 22451;Urluft;1;169701;169802
 22451;Urluft;1;169701;169802
@@ -558,7 +519,6 @@
 22824;Elixier der erheblichen Stärke;20;299500;299800
 22824;Elixier der erheblichen Stärke;20;299500;299800
 6393;Silberfadenhandschuhe;1;8000;10000
-22565;Formel: Großer Prismasplitter;1;175000;200000
 13124;Ravasaurusschuppenstiefel;1;18660;20733
 10413;Handschuhe des Giftzahns;1;299900;299900
 6574;Verteidigungsstarke Armschienen;1;99900;99900
