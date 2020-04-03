@@ -10,11 +10,8 @@
 19263;Kriegsfürst 6;1;207500;219000
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;36000;36000
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;37000;39500
-18945;Dunkeleisenrückstände;3;1612;2016
 20828;Ring des Zwielichts;1;6400;8000
 20828;Ring des Zwielichts;1;6400;8000
-20828;Ring des Zwielichts;1;6272;7840
-20828;Ring des Zwielichts;1;6272;7840
 14048;Runenstoffballen;10;99999;149999
 14048;Runenstoffballen;10;99999;149999
 14048;Runenstoffballen;10;99999;149999
@@ -25,8 +22,6 @@
 13144;Gürtel der Beschaulichkeit;1;13968;17460
 13144;Gürtel der Beschaulichkeit;1;10297;23456
 8402;Muster: Fester Skorpidhelm;1;9999;9999
-4304;Dickes Leder;20;90000;109900
-4304;Dickes Leder;20;138460;153100
 19234;Bestien 6;1;2008750;2500000
 16051;Bauplan: Thoriumpatronen;1;7500;12500
 16051;Bauplan: Thoriumpatronen;1;11742;14678
@@ -39,7 +34,6 @@
 19232;Bestien 4;1;1009999;1209999
 19232;Bestien 4;1;308750;400000
 20866;Azurgötze;2;89998;99998
-19268;Elementar Ass;1;1748000;2185000
 8490;Katzentransportkorb (Siamkatze);1;499900;499900
 11082;Große Astralessenz;10;59500;76000
 11082;Große Astralessenz;10;59500;76000
@@ -71,11 +65,6 @@
 14127;Ritualtuch;1;99900;99900
 14127;Ritualtuch;1;99900;99900
 18711;Arenaarmbänder;1;53050;54400
-19235;Bestien 7;1;1452263;1815329
-19235;Bestien 7;1;2508750;2509000
-19235;Bestien 7;1;2589999;2599999
-19235;Bestien 7;1;2500000;2700000
-19235;Bestien 7;1;2500000;2799999
 8483;Wasserbeutel eines Wüstenläufers;4;2226;3000
 8483;Wasserbeutel eines Wüstenläufers;19;9522;13528
 8483;Wasserbeutel eines Wüstenläufers;10;2565;0
@@ -110,20 +99,11 @@
 4611;Blaue Perle;1;5853;6034
 19271;Elementar 4;1;42500;44400
 2807;Guillotinenaxt;1;149900;149900
-16113;Handbuch: Magiestoffverband;1;49000;73500
 16113;Handbuch: Magiestoffverband;1;31875;54000
 16113;Handbuch: Magiestoffverband;1;31875;55000
 16113;Handbuch: Magiestoffverband;1;31875;55000
-3821;Golddorn;20;14500;14500
 3821;Golddorn;3;2409;2970
 3821;Golddorn;20;24500;25000
-3821;Golddorn;20;24500;25000
-3821;Golddorn;20;24500;25000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;18;4050;10000
 19267;Elementarkartenset;1;3999993;3999999
 19267;Elementarkartenset;1;3039999;3799999
 15761;Muster: Frostsäblerhandschuhe;1;39999;49999
@@ -166,38 +146,11 @@
 20872;Zinnobergötze;1;21854;24282
 18654;Bauplan: Gnomischer Alarm-o-Bot;1;28800;36000
 18654;Bauplan: Gnomischer Alarm-o-Bot;1;9902625;10003282
-2836;Grober Stein;20;50000;50000
-2836;Grober Stein;20;50000;50000
-2836;Grober Stein;20;50000;50000
-2836;Grober Stein;18;45000;45000
 15994;Thoriumapparat;10;97500;98600
 15994;Thoriumapparat;10;97500;98600
 15994;Thoriumapparat;9;83750;92100
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;2;59000;68500
-3823;Geringer Unsichtbarkeitstrank;5;124499;159499
-3823;Geringer Unsichtbarkeitstrank;5;124499;159499
-3823;Geringer Unsichtbarkeitstrank;5;157500;159500
-3823;Geringer Unsichtbarkeitstrank;4;126000;127600
 3823;Geringer Unsichtbarkeitstrank;1;18999;29999
 3823;Geringer Unsichtbarkeitstrank;1;18999;29999
-3823;Geringer Unsichtbarkeitstrank;2;59000;79400
 14213;Vitale Gewandung;1;5329;9999
 13079;Schild von Thorsen;1;18000;22000
 15947;Blutroter Stern;1;20000;29900
@@ -299,10 +252,8 @@
 18661;Bauplan: Weltvergrößerer;1;118400;148000
 6052;Naturschutztrank;5;9999;9999
 18662;Schwerer Lederball;2;4500;11000
-18662;Schwerer Lederball;1;2250;4500
 15768;Muster: Tückischer Ledergürtel;1;49999;69999
 15768;Muster: Tückischer Ledergürtel;1;56973;71217
-13443;Überragender Manatrank;1;4000;4100
 20966;Jadeanhänger der Zauberwucht;1;15000;20000
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
@@ -350,23 +301,16 @@
 11178;Großer strahlender Splitter;1;21225;26532
 11178;Großer strahlender Splitter;1;21225;26532
 11178;Großer strahlender Splitter;1;21225;26532
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;39000;70000
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;39000;70000
 16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;33750;55000
 16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;33750;55000
-16112;Handbuch: Schwerer Seidenverband;1;49000;73500
 16112;Handbuch: Schwerer Seidenverband;1;30825;55000
-16112;Handbuch: Schwerer Seidenverband;1;49000;73500
 16112;Handbuch: Schwerer Seidenverband;1;30825;55000
 16112;Handbuch: Schwerer Seidenverband;1;30825;55000
 19275;Elementar 8;1;646187;807734
 16039;Ta'Kierthan Arkanklinge;1;173598;179500
 19270;Elementar 3;1;88750;89900
 19270;Elementar 3;1;88750;90000
-2835;Rauer Stein;20;9392;11740
-2835;Rauer Stein;1;556;618
 2835;Rauer Stein;20;7500;10000
-2835;Rauer Stein;20;9392;11740
 8827;Elixier des Wasserwandelns;1;899;1099
 8827;Elixier des Wasserwandelns;1;899;1099
 8827;Elixier des Wasserwandelns;20;13749;19799

@@ -5,10 +5,7 @@
 14172;Bukaniersroben;1;99900;99900
 14172;Bukaniersroben;1;99900;99900
 19263;Kriegsfürst 6;1;207500;219000
-18945;Dunkeleisenrückstände;3;1612;2016
 18945;Dunkeleisenrückstände;5;4500;4750
-20828;Ring des Zwielichts;1;6272;7840
-20828;Ring des Zwielichts;1;6272;7840
 14048;Runenstoffballen;10;99999;149999
 14048;Runenstoffballen;10;99999;149999
 14048;Runenstoffballen;10;99999;149999
@@ -22,9 +19,7 @@
 4304;Dickes Leder;20;29000;60000
 4304;Dickes Leder;20;29000;60000
 4304;Dickes Leder;20;29000;60000
-4304;Dickes Leder;20;90000;109900
 4304;Dickes Leder;20;29000;60000
-4304;Dickes Leder;20;138460;153100
 4304;Dickes Leder;20;59264;59980
 19234;Bestien 6;1;2008750;2500000
 16051;Bauplan: Thoriumpatronen;1;11742;14678
@@ -61,7 +56,6 @@
 20866;Azurgötze;2;89998;99998
 19268;Elementar Ass;1;1850000;2300000
 19268;Elementar Ass;1;1850000;2300000
-19268;Elementar Ass;1;1748000;2185000
 19698;Zulianische Münze;2;110000;111000
 20871;Obsidiangötze;1;23849;26499
 16043;Bauplan: Thoriumgewehr;1;5665;7082
@@ -83,12 +77,7 @@
 14127;Ritualtuch;1;99900;99900
 14127;Ritualtuch;1;99900;99900
 18711;Arenaarmbänder;1;53050;54400
-19235;Bestien 7;1;1452263;1815329
-19235;Bestien 7;1;2508750;2509000
 19235;Bestien 7;1;2500550;2600000
-19235;Bestien 7;1;2500000;2700000
-19235;Bestien 7;1;2500000;2799999
-19235;Bestien 7;1;2589999;2599999
 19274;Elementar 7;1;99999;299999
 19230;Bestien 2;1;78750;80000
 21886;Urleben;5;599999;649999
@@ -182,15 +171,6 @@
 21877;Netherstoff;20;24000;36000
 21877;Netherstoff;20;24000;36000
 21877;Netherstoff;20;40000;40000
-16113;Handbuch: Magiestoffverband;1;49000;73500
-3821;Golddorn;20;24500;25000
-3821;Golddorn;18;4050;10000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;19999;20000
-3821;Golddorn;20;24500;25000
-3821;Golddorn;20;14500;14500
 19267;Elementarkartenset;1;3999993;3999999
 19267;Elementarkartenset;1;3039999;3799999
 22861;Fläschchen des blendenden Lichts;5;1077400;1077505
@@ -245,37 +225,10 @@
 20872;Zinnobergötze;1;21854;24282
 20872;Zinnobergötze;1;21854;24282
 20872;Zinnobergötze;1;21854;24282
-2836;Grober Stein;18;45000;45000
-2836;Grober Stein;20;50000;50000
-2836;Grober Stein;20;50000;50000
 2836;Grober Stein;3;6000;10000
-2836;Grober Stein;20;50000;50000
 15994;Thoriumapparat;9;83750;92100
 15994;Thoriumapparat;10;97500;98600
 15994;Thoriumapparat;10;97500;98600
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;2;59000;79400
-3823;Geringer Unsichtbarkeitstrank;2;59000;68500
-3823;Geringer Unsichtbarkeitstrank;5;124499;159499
-3823;Geringer Unsichtbarkeitstrank;5;124499;159499
-3823;Geringer Unsichtbarkeitstrank;4;126000;127600
-3823;Geringer Unsichtbarkeitstrank;5;157500;159500
 14213;Vitale Gewandung;1;5329;9999
 23118;Gediegener Azurmondstein;1;13750;15000
 23118;Gediegener Azurmondstein;1;13750;15000
@@ -375,9 +328,7 @@
 22866;Fläschchen des reinen Todes;2;373200;379999
 18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;165240;206550
 4037;Silberfadenhose;1;12731;13300
-18662;Schwerer Lederball;1;2250;4500
 13443;Überragender Manatrank;2;4400;5500
-13443;Überragender Manatrank;1;4000;4100
 3860;Mithrilbarren;20;279999;499999
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
 20966;Jadeanhänger der Zauberwucht;1;15000;20000
@@ -437,18 +388,11 @@
 16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
 16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
 16052;Bauplan: Modularer Stimmenverstärker;1;1131076;1413846
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;39000;70000
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;39000;70000
 14165;Heidenkniehosen;1;23331;24164
-16112;Handbuch: Schwerer Seidenverband;1;49000;73500
-16112;Handbuch: Schwerer Seidenverband;1;49000;73500
 19275;Elementar 8;1;646187;807734
 16039;Ta'Kierthan Arkanklinge;1;173598;179500
 19270;Elementar 3;1;88750;89900
 19270;Elementar 3;1;88750;90000
-2835;Rauer Stein;1;556;618
-2835;Rauer Stein;20;9392;11740
-2835;Rauer Stein;20;9392;11740
 20955;Goldener Drachenring;1;5500;7000
 15992;Dichtes Sprengpulver;20;31000;38600
 15992;Dichtes Sprengpulver;10;13750;19900

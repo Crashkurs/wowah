@@ -31,12 +31,6 @@
 3842;Grüne Eisengamaschen;1;5883;7354
 28103;Elixier des Adepten;4;25000;32000
 6347;Formel: Armschiene - Schwache Stärke;1;4800;6000
-4625;Feuerblüte;20;87500;0
-4625;Feuerblüte;8;42200;48000
-4625;Feuerblüte;20;87500;0
-4625;Feuerblüte;1;3780;4726
-4625;Feuerblüte;20;87500;0
-4625;Feuerblüte;20;87500;0
 4038;Nachthauchrobe;1;22671;24079
 4611;Blaue Perle;1;700;2000
 4611;Blaue Perle;1;2224;2280
@@ -45,8 +39,6 @@
 4611;Blaue Perle;3;19605;21783
 4611;Blaue Perle;1;9856;10951
 4611;Blaue Perle;1;9856;10951
-22449;Großer Prismasplitter;1;180100;189999
-22449;Großer Prismasplitter;1;180100;189999
 6127;Fallenstellerstiefel;1;1;2
 8839;Blindkraut;6;30106;33451
 6317;Roher Lochfrenzy;1;2000;3000
@@ -74,14 +66,7 @@
 23440;Dämmerstein;1;86047;90000
 23440;Dämmerstein;2;130000;200000
 24610;Schädelhose;1;50000;60000
-12359;Thoriumbarren;5;18048;22560
 12359;Thoriumbarren;1;3428;4286
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
 12359;Thoriumbarren;5;18048;22560
 6410;Insignienarmschienen;1;11806;14758
 4233;Geschmeidiger mittlerer Balg;6;18800;19000
@@ -99,10 +84,6 @@
 2059;Wachpostenumhang;1;891211;990234
 2059;Wachpostenumhang;1;989900;989900
 31305;Ceds Schnitzer;1;214924;219900
-12207;Riesenei;1;8595;9595
-12207;Riesenei;1;8595;9595
-12207;Riesenei;1;8595;9595
-12207;Riesenei;2;18000;20000
 14047;Runenstoff;20;12000;22000
 14047;Runenstoff;18;10818;11466
 14047;Runenstoff;20;34000;39800
@@ -116,8 +97,6 @@
 23103;Strahlender Tiefenperidot;1;9000;12000
 23103;Strahlender Tiefenperidot;1;9000;12000
 4091;Witwenmacher;1;31924;32906
-4091;Witwenmacher;1;37806;42007
-4091;Witwenmacher;1;38235;42483
 20404;Verschlüsselter Schattenhammertext;8;79904;99880
 3867;Pläne: Goldener Eisenzerstörer;1;4000;5000
 6362;Roher Steinschuppenkabeljau;20;99980;99980
@@ -205,10 +184,6 @@
 6372;Schwimmtempotrank;2;705;1150
 11135;Große Mystikeressenz;4;29817;39772
 4500;Reiserucksack;1;53125;80000
-4500;Reiserucksack;1;118750;120000
-4500;Reiserucksack;1;63125;70000
-4500;Reiserucksack;1;92597;99947
-4500;Reiserucksack;1;63125;70000
 25707;Teufelsbalg;5;46875;50000
 25707;Teufelsbalg;20;187500;200000
 4426;Rolle der Stärke III;1;9999;9999
@@ -266,8 +241,6 @@
 3914;Gesellenrucksack;1;44900;49900
 3914;Gesellenrucksack;1;37438;41597
 6199;Band der schwarzen Witwe;1;199900;199900
-4096;Grobes Gorillahaar;3;2369;2633
-4096;Grobes Gorillahaar;1;789;877
 6419;Glyphenverzierte Fäustlinge;1;7448;9900
 13146;Kugelspeiende Schrotflinte;1;47305;59132
 23098;Gravierter Flammenspessarit;1;9999;11199
@@ -296,22 +269,7 @@
 1296;Schwarzfelsstreitkolben;1;8521;8900
 24274;Runenverzierter Zauberfaden;1;2699500;2879500
 16204;Illusionsstaub;10;63632;79540
-5075;Blutsplitter;2;160;200
 5075;Blutsplitter;5;6087;10000
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;1;1280;1600
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;1;825;1000
-2772;Eisenerz;20;30000;35000
-2772;Eisenerz;20;29980;34920
-2772;Eisenerz;1;1064;1330
 22839;Zerstörungstrank;5;182000;185000
 22839;Zerstörungstrank;5;183000;185000
 22839;Zerstörungstrank;5;183000;185000
@@ -344,18 +302,9 @@
 6344;Formel: Armschiene - Schwache Willenskraft;1;4000;5000
 23097;Feingeschliffener Blutgranat;1;59999;69999
 23097;Feingeschliffener Blutgranat;1;59999;69999
-6359;Feuerflossenschnapper;20;8030;9000
-6359;Feuerflossenschnapper;20;8030;9000
-6359;Feuerflossenschnapper;20;8000;10000
-6359;Feuerflossenschnapper;20;8050;10000
 6309;17-pfündiger Wels;1;200;1400
 6390;Muster: Modisches blaues Hemd;1;8460;9400
-6358;Öliges Schwarzmaul;1;14000;15000
-6358;Öliges Schwarzmaul;7;95099;98099
 6358;Öliges Schwarzmaul;20;192800;246000
-6358;Öliges Schwarzmaul;5;68099;70000
-6358;Öliges Schwarzmaul;5;68099;70000
-6358;Öliges Schwarzmaul;4;65099;66099
 6291;Roher glänzender Kleinfisch;20;49980;49980
 6291;Roher glänzender Kleinfisch;20;1552;1940
 6291;Roher glänzender Kleinfisch;7;6465;7183
@@ -390,10 +339,6 @@
 24477;Jaggalmuschelfleisch;1;491;546
 24477;Jaggalmuschelfleisch;10;4915;5461
 25744;Auge eines Dunstschuppenbasilisken;2;12469;13854
-1979;Mauer der Toten;1;153600;179500
-1979;Mauer der Toten;1;224476;253096
-1979;Mauer der Toten;1;130000;150000
-1979;Mauer der Toten;1;182239;199965
 3869;Pläne: Schattensichelaxt;1;6000;6000
 11965;Quarzring;1;21484;31856
 4415;Bauplan: Handwerkermonokel;1;271664;339580
@@ -464,65 +409,22 @@
 11137;Visionenstaub;20;199980;199980
 24291;Sumpflordranke;38;262139;327674
 4402;Kleiner Flammenbeutel;2;750;3000
-3864;Citrin;20;154000;160000
 3864;Citrin;2;12400;15000
-3864;Citrin;1;8500;9500
-3864;Citrin;3;25500;28500
 22445;Arkaner Staub;20;210100;220000
 22445;Arkaner Staub;20;210100;220000
 21881;Netherweberseide;2;13318;13708
 1982;Nachtklinge;1;61865;77332
 1982;Nachtklinge;1;44269;50000
 1982;Nachtklinge;1;61865;77332
-2771;Zinnerz;10;3075;3100
-2771;Zinnerz;20;7216;9020
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;9999;13333
-2771;Zinnerz;11;3968;4961
-2771;Zinnerz;20;7216;9020
-2771;Zinnerz;20;10750;11100
-2771;Zinnerz;10;3608;4510
-2771;Zinnerz;20;7216;9020
-2771;Zinnerz;20;7216;9020
-2771;Zinnerz;20;7216;9020
-2771;Zinnerz;20;6848;8560
-2771;Zinnerz;20;6848;8560
-2771;Zinnerz;20;6848;8560
-2771;Zinnerz;1;682;758
-2771;Zinnerz;20;4950;5000
 2771;Zinnerz;20;4950;9900
 2771;Zinnerz;20;4950;9900
 2771;Zinnerz;20;4950;9900
-2771;Zinnerz;1;524;583
-2771;Zinnerz;18;5075;7000
-2771;Zinnerz;20;13480;13500
 1980;Unterweltband;1;195000;199000
 3575;Eisenbarren;12;18019;22524
 3575;Eisenbarren;19;9900;12900
 4377;Schweres Sprengpulver;1;5082;6047
 25689;Schwere Grollhufweste;1;999999;1999999
 25689;Schwere Grollhufweste;1;999999;1999999
-12202;Tigerfleisch;6;1854;2060
-12202;Tigerfleisch;10;2600;3250
-12202;Tigerfleisch;6;2100;2300
-12202;Tigerfleisch;10;2205;2900
-12202;Tigerfleisch;1;320;350
-12202;Tigerfleisch;10;3090;3433
-12202;Tigerfleisch;8;2100;2300
-12037;Eigenartiges Fleisch;5;1040;1300
-12037;Eigenartiges Fleisch;7;1990;2100
-12037;Eigenartiges Fleisch;2;470;510
-12037;Eigenartiges Fleisch;10;1936;2420
-12037;Eigenartiges Fleisch;6;1161;1452
-12037;Eigenartiges Fleisch;6;1484;1649
-12037;Eigenartiges Fleisch;8;1979;2198
-12037;Eigenartiges Fleisch;3;742;824
 12037;Eigenartiges Fleisch;7;9508;12635
 25699;Kristalldurchdrungenes Leder;4;27500;30000
 14499;Muster: Mondstofftasche;1;37190;41322
@@ -544,14 +446,6 @@
 11754;Schwarzer Diamant;1;976;1084
 11754;Schwarzer Diamant;1;976;1084
 11754;Schwarzer Diamant;1;976;1084
-3823;Geringer Unsichtbarkeitstrank;2;45354;46000
-3823;Geringer Unsichtbarkeitstrank;2;45354;46000
-3823;Geringer Unsichtbarkeitstrank;2;45354;46000
-3823;Geringer Unsichtbarkeitstrank;2;45354;46000
-3823;Geringer Unsichtbarkeitstrank;2;45354;46000
-3823;Geringer Unsichtbarkeitstrank;2;59800;60000
-3823;Geringer Unsichtbarkeitstrank;4;103248;114720
-3823;Geringer Unsichtbarkeitstrank;2;59800;60000
 24272;Schattenstoff;1;355500;373500
 24272;Schattenstoff;1;355500;373000
 24272;Schattenstoff;1;355500;373000
@@ -565,7 +459,6 @@
 27682;Talbukwildbret;1;772;991
 2775;Silbererz;1;20112;30000
 2775;Silbererz;20;692250;990000
-4562;Abspalteraxt;1;953;2592
 6289;Roher langzahniger Matschschnapper;20;99980;99980
 6289;Roher langzahniger Matschschnapper;20;99980;99980
 6289;Roher langzahniger Matschschnapper;20;99980;99980
@@ -617,22 +510,9 @@
 24401;Unbekannte Pflanzenteile;100;249540;253300
 21887;Knotenhautleder;19;192128;192888
 23100;Glitzernder Flammenspessarit;1;10950;11900
-21877;Netherstoff;20;29999;35999
-21877;Netherstoff;20;29999;35999
-21877;Netherstoff;20;29999;35999
-21877;Netherstoff;20;29999;35999
-21877;Netherstoff;20;29999;35999
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;34999
 20725;Nexuskristall;2;83600;104500
 12208;Zartes Wolfsfleisch;3;1440;1800
 12208;Zartes Wolfsfleisch;10;4560;5700
-4425;Rolle der Beweglichkeit III;1;14371;17964
-4425;Rolle der Beweglichkeit III;1;18800;19900
 31328;Gamaschen der Tierherrschaft;1;1299877;1349900
 7286;Schwarzwelpenschuppe;7;22898;28623
 29547;Windschuppen;20;997500;999999
@@ -651,10 +531,6 @@
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
-4338;Magiestoff;5;26015;29905
-4338;Magiestoff;7;44794;55993
-4338;Magiestoff;20;187984;189980
-4338;Magiestoff;12;62436;71772
 4338;Magiestoff;20;149800;149900
 4338;Magiestoff;20;149800;149900
 4338;Magiestoff;20;149800;149900
@@ -683,8 +559,6 @@
 4461;Raptorbalg;10;3578;3976
 4461;Raptorbalg;10;3578;3976
 4461;Raptorbalg;2;715;795
-4589;Lange elegante Feder;5;35720;44650
-4589;Lange elegante Feder;9;15478;16852
 11138;Kleiner leuchtender Splitter;4;8768;9740
 11138;Kleiner leuchtender Splitter;5;10960;12175
 11138;Kleiner leuchtender Splitter;1;1082;1353
@@ -697,16 +571,8 @@
 24478;Jaggalperle;20;110000;120000
 24478;Jaggalperle;1;7331;8145
 12990;Messers Schneide;1;111680;149600
-1973;Täuschungskugel;1;131040;163800
 1973;Täuschungskugel;1;126927;149999
-1973;Täuschungskugel;1;163615;181795
 4369;Tödliche Donnerbüchse;1;29536;38545
-3858;Mithrilerz;20;127500;130000
-3858;Mithrilerz;20;115952;144940
 3858;Mithrilerz;3;11942;14928
 3858;Mithrilerz;20;79616;99520
-3858;Mithrilerz;20;127500;130000
-3858;Mithrilerz;20;127500;130000
-3858;Mithrilerz;20;127500;130000
-3858;Mithrilerz;20;7500;180000
 4623;Geringer Steinschildtrank;3;12200;13700

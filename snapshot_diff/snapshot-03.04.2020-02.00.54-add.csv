@@ -208,27 +208,11 @@
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;2;13219;16524
-4304;Dickes Leder;20;121679;142099
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;13;80000;80000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;2;10900;16000
 31884;Segen 5;1;999799;999899
 13130;Windläuferbeinschützer;1;37597;42000
 7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
 3356;Königsblut;4;36000;40000
 31287;Ehrenwachenschild der Draenei;1;186735;200000
-21887;Knotenhautleder;20;197500;199900
-21887;Knotenhautleder;20;197500;199900
-21887;Knotenhautleder;20;207500;220000
 16697;Armschienen des Gläubigen;1;62865;70000
 29739;Arkaner Foliant;1;121266;139966
 29739;Arkaner Foliant;1;121266;139966
@@ -250,7 +234,6 @@
 16203;Große ewige Essenz;1;60100;79999
 19441;Riesiger Giftbeutel;1;3656;4063
 19441;Riesiger Giftbeutel;1;2757;4063
-13016;Killerschredder;1;27653;29614
 13018;Henkerspaltbeil;1;54531;68164
 32067;Elixier der draenischen Weisheit;20;249999;274999
 29732;Muster: Netherdrachenhelm;1;119561;172845
@@ -318,17 +301,6 @@
 31151;Gurt der Belagerung;1;100000;120000
 11137;Visionenstaub;5;34917;38796
 2589;Leinenstoff;20;2736;3420
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;493999;617499
-35758;Beständiger Gischtsmaragd;1;493999;617499
-35758;Beständiger Gischtsmaragd;1;493999;617499
-35758;Beständiger Gischtsmaragd;1;493999;617499
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
 3826;Erhebliches Trollblutelixier;20;9999;9999
 24054;Stattliches Nachtauge;1;190074;199975
 24054;Stattliches Nachtauge;1;190074;199975
@@ -340,7 +312,6 @@
 22861;Fläschchen des blendenden Lichts;5;799999;849999
 22861;Fläschchen des blendenden Lichts;5;799999;849999
 8125;Myrmidonenarmschienen;1;25000;25000
-3203;Handfester Dreiecksstreitkolben;1;14471;19701
 7081;Odem des Windes;1;30600;31000
 10998;Geringe Astralessenz;1;1600;1700
 10998;Geringe Astralessenz;1;1600;1700
@@ -492,9 +463,6 @@
 22451;Urluft;1;169751;169768
 22451;Urluft;1;169751;169768
 3173;Bärenfleisch;10;9900;11000
-3173;Bärenfleisch;10;9966;11073
-3173;Bärenfleisch;10;9966;11073
-3173;Bärenfleisch;4;3000;4000
 19262;Kriegsfürst 5;1;189541;189560
 4575;Medizinstab;1;5000;7000
 12988;Sternensuchertunika;1;3638;4548

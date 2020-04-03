@@ -153,10 +153,6 @@
 20964;Aquamarinsiegel;1;10000;40000
 11134;Geringe Mystikeressenz;3;7600;9700
 12990;Messers Schneide;1;101845;157108
-12990;Messers Schneide;1;189500;237500
-12990;Messers Schneide;1;250000;250000
-12990;Messers Schneide;1;289600;299500
-12990;Messers Schneide;1;253845;317307
 12711;Pl‰ne: Helm der weiﬂen Seele;1;518633;576259
 12711;Pl‰ne: Helm der weiﬂen Seele;1;459999;569999
 24271;Zauberstoff;1;474000;499500
@@ -186,9 +182,6 @@
 22577;Schattenpartikel;4;20941;23267
 21877;Netherstoff;20;36096;45120
 21877;Netherstoff;4;7219;9024
-21877;Netherstoff;20;34000;35000
-21877;Netherstoff;20;34000;35000
-21877;Netherstoff;20;34000;35000
 12804;M‰chtiges Mojo;1;80972;96902
 12804;M‰chtiges Mojo;1;80972;96902
 13000;Stab von Hale Magiebrand;1;169999;179999
@@ -298,7 +291,6 @@
 12703;Pl‰ne: Sturmstulpen;1;226857;283572
 7734;Sechsd‰monentasche;1;35082;38980
 23437;Talasit;1;35776;39751
-12799;Groﬂer Opal;1;10500;99900
 4454;Kralle von Vultros;1;37960;39999
 4353;Muster: Spinneng¸rtel;1;9080;11350
 14124;Rituelle Handschuhe;1;934;1168
@@ -320,27 +312,13 @@
 14047;Runenstoff;20;29000;29900
 14047;Runenstoff;1;1500;1500
 14047;Runenstoff;4;3848;4144
-14047;Runenstoff;5;6250;6250
-14047;Runenstoff;20;20000;30000
-14047;Runenstoff;14;14000;21000
 14047;Runenstoff;20;19240;20720
-14047;Runenstoff;20;12000;29000
 14047;Runenstoff;20;19240;20720
 14047;Runenstoff;2;2558;3198
 14047;Runenstoff;15;24000;24000
 14047;Runenstoff;20;25000;30000
 14047;Runenstoff;20;22400;28000
 14047;Runenstoff;20;22400;28000
-14047;Runenstoff;20;12000;29000
-14047;Runenstoff;20;12000;29000
-14047;Runenstoff;20;12000;29000
-14047;Runenstoff;20;12000;27000
-14047;Runenstoff;5;5700;7125
-14047;Runenstoff;20;10800;20000
-14047;Runenstoff;20;10800;20000
-14047;Runenstoff;20;22000;22222
-14047;Runenstoff;20;22000;22222
-14047;Runenstoff;18;10800;30000
 14047;Runenstoff;20;19240;20720
 1973;T‰uschungskugel;1;96927;118900
 1973;T‰uschungskugel;1;96927;118900
@@ -371,9 +349,6 @@
 22459;Sph‰re der Leere;1;18266;20296
 5964;Barbarische Schultern;1;6013;8099
 4416;Bauplan: Goblinlandmine;1;7200;19000
-12808;Essenz des Untodes;1;45184;49998
-12808;Essenz des Untodes;1;45184;49998
-12808;Essenz des Untodes;1;45184;49998
 12985;Ring der Verteidigung;1;35000;50000
 12985;Ring der Verteidigung;1;35000;40000
 12985;Ring der Verteidigung;1;33920;44900
@@ -388,7 +363,6 @@
 1726;Knochenspeer mit Giftspitze;1;18274;20000
 1726;Knochenspeer mit Giftspitze;1;30740;34155
 1726;Knochenspeer mit Giftspitze;1;18274;34500
-12811;Rechtschaffene Kugel;1;499999;499999
 12811;Rechtschaffene Kugel;1;440000;450000
 12811;Rechtschaffene Kugel;1;440000;450000
 12184;Raptorfleisch;1;484;538
@@ -417,10 +391,7 @@
 8190;Hanzos Schwert;1;71511;79457
 4562;Abspalteraxt;1;953;2592
 4562;Abspalteraxt;1;33191;41489
-10939;Groﬂe Magieessenz;5;95000;110000
 10939;Groﬂe Magieessenz;3;40100;54500
-10939;Groﬂe Magieessenz;3;50000;70000
-10939;Groﬂe Magieessenz;4;40000;60000
 22541;Formel: Schild - Widerstand;1;149999;149999
 4477;Sch‰ndlicher Rundschild;1;13766;17208
 12987;Dunkelgewirkte Bundhosen;1;270687;300763

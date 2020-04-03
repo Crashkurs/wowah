@@ -89,16 +89,8 @@
 7067;Elementarerde;6;399200;419000
 20750;Zauberöl;1;19999;29999
 25177;Tanjostab;1;150000;174798
-14047;Runenstoff;10;16000;20000
-14047;Runenstoff;13;7800;0
-14047;Runenstoff;18;26820;26820
-14047;Runenstoff;20;22000;30000
-14047;Runenstoff;20;12000;31900
-14047;Runenstoff;20;20500;30000
-14047;Runenstoff;6;13600;20000
 14047;Runenstoff;20;19168;23960
 14047;Runenstoff;16;15360;19200
-14047;Runenstoff;20;20500;30000
 4582;Weicher buschiger Schwanz;2;3206;4008
 4582;Weicher buschiger Schwanz;1;1603;1990
 13464;Goldener Sansam;20;443000;499999
@@ -119,19 +111,12 @@
 720;Muskelprotzhandschuhe;1;34611;37346
 4464;Züchtigungsstiefel;1;11383;14229
 25898;Harter Erdsturmdiamant;1;747292;934115
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;100000;109999
-22793;Manadistel;20;100000;109999
-22793;Manadistel;20;100000;109999
 22793;Manadistel;20;104478;116087
 22793;Manadistel;20;104478;116087
 22793;Manadistel;20;104478;116087
 22793;Manadistel;20;100000;109999
 22793;Manadistel;20;100000;109999
 22793;Manadistel;2;7638;9548
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
 31883;Segen 8;1;7360000;9100000
 31883;Segen 8;1;7360000;9100000
 29536;Netherkluftbeinrüstung;1;1513999;1595999
@@ -182,15 +167,6 @@
 14729;Kriegsbemalungsschild;1;2784;3480
 5498;Kleine irisierende Perle;7;13300;14168
 5498;Kleine irisierende Perle;2;3138;3487
-7069;Elementarluft;6;67140;74600
-7069;Elementarluft;2;41200;48888
-7069;Elementarluft;2;41200;48888
-7069;Elementarluft;4;92400;93588
-7069;Elementarluft;1;27500;29000
-7069;Elementarluft;1;27500;29000
-7069;Elementarluft;2;40000;48000
-7069;Elementarluft;2;40000;48000
-7069;Elementarluft;2;40000;48000
 7069;Elementarluft;1;9900;14900
 7069;Elementarluft;1;9900;14900
 7069;Elementarluft;1;9900;14900
@@ -200,7 +176,6 @@
 7069;Elementarluft;1;22095;23017
 7069;Elementarluft;1;22095;23017
 7069;Elementarluft;1;22095;23017
-7069;Elementarluft;2;41200;48888
 7069;Elementarluft;1;22095;23017
 25303;Magieverstärkende Klinge;1;96640;119999
 24216;Vorlage: Glitzernder Edeltopas;1;479600;599500
@@ -281,21 +256,12 @@
 32428;Herz der Dunkelheit;4;89999;99999
 32428;Herz der Dunkelheit;5;110000;115000
 25867;Erdsturmdiamant;1;918750;931000
-25867;Erdsturmdiamant;1;932453;949953
-25867;Erdsturmdiamant;1;937500;950000
 24170;Vorlage: Zärtliche Morgenröte;1;100000;110500
 8028;Pläne: Runenverzierter Mithrilhammer;1;77868;84835
-24214;Vorlage: Mächtiger Edeltopas;1;290000;320000
-24214;Vorlage: Mächtiger Edeltopas;1;150000;150000
-24214;Vorlage: Mächtiger Edeltopas;1;238487;264986
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
-12644;Verdichteter Schleifstein;5;113872;142340
-12644;Verdichteter Schleifstein;20;103600;129500
 23782;Teufelseisengehäuse;1;130692;143793
 23782;Teufelseisengehäuse;1;130692;143793
 31905;Furien 7;1;1200000;1200000
-8831;Lila Lotus;20;89000;90000
-8831;Lila Lotus;1;7614;8460
 23737;Adamantitgranate;10;97500;100000
 24273;Mystischer Zauberfaden;1;1744999;1759999
 24273;Mystischer Zauberfaden;1;1744999;1759999
@@ -316,15 +282,10 @@
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
 23768;Weißes Rauchsignal;6;26550;33000
-23768;Weißes Rauchsignal;6;26550;33000
-23768;Weißes Rauchsignal;6;26553;33192
-23768;Weißes Rauchsignal;6;26550;33000
-23768;Weißes Rauchsignal;1;12687;14097
 25725;Muster: Reitgerte;1;55924;64905
 25725;Muster: Reitgerte;1;75999;94999
 25725;Muster: Reitgerte;1;71647;89559
 32580;Flinkschlagarmschienen;1;4504533;5500000
-32580;Flinkschlagarmschienen;1;4609000;4955000
 7911;Echtsilbererz;19;32319;35910
 24962;Khan'aishhelm;1;90000;99516
 27658;Gerösteter Grollhuf;20;114500;126000
@@ -361,28 +322,16 @@
 24217;Vorlage: Robuster Talasit;1;588800;599900
 32464;Netheriterz;20;60200;80680
 32464;Netheriterz;5;15050;20170
-32464;Netheriterz;2;6200;7750
 14256;Teufelsstoff;2;33744;42180
 7078;Essenz des Feuers;1;9769;9966
 7078;Essenz des Feuers;1;9769;9966
 7078;Essenz des Feuers;1;9769;9966
 7078;Essenz des Feuers;1;23603;26226
-22797;Alptraumsaat;20;198480;199999
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;4;29500;38000
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;1;9031;9068
-22797;Alptraumsaat;20;198480;199999
 22797;Alptraumsaat;20;179999;189999
 22797;Alptraumsaat;20;179999;189999
 22797;Alptraumsaat;20;179999;189999
 22797;Alptraumsaat;20;179999;189999
 22797;Alptraumsaat;20;160000;180000
-22797;Alptraumsaat;1;9031;9068
 31861;Großer Dämmerstein;1;155000;157500
 7071;Eiserne Gürtelschnalle;1;1500;1500
 7071;Eiserne Gürtelschnalle;1;1500;1500
@@ -391,19 +340,9 @@
 7071;Eiserne Gürtelschnalle;1;1500;1500
 6359;Feuerflossenschnapper;20;8030;9000
 6359;Feuerflossenschnapper;20;8030;9000
-24050;Schimmernder Dämmerstein;1;106697;106698
 24050;Schimmernder Dämmerstein;1;100000;105000
 24050;Schimmernder Dämmerstein;1;100000;105000
 24050;Schimmernder Dämmerstein;1;100000;105000
-24050;Schimmernder Dämmerstein;1;106697;106698
-24050;Schimmernder Dämmerstein;1;106697;106698
-24050;Schimmernder Dämmerstein;1;106697;106698
-24050;Schimmernder Dämmerstein;1;99999;106699
-24050;Schimmernder Dämmerstein;1;120000;169999
-24050;Schimmernder Dämmerstein;1;120000;169999
-24050;Schimmernder Dämmerstein;1;120000;169999
-24050;Schimmernder Dämmerstein;1;120000;169999
-24050;Schimmernder Dämmerstein;1;120000;169999
 25843;Teufelseisenrute;1;299900;299900
 6358;Öliges Schwarzmaul;4;65099;66099
 6358;Öliges Schwarzmaul;5;68099;70000
@@ -413,17 +352,6 @@
 12974;Der schwarze Ritter;1;14999;19999
 21151;Schwarzer Rumsey Rum;10;48000;48000
 21151;Schwarzer Rumsey Rum;10;48990;49990
-24243;Adamantitpulver;20;67500;80000
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
-24243;Adamantitpulver;2;8598;9398
 24053;Mystischer Dämmerstein;1;97500;97500
 24053;Mystischer Dämmerstein;1;94499;98899
 24053;Mystischer Dämmerstein;1;97500;97500
@@ -431,7 +359,6 @@
 13489;Rezept: Erde in Leben transmutieren;1;667580;774476
 24218;Vorlage: Strahlender Talasit;1;200000;300000
 24218;Vorlage: Strahlender Talasit;1;200000;300000
-24218;Vorlage: Strahlender Talasit;1;499900;499900
 4592;Langzahniger Matschschnapper;20;3346;3718
 23095;Klobiger Blutgranat;1;18139;22674
 23095;Klobiger Blutgranat;1;39999;55599
@@ -452,58 +379,23 @@
 7085;Muster: Azurblaue Schultern;1;2900;4900
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;616619;685132
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;616619;685132
-25744;Auge eines Dunstschuppenbasilisken;1;4993;4994
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;20;88888;99909
-25744;Auge eines Dunstschuppenbasilisken;7;42560;53200
-25744;Auge eines Dunstschuppenbasilisken;2;11153;13942
-25744;Auge eines Dunstschuppenbasilisken;1;4993;4994
-25744;Auge eines Dunstschuppenbasilisken;1;7136;7929
-25744;Auge eines Dunstschuppenbasilisken;72;635741;706379
-25744;Auge eines Dunstschuppenbasilisken;83;604162;650000
 25744;Auge eines Dunstschuppenbasilisken;14;69568;87710
-25744;Auge eines Dunstschuppenbasilisken;11;51154;60000
-6889;Kleines Ei;1;3000;6000
 25901;Bemerkenswerter Erdsturmdiamant;1;839999;917799
 23793;Schweres Knotenhautleder;6;182400;228000
 27660;Talbuksteak;20;94720;108400
 27660;Talbuksteak;20;94720;108400
 11965;Quarzring;1;21484;31856
-8838;Sonnengras;20;32500;34500
-8838;Sonnengras;20;35000;35000
-8838;Sonnengras;20;35000;35000
-8838;Sonnengras;20;75000;85000
 31884;Segen 5;1;780000;1000000
 31884;Segen 5;1;1319603;1319735
 25899;Grober Erdsturmdiamant;1;945000;990000
 25899;Grober Erdsturmdiamant;1;945000;990000
 31887;Segen 6;1;12480000;15350000
 24219;Vorlage: Schillernder Talasit;1;139999;139999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;1;44999;49999
-23437;Talasit;20;750000;750000
-23437;Talasit;1;35000;40000
-23437;Talasit;1;115000;120000
-23437;Talasit;1;115000;120000
-23437;Talasit;1;115000;120000
 27659;Doppelwarper;20;203999;349499
 27659;Doppelwarper;20;203999;349499
 27659;Doppelwarper;20;203999;349499
 27659;Doppelwarper;15;103375;280000
 27659;Doppelwarper;20;204500;350000
-25868;Himmelsfeuerdiamant;1;950000;950000
-25868;Himmelsfeuerdiamant;1;975688;989310
-25868;Himmelsfeuerdiamant;1;985000;1000000
 25868;Himmelsfeuerdiamant;1;946174;949524
 32224;Strahlender Gischtsmaragd;1;529999;659999
 2318;Leichtes Leder;10;4000;7500
@@ -520,19 +412,7 @@
 24222;Dolch des schleichenden Todes;1;160133;177925
 24222;Dolch des schleichenden Todes;1;89999;99999
 7392;Grünwelpenschuppe;1;8999;9998
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;1;29584;37980
-22794;Teufelslotus;20;599580;599580
-22794;Teufelslotus;5;199995;249995
 22794;Teufelslotus;20;530000;580000
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;14;504107;555134
-22794;Teufelslotus;5;199995;249995
 7080;Essenz des Wassers;3;234841;260935
 23636;Pläne: Todeslied;1;160000;220000
 23636;Pläne: Todeslied;1;310000;320000
@@ -548,21 +428,10 @@
 28290;Glatter Golddraenit;1;22480;35600
 28290;Glatter Golddraenit;1;22480;35600
 13046;Blanchards Schädelbrecher;1;44404;50449
-24048;Glatter Dämmerstein;1;159900;159900
 24048;Glatter Dämmerstein;1;150000;157500
 24048;Glatter Dämmerstein;1;150000;157500
 24048;Glatter Dämmerstein;1;150000;157500
 24048;Glatter Dämmerstein;1;119999;158899
-24048;Glatter Dämmerstein;1;159900;159900
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;159900;159900
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-8836;Arthas' Tränen;9;72240;95300
-8836;Arthas' Tränen;10;71425;85000
 33782;Beständiger Talasit;1;84499;94499
 4480;Donnernder Glücksbringer;10;8500;20000
 24030;Runenverzierter lebendiger Rubin;1;189999;237499
@@ -579,12 +448,6 @@
 32836;Geläuterte Schattenperle;1;570000;575000
 32836;Geläuterte Schattenperle;1;570000;575000
 32836;Geläuterte Schattenperle;1;570000;575000
-22795;Teufelsblüte;20;5000;6500
-22795;Teufelsblüte;20;5000;6500
-22795;Teufelsblüte;20;5000;6500
-22795;Teufelsblüte;20;5000;6500
-22795;Teufelsblüte;20;5599;6950
-22795;Teufelsblüte;5;1400;1750
 24060;Glänzender Edeltopas;1;121220;151525
 24060;Glänzender Edeltopas;1;150000;159500
 7086;Muster: Irdener Seidengürtel;1;7554;8393
@@ -615,11 +478,6 @@
 31901;Furien Ass;1;170000;185000
 31901;Furien Ass;1;75000;100000
 31901;Furien Ass;1;145564;161738
-25896;Mächtiger Erdsturmdiamant;1;915000;919600
-25896;Mächtiger Erdsturmdiamant;1;1007500;1009500
-25896;Mächtiger Erdsturmdiamant;1;875619;919400
-25896;Mächtiger Erdsturmdiamant;1;919399;919399
-25896;Mächtiger Erdsturmdiamant;1;897083;909285
 25896;Mächtiger Erdsturmdiamant;1;865890;909185
 25896;Mächtiger Erdsturmdiamant;1;900000;900000
 25802;Schreckensgiftbeutel;24;282984;282984
@@ -640,22 +498,9 @@
 23637;Pläne: Hand der Ewigkeit;1;143397;239330
 7070;Elementarwasser;1;15623;17359
 7070;Elementarwasser;1;14900;19900
-7070;Elementarwasser;1;35351;57323
-7070;Elementarwasser;1;35351;57323
 4562;Abspalteraxt;1;33191;41489
 4562;Abspalteraxt;1;953;2592
 27657;Schwarzgebratener Basilisk;20;349999;369999
-27657;Schwarzgebratener Basilisk;20;388888;388888
-27657;Schwarzgebratener Basilisk;20;388888;388888
-27657;Schwarzgebratener Basilisk;20;388888;388888
-27657;Schwarzgebratener Basilisk;20;388999;398999
-27657;Schwarzgebratener Basilisk;20;388999;398999
-27657;Schwarzgebratener Basilisk;20;388999;398999
-27657;Schwarzgebratener Basilisk;11;302475;308888
-27657;Schwarzgebratener Basilisk;20;494500;499900
-27657;Schwarzgebratener Basilisk;20;494500;499900
-27657;Schwarzgebratener Basilisk;20;390000;399500
-27657;Schwarzgebratener Basilisk;20;390000;399500
 6391;Muster: Modisches grünes Hemd;1;2000;5000
 31201;Illidariumhang;1;454836;500000
 31201;Illidariumhang;1;3000155;3209061
@@ -678,50 +523,11 @@
 23111;Stattlicher Schattendraenit;1;25232;39040
 23111;Stattlicher Schattendraenit;1;25232;39040
 23111;Stattlicher Schattendraenit;1;25232;39040
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;6;48462;54648
-30810;Siegel des Sonnenzorns;13;89980;112476
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;12;53600;80000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;15;84500;90000
-30810;Siegel des Sonnenzorns;10;80000;90000
-30810;Siegel des Sonnenzorns;10;80000;90000
-30810;Siegel des Sonnenzorns;10;80000;90000
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;26;298792;305240
-30810;Siegel des Sonnenzorns;8;75002;83335
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;20;199999;229999
-30810;Siegel des Sonnenzorns;10;80000;90000
 30810;Siegel des Sonnenzorns;5;41500;50000
 30810;Siegel des Sonnenzorns;5;40000;45000
-30810;Siegel des Sonnenzorns;10;80000;90000
-30810;Siegel des Sonnenzorns;10;80000;90000
 22153;Foliant der arkanen Brillanz 2;1;150000;200000
 22153;Foliant der arkanen Brillanz 2;1;150000;200000
-25897;Starker Erdsturmdiamant;1;886435;886435
 25897;Starker Erdsturmdiamant;1;803535;876584
-25897;Starker Erdsturmdiamant;1;858412;876684
-25897;Starker Erdsturmdiamant;1;973500;1000000
-25897;Starker Erdsturmdiamant;1;812566;886436
 19943;Gewaltig viel Mojo;2;24961;27734
 27498;Rolle der Beweglichkeit V;2;69500;76000
 24031;Heller lebendiger Rubin;1;198511;248139
@@ -752,36 +558,6 @@
 23100;Glitzernder Flammenspessarit;1;19999;24499
 10286;Herz der Wildnis;2;17233;21542
 27515;Große Tüpfelteufelsfinne;5;37240;46550
-21877;Netherstoff;5;5999;11999
-21877;Netherstoff;20;29440;36800
-21877;Netherstoff;20;33780;37540
-21877;Netherstoff;20;33780;37540
-21877;Netherstoff;20;24999;47999
-21877;Netherstoff;20;45000;45100
-21877;Netherstoff;20;33780;37540
-21877;Netherstoff;20;34000;49999
-21877;Netherstoff;20;45000;45100
-21877;Netherstoff;20;44000;47999
-21877;Netherstoff;20;44000;47999
-21877;Netherstoff;20;35000;37500
-21877;Netherstoff;20;45000;45100
-21877;Netherstoff;20;35000;37500
-21877;Netherstoff;20;35000;37500
-21877;Netherstoff;20;35000;37500
-21877;Netherstoff;20;24000;49800
-21877;Netherstoff;20;24000;49800
-21877;Netherstoff;20;44900;44900
-21877;Netherstoff;20;34000;49999
-21877;Netherstoff;5;16000;16000
-21877;Netherstoff;20;45000;45100
-21877;Netherstoff;13;25600;25600
-21877;Netherstoff;20;44900;44900
-21877;Netherstoff;20;39999;44444
-21877;Netherstoff;20;39999;44444
-21877;Netherstoff;20;39999;44444
-21877;Netherstoff;6;12360;14700
-21877;Netherstoff;20;34000;45000
-21877;Netherstoff;20;34000;45000
 13476;Rezept: Mächtiger Wuttrank;1;14500;20600
 13476;Rezept: Mächtiger Wuttrank;1;8245;20600
 13476;Rezept: Mächtiger Wuttrank;1;12856;20896
@@ -792,7 +568,6 @@
 24220;Vorlage: Gezackter Talasit;1;227885;253206
 32577;Lebendige Erdbindungen;1;3666136;3999900
 25065;Türkisbrosche;1;110000;119864
-7068;Elementarfeuer;2;17382;19313
 7068;Elementarfeuer;1;8900;9900
 7068;Elementarfeuer;1;8900;9900
 7068;Elementarfeuer;1;8691;9656
@@ -801,34 +576,11 @@
 13466;Pestblüte;18;15318;19080
 22825;Elixier der Heilkraft;20;1104879;1199579
 22825;Elixier der Heilkraft;2;167500;170000
-22825;Elixier der Heilkraft;2;177500;180000
-22825;Elixier der Heilkraft;2;177500;180000
 22825;Elixier der Heilkraft;20;1132500;1195000
 22825;Elixier der Heilkraft;2;167500;170000
 22825;Elixier der Heilkraft;2;167500;170000
 22825;Elixier der Heilkraft;2;167500;170000
 22825;Elixier der Heilkraft;5;448750;450000
-24047;Brillanter Dämmerstein;1;43000;53500
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43000;53500
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43700;54625
-24047;Brillanter Dämmerstein;1;43000;53500
-24047;Brillanter Dämmerstein;1;43000;53500
-24047;Brillanter Dämmerstein;1;43000;53500
 24047;Brillanter Dämmerstein;1;53000;53000
 24047;Brillanter Dämmerstein;1;53000;53000
 24047;Brillanter Dämmerstein;1;53000;53000
@@ -842,11 +594,7 @@
 25844;Adamantitrute;1;150000;180000
 25719;Arakkoafeder;24;401248;450000
 25719;Arakkoafeder;250;4888888;4999999
-4461;Raptorbalg;8;2500;2700
 4461;Raptorbalg;10;3578;3976
-4461;Raptorbalg;10;2560;3200
-4461;Raptorbalg;7;12784;15981
-4461;Raptorbalg;7;1965;2457
 4461;Raptorbalg;10;3578;3976
 4461;Raptorbalg;2;715;795
 4589;Lange elegante Feder;1;9395;9400
@@ -854,16 +602,10 @@
 4589;Lange elegante Feder;5;35720;44650
 4589;Lange elegante Feder;9;15478;16852
 23781;Elementarsprengpulver;5;27600;39500
-22824;Elixier der erheblichen Stärke;20;299500;299800
-22824;Elixier der erheblichen Stärke;20;299500;299800
 22824;Elixier der erheblichen Stärke;4;15000;50000
 890;Stab des verrückten Sängers;1;507056;598951
 31186;Braxxis' Stab des Schlummers;1;121212;131313
 31186;Braxxis' Stab des Schlummers;1;121212;131313
-16203;Große ewige Essenz;1;96600;99400
 27516;Riesige Stachelkiemenforelle;3;180000;240000
-13463;Traumblatt;8;41200;60000
 24168;Vorlage: Geflochtene Eterniumkette;1;90000;99000
 32470;Balg eines Netherminenschinders;4;24912;31140
-29535;Netherkobrabeinrüstung;1;2899999;2969999
-29535;Netherkobrabeinrüstung;1;2895000;2975000

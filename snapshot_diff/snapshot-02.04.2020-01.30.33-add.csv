@@ -72,7 +72,6 @@
 24169;Vorlage: Auge der Nacht;1;110000;110000
 13055;Knochenkauer;1;64050;85000
 33052;Fischerschmaus;5;49900;49900
-33052;Fischerschmaus;20;156166;173518
 33122;Umhang der Dunkelheit;1;3989599;4495999
 16254;Formel: Waffe - Lebensdiebstahl;1;119900;119900
 29536;Netherkluftbeinrüstung;1;1513999;1595999
@@ -113,23 +112,9 @@
 34105;Köcher der tausend Federn;1;1886000;1973000
 22914;Rezept: Zerstörungstrank;1;1440000;1550000
 22914;Rezept: Zerstörungstrank;1;1150000;1250000
-33872;Feuriger Würztalbuk;20;138980;138980
 33872;Feuriger Würztalbuk;20;129999;136999
 33872;Feuriger Würztalbuk;20;129999;136999
-33872;Feuriger Würztalbuk;20;130500;138000
-33872;Feuriger Würztalbuk;20;130500;138000
-33872;Feuriger Würztalbuk;20;130500;138000
-33872;Feuriger Würztalbuk;5;34745;34745
-33872;Feuriger Würztalbuk;20;138980;138980
-33872;Feuriger Würztalbuk;20;138980;138980
 33872;Feuriger Würztalbuk;20;129999;136999
-33872;Feuriger Würztalbuk;20;131500;139000
-33872;Feuriger Würztalbuk;20;136904;139956
-33872;Feuriger Würztalbuk;20;149998;149998
-33872;Feuriger Würztalbuk;20;131500;139000
-33872;Feuriger Würztalbuk;20;136904;139956
-33872;Feuriger Würztalbuk;20;136904;139956
-33872;Feuriger Würztalbuk;20;131500;139000
 2319;Mittleres Leder;14;90160;102200
 22542;Formel: Stiefel - Vitalität;1;750000;770000
 22542;Formel: Stiefel - Vitalität;1;750000;770000
@@ -415,10 +400,6 @@
 23784;Adamantitrahmen;10;829480;887990
 33874;Kiblers Häppchen;20;69499;84499
 33874;Kiblers Häppchen;20;69499;84499
-33874;Kiblers Häppchen;20;88888;99999
-33874;Kiblers Häppchen;20;88888;99999
-33874;Kiblers Häppchen;20;88888;99999
-33874;Kiblers Häppchen;20;88888;99999
 24609;Schädelkappe;1;26319;50000
 19232;Bestien 4;1;99900;99900
 19232;Bestien 4;1;88750;100000
@@ -518,7 +499,6 @@
 10978;Kleiner gleißender Splitter;1;129;162
 25901;Bemerkenswerter Erdsturmdiamant;1;694419;696699
 25744;Auge eines Dunstschuppenbasilisken;83;604162;650000
-32836;Geläuterte Schattenperle;1;575000;578000
 27503;Rolle der Stärke V;5;200625;237500
 27503;Rolle der Stärke V;5;200625;237500
 27503;Rolle der Stärke V;5;200625;237500
@@ -958,35 +938,10 @@
 5574;Weiße Ledertasche;1;2394;2660
 2075;Priesterstreitkolben;1;5500;6500
 19269;Elementar 2;1;19900;19900
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;100;2000100;2200000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;100;2000100;2200000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;50;1000100;1100000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;50;478100;487650
-32897;Mal der Illidari;5;80000;90000
 32897;Mal der Illidari;50;478100;487650
 32897;Mal der Illidari;50;478100;487650
-32897;Mal der Illidari;5;80000;90000
 32897;Mal der Illidari;50;478100;487650
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
-32897;Mal der Illidari;5;80000;90000
+32897;Mal der Illidari;50;478100;487650
 2776;Golderz;10;8320;10080
 2776;Golderz;10;8320;10080
 2776;Golderz;10;8320;10080
