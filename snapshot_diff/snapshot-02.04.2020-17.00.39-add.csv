@@ -52,11 +52,6 @@
 6317;Roher Lochfrenzy;1;2000;3000
 10601;Bauplan: Hellaugenschutzbrille;1;20000;30000
 10601;Bauplan: Hellaugenschutzbrille;1;8500000;10000000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
 19441;Riesiger Giftbeutel;1;3656;4063
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;36989;37766
 3871;Pläne: Goldene Schuppenschultern;1;10000;12000
@@ -116,33 +111,6 @@
 4582;Weicher buschiger Schwanz;1;1603;1990
 4582;Weicher buschiger Schwanz;2;3206;4008
 4464;Züchtigungsstiefel;1;11383;14229
-22793;Manadistel;20;149999;199999
-22793;Manadistel;4;21436;26796
-22793;Manadistel;4;31600;39500
-22793;Manadistel;15;73488;91860
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;149999;199999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
 23103;Strahlender Tiefenperidot;1;9000;12000
 23103;Strahlender Tiefenperidot;1;7600;19500
 23103;Strahlender Tiefenperidot;1;9000;12000
@@ -199,21 +167,6 @@
 11128;Goldrute;1;79500;79500
 11128;Goldrute;1;79500;79500
 4347;Muster: Verstärkte Wollschultern;1;2304;2880
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;96740;139999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;114930;118700
-22522;Überragendes Zauberöl;1;114930;118700
-22522;Überragendes Zauberöl;1;114930;118700
-22522;Überragendes Zauberöl;1;114930;118700
-22522;Überragendes Zauberöl;1;96740;139999
-22522;Überragendes Zauberöl;1;96740;139999
-22522;Überragendes Zauberöl;1;96740;139999
 6338;Silberrute;1;4500;4800
 6338;Silberrute;1;4600;4799
 6338;Silberrute;1;4204;4751
@@ -250,14 +203,7 @@
 6372;Schwimmtempotrank;5;8700;10000
 6372;Schwimmtempotrank;5;8765;10315
 6372;Schwimmtempotrank;2;705;1150
-11135;Große Mystikeressenz;1;7900;8100
-11135;Große Mystikeressenz;1;4000;5000
-11135;Große Mystikeressenz;1;4000;5000
-11135;Große Mystikeressenz;1;4000;5000
 11135;Große Mystikeressenz;4;29817;39772
-11135;Große Mystikeressenz;2;19200;20000
-11135;Große Mystikeressenz;8;32838;41048
-11135;Große Mystikeressenz;1;5000;5100
 4500;Reiserucksack;1;53125;80000
 4500;Reiserucksack;1;118750;120000
 4500;Reiserucksack;1;63125;70000
@@ -443,7 +389,6 @@
 14048;Runenstoffballen;10;113000;119500
 24477;Jaggalmuschelfleisch;1;491;546
 24477;Jaggalmuschelfleisch;10;4915;5461
-11098;Formel: Umhang - Geringer Schattenwiderstand;1;4500;8800
 25744;Auge eines Dunstschuppenbasilisken;2;12469;13854
 1979;Mauer der Toten;1;153600;179500
 1979;Mauer der Toten;1;224476;253096
@@ -523,7 +468,6 @@
 3864;Citrin;2;12400;15000
 3864;Citrin;1;8500;9500
 3864;Citrin;3;25500;28500
-22445;Arkaner Staub;4;63000;67000
 22445;Arkaner Staub;20;210100;220000
 22445;Arkaner Staub;20;210100;220000
 21881;Netherweberseide;2;13318;13708
@@ -667,18 +611,12 @@
 22452;Urerde;1;29999;39999
 7077;Herz des Feuers;2;57282;57668
 4075;Gepanzerte Gefechtshandschuhe;1;7876;8900
-23099;Glänzender Flammenspessarit;1;15199;18999
-23099;Glänzender Flammenspessarit;1;13399;19999
-23099;Glänzender Flammenspessarit;1;13399;19999
 3874;Pläne: Polierte Stahlstiefel;1;6507;8134
 6037;Echtsilberbarren;2;3750;0
 24401;Unbekannte Pflanzenteile;100;249540;253300
 24401;Unbekannte Pflanzenteile;100;249540;253300
 21887;Knotenhautleder;19;192128;192888
 23100;Glitzernder Flammenspessarit;1;10950;11900
-23100;Glitzernder Flammenspessarit;1;19999;24499
-23100;Glitzernder Flammenspessarit;1;19999;24499
-23100;Glitzernder Flammenspessarit;1;20000;25000
 21877;Netherstoff;20;29999;35999
 21877;Netherstoff;20;29999;35999
 21877;Netherstoff;20;29999;35999
