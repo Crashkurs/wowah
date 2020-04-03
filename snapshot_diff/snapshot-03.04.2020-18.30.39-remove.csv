@@ -3,12 +3,7 @@
 22541;Formel: Schild - Widerstand;1;250000;250000
 22541;Formel: Schild - Widerstand;1;197173;232414
 29506;Handschuhe der lebendigen Berührung;1;3991041;4000000
-30282;Muster: Stiefel der Zauberwucht;1;1119999;1119999
 30282;Muster: Stiefel der Zauberwucht;1;1498776;1559999
-30282;Muster: Stiefel der Zauberwucht;1;1185599;1191999
-32230;Schattensangamethyst;1;511000;521250
-32230;Schattensangamethyst;1;511000;521250
-32230;Schattensangamethyst;1;511000;521250
 13019;Harpyienklauenkurzbogen;1;4765;0
 23079;Tiefenperidot;4;15000;20000
 13028;Blutfelshammer;1;136716;151907
@@ -28,23 +23,10 @@
 27667;Würziger Flusskrebs;20;60000;79500
 24478;Jaggalperle;2;15704;15736
 24478;Jaggalperle;2;11360;14200
-11176;Traumstaub;20;30100;79999
 11176;Traumstaub;20;190100;199000
 11176;Traumstaub;20;190100;199000
 11176;Traumstaub;20;190100;199000
 11176;Traumstaub;20;190100;199000
-11176;Traumstaub;17;100186;105983
-11176;Traumstaub;20;67984;79980
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;12;33999;37999
 13021;Einfädler;1;22723;28404
 13021;Einfädler;1;29419;32688
 13021;Einfädler;1;25041;29900
@@ -81,11 +63,6 @@
 8845;Geisterpilz;20;101250;120000
 29550;Foliant des Wasserherbeizauberns IX;1;35000;40000
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;90000;90000
-13033;Zelotenklinge;1;54390;57100
-13033;Zelotenklinge;1;41729;46366
-13033;Zelotenklinge;1;22141;29000
-13033;Zelotenklinge;1;54390;57100
-13033;Zelotenklinge;1;54390;57100
 13033;Zelotenklinge;1;17000;30000
 31895;Sturm 4;1;250000;300000
 30283;Muster: Stiefel des langen Weges;1;389500;392500
@@ -118,8 +95,6 @@
 23098;Gravierter Flammenspessarit;1;15600;19500
 23098;Gravierter Flammenspessarit;1;7600;19500
 30155;Muschelriegel;20;22736;28420
-30155;Muschelriegel;20;19580;25600
-30155;Muschelriegel;20;19580;25600
 24047;Brillanter Dämmerstein;1;95000;99999
 24047;Brillanter Dämmerstein;1;95000;99999
 24047;Brillanter Dämmerstein;1;95000;99999
@@ -142,11 +117,6 @@
 31331;Die Nachtklinge;1;3039999;3799999
 13032;Schwert der Verderbnis;1;6628;16660
 13032;Schwert der Verderbnis;1;15000;15000
-9187;Elixier der großen Beweglichkeit;10;38000;38000
-9187;Elixier der großen Beweglichkeit;1;3820;4776
-9187;Elixier der großen Beweglichkeit;1;3820;4776
-9187;Elixier der großen Beweglichkeit;20;76000;76000
-9187;Elixier der großen Beweglichkeit;1;3820;4776
 31673;Knusperschlange;20;265900;332400
 30810;Siegel des Sonnenzorns;10;53000;78800
 30810;Siegel des Sonnenzorns;10;53000;78800
@@ -176,10 +146,7 @@
 14047;Runenstoff;20;29800;29900
 14047;Runenstoff;20;29800;29900
 14047;Runenstoff;20;29800;29900
-14047;Runenstoff;20;22000;29999
-14047;Runenstoff;20;22000;29999
 14047;Runenstoff;20;29800;29900
-14047;Runenstoff;20;22000;29999
 14047;Runenstoff;20;29800;29900
 14047;Runenstoff;20;29800;29900
 14047;Runenstoff;20;29800;29900
@@ -201,17 +168,9 @@
 791;Knorriger Eschenstab;1;40603;67500
 791;Knorriger Eschenstab;1;40603;67500
 25845;Eterniumrute;1;530000;550000
-9036;Magiewiderstandstrank;5;239999;239999
 9036;Magiewiderstandstrank;5;240000;249000
 9036;Magiewiderstandstrank;5;240000;249000
-9036;Magiewiderstandstrank;5;474999;499999
-9036;Magiewiderstandstrank;5;474999;499999
-9036;Magiewiderstandstrank;5;474999;499999
-9036;Magiewiderstandstrank;5;474999;499999
-9036;Magiewiderstandstrank;5;239999;239999
 9036;Magiewiderstandstrank;5;240000;249000
-9036;Magiewiderstandstrank;5;230150;240000
-9036;Magiewiderstandstrank;5;239999;239999
 9036;Magiewiderstandstrank;5;240000;249000
 9036;Magiewiderstandstrank;5;240000;249000
 9036;Magiewiderstandstrank;1;79000;133000
@@ -241,37 +200,7 @@
 31148;Dämonenbalgschiftung;1;60000;69000
 31138;Gurt des Sturmfürsten;1;65600;67000
 24114;Geflochtene Eterniumkette;1;449999;499999
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
-25867;Erdsturmdiamant;1;855000;855000
-25867;Erdsturmdiamant;1;855000;855000
 25867;Erdsturmdiamant;1;937500;950000
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 23112;Golddraenit;6;146500;155000
 13026;Himmelslicht;1;29161;48000
 13026;Himmelslicht;1;39000;47800

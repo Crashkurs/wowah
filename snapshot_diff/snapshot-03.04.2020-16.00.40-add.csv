@@ -83,7 +83,6 @@
 12984;Himmelrufer;1;22134;25000
 20748;Hervorragendes Manaöl;1;188888;199090
 31913;Delirium 4;1;95000;100000
-8180;Jagdbogen;1;10000;10000
 4231;Geschmeidiger leichter Balg;1;800;1900
 4231;Geschmeidiger leichter Balg;1;800;1900
 31910;Delirium Ass;1;35000;40000
@@ -111,12 +110,8 @@
 15427;Unvergleichlicher Umhang;1;12804;26000
 2698;Rezept: Gekochte Krebsschere;1;30100;40000
 13037;Kristallfichtenstecher;1;28914;37000
-13037;Kristallfichtenstecher;1;36993;36999
-13037;Kristallfichtenstecher;1;29504;37755
 31896;Sturm 7;1;217500;220000
 31896;Sturm 7;1;230000;600000
-7966;Robuster Schleifstein;16;94800;149999
-7966;Robuster Schleifstein;1;11820;14776
 31292;Pulsierender Kristallschild;1;458645;495000
 11175;Große Netheressenz;1;54500;58000
 11175;Große Netheressenz;1;50000;54000
@@ -158,28 +153,8 @@
 12363;Arkankristall;5;499999;499999
 12363;Arkankristall;5;499999;499999
 12363;Arkankristall;1;3819;21999
-7076;Essenz der Erde;2;102398;102398
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
 7076;Essenz der Erde;4;204796;204796
 7076;Essenz der Erde;4;204796;204796
-7076;Essenz der Erde;4;204796;204796
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;6;453600;470000
-7076;Essenz der Erde;1;75240;94050
 13014;Axt von Rin'ji;1;64705;70000
 5134;Kleine pelzige Tatze;1;1148;1435
 5134;Kleine pelzige Tatze;1;1148;1435
@@ -188,9 +163,6 @@
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
 20966;Jadeanhänger der Zauberwucht;1;95000;99000
 13043;Klinge der Titanen;1;32389;0
-13043;Klinge der Titanen;1;37825;47282
-13043;Klinge der Titanen;1;45000;50000
-13043;Klinge der Titanen;1;37825;47282
 22452;Urerde;1;38024;47530
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
@@ -275,14 +247,6 @@
 21309;Schneemannset;1;280100;290000
 17057;Glänzende Fischschuppen;4;220;276
 7077;Herz des Feuers;2;73500;77420
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;1;37500;39500
-7077;Herz des Feuers;2;57282;57668
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;1;1280;20000
-7077;Herz des Feuers;1;21999;29999
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
 25868;Himmelsfeuerdiamant;1;920000;940000
 25868;Himmelsfeuerdiamant;1;920000;940000
 21885;Urwasser;4;394000;400000
@@ -337,7 +301,6 @@
 7934;Schwerer Mithrilhelm;1;15171;29999
 16767;Rezept: Muschelsuppe à la Undermine;1;90750;100000
 13422;Steinschuppenaal;20;46064;57580
-13046;Blanchards Schädelbrecher;1;32370;49300
 13046;Blanchards Schädelbrecher;1;44404;50449
 2674;Kriecherfleisch;10;400120;500000
 4625;Feuerblüte;20;29900;49900
@@ -394,16 +357,9 @@
 9295;Rezept: Unsichtbarkeitstrank;1;13679;17099
 9295;Rezept: Unsichtbarkeitstrank;1;13679;17099
 20869;Bernsteingötze;1;10000;20000
-12365;Verdichteter Stein;20;9000;13000
-12365;Verdichteter Stein;20;9000;13000
-12365;Verdichteter Stein;20;7520;9400
-12365;Verdichteter Stein;20;7520;9400
-12365;Verdichteter Stein;20;7500;9000
 4623;Geringer Steinschildtrank;3;12200;13700
 4623;Geringer Steinschildtrank;1;13062;13100
 31212;Schimärenhautgamaschen;1;459272;490000
-13032;Schwert der Verderbnis;1;6628;16660
-13032;Schwert der Verderbnis;1;15000;15000
 2840;Kupferbarren;20;30300;38999
 2840;Kupferbarren;20;30300;38999
 2840;Kupferbarren;20;30300;38999
@@ -420,7 +376,6 @@
 12361;Blauer Saphir;1;10000;22000
 12361;Blauer Saphir;1;10000;22000
 18335;Makelloser schwarzer Diamant;1;90100;100000
-2878;Hakenknochenaxt;1;90000;110000
 4998;Blutring;1;99900;99900
 7912;Robuster Stein;20;6000;7500
 7912;Robuster Stein;20;6000;7500
@@ -465,12 +420,9 @@
 13134;Gürtel des Gladiators;1;36559;45699
 24027;Klobiger lebendiger Rubin;1;235000;240000
 24027;Klobiger lebendiger Rubin;1;235000;240000
-4096;Grobes Gorillahaar;8;6464;6800
-4096;Grobes Gorillahaar;1;789;877
 4096;Grobes Gorillahaar;10;8080;8500
 4096;Grobes Gorillahaar;10;9120;10000
 4096;Grobes Gorillahaar;4;3100;3400
-4096;Grobes Gorillahaar;3;2369;2632
 4096;Grobes Gorillahaar;10;8880;9990
 4096;Grobes Gorillahaar;10;8880;9990
 16204;Illusionsstaub;20;176000;176000
@@ -517,18 +469,7 @@
 25708;Dickes Grollhufleder;20;500000;550000
 25708;Dickes Grollhufleder;20;500000;550000
 25708;Dickes Grollhufleder;20;500000;550000
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;2;71984;71992
-23441;Nachtauge;1;114900;149900
 8172;Geschmeidiger dicker Balg;5;50000;92500
-8172;Geschmeidiger dicker Balg;10;100000;185000
-8172;Geschmeidiger dicker Balg;5;50000;88500
-8172;Geschmeidiger dicker Balg;1;10000;17700
-8172;Geschmeidiger dicker Balg;3;30000;53100
 2877;Mitstreiterclaymore;1;12800;16000
 2877;Mitstreiterclaymore;1;18664;20738
 31133;Gamaschen der undurchdringlichen Dunkelheit;1;195999;195999
@@ -546,26 +487,13 @@
 24274;Runenverzierter Zauberfaden;1;2699500;2859500
 24274;Runenverzierter Zauberfaden;1;2699999;2849999
 24274;Runenverzierter Zauberfaden;1;2699999;2849999
-7078;Essenz des Feuers;2;15000;16000
-7078;Essenz des Feuers;3;18808;23511
-7078;Essenz des Feuers;1;23603;26226
 7078;Essenz des Feuers;3;29307;29898
-7078;Essenz des Feuers;2;15000;16500
 7910;Sternrubin;1;19900;24900
 19274;Elementar 7;1;18750;49900
 13022;Greifenflügellangbogen;1;20542;36158
 13030;Basiliskknochen;1;15366;19208
-2841;Bronzebarren;1;2372;2373
-2841;Bronzebarren;20;55664;69580
 2841;Bronzebarren;20;36064;45080
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;1;2372;2373
 2841;Bronzebarren;20;36064;45080
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;18;46080;57600
-2841;Bronzebarren;2;3798;4748
 2841;Bronzebarren;20;36064;45080
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
@@ -609,29 +537,7 @@
 10051;Rote Magiestofftasche;1;9750;15000
 31275;Trophäenhalskette;1;352854;390000
 13491;Rezept: Elixier des Mungos;1;166900;179500
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;1;4910;5456
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;116500;119800
 10940;Seltsamer Staub;6;19834;22037
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17375;19900
 13026;Himmelslicht;1;29161;48000
 13026;Himmelslicht;1;39000;47800
 32062;Elixier der erheblichen Seelenstärke;5;199375;199899
@@ -725,9 +631,6 @@
 4426;Rolle der Stärke III;1;4664;5830
 16251;Formel: Armschiene - Überragende Ausdauer;1;201250;220000
 13029;Umbralkristall;1;10368;11638
-13029;Umbralkristall;1;8934;11168
-13029;Umbralkristall;1;16413;18236
-13029;Umbralkristall;1;10580;11756
 5503;Muschelfleisch;8;160128;200000
 23427;Eterniumerz;2;39667;49584
 22832;Erstklassiger Manatrank;5;140000;140000

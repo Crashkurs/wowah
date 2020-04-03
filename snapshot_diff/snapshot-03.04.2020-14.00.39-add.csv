@@ -1,6 +1,3 @@
-4234;Schweres Leder;20;115000;127500
-4234;Schweres Leder;20;115000;127500
-4234;Schweres Leder;20;115000;127500
 9260;Flüchtiger Rum;4;3628;4031
 10560;Instabiler Auslöser;1;55820;55821
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
@@ -33,8 +30,6 @@
 11185;Grüner Machtkristall;11;126863;128744
 3356;Königsblut;20;9580;13600
 3356;Königsblut;20;9580;13600
-3356;Königsblut;19;10855;11200
-3356;Königsblut;4;36000;40000
 3356;Königsblut;8;3584;4480
 10938;Geringe Magieessenz;1;100;6900
 10938;Geringe Magieessenz;1;100;6900
@@ -52,9 +47,7 @@
 10413;Handschuhe des Giftzahns;1;299900;299900
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;9999;9999
 3037;Peitschenholzdoppelbogen;1;21496;22773
-3037;Peitschenholzdoppelbogen;1;17307;21634
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;12716;14676
-10603;Bauplan: Ultraschutzbrille der Katzensicht;1;92600;102800
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;5011;5567
 10368;Magieerfüllte Plattenrüstung;1;43734;90000
 5082;Dünnes Kodoleder;2;2171;2412
@@ -69,9 +62,6 @@
 5575;Großer grüner Sack;1;11640;12934
 3164;Verfärbtes Worgherz;10;38290;42720
 25650;Knotenhautrüstungsset;4;60000;65000
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
 3203;Handfester Dreiecksstreitkolben;1;13500;19500
 3203;Handfester Dreiecksstreitkolben;1;14471;19701
 22785;Teufelsgras;19;41800;41800
@@ -93,14 +83,10 @@
 27498;Rolle der Beweglichkeit V;5;240000;249499
 2997;Wollstoffballen;6;36000;37500
 2997;Wollstoffballen;4;24000;25000
-25843;Teufelseisenrute;1;299900;299900
-25843;Teufelseisenrute;1;227924;284905
 25843;Teufelseisenrute;1;272000;280000
 12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;7;4881;5423
 4711;Gleißender Umhang;1;25723;26359
-3075;Flammenauge;1;49552;56941
-3075;Flammenauge;1;62609;68888
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;7412;8235
 8193;Hose des Nachtschleichers;1;23062;29900
 25867;Erdsturmdiamant;1;676767;686868
@@ -161,16 +147,6 @@
 22788;Flammenkappe;1;17081;19056
 22788;Flammenkappe;1;17081;19056
 22788;Flammenkappe;1;17081;19056
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;38000;59900
-6037;Echtsilberbarren;3;5625;5999
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;47500;49999
 10593;Unvollständiges Draenethystfragment;1;7494;8326
 5543;Pläne: Schillernder Hammer;1;5285;5872
 11137;Visionenstaub;5;32040;35600
@@ -209,11 +185,7 @@
 1710;Großer Heiltrank;1;629;699
 1710;Großer Heiltrank;5;3500;4000
 10379;Kommandantenhelm;1;952418;990000
-10620;Thoriumerz;20;187500;200000
 10620;Thoriumerz;20;129999;149999
-4247;Lederhandschuhe des Hügelwächters;1;1573;3000
-4247;Lederhandschuhe des Hügelwächters;1;1573;3000
-4247;Lederhandschuhe des Hügelwächters;1;1573;3000
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 7447;Schildwachenarmschienen;1;6617;8272
@@ -224,23 +196,8 @@
 3069;Helle Robe;1;4518;5648
 3341;Stulpen der Ogerstärke;1;5187;6484
 10199;Kreuzfahrergamaschen;1;30000;40000
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;1;17720;19900
 10939;Große Magieessenz;1;15000;17000
 10939;Große Magieessenz;1;15000;17000
-10939;Große Magieessenz;1;17844;19826
-10939;Große Magieessenz;1;17000;17200
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;19000;21500
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;1;17720;19900
 10561;Mithrilgehäuse;1;46901;59001
 10561;Mithrilgehäuse;1;76901;79001
 10561;Mithrilgehäuse;1;76901;79001
@@ -289,56 +246,25 @@
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;1;6786;8987
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;24000;26500
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;24000;26500
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;14699;15221
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;14699;15221
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;14699;15221
 30032;Roter Gürtel der Schlacht;1;12700000;15523500
-30032;Roter Gürtel der Schlacht;1;8250000;8500000
 30032;Roter Gürtel der Schlacht;1;8950342;8999999
 30032;Roter Gürtel der Schlacht;1;8500000;8750000
 5637;Großer Fangzahn;5;6104;6782
 24477;Jaggalmuschelfleisch;6;1152;1440
 27667;Würziger Flusskrebs;10;62250;70000
 27667;Würziger Flusskrebs;10;62250;70000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29962;29999
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29000;29500
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29000;29500
 2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;7783;8647
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
 29534;Grollbalgbeinrüstung;1;990000;1000000
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 3197;Steinfräserclaymore;1;29744;37180
-3197;Steinfräserclaymore;1;20000;30000
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;89999;99999
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;59589;75362
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;8500;10000
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;499999;799999
 3355;Wildstahlblume;20;11000;13000
-3355;Wildstahlblume;20;11500;15800
 3355;Wildstahlblume;4;2080;2600
-3355;Wildstahlblume;1;4416;5520
-3355;Wildstahlblume;4;29900;29999
 1210;Schattenedelstein;1;13917;14352
 11382;Blut des Berges;1;449999;459999
 29539;Kobraschuppen;2;183750;198900
@@ -378,10 +304,8 @@
 3066;Helle Handschuhe;1;10000;10000
 3066;Helle Handschuhe;1;3000;4000
 3283;Kampfkettentunika;1;10000;10000
-3357;Lebenswurz;1;191;192
 3357;Lebenswurz;3;225;0
 3357;Lebenswurz;5;1040;1300
-3357;Lebenswurz;2;330;360
 3357;Lebenswurz;20;9999;10000
 3357;Lebenswurz;20;9999;10000
 10601;Bauplan: Hellaugenschutzbrille;1;20000;30000
@@ -401,9 +325,6 @@
 8839;Blindkraut;3;11000;15000
 24401;Unbekannte Pflanzenteile;6;45144;56430
 24401;Unbekannte Pflanzenteile;1;9900;9900
-24401;Unbekannte Pflanzenteile;1;9990;10990
-24401;Unbekannte Pflanzenteile;10;99900;109900
-24401;Unbekannte Pflanzenteile;10;99900;109900
 22787;Zottelkappe;18;55800;55800
 8831;Lila Lotus;16;52800;52800
 3018;Balg von Lupos;1;199900;199900

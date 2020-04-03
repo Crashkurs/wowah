@@ -170,20 +170,6 @@
 22452;Urerde;1;36000;42000
 14505;Muster: Hexerzwirnturban;1;140000;150000
 25029;Kriegsherreneisenunterarmschienen;1;41200;50000
-21877;Netherstoff;20;28160;35200
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;2;2816;3520
-21877;Netherstoff;20;28160;35200
-21877;Netherstoff;20;28160;35200
-21877;Netherstoff;20;28160;35200
-21877;Netherstoff;20;28160;35200
-21877;Netherstoff;12;17280;21600
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
 21877;Netherstoff;20;34300;43120
 21877;Netherstoff;20;29900;30000
 21877;Netherstoff;20;29900;30000
@@ -194,9 +180,6 @@
 21877;Netherstoff;20;29900;30000
 21877;Netherstoff;20;29900;30000
 21877;Netherstoff;20;34300;43120
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
-21877;Netherstoff;20;29900;32000
 21877;Netherstoff;20;34000;35500
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
@@ -363,43 +346,7 @@
 7068;Elementarfeuer;1;4500;5000
 7081;Odem des Windes;10;250000;295000
 7081;Odem des Windes;9;225000;265500
-21885;Urwasser;1;124970;124980
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;120000;122500
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;2;239000;244000
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;124974;124987
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;122474;122487
-21885;Urwasser;1;124974;124987
 21885;Urwasser;1;122000;129000
-21885;Urwasser;1;124974;124987
 21885;Urwasser;1;129973;129986
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
@@ -417,9 +364,7 @@
 21885;Urwasser;1;158899;169997
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
-21885;Urwasser;1;124974;124987
 21885;Urwasser;1;122000;129000
-21885;Urwasser;1;124974;124987
 21885;Urwasser;1;120000;125000
 21885;Urwasser;1;122000;129000
 21885;Urwasser;1;122000;129000
@@ -434,27 +379,6 @@
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
-21885;Urwasser;2;239000;244000
-21885;Urwasser;1;119575;119885
-21885;Urwasser;2;239000;244000
-21885;Urwasser;2;239000;244000
-21885;Urwasser;2;239000;244000
-21885;Urwasser;2;239000;244000
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;2;239000;244000
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;1;119575;119885
-21885;Urwasser;5;597875;599425
-21885;Urwasser;1;106000;119000
-21885;Urwasser;4;394000;400000
-21885;Urwasser;1;123000;123000
-21885;Urwasser;2;239000;244000
 31306;Gamaschen des heiligen Wappens;1;154080;171200
 9294;Rezept: Wildrankentrank;1;21056;23395
 9294;Rezept: Wildrankentrank;1;21707;24119
@@ -637,34 +561,7 @@
 22449;Groﬂer Prismasplitter;2;315000;319800
 22449;Groﬂer Prismasplitter;2;315000;319800
 22449;Groﬂer Prismasplitter;2;315000;319800
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;8;1590680;1599480
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;8;1590680;1599480
-22449;Groﬂer Prismasplitter;2;397670;399870
-22449;Groﬂer Prismasplitter;6;1193010;1199610
-22449;Groﬂer Prismasplitter;1;149999;159999
-22449;Groﬂer Prismasplitter;1;149999;159999
 22449;Groﬂer Prismasplitter;2;315000;319800
-22449;Groﬂer Prismasplitter;2;397670;399870
-22449;Groﬂer Prismasplitter;4;795340;799740
-22449;Groﬂer Prismasplitter;4;795340;799740
-22449;Groﬂer Prismasplitter;6;1193010;1199610
 22449;Groﬂer Prismasplitter;2;315000;319800
 22449;Groﬂer Prismasplitter;2;315000;319800
 22449;Groﬂer Prismasplitter;2;315000;319800
@@ -716,11 +613,6 @@
 22449;Groﬂer Prismasplitter;2;315000;319800
 22449;Groﬂer Prismasplitter;2;315000;319800
 13444;Erheblicher Manatrank;2;20200;20200
-21876;Urmondstofftasche;1;3000000;3400000
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;3000000;3400000
-21876;Urmondstofftasche;1;4175000;4259500
 13481;Rezept: Elixier der rohen Gewalt;1;200000;220000
 11152;Formel: Handschuhe - Angeln;1;200000;250000
 13422;Steinschuppenaal;20;300;150000
@@ -957,22 +849,12 @@
 8494;Papageienk‰fig (Hyazinthara);1;6500000;7000000
 8494;Papageienk‰fig (Hyazinthara);1;6500000;7000000
 5642;Rezept: Trank der freien Aktion;1;200000;235000
-21213;Konservierter Tannenzweig;20;88780;98644
-21213;Konservierter Tannenzweig;20;970000;1000000
 22451;Urluft;1;179975;179999
 22451;Urluft;1;179975;179999
 22451;Urluft;1;179975;179999
 22451;Urluft;1;179975;179999
 22451;Urluft;1;179975;179999
 22451;Urluft;1;179975;179999
-22448;Kleiner Prismasplitter;1;50100;53999
-22448;Kleiner Prismasplitter;1;50100;53999
-22448;Kleiner Prismasplitter;3;125080;156351
-22448;Kleiner Prismasplitter;1;87710;89910
-22448;Kleiner Prismasplitter;1;87710;89910
-22448;Kleiner Prismasplitter;1;87710;89910
-22448;Kleiner Prismasplitter;1;87710;89910
-22448;Kleiner Prismasplitter;1;50100;53999
 16246;Formel: Armschiene - ‹berragende St‰rke;1;7000000;7500000
 2564;Elfengeistklauen;1;24367;37959
 8006;Der Ziggler;1;25460;31825
@@ -981,8 +863,6 @@
 1475;Kleiner Giftbeutel;1;3191;3546
 1475;Kleiner Giftbeutel;1;3191;3546
 3818;Blassblatt;13;8684;9646
-3818;Blassblatt;20;21280;26600
-3818;Blassblatt;20;21280;26600
 21099;Rezept: Ger‰ucherter Weisenfisch;1;18807;23509
 29426;Siegel der Feuerschwingen;10;155190;172430
 29426;Siegel der Feuerschwingen;2;31038;34486
@@ -1008,7 +888,6 @@
 21305;Rote Helferbox;1;42000;49000
 21305;Rote Helferbox;1;42000;49000
 21305;Rote Helferbox;1;42000;49000
-21308;Bimmelglˆckchen;1;129000;178500
 5634;Trank der freien Aktion;2;68000;70000
 14555;Alcors Sonnenschneide;1;336350;340000
 21861;Magieerf¸llte Netherstoffrobe;1;301462;403344
@@ -1027,11 +906,6 @@
 1982;Nachtklinge;1;229600;249500
 1982;Nachtklinge;1;229600;249500
 5469;Schreiterfleisch;2;7638;8486
-2798;Rethbanerz;1;1569;1962
-2798;Rethbanerz;3;5863;6514
-2798;Rethbanerz;1;1598;1998
-2798;Rethbanerz;2;5060;6326
-2798;Rethbanerz;1;2500;3126
 2798;Rethbanerz;5;13925;15470
 2798;Rethbanerz;3;8355;9282
 23077;Blutgranat;1;4453;4948
@@ -1049,17 +923,8 @@
 23077;Blutgranat;1;4453;4948
 23077;Blutgranat;1;4453;4948
 23077;Blutgranat;1;4453;4948
-21845;Urmondstoff;1;314080;316066
-21845;Urmondstoff;1;333233;333333
-21845;Urmondstoff;1;326000;335000
-21845;Urmondstoff;1;333233;333333
 21845;Urmondstoff;1;316065;316065
 21845;Urmondstoff;1;316065;316065
-21845;Urmondstoff;1;333233;333333
-21845;Urmondstoff;1;314080;316066
-21845;Urmondstoff;1;314080;316066
-21845;Urmondstoff;1;315000;332500
-21845;Urmondstoff;2;506665;633332
 20404;Verschl¸sselter Schattenhammertext;8;79904;99880
 11188;Gelber Machtkristall;10;80000;100000
 3685;Raptorei;3;18279;20310
@@ -1203,81 +1068,20 @@
 4304;Dickes Leder;20;130000;138000
 18518;Muster: Balg der Wildnis;1;4500000;5000000
 14585;Dokebigamaschen;1;7485;9357
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;7;18620;23275
-21151;Schwarzer Rumsey Rum;10;26600;33250
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;34444;39999
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;35000;35000
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;10;750;50000
 21151;Schwarzer Rumsey Rum;10;750;50000
 21151;Schwarzer Rumsey Rum;10;750;50000
 21151;Schwarzer Rumsey Rum;10;750;50000
-21151;Schwarzer Rumsey Rum;10;14444;19999
 20258;Zulianischer Zeremonienstab;1;339999;439999
 14374;Blutrote Sandalen;1;220000;230000
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;10;799990;899990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;683992;854990
-22446;Groﬂe Planaressenz;10;799990;899990
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;10;799990;899990
-22446;Groﬂe Planaressenz;10;799990;899990
-22446;Groﬂe Planaressenz;10;799990;899990
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
-22446;Groﬂe Planaressenz;2;225500;237998
 8167;Schildkrˆtenschuppe;10;67250;74720
 8167;Schildkrˆtenschuppe;11;26400;27500
 14581;Dokebibrustschutz;1;6653;8317
 14581;Dokebibrustschutz;1;7004;8755
 22553;Formel: Waffe - Potenz;1;750000;900000
 21864;Seelenstoffschultern;1;1200000;1500000
-21864;Seelenstoffschultern;1;668636;773296
-21864;Seelenstoffschultern;1;668636;773296
 15747;Muster: Frosts‰blergamaschen;1;19021;21134
 15747;Muster: Frosts‰blergamaschen;1;19021;21134
 2271;Stab des gesegneten Sehers;1;2000000;2500000
@@ -1375,18 +1179,7 @@
 21842;Magieerf¸llter Netherstoffballen;2;247248;259998
 21842;Magieerf¸llter Netherstoffballen;2;247248;259998
 21842;Magieerf¸llter Netherstoffballen;20;1975984;2469980
-22447;Geringe Planaressenz;1;60149;69949
-22447;Geringe Planaressenz;1;60149;69949
-22447;Geringe Planaressenz;1;60149;69949
-22447;Geringe Planaressenz;1;60149;69949
-22447;Geringe Planaressenz;1;60149;69949
-22447;Geringe Planaressenz;1;46474;50527
-22447;Geringe Planaressenz;1;46474;50527
-22447;Geringe Planaressenz;2;92948;101054
-22447;Geringe Planaressenz;1;60149;69949
 22447;Geringe Planaressenz;1;38400;48000
-22447;Geringe Planaressenz;1;46474;50527
-22447;Geringe Planaressenz;1;46474;50527
 1210;Schattenedelstein;1;1120;1401
 1210;Schattenedelstein;1;1120;1401
 1210;Schattenedelstein;1;1120;1401
@@ -1576,70 +1369,12 @@
 18661;Bauplan: Weltvergrˆﬂerer;1;180000;185000
 18661;Bauplan: Weltvergrˆﬂerer;1;180000;185000
 18661;Bauplan: Weltvergrˆﬂerer;1;180000;185000
-21844;Seelenstoffballen;6;1724963;1731204
 21844;Seelenstoffballen;1;252301;280334
 1121;F¸ﬂe des Luchses;1;700000;800000
 4356;Muster: Sterneng¸rtel;1;2000000;2500000
 22390;Pl‰ne: Willensbrecher;1;3500000;4000000
 22390;Pl‰ne: Willensbrecher;1;3500000;4000000
 5784;Schleimige Murlocschuppe;7;4214;4683
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;10;110000;130000
-22445;Arkaner Staub;10;110000;130000
-22445;Arkaner Staub;10;110000;130000
-22445;Arkaner Staub;10;110000;130000
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;239999;239999
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
-22445;Arkaner Staub;20;369980;369980
 22445;Arkaner Staub;20;200000;200000
 24033;Gediegener Stern der Elune;1;100000;110000
 24033;Gediegener Stern der Elune;1;100000;110000
@@ -1673,7 +1408,6 @@
 17200;Rezept: Lebkuchen;1;109000;138000
 17200;Rezept: Lebkuchen;1;109555;138694
 17200;Rezept: Lebkuchen;1;100000;147500
-3730;Groﬂb‰renfleisch;10;10000;12000
 3730;Groﬂb‰renfleisch;2;1036;1150
 5503;Muschelfleisch;5;21340;23710
 5503;Muschelfleisch;5;21340;23710
@@ -1700,6 +1434,5 @@
 17056;Leichte Feder;20;66666;77777
 17062;Rezept: Mithrilkopfforelle;1;88199;97999
 943;Stab des Aufsehers;1;329124;391406
-943;Stab des Aufsehers;1;404294;440000
 19232;Bestien 4;1;71647;89559
 21071;Roher Weisenfisch;1;80;500

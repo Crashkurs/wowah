@@ -37,12 +37,7 @@
 22840;Elixier des erheblichen Magierbluts;5;144994;144994
 22840;Elixier des erheblichen Magierbluts;5;144994;144994
 22840;Elixier des erheblichen Magierbluts;5;144994;144994
-30282;Muster: Stiefel der Zauberwucht;1;1185599;1191999
-30282;Muster: Stiefel der Zauberwucht;1;1119999;1119999
 32230;Schattensangamethyst;1;789999;800000
-32230;Schattensangamethyst;1;511000;521250
-32230;Schattensangamethyst;1;511000;521250
-32230;Schattensangamethyst;1;511000;521250
 9799;Efeustoffschärpe;1;2032;2540
 3392;Ringhelm;1;5321;6652
 8178;Ausbildungsschwert;1;4999;4999
@@ -168,21 +163,8 @@
 11176;Traumstaub;20;127360;159200
 11176;Traumstaub;20;127360;159200
 11176;Traumstaub;17;108514;135643
-11176;Traumstaub;20;30100;79999
 11176;Traumstaub;20;125225;139139
-11176;Traumstaub;17;100186;105983
-11176;Traumstaub;20;67984;79980
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
 11176;Traumstaub;20;125225;139139
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;12;33999;37999
 11176;Traumstaub;20;125225;139139
 11176;Traumstaub;20;125225;139139
 11176;Traumstaub;1;9099;9499
@@ -210,8 +192,6 @@
 24300;Muster: Umhang der Ewigkeit;1;455999;569999
 24300;Muster: Umhang der Ewigkeit;1;599999;599999
 24300;Muster: Umhang der Ewigkeit;1;699999;699999
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 8193;Hose des Nachtschleichers;1;13062;30000
 8193;Hose des Nachtschleichers;1;13062;30000
 8193;Hose des Nachtschleichers;1;13062;330000
@@ -249,20 +229,16 @@
 9811;Befestigte Armschienen;1;99900;99900
 9811;Befestigte Armschienen;1;99900;99900
 9811;Befestigte Armschienen;1;99900;99900
-7091;Muster: Handschuhe des wahren Glaubens;1;4000;6500
 7091;Muster: Handschuhe des wahren Glaubens;1;4500;6500
 9808;Überragende Gamaschen;1;5913;7392
 9929;Brigadeumhang;1;20000;30000
 22710;Blutdistel;20;500000;580000
-4247;Lederhandschuhe des Hügelwächters;1;14822;15357
-4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 9298;Rezept: Elixier der Riesen;1;15500;19500
 9298;Rezept: Elixier der Riesen;1;22783;28479
 9298;Rezept: Elixier der Riesen;1;19075;19499
 24883;Der'izubeinschützer;1;150000;163086
 15232;Hackspaltbeil;1;9558;14448
 15227;Diamantspitzenknüttel;1;29999;30101
-9797;Efeustoffhose;1;2292;2900
 30324;Pläne: Rote Stiefel der Verwüstung;1;240000;440000
 30324;Pläne: Rote Stiefel der Verwüstung;1;240000;440000
 7537;Gotischer Schild;1;21018;21499
@@ -342,11 +318,7 @@
 6211;Rezept: Elixier der Ogerstärke;1;15000;20000
 15176;Potente Hose;1;12121;205900
 9465;Grubenmeister 5000;1;239395;254244
-13444;Erheblicher Manatrank;1;16699;17999
 13444;Erheblicher Manatrank;1;15491;17212
-13444;Erheblicher Manatrank;1;15500;17899
-13444;Erheblicher Manatrank;1;12250;14000
-13444;Erheblicher Manatrank;1;16699;17999
 24055;Unbeständiges Nachtauge;1;109999;158899
 24055;Unbeständiges Nachtauge;1;156655;159998
 24055;Unbeständiges Nachtauge;1;110000;159999
@@ -359,10 +331,6 @@
 24401;Unbekannte Pflanzenteile;1;9990;10990
 24401;Unbekannte Pflanzenteile;1;9900;9900
 24401;Unbekannte Pflanzenteile;2;22250;30000
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;19600;24500
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;24062;24499
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;10562;20000
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;11357;12619
 2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;2062;4000
 7086;Muster: Irdener Seidengürtel;1;7554;8393
 30283;Muster: Stiefel des langen Weges;1;389500;392500
@@ -386,44 +354,13 @@
 3391;Elixier der Ogerstärke;1;800;800
 3391;Elixier der Ogerstärke;1;800;800
 3608;Pläne: Mächtiger Eisenhammer;1;4000;6000
-11138;Kleiner leuchtender Splitter;1;1082;1353
 11138;Kleiner leuchtender Splitter;4;7392;8212
 11138;Kleiner leuchtender Splitter;5;9240;10265
-11138;Kleiner leuchtender Splitter;1;1028;1285
-11138;Kleiner leuchtender Splitter;1;1867;2074
-11138;Kleiner leuchtender Splitter;4;8768;9740
-11138;Kleiner leuchtender Splitter;5;10960;12175
 11138;Kleiner leuchtender Splitter;1;1013;1142
 7491;Hauptmannsschulterschutz;1;6158;20000
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;9;54712;68391
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;10;85718;95242
 11137;Visionenstaub;2;9522;13528
 11137;Visionenstaub;20;51920;64900
 11137;Visionenstaub;20;160100;169500
-11137;Visionenstaub;4;21644;27056
-11137;Visionenstaub;5;32040;35600
-11137;Visionenstaub;5;32040;35600
-11137;Visionenstaub;5;32040;35600
-11137;Visionenstaub;5;42859;47621
-11137;Visionenstaub;10;85718;95242
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;10;85718;95242
-11137;Visionenstaub;10;85718;95242
-11137;Visionenstaub;5;34917;38796
-11137;Visionenstaub;1;7400;7499
-11137;Visionenstaub;20;160100;169500
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
-11137;Visionenstaub;5;33730;37475
 24750;Dolchfennstiefel;1;50000;77572
 15150;Geistwandlerpolster;1;27110;37900
 9860;Bogenschützenumhang;1;20000;30000
@@ -431,13 +368,10 @@
 24302;Muster: Gurt des Unerschütterlichen;1;143635;179544
 24302;Muster: Gurt des Unerschütterlichen;1;200000;257110
 23489;Teufelseisenbrustplatte;1;100000;150000
-30155;Muschelriegel;20;19580;25600
-30155;Muschelriegel;20;19580;25600
 27516;Riesige Stachelkiemenforelle;3;180000;240000
 22835;Elixier der erheblichen Schattenmacht;6;100000;135000
 9818;Befestigte Kette;1;5382;6728
 23620;Pläne: Teufelszornstulpen;1;126316;176908
-9434;Elementargewandung;1;18472;20000
 9434;Elementargewandung;1;18472;0
 6037;Echtsilberbarren;3;5625;5999
 6037;Echtsilberbarren;20;51136;63920
@@ -461,17 +395,9 @@
 9385;Archaischer Verteidiger;1;18000;22500
 9385;Archaischer Verteidiger;1;30743;33048
 9385;Archaischer Verteidiger;1;18948;23685
-9295;Rezept: Unsichtbarkeitstrank;1;13679;17099
-9295;Rezept: Unsichtbarkeitstrank;1;14999;17999
-9295;Rezept: Unsichtbarkeitstrank;1;15199;18999
-9295;Rezept: Unsichtbarkeitstrank;1;15199;18999
-9295;Rezept: Unsichtbarkeitstrank;1;13679;17099
 31299;Der Schwurbewahrer;1;111428;194040
 31299;Der Schwurbewahrer;1;188026;189000
 31299;Der Schwurbewahrer;1;150000;181602
-12365;Verdichteter Stein;20;7360;7380
-12365;Verdichteter Stein;10;3680;3690
-12365;Verdichteter Stein;20;7500;7900
 3667;Zartes Krokiliskenfleisch;3;294;900
 8395;Muster: Feste Skorpidbrustplatte;1;1500;9900
 3478;Grober Schleifstein;2;77937;97422
@@ -479,7 +405,6 @@
 25206;Berserkeraxt;1;100000;139536
 18335;Makelloser schwarzer Diamant;1;200100;300000
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;6000;8000
-3396;Rezept: Elixier der geringen Beweglichkeit;1;19208;24010
 3396;Rezept: Elixier der geringen Beweglichkeit;1;20000;20000
 13929;Scharfer geräucherter Barsch;15;2629;2921
 22787;Zottelkappe;5;14700;15925
@@ -497,16 +422,7 @@
 15010;Urzeitliche Wickeltücher;1;25000;25000
 24298;Muster: Schwarzgestreifte Armschienen;1;699999;699999
 27425;Tüpfelteufelsfinne;6;5000;6000
-11139;Großer leuchtender Splitter;1;3104;3880
-11139;Großer leuchtender Splitter;1;6599;6999
-11139;Großer leuchtender Splitter;1;2786;3483
-11139;Großer leuchtender Splitter;1;3400;3480
-11139;Großer leuchtender Splitter;1;6599;6999
-11139;Großer leuchtender Splitter;1;6599;6999
-11139;Großer leuchtender Splitter;1;6599;6999
 11139;Großer leuchtender Splitter;7;31354;39193
-11139;Großer leuchtender Splitter;3;7999;10999
-11139;Großer leuchtender Splitter;1;3104;3880
 27515;Große Tüpfelteufelsfinne;1;28010;31122
 27515;Große Tüpfelteufelsfinne;1;28010;31122
 27515;Große Tüpfelteufelsfinne;1;28010;31122
@@ -577,7 +493,6 @@
 10168;Templerkrone;1;17523;40000
 10103;Ratsherrenschärpe;1;5687;20000
 4296;Muster: Dunkle Lederschultern;1;5000;7000
-7080;Essenz des Wassers;1;93100;97020
 2776;Golderz;18;11520;14400
 2776;Golderz;20;12800;16000
 22854;Fläschchen des unerbittlichen Angriffs;1;277489;277489
@@ -714,10 +629,6 @@
 24291;Sumpflordranke;38;262139;327674
 24291;Sumpflordranke;2;8600;11982
 25844;Adamantitrute;1;100000;120000
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
-25844;Adamantitrute;1;109124;131405
 25844;Adamantitrute;1;169900;169900
 12689;Pläne: Strahlende Brustplatte;1;8000;10000
 12689;Pläne: Strahlende Brustplatte;1;8000;10000
@@ -737,39 +648,13 @@
 23436;Lebendiger Rubin;1;175000;189999
 24301;Muster: Weißer Arzneikittel;1;138329;138330
 10620;Thoriumerz;7;49560;62825
-25867;Erdsturmdiamant;1;855000;855000
-25867;Erdsturmdiamant;1;855000;855000
 25867;Erdsturmdiamant;1;674116;686768
 9718;Neugeschmiedete Klinge der Helden;1;77131;80000
 5964;Barbarische Schultern;1;3913;10000
 5964;Barbarische Schultern;1;3913;10000
 5964;Barbarische Schultern;1;3913;10000
 5964;Barbarische Schultern;1;3913;10000
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;1;39999;39999
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;309600;359500
@@ -885,13 +770,7 @@
 24052;Kompakter Dämmerstein;1;45000;60000
 24052;Kompakter Dämmerstein;1;45000;50000
 18046;Rezept: Zartes Wolfsteak;1;35861;39846
-7428;Schattenkatzenbalg;4;7717;8574
-7428;Schattenkatzenbalg;1;930;990
-7428;Schattenkatzenbalg;1;575;1000
-7428;Schattenkatzenbalg;3;5788;6431
 31234;Kristallklinge der Draenei;1;334439;343049
-4297;Muster: Barbarische Handschuhe;1;17546;19496
-4297;Muster: Barbarische Handschuhe;1;10000;15000
 22861;Fläschchen des blendenden Lichts;1;239999;239999
 22861;Fläschchen des blendenden Lichts;1;239999;239999
 22861;Fläschchen des blendenden Lichts;1;239999;239999

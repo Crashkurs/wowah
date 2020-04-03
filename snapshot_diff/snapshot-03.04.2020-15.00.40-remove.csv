@@ -8,16 +8,12 @@
 8178;Ausbildungsschwert;1;4999;4999
 8178;Ausbildungsschwert;1;4999;4999
 8180;Jagdbogen;1;3960;4500
-8180;Jagdbogen;1;10000;10000
 8180;Jagdbogen;1;3960;4500
-8180;Jagdbogen;1;10000;10000
 4231;Geschmeidiger leichter Balg;1;800;1900
 4231;Geschmeidiger leichter Balg;1;800;1900
 4715;Geschm¸ckter Umhang;1;3283;4104
 873;Stab des Jordan;1;1095345;1217050
 873;Stab des Jordan;1;1095345;1217050
-7076;Essenz der Erde;2;102398;102398
-7076;Essenz der Erde;4;204796;204796
 5134;Kleine pelzige Tatze;1;1148;1435
 5134;Kleine pelzige Tatze;1;1148;1435
 774;Malachit;3;3840;4800
@@ -27,22 +23,6 @@
 4233;Geschmeidiger mittlerer Balg;6;17000;18099
 8173;Dickes R¸stungsset;2;2302;2878
 8173;Dickes R¸stungsset;2;2302;2878
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;57282;57668
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;1;1280;20000
-7077;Herz des Feuers;1;21999;29999
-7077;Herz des Feuers;1;37500;39500
-7077;Herz des Feuers;1;21999;29999
-7077;Herz des Feuers;2;57282;57668
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;2;41200;48888
-7077;Herz des Feuers;1;1280;20000
-7077;Herz des Feuers;2;41200;48888
 818;Tigerauge;1;320;400
 818;Tigerauge;2;640;800
 818;Tigerauge;2;640;800
@@ -68,14 +48,9 @@
 9262;Schwarzes Vitriol;3;3734;4668
 9262;Schwarzes Vitriol;2;9548;12936
 9262;Schwarzes Vitriol;1;7500;8000
-2878;Hakenknochenaxt;1;90000;110000
 2878;Hakenknochenaxt;1;59592;75365
-2878;Hakenknochenaxt;1;90000;110000
 2878;Hakenknochenaxt;1;59592;75365
 4998;Blutring;1;99900;99900
-4096;Grobes Gorillahaar;8;6464;6800
-4096;Grobes Gorillahaar;1;789;877
-4096;Grobes Gorillahaar;3;2369;2632
 3358;Khadgars Schnurrbart;10;1920;3290
 3358;Khadgars Schnurrbart;10;1920;3290
 3358;Khadgars Schnurrbart;10;1920;3290
@@ -88,11 +63,6 @@
 3358;Khadgars Schnurrbart;10;1920;3290
 5075;Blutsplitter;10;33280;41600
 5075;Blutsplitter;5;6087;10000
-8172;Geschmeidiger dicker Balg;10;100000;185000
-8172;Geschmeidiger dicker Balg;10;100000;185000
-8172;Geschmeidiger dicker Balg;5;50000;88500
-8172;Geschmeidiger dicker Balg;1;10000;17700
-8172;Geschmeidiger dicker Balg;3;30000;53100
 11135;Groﬂe Mystikeressenz;8;39000;39100
 11135;Groﬂe Mystikeressenz;8;31000;33000
 11135;Groﬂe Mystikeressenz;2;15800;16200
@@ -107,35 +77,12 @@
 2592;Wollstoff;20;20990;29900
 2592;Wollstoff;20;20990;29900
 2592;Wollstoff;20;24240;27020
-7078;Essenz des Feuers;2;15000;16500
-7078;Essenz des Feuers;2;15000;16500
-7078;Essenz des Feuers;3;18808;23511
-7078;Essenz des Feuers;2;15000;16000
-7078;Essenz des Feuers;1;23603;26226
 11178;Groﬂer strahlender Splitter;1;30000;34999
 11178;Groﬂer strahlender Splitter;1;30000;34999
 11178;Groﬂer strahlender Splitter;1;30000;34999
 11178;Groﬂer strahlender Splitter;1;32000;34500
 11178;Groﬂer strahlender Splitter;1;32000;34500
 11178;Groﬂer strahlender Splitter;1;32000;34500
-2841;Bronzebarren;1;2372;2373
-2841;Bronzebarren;1;2372;2373
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;18;46080;57600
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;2;3798;4748
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;20;55664;69580
-2841;Bronzebarren;18;46080;57600
-2841;Bronzebarren;20;57200;64000
-2841;Bronzebarren;1;2372;2373
-2841;Bronzebarren;1;2372;2373
-2841;Bronzebarren;2;3798;4748
 2912;Klaue des Schattenbeschwˆrers;1;13000;43000
 9435;Genetzte Knochenstulpen;1;14000;15000
 1210;Schattenedelstein;14;23500;25000

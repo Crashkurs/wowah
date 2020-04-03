@@ -130,9 +130,6 @@
 31291;Kristallgeschmiedete Kriegsaxt;1;275000;300000
 31291;Kristallgeschmiedete Kriegsaxt;1;227599;230000
 8151;Fläschchen Mojo;4;11908;13231
-31298;Beinschützer der Zerschmetterten Hand;1;148152;160000
-31298;Beinschützer der Zerschmetterten Hand;1;175668;195186
-31298;Beinschützer der Zerschmetterten Hand;1;175668;195186
 22839;Zerstörungstrank;5;199999;229999
 22839;Zerstörungstrank;5;199999;229999
 22839;Zerstörungstrank;5;229800;229800
@@ -162,25 +159,11 @@
 22831;Elixier der erheblichen Beweglichkeit;5;84500;85000
 22831;Elixier der erheblichen Beweglichkeit;10;130000;160000
 13018;Henkerspaltbeil;1;54531;68164
-29740;Teuflische Waffen;20;3978600;3978600
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;20;3978600;3978600
-29740;Teuflische Waffen;20;3978600;3978600
-29740;Teuflische Waffen;20;3978600;3978600
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
-29740;Teuflische Waffen;10;1899310;1989310
 13020;Bogen des Himmelsstürmers;1;14999;20000
 31255;Umhang des Geschicks;1;356447;399900
 29731;Muster: Windstoßhandschuhe;1;200000;225000
 31218;Feuriges Betrachterauge;1;275970;290000
 6359;Feuerflossenschnapper;10;89990;99990
-6308;Roher Stoppelfühlerwels;3;1000;1000
-6308;Roher Stoppelfühlerwels;20;10000;12900
 25697;Armschienen des Teufelspirschers;1;209999;209999
 32068;Elixier der Eisenhaut;5;249999;299999
 32068;Elixier der Eisenhaut;5;249999;299999
@@ -188,46 +171,18 @@
 32068;Elixier der Eisenhaut;5;249999;299999
 32068;Elixier der Eisenhaut;5;249999;299999
 32068;Elixier der Eisenhaut;5;249999;299999
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;8;29512;37640
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;121679;142099
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;13;80000;80000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;20;129000;135000
-4304;Dickes Leder;2;10900;16000
-4304;Dickes Leder;20;127000;134500
 4304;Dickes Leder;1;3962;4953
-4304;Dickes Leder;20;127000;134500
 4304;Dickes Leder;8;29512;37640
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;12;45168;56460
-4304;Dickes Leder;20;126500;134000
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;127000;134500
-4304;Dickes Leder;20;126500;134000
 4304;Dickes Leder;1;3962;4953
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;8;29512;37640
 4304;Dickes Leder;3;9050;10000
-4304;Dickes Leder;8;63600;70000
 4304;Dickes Leder;20;119000;120000
 4304;Dickes Leder;20;113000;119500
 4304;Dickes Leder;20;113000;119500
@@ -290,14 +245,6 @@
 11083;Seelenstaub;20;63800;64500
 3396;Rezept: Elixier der geringen Beweglichkeit;1;19208;24010
 3396;Rezept: Elixier der geringen Beweglichkeit;1;19208;24010
-7971;Schwarze Perle;1;215620;249525
-7971;Schwarze Perle;1;215620;239525
-7971;Schwarze Perle;1;238900;238900
-7971;Schwarze Perle;1;219999;225099
-7971;Schwarze Perle;1;215620;259525
-7971;Schwarze Perle;1;217208;219510
-7971;Schwarze Perle;1;187499;187499
-7971;Schwarze Perle;4;600000;600000
 8125;Myrmidonenarmschienen;1;25000;25000
 32200;Gediegener Engelssaphir;1;835999;1044999
 32200;Gediegener Engelssaphir;1;950000;1100000
@@ -310,24 +257,6 @@
 32200;Gediegener Engelssaphir;1;829999;1039999
 32200;Gediegener Engelssaphir;1;950000;1100000
 32200;Gediegener Engelssaphir;1;950000;1100000
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3419;4274
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4200
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4200
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3419;4274
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;5;20500;22495
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;7;25900;29400
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4200
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4200
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4100;4499
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;5;20500;22495
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3419;4274
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;7;25900;29400
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3419;4274
 8146;Tückische Klaue;2;4204;5256
 25707;Teufelsbalg;1;18899;19999
 25707;Teufelsbalg;1;18899;19999
@@ -362,47 +291,11 @@
 22452;Urerde;1;36000;49000
 22452;Urerde;10;480000;485000
 22452;Urerde;1;36000;49000
-3383;Elixier der Weisheit;5;22499;29999
-3383;Elixier der Weisheit;5;22499;29999
-3383;Elixier der Weisheit;1;4999;7500
-3383;Elixier der Weisheit;5;22499;29999
-3383;Elixier der Weisheit;5;22499;29999
-3383;Elixier der Weisheit;1;4999;7500
 31223;Illidarihandgelenksschützer;1;272786;290000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
 6381;Heller Umhang;1;2000;2500
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;10;34750;39999
-10940;Seltsamer Staub;15;50000;65000
-10940;Seltsamer Staub;5;17375;19900
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;1;4910;5456
-10940;Seltsamer Staub;1;4910;5456
-10940;Seltsamer Staub;1;4910;5456
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
 10940;Seltsamer Staub;2;11650;11980
 31289;Stab der göttlichen Eingebung;1;159874;177777
 31289;Stab der göttlichen Eingebung;1;159874;169900
@@ -419,62 +312,6 @@
 22451;Urluft;20;3790000;3800000
 22451;Urluft;10;1900000;1950000
 22451;Urluft;5;901000;926250
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;2;4214;4508
-4337;Dicke Spinnenseide;1;560;950
-4337;Dicke Spinnenseide;5;7428;9285
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;5;17000;21995
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4362;4398
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4362;4398
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;5;17000;21995
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4502;5002
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3400;4200
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3400;4200
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3400;4200
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;2999;3999
 28290;Glatter Golddraenit;1;8050;10000
 28290;Glatter Golddraenit;1;22480;35600
@@ -488,8 +325,6 @@
 32836;Geläuterte Schattenperle;1;555000;560000
 6344;Formel: Armschiene - Schwache Willenskraft;1;4000;5000
 29292;Hölleneberspeck;20;117800;155980
-8006;Der Ziggler;1;47966;53295
-8006;Der Ziggler;1;26800;33501
 6342;Formel: Brust - Schwaches Mana;1;4000;5000
 6342;Formel: Brust - Schwaches Mana;1;132;935
 6342;Formel: Brust - Schwaches Mana;1;112;1000
@@ -503,33 +338,12 @@
 29160;Smaragdring des Löwen;1;20662;22958
 29160;Smaragdring des Löwen;1;20662;22958
 29160;Smaragdring des Löwen;1;20662;22958
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;1;20150;30000
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;2;94200;95000
-27501;Rolle der Willenskraft V;1;40809;45710
-27501;Rolle der Willenskraft V;2;59500;76000
-27501;Rolle der Willenskraft V;1;33200;33300
-27501;Rolle der Willenskraft V;3;99600;99900
-27501;Rolle der Willenskraft V;1;29500;38000
-27501;Rolle der Willenskraft V;1;29500;38000
-27502;Rolle der Ausdauer V;1;300;800
-27502;Rolle der Ausdauer V;2;4164;4166
-27502;Rolle der Ausdauer V;1;585;707
-27502;Rolle der Ausdauer V;1;300;800
 31204;Kanonenklinge;1;199999;249999
 31204;Kanonenklinge;1;165282;190000
-1714;Caliseas Halskette;1;43802;50000
 31292;Pulsierender Kristallschild;1;480691;496830
 31292;Pulsierender Kristallschild;1;480691;496830
 31212;Schimärenhautgamaschen;1;359272;450000
 32664;Traumkristallband;1;289900;290000
-6317;Roher Lochfrenzy;5;1000;1000
 29425;Mal von Kil'jaeden;10;179999;180000
 29425;Mal von Kil'jaeden;10;179999;180000
 29425;Mal von Kil'jaeden;10;179999;180000
@@ -545,7 +359,6 @@
 29426;Siegel der Feuerschwingen;20;399999;399999
 29426;Siegel der Feuerschwingen;20;200000;250000
 31899;Sturm 3;1;478375;597969
-1716;Robe der Weisen;1;58500;62500
 31280;Stulpen des Donnerrufers;1;355074;399900
 31190;Schulterpolster des Träumers;1;107539;134424
 31190;Schulterpolster des Träumers;1;102161;127702
@@ -559,7 +372,6 @@
 7974;Scharfes Muschelfleisch;10;26848;33560
 7974;Scharfes Muschelfleisch;8;20000;40000
 7974;Scharfes Muschelfleisch;2;1600;3300
-32753;Muster: Flinkheilmantelung;1;999999;1499999
 31913;Delirium 4;1;99900;99900
 32833;Geläuterte Jaggalperle;1;20500;21000
 32833;Geläuterte Jaggalperle;1;20500;21000
@@ -590,29 +402,23 @@
 32833;Geläuterte Jaggalperle;1;19500;19999
 32833;Geläuterte Jaggalperle;1;19500;19999
 3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
 3685;Raptorei;10;91065;100000
 3685;Raptorei;10;91065;100000
 3685;Raptorei;10;91065;100000
 3685;Raptorei;10;91065;100000
 3685;Raptorei;10;91065;100000
-3685;Raptorei;10;7768;8631
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
+3685;Raptorei;10;91065;100000
 6291;Roher glänzender Kleinfisch;3;232;291
 6291;Roher glänzender Kleinfisch;20;1552;1940
 6291;Roher glänzender Kleinfisch;20;49980;49980
@@ -626,21 +432,15 @@
 31226;Gamaschen des Durchtriebenen;1;175974;195526
 31226;Gamaschen des Durchtriebenen;1;148599;185749
 31226;Gamaschen des Durchtriebenen;1;161616;171717
-9252;Unteres Kartenfragment;1;44513;49499
-9252;Unteres Kartenfragment;1;44499;48899
-9252;Unteres Kartenfragment;1;48700;48799
-9252;Unteres Kartenfragment;1;44513;49499
 31281;Maske des verhüllten Todes;1;334380;350000
 29714;Muster: Trommeln der Wiederherstellung;1;150000;180000
 32659;Kristallerfülltes Messer;1;475000;500000
-1720;Wirrholzstab;1;36480;45600
 31194;Gronngesegnete Kriegsperlen;1;212121;272625
 31194;Gronngesegnete Kriegsperlen;1;212121;272625
 31286;Brustplatte des raschen Angriffs;1;201940;300000
 31286;Brustplatte des raschen Angriffs;1;251940;350000
 31286;Brustplatte des raschen Angriffs;1;189297;236622
 7992;Pläne: Blaue glitzernde Axt;1;5000;7500
-11040;Morgenkorn;2;5065;6332
 28103;Elixier des Adepten;5;45000;45000
 28103;Elixier des Adepten;5;45000;45000
 28103;Elixier des Adepten;5;45000;45000
@@ -652,8 +452,6 @@
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;5500;5899
 22832;Erstklassiger Manatrank;5;174000;184000
 22832;Erstklassiger Manatrank;5;174000;184000
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
 27500;Rolle des Schutzes V;1;51969;60041
 27500;Rolle des Schutzes V;1;51969;60041
 27500;Rolle des Schutzes V;1;38399;47999
@@ -687,24 +485,6 @@
 28270;Formel: Brust - Erhebliche Abhärtung;1;2989900;2989900
 31225;Illidaribindungen;1;228190;285238
 31282;Tuch der spirituellen Reinheit;1;176843;221054
-10998;Geringe Astralessenz;2;3753;4692
-10998;Geringe Astralessenz;1;1600;1700
-10998;Geringe Astralessenz;2;3952;4940
-10998;Geringe Astralessenz;1;1690;1790
-10998;Geringe Astralessenz;2;4300;4600
-10998;Geringe Astralessenz;1;1600;1700
-10998;Geringe Astralessenz;3;6099;6699
-10998;Geringe Astralessenz;3;6099;6699
-10998;Geringe Astralessenz;3;6099;6699
-10998;Geringe Astralessenz;3;6099;6699
-10998;Geringe Astralessenz;3;3876;4845
-10998;Geringe Astralessenz;1;1292;1615
-10998;Geringe Astralessenz;1;1292;1615
-10998;Geringe Astralessenz;3;6099;6699
-10998;Geringe Astralessenz;1;2033;2233
-10998;Geringe Astralessenz;1;2033;2233
-10998;Geringe Astralessenz;3;6099;6699
-32749;Muster: Schultern der blitzartigen Reflexe;1;448750;550000
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;53200;66500
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;53200;66500
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;30000;30000
@@ -721,8 +501,6 @@
 31901;Furien Ass;1;149578;166198
 31901;Furien Ass;1;170000;185000
 13017;Streitaxt des Höllenschlächters;1;19637;21819
-31288;Des Meisters Treter;1;192200;192500
-31288;Des Meisters Treter;1;114962;130000
 6309;17-pfündiger Wels;1;200;1400
 6309;17-pfündiger Wels;1;8645;9605
 6309;17-pfündiger Wels;1;8645;9605
@@ -754,11 +532,6 @@
 24271;Zauberstoff;1;589999;599999
 24271;Zauberstoff;1;589999;599999
 24271;Zauberstoff;1;446000;450000
-24271;Zauberstoff;1;406000;420000
-24271;Zauberstoff;1;406000;420000
-24271;Zauberstoff;1;406000;420000
-24271;Zauberstoff;1;406000;420000
-24271;Zauberstoff;1;406000;420000
 24271;Zauberstoff;1;589999;599999
 24271;Zauberstoff;1;589999;599999
 24271;Zauberstoff;1;589999;599999
@@ -784,50 +557,6 @@
 27499;Rolle der Intelligenz V;2;6179;7724
 27499;Rolle der Intelligenz V;5;15448;19310
 27499;Rolle der Intelligenz V;3;855;5250
-10978;Kleiner gleißender Splitter;2;102;362
-10978;Kleiner gleißender Splitter;6;820;1026
-10978;Kleiner gleißender Splitter;1;51;181
-10978;Kleiner gleißender Splitter;1;51;181
-10978;Kleiner gleißender Splitter;5;255;905
-10978;Kleiner gleißender Splitter;10;510;1810
-10978;Kleiner gleißender Splitter;1;51;181
-10978;Kleiner gleißender Splitter;1;129;162
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;51;181
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;1;122;153
-10978;Kleiner gleißender Splitter;6;180;900
-10978;Kleiner gleißender Splitter;1;30;150
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;702500;720000
-25708;Dickes Grollhufleder;20;702500;720000
-25708;Dickes Grollhufleder;20;702500;720000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;3;93742;104158
-25708;Dickes Grollhufleder;10;325000;325000
-25708;Dickes Grollhufleder;10;325000;325000
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;20;700000;700000
 32737;Pläne: Flinkstahlschultern;1;257500;300000
 31918;Delirium 2;1;37500;43500
 23112;Golddraenit;20;189900;199900
@@ -866,15 +595,11 @@
 29550;Foliant des Wasserherbeizauberns IX;1;35000;40000
 29550;Foliant des Wasserherbeizauberns IX;1;55500;59000
 29723;Muster: Kobraschuppenkapuze;1;120000;120000
-29723;Muster: Kobraschuppenkapuze;1;100000;110000
-29723;Muster: Kobraschuppenkapuze;1;80915;92127
 6361;Roher Regenbogenflossenthunfisch;20;10052;23940
 6361;Roher Regenbogenflossenthunfisch;20;10052;23940
 6361;Roher Regenbogenflossenthunfisch;20;10052;23940
 6361;Roher Regenbogenflossenthunfisch;10;9576;11970
 6361;Roher Regenbogenflossenthunfisch;5;5674;6304
-3358;Khadgars Schnurrbart;15;3615;3630
-3358;Khadgars Schnurrbart;15;3615;3630
 25700;Teufelsschuppen;9;47815;59769
 25700;Teufelsschuppen;1;15669;19587
 25700;Teufelsschuppen;5;97220;106525
@@ -914,16 +639,6 @@
 3575;Eisenbarren;20;26000;35000
 3575;Eisenbarren;20;26000;35000
 3575;Eisenbarren;20;26000;35000
-31297;Robe des Purpurordens;1;239153;260000
-31297;Robe des Purpurordens;1;198970;201077
-31297;Robe des Purpurordens;1;272769;290000
-31297;Robe des Purpurordens;1;249153;300000
-24272;Schattenstoff;1;366000;375000
-24272;Schattenstoff;1;366000;375000
-24272;Schattenstoff;1;366000;375000
-24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;356000;374000
 7969;Mithrilsporen;1;375;29900
 7969;Mithrilsporen;1;375;29900
 7969;Mithrilsporen;1;375;29900
@@ -966,61 +681,15 @@
 27666;Goldfischstäbchen;20;430000;430000
 27666;Goldfischstäbchen;20;430000;430000
 27666;Goldfischstäbchen;20;430000;430000
-11018;Erde von Un'Goro;1;3768;4710
-11018;Erde von Un'Goro;9;19656;24570
-11018;Erde von Un'Goro;50;100000;100000
 31222;Kopfputz des inneren Zorns;1;212976;242977
 31222;Kopfputz des inneren Zorns;1;249000;250000
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;2;90010;98000
-27503;Rolle der Stärke V;1;60682;70462
-27503;Rolle der Stärke V;4;180020;196000
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
 32464;Netheriterz;2;6200;7750
 4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;35000;37500
 4306;Seidenstoff;14;27566;27986
 4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;14;25500;27500
-4306;Seidenstoff;20;12000;39900
-4306;Seidenstoff;20;35000;37500
-4306;Seidenstoff;14;25500;27500
 4306;Seidenstoff;14;27566;27986
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;12000;39900
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;39380;39980
-4306;Seidenstoff;20;39380;39980
 4306;Seidenstoff;20;24500;30000
 4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;3;675;1500
 31308;Der Überbringer des Todes;1;227333;229900
 3478;Grober Schleifstein;2;77937;97422
 3478;Grober Schleifstein;2;77937;97422
@@ -1032,28 +701,17 @@
 23113;Glänzender Golddraenit;1;6840;8550
 32226;Gezackter Gischtsmaragd;1;689999;699999
 3392;Ringhelm;1;5321;6652
-29157;Goldring der Macht;1;46002;51113
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
 29157;Goldring der Macht;1;47440;54300
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
-29157;Goldring der Macht;1;46002;51113
 24243;Adamantitpulver;14;47250;50000
 24243;Adamantitpulver;5;16000;17500
 24243;Adamantitpulver;20;67500;70000
 24243;Adamantitpulver;1;2660;3325
 31277;Band des Pfadfinders;1;202854;250000
 31201;Illidariumhang;1;454836;500000
-3384;Schwacher Magiewiderstandstrank;5;33500;35000
-3384;Schwacher Magiewiderstandstrank;5;33500;35000
 28596;Vorlage: Heller Blutgranat;1;198750;200000
-13015;Serathil;1;78159;90000
 31303;Valanos' Langbogen;1;226270;240000
 31303;Valanos' Langbogen;1;216270;229900
 31303;Valanos' Langbogen;1;219500;275500
@@ -1069,8 +727,6 @@
 3470;Rauer Schleifstein;20;6000;10000
 3470;Rauer Schleifstein;12;4560;5700
 9253;Mittleres Kartenfragment;1;89999;99999
-31910;Delirium Ass;1;43547;48386
-31910;Delirium Ass;1;47381;52645
 31910;Delirium Ass;1;37500;50000
 7967;Mithrilschildstachel;1;19999;29999
 7967;Mithrilschildstachel;1;19999;29999
@@ -1086,14 +742,6 @@
 25691;Schwere Grollhufstiefel;1;199900;299900
 3388;Starkes Trollblutelixier;1;128;360
 3388;Starkes Trollblutelixier;1;288;360
-11082;Große Astralessenz;10;59500;76000
-11082;Große Astralessenz;10;59500;76000
-11082;Große Astralessenz;1;100;4500
-11082;Große Astralessenz;1;4400;4499
-11082;Große Astralessenz;1;4400;4499
-11082;Große Astralessenz;10;26048;32560
-11082;Große Astralessenz;2;6400;8990
-11082;Große Astralessenz;1;3200;4495
 31196;Amulett der Weihung;1;95788;99000
 31196;Amulett der Weihung;1;82937;98010
 6364;32-pfündiger Wels;1;16116367;17907075
@@ -1101,7 +749,6 @@
 23100;Glitzernder Flammenspessarit;1;19999;24499
 23100;Glitzernder Flammenspessarit;1;19999;24499
 23100;Glitzernder Flammenspessarit;1;19999;24499
-6347;Formel: Armschiene - Schwache Stärke;1;4800;6000
 32662;Flammender Quarzstab;1;251091;260000
 32662;Flammender Quarzstab;1;345000;350000
 31917;Delirium 3;1;99900;99900
@@ -1128,41 +775,6 @@
 31304;Essenzfokussierer;1;178836;189900
 31304;Essenzfokussierer;1;198836;200000
 31304;Essenzfokussierer;1;215891;220000
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;50;478100;487650
-32897;Mal der Illidari;50;478100;487650
-32897;Mal der Illidari;50;478100;487650
 25699;Kristalldurchdrungenes Leder;5;141236;151545
 25699;Kristalldurchdrungenes Leder;2;9914;15918
 25699;Kristalldurchdrungenes Leder;10;148750;149999
@@ -1205,34 +817,7 @@
 32067;Elixier der draenischen Weisheit;10;152500;170000
 28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
 28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
-29460;Gefängnisschlüssel des Astraleums;1;145000;145000
-29460;Gefängnisschlüssel des Astraleums;1;149999;149999
-29460;Gefängnisschlüssel des Astraleums;1;149999;149999
-29460;Gefängnisschlüssel des Astraleums;1;149999;149999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
 29460;Gefängnisschlüssel des Astraleums;6;790100;800000
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
 22449;Großer Prismasplitter;1;139700;149000
 22449;Großer Prismasplitter;1;139700;149000
 22449;Großer Prismasplitter;1;139700;149000
@@ -1263,9 +848,6 @@
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4500;4999
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4500;4999
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4500;4999
-4338;Magiestoff;5;26015;29905
-4338;Magiestoff;5;26015;29905
-4338;Magiestoff;5;26015;29905
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
@@ -1273,14 +855,7 @@
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
-32062;Elixier der erheblichen Seelenstärke;10;408750;500000
-32062;Elixier der erheblichen Seelenstärke;4;187500;200000
 32470;Balg eines Netherminenschinders;4;24912;31140
-31295;Brustschutz des Dunkelpirschers;1;181441;220000
-3389;Elixier der Verteidigung;8;67808;79760
-3389;Elixier der Verteidigung;10;80166;89074
-3389;Elixier der Verteidigung;8;67808;79760
-3389;Elixier der Verteidigung;10;80166;89074
 29718;Muster: Trommeln des Tempos;1;74700;84600
 29718;Muster: Trommeln des Tempos;1;64181;74250
 29718;Muster: Trommeln des Tempos;1;70000;75000
@@ -1306,10 +881,6 @@
 32751;Muster: Lebendige Erdschultern;1;438750;440000
 29733;Muster: Netherdrachenhandschuhe;1;90000;120000
 29733;Muster: Netherdrachenhandschuhe;1;110000;160000
-31287;Ehrenwachenschild der Draenei;1;151515;161616
-31287;Ehrenwachenschild der Draenei;1;166735;169900
-31287;Ehrenwachenschild der Draenei;1;196735;220000
-31287;Ehrenwachenschild der Draenei;1;221157;230000
 6311;22-pfündiger Wels;1;122066;135629
 6311;22-pfündiger Wels;1;4000;33500
 6311;22-pfündiger Wels;1;4000;33500
@@ -1320,8 +891,5 @@
 6338;Silberrute;1;4204;4751
 6338;Silberrute;1;4204;4751
 6338;Silberrute;1;4600;4699
-1717;Doppelverbundtunika;1;9669;12087
-1717;Doppelverbundtunika;1;8885;10082
-1717;Doppelverbundtunika;1;8900;9500
 1713;Ankh des Lebens;1;8700;13500
 1713;Ankh des Lebens;1;26888;29876

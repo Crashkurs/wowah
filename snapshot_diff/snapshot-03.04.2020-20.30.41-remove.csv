@@ -125,10 +125,6 @@
 3821;Golddorn;10;80000;90000
 32582;Armschienen des erneuerten Lebens;1;3441331;3699164
 8150;Tiefsteinsalz;5;51056;63820
-29531;Trommeln der Wiederherstellung;1;396499;396499
-29531;Trommeln der Wiederherstellung;1;376000;396500
-29531;Trommeln der Wiederherstellung;1;396499;396499
-29531;Trommeln der Wiederherstellung;1;396499;396499
 29531;Trommeln der Wiederherstellung;1;377000;397500
 29531;Trommeln der Wiederherstellung;1;377000;397500
 9882;Zauberersphäre;1;19276;24095
@@ -141,7 +137,6 @@
 14271;Gaeas Reif;1;19587;25609
 12363;Arkankristall;1;20000;21500
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
-31178;Amulett der unbeständigen Macht;1;75562;76600
 31178;Amulett der unbeständigen Macht;1;58162;70000
 23764;Adamantitzielfernrohr;1;403750;500000
 27657;Schwarzgebratener Basilisk;20;399999;449999
@@ -227,13 +222,6 @@
 21877;Netherstoff;20;31296;39120
 21877;Netherstoff;9;20000;20202
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;59589;75362
-29535;Netherkobrabeinrüstung;1;2890000;2960000
-29535;Netherkobrabeinrüstung;1;2800000;3226000
-29535;Netherkobrabeinrüstung;1;2899999;2969999
-29535;Netherkobrabeinrüstung;1;2899999;2969999
-29535;Netherkobrabeinrüstung;1;2890000;2945000
-29535;Netherkobrabeinrüstung;1;2899999;2949999
-29535;Netherkobrabeinrüstung;1;2899999;2949999
 24674;Eldr'naanhose;1;1950219;1990000
 2319;Mittleres Leder;5;10375;12000
 2319;Mittleres Leder;5;10375;12000
@@ -544,9 +532,6 @@
 23786;Khoriumkraftkern;1;309998;309998
 13422;Steinschuppenaal;20;46064;57580
 24050;Schimmernder Dämmerstein;1;99999;106699
-24050;Schimmernder Dämmerstein;1;100000;104500
-24050;Schimmernder Dämmerstein;1;100000;104500
-24050;Schimmernder Dämmerstein;1;100000;104500
 10315;Muster: Rote Magiestoffschultern;1;6132;7666
 32739;Pläne: Morgenstahlschultern;1;999900;999900
 16710;Armschienen der Schattenkunst;1;108296;135370
@@ -836,9 +821,6 @@
 25896;Mächtiger Erdsturmdiamant;1;869899;869899
 32753;Muster: Flinkheilmantelung;1;989999;989999
 32753;Muster: Flinkheilmantelung;1;999999;1499999
-31190;Schulterpolster des Träumers;1;133500;141500
-31190;Schulterpolster des Träumers;1;132891;141499
-31190;Schulterpolster des Träumers;1;107539;134424
 8398;Muster: Feste Skorpidhandschuhe;1;24147;25184
 8398;Muster: Feste Skorpidhandschuhe;1;25088;31360
 13012;Yorgens Armschienen;1;80000;90000
@@ -865,14 +847,6 @@
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;133988;207485
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;133988;207485
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
@@ -887,12 +861,6 @@
 24054;Stattliches Nachtauge;1;190074;199975
 32620;Zeitverlorene Schriftrolle;1;9592;12740
 16224;Formel: Umhang - Überragende Verteidigung;1;259999;279999
-25708;Dickes Grollhufleder;20;500000;550000
-25708;Dickes Grollhufleder;20;500000;550000
-25708;Dickes Grollhufleder;20;500000;550000
-25708;Dickes Grollhufleder;20;500000;550000
-25708;Dickes Grollhufleder;20;500000;550000
-25708;Dickes Grollhufleder;2;52250;60000
 32751;Muster: Lebendige Erdschultern;1;438750;440000
 32751;Muster: Lebendige Erdschultern;1;438750;440000
 32751;Muster: Lebendige Erdschultern;1;441618;490687
@@ -1126,39 +1094,7 @@
 27503;Rolle der Stärke V;5;293500;350000
 27503;Rolle der Stärke V;1;45087;46900
 27503;Rolle der Stärke V;4;180020;196000
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;1;40187;44900
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;1;39999;39999
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 22450;Kristall der Leere;2;75000;79500
 22450;Kristall der Leere;1;134497;134497
 22450;Kristall der Leere;1;134497;134497
@@ -1190,39 +1126,12 @@
 23112;Golddraenit;1;29999;39999
 24275;Silberner Zauberfaden;1;1190000;1200000
 29529;Trommeln der Schlacht;1;352000;371500
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
 29529;Trommeln der Schlacht;1;352000;371500
 29529;Trommeln der Schlacht;1;352000;371500
 29529;Trommeln der Schlacht;1;352000;371500
 29529;Trommeln der Schlacht;1;352000;371500
 29529;Trommeln der Schlacht;1;352000;371500
 29529;Trommeln der Schlacht;1;352000;371500
-29529;Trommeln der Schlacht;1;359520;361025
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;349999;369999
-29529;Trommeln der Schlacht;1;357500;369500
-29529;Trommeln der Schlacht;1;357500;369500
-29529;Trommeln der Schlacht;1;357500;369500
-29529;Trommeln der Schlacht;1;347500;350000
-29529;Trommeln der Schlacht;1;347500;350000
-29529;Trommeln der Schlacht;1;347500;350000
-29529;Trommeln der Schlacht;1;347500;350000
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
 30323;Pläne: Stiefel des Beschützers;1;172819;192022
 32062;Elixier der erheblichen Seelenstärke;5;149999;199999
 32062;Elixier der erheblichen Seelenstärke;5;149999;199999
@@ -1280,7 +1189,6 @@
 23782;Teufelseisengehäuse;1;130692;143793
 23148;Vorlage: Glänzender Golddraenit;1;195000;290000
 24276;Goldener Zauberfaden;1;1704999;1799999
-24276;Goldener Zauberfaden;1;1489599;1861999
 24276;Goldener Zauberfaden;1;1704999;1849999
 24276;Goldener Zauberfaden;1;1699999;1829999
 24276;Goldener Zauberfaden;1;1699999;1829999

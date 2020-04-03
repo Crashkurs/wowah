@@ -32,11 +32,7 @@
 25223;Windruferbeil;1;120020;122200
 2278;Schulterklappen des Fährtenlesers;1;199900;199900
 22794;Teufelslotus;1;29584;37980
-13037;Kristallfichtenstecher;1;36993;36999
-13037;Kristallfichtenstecher;1;29504;37755
 7966;Robuster Schleifstein;10;23000;30000
-7966;Robuster Schleifstein;16;94800;149999
-7966;Robuster Schleifstein;1;11820;14776
 11175;Große Netheressenz;2;103500;109500
 11175;Große Netheressenz;1;54900;54920
 11175;Große Netheressenz;1;54500;58000
@@ -90,24 +86,6 @@
 12363;Arkankristall;5;499999;499999
 12363;Arkankristall;5;499999;499999
 12363;Arkankristall;1;3819;21999
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;75240;94050
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;6;453600;470000
 29539;Kobraschuppen;10;1759999;1959999
 29539;Kobraschuppen;2;183750;198900
 29539;Kobraschuppen;2;183750;198900
@@ -129,11 +107,7 @@
 29539;Kobraschuppen;2;183750;198900
 29539;Kobraschuppen;2;183750;198900
 9253;Mittleres Kartenfragment;1;89999;99999
-13043;Klinge der Titanen;1;45000;50000
-13043;Klinge der Titanen;1;37825;47282
-13043;Klinge der Titanen;1;37825;47282
 24066;Strahlender Talasit;1;45000;60000
-34622;Wirbelschnitter;1;2351960;2939951
 3576;Zinnbarren;10;9560;12700
 3576;Zinnbarren;10;9560;12700
 27667;Würziger Flusskrebs;20;74500;80000
@@ -172,32 +146,9 @@
 6211;Rezept: Elixier der Ogerstärke;1;139528;175910
 7934;Schwerer Mithrilhelm;1;15171;29999
 7934;Schwerer Mithrilhelm;1;15171;29999
-13046;Blanchards Schädelbrecher;1;32370;49300
 9233;Elixier der Dämonenentdeckung;2;3800;3800
 9233;Elixier der Dämonenentdeckung;3;5973;6637
 9233;Elixier der Dämonenentdeckung;20;39826;44251
-34330;Schweres Knotenhautrüstungsset;2;50000;75000
-34330;Schweres Knotenhautrüstungsset;2;50000;75000
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;195000;230000
-34330;Schweres Knotenhautrüstungsset;4;195000;230000
-34330;Schweres Knotenhautrüstungsset;10;412500;520000
-34330;Schweres Knotenhautrüstungsset;2;75000;99000
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;2;50000;75000
-34330;Schweres Knotenhautrüstungsset;2;50000;75000
-34330;Schweres Knotenhautrüstungsset;2;75000;99000
 9252;Unteres Kartenfragment;1;44514;49500
 9252;Unteres Kartenfragment;1;44513;49499
 9252;Unteres Kartenfragment;1;44513;49499
@@ -243,12 +194,6 @@
 10978;Kleiner gleißender Splitter;1;122;153
 34831;Auge des Meeres;1;748890;755963
 12365;Verdichteter Stein;20;7499;8999
-12365;Verdichteter Stein;20;9000;13000
-12365;Verdichteter Stein;20;9000;13000
-12365;Verdichteter Stein;20;7520;9400
-12365;Verdichteter Stein;20;7520;9400
-12365;Verdichteter Stein;20;7500;9000
-12365;Verdichteter Stein;20;7500;9000
 12365;Verdichteter Stein;20;7499;8999
 12365;Verdichteter Stein;20;7499;8999
 12365;Verdichteter Stein;20;7499;8999
@@ -260,8 +205,6 @@
 12365;Verdichteter Stein;20;7499;8999
 12365;Verdichteter Stein;20;7499;8999
 13032;Schwert der Verderbnis;1;44869;58587
-13032;Schwert der Verderbnis;1;6628;16660
-13032;Schwert der Verderbnis;1;15000;15000
 31673;Knusperschlange;20;260000;289000
 12361;Blauer Saphir;1;10000;22000
 12361;Blauer Saphir;1;10000;22000
@@ -276,19 +219,6 @@
 12361;Blauer Saphir;1;10000;22000
 12361;Blauer Saphir;1;10000;22000
 9254;Cuergos Schatzkarte;1;389999;399999
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1165000;1169900
-34220;Wechselhafter Himmelsfeuerdiamant;1;1160000;1169900
-34220;Wechselhafter Himmelsfeuerdiamant;1;1160000;1169900
-34220;Wechselhafter Himmelsfeuerdiamant;1;1160000;1169900
-34220;Wechselhafter Himmelsfeuerdiamant;1;1154500;1167500
-34220;Wechselhafter Himmelsfeuerdiamant;1;999999;999999
-34220;Wechselhafter Himmelsfeuerdiamant;1;999999;999999
 13027;Knochenquetscher;1;39199;46177
 13027;Knochenquetscher;1;39999;44999
 13027;Knochenquetscher;1;42599;44599
@@ -340,13 +270,6 @@
 7075;Erdenkern;1;43604;59506
 2798;Rethbanerz;3;3856;4821
 23441;Nachtauge;1;45000;80000
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;1;65000;79999
-23441;Nachtauge;2;71984;71992
 35761;Spiegelndes Löwenauge;1;3649520;4561900
 35761;Spiegelndes Löwenauge;1;3649520;4561900
 13040;Herzsuchende Armbrust;1;37684;46315
@@ -457,28 +380,6 @@
 25002;Blutfausthelm;1;105615;132019
 24777;Knochenfresserschädelkappe;1;83107;103884
 27678;Grollhuffleisch;1;3773;4326
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;1;4910;5456
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17350;19875
-10940;Seltsamer Staub;5;17375;19900
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;116500;119800
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;60000;74000
-10940;Seltsamer Staub;20;116500;119800
 13026;Himmelslicht;1;29161;48000
 13026;Himmelslicht;1;39000;47800
 2568;Braune Leinenweste;1;500;1000
@@ -510,8 +411,5 @@
 13042;Schwert des Magistraten;1;21280;26600
 23440;Dämmerstein;1;105000;110000
 23440;Dämmerstein;1;105000;110000
-13029;Umbralkristall;1;16413;18236
-13029;Umbralkristall;1;10580;11756
-13029;Umbralkristall;1;8934;11168
 25649;Knotenhautlederfetzen;20;87500;88800
 13035;Schlangenschnitzler;1;40461;44956
