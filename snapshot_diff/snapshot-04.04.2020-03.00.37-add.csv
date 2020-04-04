@@ -16,15 +16,6 @@
 2951;Ring des Waldlandes;1;40700;45222
 15182;Prätorianergelenkbänder;1;8994;18000
 15185;Prätorianerhelmkappe;1;46461;51624
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;34680;37840
-21877;Netherstoff;20;37036;37920
-21877;Netherstoff;20;37036;37920
-21877;Netherstoff;20;37036;37920
-21877;Netherstoff;20;37036;37920
-21877;Netherstoff;20;51200;64000
 21877;Netherstoff;20;24000;29500
 21877;Netherstoff;20;24000;29500
 21877;Netherstoff;20;24000;29500
@@ -70,8 +61,6 @@
 32201;Funkelnder Engelssaphir;1;950000;1100000
 32201;Funkelnder Engelssaphir;1;950000;1100000
 3864;Citrin;13;15600;90000
-3864;Citrin;1;7000;7900
-3864;Citrin;1;7000;7900
 24868;Blutritterschulterstücke;1;73186;80000
 12028;Basalthalskette;1;12822;16028
 14897;Salzsteinstulpen;1;6037;9999
@@ -84,7 +73,6 @@
 13040;Herzsuchende Armbrust;1;50409;50572
 13040;Herzsuchende Armbrust;1;44933;56167
 13040;Herzsuchende Armbrust;1;44933;56167
-31291;Kristallgeschmiedete Kriegsaxt;1;227599;230000
 24870;Eisenrückengürtel;1;79641;90000
 14954;Blutgeschmiedeter Schild;1;27000;30000
 31225;Illidaribindungen;1;227429;284287
@@ -207,8 +195,6 @@
 13513;Fläschchen des chromatischen Widerstands;1;147500;150000
 13513;Fläschchen des chromatischen Widerstands;1;147500;150000
 13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-2997;Wollstoffballen;6;36000;37500
-2997;Wollstoffballen;1;3481;3868
 2997;Wollstoffballen;6;20900;35600
 2997;Wollstoffballen;2;25000;25000
 31285;Brustschutz der Kralle;1;191602;210000
@@ -218,16 +204,9 @@
 24860;Marschenkrabblermantelung;1;43965;60000
 31882;Segen Ass;1;45000;50000
 31234;Kristallklinge der Draenei;1;261075;280000
-31234;Kristallklinge der Draenei;1;351075;390000
-31234;Kristallklinge der Draenei;1;324994;361105
-31234;Kristallklinge der Draenei;1;334439;343049
-31234;Kristallklinge der Draenei;1;347770;397771
-31234;Kristallklinge der Draenei;1;347770;397771
 24195;Vorlage: Tränenförmiger lebendiger Rubin;1;455000;750000
 13520;Rezept: Fläschchen der destillierten Weisheit;1;15000000;17000000
-17057;Glänzende Fischschuppen;4;150;188
 17057;Glänzende Fischschuppen;7;308;385
-2915;Taraneisbrecher;1;82933;84999
 32205;Glattes Löwenauge;1;2395512;2994390
 32205;Glattes Löwenauge;1;2395512;2994390
 31236;Düstere Schuhe;1;90000;99000
@@ -258,8 +237,6 @@
 29549;Kodex: Gebet der Seelenstärke III;1;140000;170000
 31308;Der Überbringer des Todes;1;244889;250000
 24202;Vorlage: Stürmischer Stern der Elune;1;110000;110000
-22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;750000;770000
 22542;Formel: Stiefel - Vitalität;1;425000;499999
 13518;Rezept: Fläschchen der Versteinerung;1;455000;550000
 13518;Rezept: Fläschchen der Versteinerung;1;550000;600000
@@ -315,9 +292,6 @@
 31226;Gamaschen des Durchtriebenen;1;141168;176461
 24192;Vorlage: Heller lebendiger Rubin;1;230000;250000
 2911;Kellers Gurt;1;116787;130110
-31222;Kopfputz des inneren Zorns;1;199500;239500
-31222;Kopfputz des inneren Zorns;1;212976;242977
-31222;Kopfputz des inneren Zorns;1;249000;250000
 31222;Kopfputz des inneren Zorns;1;184600;200000
 24992;Totschlägerbrustplatte;1;73353;80000
 20960;Gravierter Echtsilberring;1;7637;9547
@@ -330,7 +304,6 @@
 15155;Nächtliche Handschuhe;1;37667;49584
 31901;Furien Ass;1;125000;130000
 4038;Nachthauchrobe;1;18300;22875
-4038;Nachthauchrobe;1;22671;24079
 12037;Eigenartiges Fleisch;7;9508;12635
 12037;Eigenartiges Fleisch;6;1484;1649
 31912;Delirium 5;1;2215000;2220000

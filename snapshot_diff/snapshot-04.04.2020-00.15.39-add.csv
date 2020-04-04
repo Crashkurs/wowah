@@ -1,4 +1,3 @@
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
@@ -7,19 +6,6 @@
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
-24030;Runenverzierter lebendiger Rubin;1;215000;220000
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;189999;237499
-24030;Runenverzierter lebendiger Rubin;1;189999;237499
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
-24030;Runenverzierter lebendiger Rubin;1;205000;210000
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
-24030;Runenverzierter lebendiger Rubin;1;179599;225624
 24030;Runenverzierter lebendiger Rubin;1;202525;209999
 8170;Unverwüstliches Leder;20;155000;160000
 8170;Unverwüstliches Leder;20;155000;160000
@@ -31,21 +17,7 @@
 8170;Unverwüstliches Leder;20;155000;160000
 8170;Unverwüstliches Leder;20;155000;160000
 8190;Hanzos Schwert;1;47286;55000
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;299999;379999
-22791;Netherblüte;20;299999;379999
-22791;Netherblüte;20;299999;379999
-22791;Netherblüte;20;299999;379999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
 22791;Netherblüte;20;299998;299999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;8;112000;120000
-22791;Netherblüte;20;310000;320000
 22791;Netherblüte;19;274998;274999
 22866;Fläschchen des reinen Todes;1;219800;219900
 22866;Fläschchen des reinen Todes;1;219800;219900
@@ -85,11 +57,6 @@
 23793;Schweres Knotenhautleder;2;70500;74900
 23793;Schweres Knotenhautleder;2;70500;74900
 23793;Schweres Knotenhautleder;2;70500;74900
-27663;Schwarzgebratener Sporenfisch;10;43402;48225
-27663;Schwarzgebratener Sporenfisch;12;72984;82020
-27663;Schwarzgebratener Sporenfisch;20;99999;101010
-22529;Wildwedel;10;55672;69590
-22529;Wildwedel;20;126000;199999
 22529;Wildwedel;10;53000;70000
 6512;Jüngerrobe;1;10000;15000
 25232;Kriegsgleve;1;50000;100000
@@ -102,7 +69,6 @@
 25050;Moldavitring;1;70000;100000
 31878;Vorlage: Verschleierter Edeltopas;1;505000;540000
 22539;Formel: Schild - Intelligenz;1;46648;58310
-22539;Formel: Schild - Intelligenz;1;62500;76600
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;24000;29900
@@ -138,15 +104,8 @@
 23810;Bauplan: Krachbummroboter;1;28177;33752
 23810;Bauplan: Krachbummroboter;1;28177;33752
 23810;Bauplan: Krachbummroboter;1;58808;65343
-25868;Himmelsfeuerdiamant;1;985000;1000000
-25868;Himmelsfeuerdiamant;1;999950;1059950
-25868;Himmelsfeuerdiamant;1;925000;939999
-25868;Himmelsfeuerdiamant;1;920000;940000
-25868;Himmelsfeuerdiamant;1;920000;940000
 25868;Himmelsfeuerdiamant;1;920000;940000
 31306;Gamaschen des heiligen Wappens;1;50346;95000
-27664;Gegrillter Matschflosser;20;191919;202020
-27664;Gegrillter Matschflosser;20;186240;226920
 27664;Gegrillter Matschflosser;20;202000;202000
 27664;Gegrillter Matschflosser;20;202000;202000
 27664;Gegrillter Matschflosser;4;50360;55955
@@ -187,8 +146,6 @@
 24050;Schimmernder Dämmerstein;1;104497;104498
 4417;Bauplan: Große Zephyriumladung;1;63394;69038
 22572;Luftpartikel;5;33000;110000
-22572;Luftpartikel;1;24808;25781
-22572;Luftpartikel;7;162430;180478
 12644;Verdichteter Schleifstein;16;95264;119088
 12644;Verdichteter Schleifstein;20;119080;148860
 22565;Formel: Großer Prismasplitter;1;82500;85000
@@ -253,76 +210,13 @@
 31299;Der Schwurbewahrer;1;171000;181000
 23883;Bauplan: Heiltrankeinspritzung;1;750000;800000
 25184;Felshetzerklauen;1;85279;150000
-21929;Flammenspessarit;1;7043;7825
 21929;Flammenspessarit;1;13750;18000
-21929;Flammenspessarit;2;10925;12139
-21929;Flammenspessarit;1;7600;9500
-21929;Flammenspessarit;2;7200;7400
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;20;139980;155980
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;9999;19999
-21929;Flammenspessarit;1;9999;19999
-21929;Flammenspessarit;1;9999;19999
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;18;170910;179532
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;9999;19999
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
-21929;Flammenspessarit;1;7043;7825
 7912;Robuster Stein;20;8000;10000
 7912;Robuster Stein;20;8000;10000
 7912;Robuster Stein;20;8000;10000
 7912;Robuster Stein;20;8000;10000
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;157500;190000
-21887;Knotenhautleder;20;140000;179999
-21887;Knotenhautleder;20;148192;185240
-21887;Knotenhautleder;20;195000;195000
-21887;Knotenhautleder;19;192128;192888
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;167500;179999
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;157500;190000
-21887;Knotenhautleder;20;167500;179999
-21887;Knotenhautleder;20;167500;179999
-21887;Knotenhautleder;20;167500;179999
-21887;Knotenhautleder;10;98750;99900
-21887;Knotenhautleder;20;147500;150000
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;167500;179999
 15935;Haltbare Rute;1;9533;13292
-22573;Erdpartikel;1;6673;7499
 22573;Erdpartikel;1;600;6500
-22573;Erdpartikel;4;12400;30000
-22573;Erdpartikel;1;6673;7499
 23104;Gezackter Tiefenperidot;1;6471;8105
 23104;Gezackter Tiefenperidot;1;6471;8105
 23104;Gezackter Tiefenperidot;1;6471;8105
@@ -369,14 +263,6 @@
 21991;Schwerer Netherstoffverband;20;62720;78400
 21991;Schwerer Netherstoffverband;20;60000;88000
 21991;Schwerer Netherstoffverband;20;130000;132000
-11083;Seelenstaub;20;140000;159400
-11083;Seelenstaub;2;3999;5999
-11083;Seelenstaub;20;64400;64444
-11083;Seelenstaub;10;31410;34900
-11083;Seelenstaub;10;31410;34900
-11083;Seelenstaub;6;18846;20940
-11083;Seelenstaub;12;36000;38400
-11083;Seelenstaub;5;15000;16000
 12987;Dunkelgewirkte Bundhosen;1;6010;25055
 32249;Gischtsmaragd;1;180000;259000
 32249;Gischtsmaragd;1;180000;259000
@@ -393,51 +279,12 @@
 22790;Urflechte;20;40260;41860
 16716;Gürtel des Wildherzens;1;37431;40000
 24988;Felsfaustschulterklappen;1;451657;559572
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;374999;399999
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;260000;280000
 22792;Alptraumranke;20;259998;259999
-22792;Alptraumranke;20;299999;324999
-22792;Alptraumranke;20;260000;280000
-22792;Alptraumranke;20;260000;280000
 22792;Alptraumranke;20;259998;259999
 22792;Alptraumranke;20;259998;259999
 25845;Eterniumrute;1;530000;550000
 25845;Eterniumrute;1;530000;550000
-22451;Urluft;1;196000;205900
-22451;Urluft;10;2165400;2199400
-22451;Urluft;10;2165400;2199400
-22451;Urluft;10;2165400;2199400
-22451;Urluft;10;2165400;2199400
-22451;Urluft;10;1900000;1950000
-22451;Urluft;10;2165400;2199400
-22451;Urluft;20;3790000;3800000
-22451;Urluft;1;196000;205900
-22451;Urluft;1;196000;205900
-22451;Urluft;1;196000;205900
-22451;Urluft;10;2165400;2199400
-22451;Urluft;10;2165400;2199400
 22451;Urluft;1;216540;219940
-22451;Urluft;10;2165400;2199400
 22451;Urluft;1;216540;219940
 22451;Urluft;1;216540;219940
 22451;Urluft;1;216540;219940
@@ -449,42 +296,7 @@
 22451;Urluft;1;189988;189999
 22451;Urluft;1;189988;189999
 22451;Urluft;1;189988;189999
-22451;Urluft;1;198500;209999
-22451;Urluft;1;196000;205900
-22451;Urluft;1;219751;219768
-22451;Urluft;1;198500;209999
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;198500;209999
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;219751;219768
-22451;Urluft;1;206000;210000
-22451;Urluft;1;206000;210000
-22451;Urluft;1;206000;210000
-22451;Urluft;1;206000;210000
-22451;Urluft;1;198500;209999
-22451;Urluft;1;198500;209999
-22451;Urluft;1;198500;209999
-22451;Urluft;1;198500;209999
 22451;Urluft;1;189988;189999
-25896;Mächtiger Erdsturmdiamant;1;828476;869900
-25896;Mächtiger Erdsturmdiamant;1;860000;867500
-25896;Mächtiger Erdsturmdiamant;1;869899;869899
 8006;Der Ziggler;1;25099;27999
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
@@ -550,113 +362,9 @@
 4304;Dickes Leder;20;109000;110000
 4304;Dickes Leder;20;109000;110000
 22577;Schattenpartikel;4;2400;12500
-22577;Schattenpartikel;5;12976;16220
-22577;Schattenpartikel;7;18166;22708
-22577;Schattenpartikel;10;25952;32440
-22577;Schattenpartikel;10;27632;39540
-22577;Schattenpartikel;3;9545;12807
-22577;Schattenpartikel;10;28160;35200
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;10;1099999;1259999
-22446;Große Planaressenz;10;1099999;1259999
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;112000;118999
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;10;1025992;1282490
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;5;500000;600000
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;1119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109800;119809
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
-22446;Große Planaressenz;1;109999;119999
 22553;Formel: Waffe - Potenz;1;1899999;1999999
 22553;Formel: Waffe - Potenz;1;750000;900000
 13010;Beinschützer des Traumsängers;1;15124;18905
-24057;Königliches Nachtauge;1;110000;159999
-24057;Königliches Nachtauge;1;110000;159999
-24057;Königliches Nachtauge;1;110000;159999
-24057;Königliches Nachtauge;1;110000;159999
-24057;Königliches Nachtauge;1;110000;159999
-24057;Königliches Nachtauge;1;110000;159999
 15152;Nächtliche Schuhe;1;20000;40000
 25893;Mystischer Himmelsfeuerdiamant;1;1250000;1350000
 24306;Muster: Wickeltuch der Vergeltung;1;176948;221186
@@ -716,69 +424,8 @@
 24028;Feingeschliffener lebendiger Rubin;1;247500;247500
 24028;Feingeschliffener lebendiger Rubin;1;247500;247500
 24028;Feingeschliffener lebendiger Rubin;1;247500;247500
-21881;Netherweberseide;3;37500;37800
-21881;Netherweberseide;3;37500;37800
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;5;49900;55000
-21881;Netherweberseide;5;49900;55000
-21881;Netherweberseide;5;49900;55000
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;87600;109500
-21881;Netherweberseide;10;87600;109500
-21881;Netherweberseide;10;99600;109500
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;49000;50000
-21881;Netherweberseide;4;49000;50000
-21881;Netherweberseide;1;11500;12000
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;1;15800;19750
 21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;10;95000;99999
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;2;31600;39500
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;2;21000;25000
-21881;Netherweberseide;2;21000;25000
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;2;21000;25000
-21881;Netherweberseide;2;31600;39500
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;5;37500;60000
-21881;Netherweberseide;1;11020;13775
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
 27501;Rolle der Willenskraft V;1;20150;25000
 6149;Großer Manatrank;5;1000;1100
 6149;Großer Manatrank;5;1000;1100
@@ -794,18 +441,12 @@
 15760;Muster: Eisenfederbrustplatte;1;45500;60000
 22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;1;14218;15838
-22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;3;1800;30000
 22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;1;14218;15838
 22575;Lebenspartikel;1;14218;15838
-22575;Lebenspartikel;1;14015;15839
-22575;Lebenspartikel;1;14015;15839
-22575;Lebenspartikel;1;14015;15839
-22575;Lebenspartikel;1;14015;15839
-22575;Lebenspartikel;1;14015;15839
 11082;Große Astralessenz;8;40000;48000
 11082;Große Astralessenz;9;45000;54000
 11082;Große Astralessenz;10;50000;60000
@@ -821,22 +462,6 @@
 11082;Große Astralessenz;10;50000;60000
 25302;Seelentöterdolch;1;100000;190000
 13128;Helm des Steilgipfels;1;15498;19599
-22793;Manadistel;20;91760;100100
-22793;Manadistel;17;77996;85085
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;1;4588;5005
-22793;Manadistel;20;75000;89999
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;4;31600;39500
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;91760;100100
 22793;Manadistel;20;179999;199999
 22793;Manadistel;20;179999;199999
 22793;Manadistel;20;179999;199999
@@ -846,29 +471,8 @@
 22793;Manadistel;20;179999;199999
 22793;Manadistel;20;179999;199999
 22793;Manadistel;20;179999;199999
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;105000;107800
-22793;Manadistel;4;15596;21996
-22793;Manadistel;20;105000;107800
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
+22793;Manadistel;20;179999;199999
 13077;Gurt von Uther;1;21717;35000
-25897;Starker Erdsturmdiamant;1;973500;1000000
 23440;Dämmerstein;1;84500;89500
 23440;Dämmerstein;1;84500;89500
 23440;Dämmerstein;1;84500;89500

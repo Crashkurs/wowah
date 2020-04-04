@@ -40,12 +40,6 @@
 8170;Unverwüstliches Leder;13;89750;100400
 8170;Unverwüstliches Leder;20;183900;183999
 8170;Unverwüstliches Leder;20;183900;183999
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;100000;188000
-8170;Unverwüstliches Leder;20;100000;188000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
 15244;Klingenschneide;1;19153;24999
 14048;Runenstoffballen;10;50000;60000
 14048;Runenstoffballen;6;48000;50000
@@ -194,18 +188,6 @@
 13935;Gebackener Lachs;11;944;1049
 13935;Gebackener Lachs;20;1717;1908
 13935;Gebackener Lachs;20;1717;1908
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;505000;550000
 24478;Jaggalperle;1;8000;10000
 24478;Jaggalperle;1;7199;8299
@@ -261,10 +243,6 @@
 6359;Feuerflossenschnapper;20;20150;30000
 19708;Blaues Schmuckstück der Hakkari;2;279036;310041
 30308;Muster: Stiefel des Wirbelsturms;1;599900;599900
-32409;Unerbittlicher Erdsturmdiamant;1;624300;715500
-32409;Unerbittlicher Erdsturmdiamant;1;624300;715500
-32409;Unerbittlicher Erdsturmdiamant;1;679630;715400
-32409;Unerbittlicher Erdsturmdiamant;1;715399;715399
 32409;Unerbittlicher Erdsturmdiamant;1;700000;715000
 16245;Formel: Stiefel - Große Beweglichkeit;1;66879;83599
 22526;Knochenfragmente;20;160000;164000
@@ -446,12 +424,9 @@
 4339;Magiestoffballen;10;128750;150000
 4625;Feuerblüte;1;9900;9900
 7079;Kugel des Wassers;1;8551;9501
-7079;Kugel des Wassers;1;2490;2490
 11138;Kleiner leuchtender Splitter;1;1850;2055
 24965;Khan'aisharmschienen;1;129661;149577
 24761;Umbrafennkappe;1;2200000;2200000
-32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;149999;149999
-32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;186334;207038
 3419;Rote Rose;1;14525;17000
 11137;Visionenstaub;10;59990;65990
 11137;Visionenstaub;20;119900;131900
@@ -593,17 +568,6 @@
 19278;Portal 2;1;13716;17146
 19278;Portal 2;1;22381;24868
 19278;Portal 2;1;21579;23977
-7912;Robuster Stein;1;1325;1425
-7912;Robuster Stein;20;2560;2600
-7912;Robuster Stein;20;3000;10000
-7912;Robuster Stein;20;7500;10000
-7912;Robuster Stein;2;2856;3000
-7912;Robuster Stein;1;100;400
-7912;Robuster Stein;20;2560;2600
-7912;Robuster Stein;20;2560;2600
-7912;Robuster Stein;10;10500;20000
-7912;Robuster Stein;20;2560;2600
-7912;Robuster Stein;10;10500;20000
 3174;Spinnensekret;5;256;320
 32580;Flinkschlagarmschienen;1;4504533;5500000
 32580;Flinkschlagarmschienen;1;4609000;4955000
@@ -689,10 +653,6 @@
 14047;Runenstoff;20;12000;20000
 14047;Runenstoff;20;12000;20000
 7909;Aquamarin;1;15767;17519
-7909;Aquamarin;1;9811;12264
-7909;Aquamarin;8;79360;99200
-7909;Aquamarin;1;17269;19087
-7909;Aquamarin;1;42463;54958
 21991;Schwerer Netherstoffverband;20;62720;78400
 9952;Häuptlingshandschuhe;1;7882;7999
 11083;Seelenstaub;20;60000;64000
@@ -704,14 +664,11 @@
 1685;Trollbalgtasche;1;19375;20000
 13031;Kugel des Dunstmantels;1;29900;29900
 32420;Nachtend;1;1700345;1999500
-32420;Nachtend;1;1909545;2100000
 24659;Konsortiummantelung;1;200000;255964
 24659;Konsortiummantelung;1;199886;249500
 20862;Kristallskarabäus;6;269131;299035
 18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;62092;77616
 3575;Eisenbarren;6;9900;9900
-3575;Eisenbarren;20;36000;37999
-3575;Eisenbarren;12;18019;22524
 25802;Schreckensgiftbeutel;3;25536;31920
 25802;Schreckensgiftbeutel;1;8960;11201
 25802;Schreckensgiftbeutel;1;15674;15675
@@ -855,11 +812,6 @@
 24618;Verteidigerhose;1;37332;50000
 24694;Knochenmalmerflickenstiefel;1;50000;60000
 31290;Band der Herrschaft;1;249900;249900
-7078;Essenz des Feuers;3;29307;29898
-7078;Essenz des Feuers;1;23603;26226
-7078;Essenz des Feuers;3;18808;23511
-7078;Essenz des Feuers;2;15000;16000
-7078;Essenz des Feuers;2;25000;35000
 12218;Monsteromelett;5;3496;4370
 7910;Sternrubin;1;9535;12544
 7910;Sternrubin;1;41724;52155
@@ -1286,44 +1238,14 @@
 25843;Teufelseisenrute;1;299900;299900
 25843;Teufelseisenrute;1;227924;284905
 29724;Muster: Kobraschuppenhandschuhe;1;279999;280000
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;20;1100000;1120000
-32428;Herz der Dunkelheit;5;90000;100000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
-32428;Herz der Dunkelheit;20;1100000;1120000
-32428;Herz der Dunkelheit;20;1100000;1120000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;2;110000;112000
 32428;Herz der Dunkelheit;2;49914;55460
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
-32428;Herz der Dunkelheit;5;90000;100000
 32428;Herz der Dunkelheit;20;1100000;1120000
 10938;Geringe Magieessenz;5;49900;49900
 10938;Geringe Magieessenz;6;59900;59900
