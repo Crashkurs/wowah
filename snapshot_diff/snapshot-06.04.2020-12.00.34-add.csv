@@ -14,24 +14,7 @@
 3712;Schildkrötenfleisch;5;10000;10000
 3712;Schildkrötenfleisch;5;10000;10000
 3712;Schildkrötenfleisch;5;10000;10000
-21877;Netherstoff;20;42000;43000
 21877;Netherstoff;20;24000;29999
-21877;Netherstoff;20;24000;29999
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;42000;43000
-21877;Netherstoff;20;44000;44400
-21877;Netherstoff;20;24000;30000
-21877;Netherstoff;20;24000;44900
-21877;Netherstoff;20;27232;34040
-21877;Netherstoff;20;27232;34040
-21877;Netherstoff;20;27232;34040
-21877;Netherstoff;5;6720;8400
 23571;Urmacht;1;914000;915000
 23571;Urmacht;1;904000;910000
 23571;Urmacht;1;905720;914500
@@ -106,8 +89,6 @@
 25719;Arakkoafeder;6;97185;107983
 25719;Arakkoafeder;90;1101010;1111111
 25719;Arakkoafeder;18;233436;259999
-23107;Schattendraenit;20;150000;199999
-23107;Schattendraenit;20;150000;199999
 23107;Schattendraenit;4;28576;35720
 23107;Schattendraenit;1;7144;8930
 4338;Magiestoff;11;69591;87989
@@ -121,21 +102,7 @@
 22529;Wildwedel;1;2499;2499
 22529;Wildwedel;7;42100;46000
 22529;Wildwedel;7;7500;40000
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;170000;174300
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
 22839;Zerstörungstrank;5;173994;173994
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
 22839;Zerstörungstrank;5;173994;173994
 22839;Zerstörungstrank;5;173994;173994
 22557;Formel: Waffe - Meister des Kampfes;1;297841;372302
@@ -162,7 +129,6 @@
 28290;Glatter Golddraenit;1;27839;39799
 28290;Glatter Golddraenit;1;17600;29500
 28290;Glatter Golddraenit;1;17600;29500
-3608;Pläne: Mächtiger Eisenhammer;1;6000;7000
 23487;Teufelseisenplattenstiefel;1;50128;99900
 22532;Formel: Armschiene - Mana wiederherstellen;1;232500;240000
 22532;Formel: Armschiene - Mana wiederherstellen;1;222500;250000
@@ -271,111 +237,30 @@
 22849;Eisenschildtrank;5;179000;189000
 4245;Kleines Seidenpack;1;3000;6000
 4245;Kleines Seidenpack;1;3000;6000
-24220;Vorlage: Gezackter Talasit;1;196000;245000
-24220;Vorlage: Gezackter Talasit;1;285000;350000
 28596;Vorlage: Heller Blutgranat;1;198750;200000
-4500;Reiserucksack;1;55000;70000
-4500;Reiserucksack;1;55000;70000
-4500;Reiserucksack;1;55000;70000
-4500;Reiserucksack;1;53125;60000
-4500;Reiserucksack;1;53125;60000
-4500;Reiserucksack;1;55000;70000
-4500;Reiserucksack;1;55000;70000
-4500;Reiserucksack;1;55000;70000
 871;Wirbelwindaxt;1;104442;110000
 28291;Vorlage: Glatter Golddraenit;1;192500;200000
 28501;Felshetzeromelett;5;7286;8095
 23505;Adamantitrapier;1;120000;150000
 23505;Adamantitrapier;1;120000;150000
 23524;Khoriumgürtel;1;56654;0
-23524;Khoriumgürtel;1;271103;290000
 22563;Formel: Überragendes Zauberöl;1;246250;299090
 22528;Dunkeleisenfragmente;11;19536;24420
 22528;Dunkeleisenfragmente;10;23305;25895
 22528;Dunkeleisenfragmente;44;43200;90000
 22528;Dunkeleisenfragmente;68;245645;272939
 2589;Leinenstoff;20;390;1000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;385000;390000
-32249;Gischtsmaragd;1;385000;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;385000;390000
-32249;Gischtsmaragd;1;399999;499999
-32249;Gischtsmaragd;1;399999;499999
-32249;Gischtsmaragd;1;385000;390000
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;385000;390000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;389999;489999
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;363600;399500
-32249;Gischtsmaragd;1;363600;399500
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;363600;399500
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;363600;399500
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;363600;399500
 28498;Rabenwächterbandelier;1;77351;85946
 31289;Stab der göttlichen Eingebung;1;189874;235000
 3355;Wildstahlblume;20;1500;3000
 3355;Wildstahlblume;20;1500;3000
 4234;Schweres Leder;15;75000;76000
 23517;Teufelsstahlhandschuhe;1;305466;360000
-23517;Teufelsstahlhandschuhe;1;334324;417905
-23572;Urnether;20;450000;500000
-23572;Urnether;20;450000;500000
 23572;Urnether;1;47900;48900
 23572;Urnether;1;47900;48900
 23572;Urnether;1;47900;48900
 23572;Urnether;1;47900;48900
-23572;Urnether;2;64155;64162
-23572;Urnether;20;450000;500000
-23572;Urnether;20;450000;500000
-23572;Urnether;1;43999;54999
-23572;Urnether;1;43999;54999
-23572;Urnether;1;43999;54999
 23572;Urnether;1;47900;48900
-23572;Urnether;1;47900;48900
-23572;Urnether;1;14000;20000
-23572;Urnether;20;491600;499500
-23572;Urnether;20;450000;500000
-23572;Urnether;20;450000;500000
-23572;Urnether;2;102400;128000
 22522;Überragendes Zauberöl;1;82202;82222
 22522;Überragendes Zauberöl;1;82202;82222
 22522;Überragendes Zauberöl;1;82202;82222
@@ -383,7 +268,6 @@
 22522;Überragendes Zauberöl;1;82202;82222
 22522;Überragendes Zauberöl;1;82202;82222
 25802;Schreckensgiftbeutel;1;8961;11202
-25802;Schreckensgiftbeutel;1;10043;11792
 23532;Stulpen des eisernen Turms;1;1985227;1990000
 22572;Luftpartikel;7;158883;176537
 22572;Luftpartikel;5;130000;135000
@@ -399,15 +283,6 @@
 22542;Formel: Stiefel - Vitalität;1;342000;427500
 22542;Formel: Stiefel - Vitalität;1;342000;427500
 22542;Formel: Stiefel - Vitalität;1;445000;450000
-22851;Fläschchen der Stärkung;1;121000;128000
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;128899
 24222;Dolch des schleichenden Todes;1;76315;88888
 24222;Dolch des schleichenden Todes;1;187898;208776
 24222;Dolch des schleichenden Todes;1;189999;199999
@@ -421,25 +296,13 @@
 32388;Schattenstaub;1;13215;14683
 32388;Schattenstaub;1;13215;14683
 32388;Schattenstaub;3;37006;41118
-3611;Pläne: Grüne Eisenstiefel;1;31600;42000
 22844;Erheblicher Naturschutztrank;5;38412;48015
 22844;Erheblicher Naturschutztrank;5;38412;48015
 22844;Erheblicher Naturschutztrank;5;38412;48015
-22840;Elixier des erheblichen Magierbluts;20;399999;439999
 22840;Elixier des erheblichen Magierbluts;5;107495;107495
 22840;Elixier des erheblichen Magierbluts;5;107495;107495
 22840;Elixier des erheblichen Magierbluts;5;107495;107495
 22840;Elixier des erheblichen Magierbluts;5;107495;107495
-22840;Elixier des erheblichen Magierbluts;20;429999;430000
-22840;Elixier des erheblichen Magierbluts;20;429999;430000
-22840;Elixier des erheblichen Magierbluts;20;429999;430000
-22840;Elixier des erheblichen Magierbluts;20;399999;439999
-22840;Elixier des erheblichen Magierbluts;20;429999;430000
-22840;Elixier des erheblichen Magierbluts;20;399999;439999
-22840;Elixier des erheblichen Magierbluts;5;105000;110000
-22840;Elixier des erheblichen Magierbluts;20;440000;449900
-22840;Elixier des erheblichen Magierbluts;20;440000;449900
-22840;Elixier des erheblichen Magierbluts;20;440000;449900
 24050;Schimmernder Dämmerstein;1;119999;168899
 24050;Schimmernder Dämmerstein;1;166900;166900
 24050;Schimmernder Dämmerstein;1;115000;145500
@@ -506,7 +369,6 @@
 1982;Nachtklinge;1;104269;200000
 4480;Donnernder Glücksbringer;2;10555;20000
 4480;Donnernder Glücksbringer;8;113664;142080
-22539;Formel: Schild - Intelligenz;1;52500;54500
 4477;Schändlicher Rundschild;1;13697;17122
 27666;Goldfischstäbchen;5;96245;96245
 27666;Goldfischstäbchen;5;96245;96245
@@ -551,7 +413,6 @@
 23519;Teufelsstahlhelm;1;666666;799999
 23519;Teufelsstahlhelm;1;666666;799999
 23519;Teufelsstahlhelm;1;666666;799999
-22573;Erdpartikel;5;27072;33840
 25843;Teufelseisenrute;1;162000;175000
 22565;Formel: Großer Prismasplitter;1;250000;270000
 22565;Formel: Großer Prismasplitter;1;82500;90000
@@ -559,16 +420,4 @@
 22565;Formel: Großer Prismasplitter;1;129360;161700
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;595000;690000
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;799999;999999
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
 25744;Auge eines Dunstschuppenbasilisken;2;7644;9556
-25744;Auge eines Dunstschuppenbasilisken;72;628265;698073
-25744;Auge eines Dunstschuppenbasilisken;153;491401;596752
-25744;Auge eines Dunstschuppenbasilisken;7;28504;35630
-25744;Auge eines Dunstschuppenbasilisken;1;7182;7980
-25744;Auge eines Dunstschuppenbasilisken;2;6546;6916
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;15;73125;74799
-25744;Auge eines Dunstschuppenbasilisken;1;3273;3458
-25744;Auge eines Dunstschuppenbasilisken;200;749999;750000

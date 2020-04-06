@@ -27,12 +27,6 @@
 24048;Glatter Dämmerstein;1;70000;77500
 24048;Glatter Dämmerstein;1;44000;80000
 24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;132500;132500
-24051;Massiver Dämmerstein;1;132500;132500
-24051;Massiver Dämmerstein;1;132500;132500
-24051;Massiver Dämmerstein;1;132500;132500
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
@@ -42,7 +36,6 @@
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;130000;135000
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
@@ -56,27 +49,6 @@
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;165000
-24051;Massiver Dämmerstein;1;130000;165000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;135000;143000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;130000;165000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
 25301;Zerschmetternder Dolch;1;100000;118168
 25334;Einschüchterungsgroßstab;1;297104;371380
 32201;Funkelnder Engelssaphir;1;950000;1100000
@@ -189,7 +161,6 @@
 27655;Heißer Hetzer;5;24995;34995
 25901;Bemerkenswerter Erdsturmdiamant;1;942301;967400
 25901;Bemerkenswerter Erdsturmdiamant;1;917607;956758
-7078;Essenz des Feuers;2;21200;25000
 7078;Essenz des Feuers;2;19000;23750
 32420;Nachtend;1;1980517;1990000
 28270;Formel: Brust - Erhebliche Abhärtung;1;489640;612051
@@ -252,22 +223,6 @@
 25325;Brutaler Narbenast;1;111200;120100
 25867;Erdsturmdiamant;1;603800;610000
 27658;Gerösteter Grollhuf;20;88888;98888
-27658;Gerösteter Grollhuf;10;49291;52239
-27658;Gerösteter Grollhuf;20;138020;139900
-27658;Gerösteter Grollhuf;20;104500;105000
-27658;Gerösteter Grollhuf;20;104500;105000
-27658;Gerösteter Grollhuf;20;104500;105000
-27658;Gerösteter Grollhuf;10;49291;52239
-27658;Gerösteter Grollhuf;20;104500;105000
-27658;Gerösteter Grollhuf;20;102420;102900
-27658;Gerösteter Grollhuf;20;99999;99999
-27658;Gerösteter Grollhuf;20;102420;102900
-27658;Gerösteter Grollhuf;20;102420;102900
-27658;Gerösteter Grollhuf;20;101999;102499
-27658;Gerösteter Grollhuf;20;101999;102499
-27658;Gerösteter Grollhuf;20;99999;99999
-27658;Gerösteter Grollhuf;20;99999;99999
-27658;Gerösteter Grollhuf;20;102420;102900
 29740;Teuflische Waffen;10;1950000;1990000
 29740;Teuflische Waffen;10;1950000;1990000
 29740;Teuflische Waffen;10;1950000;1990000
@@ -301,10 +256,6 @@
 31882;Segen Ass;1;39520;46430
 31882;Segen Ass;1;39520;46430
 24271;Zauberstoff;2;860000;895000
-24271;Zauberstoff;1;446000;450000
-24271;Zauberstoff;1;446000;450000
-24271;Zauberstoff;1;446000;450000
-24271;Zauberstoff;1;446000;450000
 8838;Sonnengras;20;41800;45000
 8838;Sonnengras;20;31800;34000
 8838;Sonnengras;20;31800;34000
@@ -378,20 +329,6 @@
 24202;Vorlage: Stürmischer Stern der Elune;1;181365;196707
 25282;Mahagonizauberstab;1;50000;100000
 31292;Pulsierender Kristallschild;1;444444;466666
-24272;Schattenstoff;1;339900;350000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;346000;350000
-24272;Schattenstoff;1;346000;350000
-24272;Schattenstoff;1;336000;349000
-24272;Schattenstoff;1;336000;349000
-24272;Schattenstoff;1;336000;349000
-24272;Schattenstoff;1;336000;349000
 27500;Rolle des Schutzes V;1;51677;60035
 27500;Rolle des Schutzes V;1;51677;60035
 31861;Großer Dämmerstein;1;150000;180000
@@ -503,23 +440,8 @@
 33093;Manatrankeinspritzung;20;580000;599980
 33093;Manatrankeinspritzung;20;580000;599980
 33093;Manatrankeinspritzung;20;580000;599980
-24273;Mystischer Zauberfaden;1;1404999;1419999
-24273;Mystischer Zauberfaden;1;1404999;1409999
-24273;Mystischer Zauberfaden;1;1404999;1409999
-24273;Mystischer Zauberfaden;1;1404500;1409500
-8827;Elixier des Wasserwandelns;20;29592;38740
-8827;Elixier des Wasserwandelns;13;15687;17430
-8827;Elixier des Wasserwandelns;1;899;1099
-8827;Elixier des Wasserwandelns;1;899;1099
-8827;Elixier des Wasserwandelns;1;899;1099
 8492;Papageienkäfig (Grünflügelara);1;81500;100000
 32062;Elixier der erheblichen Seelenstärke;6;101250;110000
-24276;Goldener Zauberfaden;1;1659999;1669999
-24276;Goldener Zauberfaden;1;1619999;1649999
-24276;Goldener Zauberfaden;1;1619999;1649999
-24276;Goldener Zauberfaden;1;1619999;1649999
-24276;Goldener Zauberfaden;1;1624999;1659999
-24276;Goldener Zauberfaden;1;1624999;1659999
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 27515;Große Tüpfelteufelsfinne;1;14020;17526
@@ -595,6 +517,3 @@
 25707;Teufelsbalg;20;357500;395000
 24274;Runenverzierter Zauberfaden;1;2950000;2980000
 24274;Runenverzierter Zauberfaden;1;2839900;2839900
-24052;Kompakter Dämmerstein;1;109944;115999
-24052;Kompakter Dämmerstein;1;114000;116000
-24052;Kompakter Dämmerstein;1;114000;116000
