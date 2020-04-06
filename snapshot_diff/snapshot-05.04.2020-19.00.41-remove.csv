@@ -91,24 +91,10 @@
 22390;Pläne: Willensbrecher;1;3500000;4000000
 22390;Pläne: Willensbrecher;1;3500000;4000000
 5117;Farbenprächtiger Federbusch;1;825;1200
-2841;Bronzebarren;20;11500;15000
 2841;Bronzebarren;20;13680;17100
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
 2841;Bronzebarren;11;8000;10061
 2841;Bronzebarren;20;44900;44900
 2841;Bronzebarren;16;11916;14896
-2841;Bronzebarren;20;13500;14500
-2841;Bronzebarren;1;723;724
-2841;Bronzebarren;1;723;724
-2841;Bronzebarren;20;13500;14500
-2841;Bronzebarren;10;6600;7100
-2841;Bronzebarren;20;13500;14500
-2841;Bronzebarren;12;6470;8088
-2841;Bronzebarren;20;9584;13480
 3608;Pläne: Mächtiger Eisenhammer;1;4000;6000
 9252;Unteres Kartenfragment;1;43444;48311
 23197;Götze des Mondes;1;180000;200000
@@ -134,7 +120,6 @@
 20748;Hervorragendes Manaöl;1;183000;193500
 16702;Gürtel der Furcht;1;147214;163571
 2863;Grober Wetzstein;9;10128;11254
-2862;Rauer Wetzstein;20;10000;12000
 2862;Rauer Wetzstein;20;9408;11760
 14920;Jadebeinplatten;1;17053;40000
 15420;Eisenfeder;7;700;980
@@ -168,8 +153,6 @@
 12205;Weißes Spinnenfleisch;8;24096;32000
 12205;Weißes Spinnenfleisch;8;24096;32000
 2981;Seherrobe;1;35000;35000
-3020;Ausdauernde Kappe;1;9982;12900
-3020;Ausdauernde Kappe;1;29568;38710
 3020;Ausdauernde Kappe;1;17500;30000
 14921;Jadeschulterklappen;1;11191;30000
 23573;Gehärteter Adamantitbarren;1;106000;109000
@@ -210,7 +193,6 @@
 15930;Imperiales rotes Szepter;1;9146;30000
 2997;Wollstoffballen;2;10000;10000
 2966;Kriegerhose;1;1999;3999
-2842;Silberbarren;11;71650;80000
 2842;Silberbarren;13;59280;74100
 8146;Tückische Klaue;5;8750;9000
 8146;Tückische Klaue;4;7000;7200
@@ -248,11 +230,6 @@
 3685;Raptorei;6;14860;18576
 2452;Flitzdistel;12;30000;30000
 2915;Taraneisbrecher;1;82933;84999
-2915;Taraneisbrecher;1;199999;199999
-2915;Taraneisbrecher;1;102840;113550
-2915;Taraneisbrecher;1;82933;119999
-2915;Taraneisbrecher;1;58033;62000
-2915;Taraneisbrecher;1;49540;63175
 7072;Nagaschuppe;1;2162;2703
 10301;Muster: Weiße Banditenmaske;1;7000;19900
 10301;Muster: Weiße Banditenmaske;1;7000;19900
@@ -360,32 +337,8 @@
 10168;Templerkrone;1;17523;40000
 22388;Pläne: Gamaschen der Titanen;1;650000;700000
 22220;Pläne: Dunkler Griff des Zerstörers;1;2999999;2999999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;126000;139899
-21886;Urleben;1;126000;139899
-21886;Urleben;1;126000;139899
-21886;Urleben;1;126000;139899
-21886;Urleben;1;126000;139899
-21886;Urleben;6;780000;810000
-21886;Urleben;5;649999;699999
 21886;Urleben;1;146000;148000
 21886;Urleben;1;146000;148000
-21886;Urleben;5;650000;666666
-21886;Urleben;5;649999;699999
-21886;Urleben;20;2777777;2799999
-21886;Urleben;4;404000;550000
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
 4477;Schändlicher Rundschild;1;13697;17122
 2459;Hurtigkeitstrank;5;49900;49900
 2459;Hurtigkeitstrank;5;49900;49900
@@ -401,8 +354,6 @@
 2459;Hurtigkeitstrank;5;12500;12500
 2459;Hurtigkeitstrank;5;12500;12500
 2459;Hurtigkeitstrank;5;12500;12500
-2459;Hurtigkeitstrank;5;9272;11590
-2459;Hurtigkeitstrank;5;9272;11590
 7911;Echtsilbererz;5;7756;9695
 9187;Elixier der großen Beweglichkeit;12;44772;45144
 14491;Muster: Runenstoffhose;1;15000;18300
@@ -423,9 +374,6 @@
 8169;Dicker Balg;4;2000;2400
 7443;Schildwachenhandschuhe;1;6916;8645
 10103;Ratsherrenschärpe;1;5687;20000
-2565;Rute des flüssigen Feuers;1;3113;4500
-2565;Rute des flüssigen Feuers;1;4908;6136
-2565;Rute des flüssigen Feuers;1;6040;6711
 9948;Häuptlingsstiefel;1;8365;30000
 13044;Dämonentöter;1;42234;51371
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;3662;4578

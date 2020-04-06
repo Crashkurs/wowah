@@ -39,15 +39,6 @@
 9233;Elixier der Dämonenentdeckung;1;1500;1500
 9233;Elixier der Dämonenentdeckung;1;1500;1500
 15309;Wildumhang;1;330;666
-23100;Glitzernder Flammenspessarit;1;17799;22299
-23100;Glitzernder Flammenspessarit;1;16947;21184
-23100;Glitzernder Flammenspessarit;1;16947;21184
-23100;Glitzernder Flammenspessarit;1;16947;21184
-23100;Glitzernder Flammenspessarit;1;15619;19524
-23100;Glitzernder Flammenspessarit;1;15619;19524
-23100;Glitzernder Flammenspessarit;1;16947;21184
-23100;Glitzernder Flammenspessarit;1;17799;22299
-23100;Glitzernder Flammenspessarit;1;15619;19524
 23100;Glitzernder Flammenspessarit;1;13750;19523
 23100;Glitzernder Flammenspessarit;1;13750;19523
 13468;Schwarzer Lotus;4;126000;130000
@@ -90,18 +81,8 @@
 2835;Rauer Stein;20;7000;7500
 2835;Rauer Stein;20;7000;7500
 15131;Halsabschneiderstiefel;1;3034;3700
-18335;Makelloser schwarzer Diamant;1;599999;599999
-18335;Makelloser schwarzer Diamant;1;599999;599999
-18335;Makelloser schwarzer Diamant;1;200100;300000
-18335;Makelloser schwarzer Diamant;5;959600;1199500
 18335;Makelloser schwarzer Diamant;1;207300;237000
 18335;Makelloser schwarzer Diamant;1;207300;237000
-18335;Makelloser schwarzer Diamant;1;599999;599999
-18335;Makelloser schwarzer Diamant;1;200000;300000
-18335;Makelloser schwarzer Diamant;1;599999;599999
-18335;Makelloser schwarzer Diamant;1;200000;300000
-18335;Makelloser schwarzer Diamant;1;200000;300000
-18335;Makelloser schwarzer Diamant;1;200000;300000
 7076;Essenz der Erde;6;453600;470000
 12833;Pläne: Hammer der Titanen;1;1699999;1899999
 12803;Essenz des Lebens;1;100000;100000
@@ -119,8 +100,6 @@
 9252;Unteres Kartenfragment;1;43444;48311
 22445;Arkaner Staub;4;66564;67996
 22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;4;66564;67996
 22445;Arkaner Staub;4;66564;67996
 15150;Geistwandlerpolster;1;27110;37900
@@ -129,9 +108,6 @@
 10281;Smaragdschulterstücke;1;29533;40000
 15176;Potente Hose;1;12121;205900
 21371;Muster: Kernteufelsstofftasche;1;4440000;4440000
-19768;Urzeitliches Tigerleder;5;125000;137500
-19768;Urzeitliches Tigerleder;1;24988;27764
-19768;Urzeitliches Tigerleder;1;24988;27764
 19768;Urzeitliches Tigerleder;3;49000;50000
 19768;Urzeitliches Tigerleder;5;45000;50000
 21841;Netherstofftasche;1;54999;59999
@@ -191,33 +167,6 @@
 14925;Festlicher Helm;1;27672;55000
 9260;Flüchtiger Rum;2;1813;2015
 13481;Rezept: Elixier der rohen Gewalt;1;200000;220000
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;31400;44250
-21767;Einfacher Opalring;1;31400;44250
-21767;Einfacher Opalring;1;31400;44250
-21767;Einfacher Opalring;1;31400;44250
-21767;Einfacher Opalring;1;31400;44250
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;10000;12000
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;13365;14850
-21767;Einfacher Opalring;1;10000;12000
 14227;Eisenweberseide;1;97500;99000
 14227;Eisenweberseide;1;97500;99000
 14227;Eisenweberseide;1;97500;99000
@@ -319,11 +268,8 @@
 15152;Nächtliche Schuhe;1;20000;40000
 12830;Pläne: Verderbnis;1;89999;99999
 18334;Buchband des Schutzes;1;640979;712199
-9293;Rezept: Magiewiderstandstrank;1;18600;33999
 10302;Muster: Rote Magiestoffhose;1;20291;22546
 21752;Thoriumfassung;20;57500;60000
-21752;Thoriumfassung;3;13000;15000
-21752;Thoriumfassung;20;85000;100000
 14928;Festliche Beinschützer;1;33268;40404
 14930;Festlicher Schild;1;34425;42200
 14942;Kriegshetzerstulpen;1;19000;19000
@@ -382,9 +328,6 @@
 7068;Elementarfeuer;1;6729;8412
 7068;Elementarfeuer;6;36864;46080
 7068;Elementarfeuer;1;4500;5000
-22452;Urerde;1;54412;54912
-22452;Urerde;1;54412;54912
-22452;Urerde;1;54412;54912
 22452;Urerde;2;82000;99999
 24272;Schattenstoff;1;306000;309500
 24272;Schattenstoff;1;306000;309500
@@ -398,11 +341,8 @@
 21765;Echtsilberring der Heilung;1;19600;24500
 21765;Echtsilberring der Heilung;1;19600;24500
 21765;Echtsilberring der Heilung;1;35600;49500
-11754;Schwarzer Diamant;20;14096;17620
-11754;Schwarzer Diamant;10;7048;8810
 11754;Schwarzer Diamant;3;10100;11000
 11754;Schwarzer Diamant;2;1447;1608
-11754;Schwarzer Diamant;12;8908;11136
 15177;Potente Schultern;1;27280;35000
 15177;Potente Schultern;1;30000;40000
 14955;Blutgeschmiedete Schulterpolster;1;9463;20000
@@ -484,7 +424,6 @@
 9210;Geisterfarbstoff;10;136000;155000
 9210;Geisterfarbstoff;10;136000;155000
 2838;Schwerer Stein;20;11800;12500
-23103;Strahlender Tiefenperidot;1;6984;8731
 12800;Azerothischer Diamant;1;31600;39500
 18046;Rezept: Zartes Wolfsteak;1;39632;44036
 21305;Rote Helferbox;1;42000;49000

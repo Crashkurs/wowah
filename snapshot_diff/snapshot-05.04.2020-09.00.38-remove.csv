@@ -1,8 +1,6 @@
 33782;Beständiger Talasit;1;69999;79999
 25057;Bernsteinband;1;81936;92420
 24659;Konsortiummantelung;1;199886;249500
-23425;Adamantiterz;20;168900;169000
-23425;Adamantiterz;20;167936;169020
 7369;Ältestenrobe;1;9456;11820
 7369;Ältestenrobe;1;9456;11820
 11174;Geringe Netheressenz;1;19569;24462
@@ -73,25 +71,15 @@
 32410;Donnernder Himmelsfeuerdiamant;1;1000000;1095000
 32410;Donnernder Himmelsfeuerdiamant;1;1000000;1095000
 32410;Donnernder Himmelsfeuerdiamant;1;1000000;1095000
-22797;Alptraumsaat;20;289999;299999
-22797;Alptraumsaat;20;100000;150000
 22797;Alptraumsaat;5;54995;64995
 22797;Alptraumsaat;5;54995;64995
 22797;Alptraumsaat;5;54995;64995
 22797;Alptraumsaat;5;54995;64995
 22797;Alptraumsaat;5;54995;64995
 22797;Alptraumsaat;2;21998;25998
-22797;Alptraumsaat;20;289999;299999
-22797;Alptraumsaat;20;289999;299999
-22797;Alptraumsaat;20;289999;299999
-22797;Alptraumsaat;20;289999;299999
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;20;100000;150000
 7453;Muster: Hurtige Stiefel;1;45600;57000
 7453;Muster: Hurtige Stiefel;1;30000;60000
 32574;Bindungen der blitzartigen Reflexe;1;3790020;4700000
-23197;Götze des Mondes;1;180000;200000
 23197;Götze des Mondes;1;182590;211500
 22824;Elixier der erheblichen Stärke;20;299500;299800
 22824;Elixier der erheblichen Stärke;20;299500;299800
@@ -143,9 +131,6 @@
 7421;Phalanxhandschuhe;1;20000;30000
 7421;Phalanxhandschuhe;1;2667;5555
 7421;Phalanxhandschuhe;1;20000;30000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;127373;159217
-33954;Pläne: Hammer der rechtschaffenen Macht;1;210000;220000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;126316;167597
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
@@ -208,33 +193,12 @@
 34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;4;199996;239996
 7786;Kopfspalter;1;48407;49999
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1130000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1597498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1557498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1557498
 24303;Muster: Gurt der Zerstörung;1;2600000;2990000
 19700;Münze der Hakkari;3;135000;148500
 19700;Münze der Hakkari;3;135000;148500
@@ -365,8 +329,6 @@
 19705;Münze der Schädelspalter;3;210000;252000
 19705;Münze der Schädelspalter;3;210000;252000
 11175;Große Netheressenz;6;630000;666000
-11175;Große Netheressenz;2;82080;102600
-11175;Große Netheressenz;1;91185;97985
 19282;Portal 6;1;702500;875000
 19282;Portal 6;1;702500;875000
 23154;Vorlage: Stürmischer Azurmondstein;1;23500;35499

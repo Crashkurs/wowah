@@ -60,10 +60,7 @@
 23626;Pläne: Schwarze Teufelsstahlarmschienen;1;237800;297251
 23629;Pläne: Teufelsstahllangschwert;1;150000;155000
 23629;Pläne: Teufelsstahllangschwert;1;180000;200000
-11204;Formel: Armschiene - Große Willenskraft;1;31650;40000
 11204;Formel: Armschiene - Große Willenskraft;1;33832;41258
-11204;Formel: Armschiene - Große Willenskraft;1;35200;44000
-11204;Formel: Armschiene - Große Willenskraft;1;35377;44222
 13004;Fackel von Austen;1;80386;90000
 13004;Fackel von Austen;1;80190;89100
 19821;Durchstochene Voodoopuppe;1;326762;408453
@@ -84,22 +81,8 @@
 20404;Verschlüsselter Schattenhammertext;8;79904;99880
 20404;Verschlüsselter Schattenhammertext;1;21764;27206
 11177;Kleiner strahlender Splitter;20;30000;40000
-11177;Kleiner strahlender Splitter;1;1536;1920
-11177;Kleiner strahlender Splitter;1;1536;1920
-11177;Kleiner strahlender Splitter;1;1536;1920
-11177;Kleiner strahlender Splitter;1;1536;1920
-11177;Kleiner strahlender Splitter;6;6664;8330
-11177;Kleiner strahlender Splitter;2;2665;3332
-11177;Kleiner strahlender Splitter;5;6664;8330
-11177;Kleiner strahlender Splitter;5;6664;8330
-11177;Kleiner strahlender Splitter;5;6664;8330
-11177;Kleiner strahlender Splitter;11;6664;8330
-11177;Kleiner strahlender Splitter;5;6664;8330
-11177;Kleiner strahlender Splitter;5;6664;8330
-11177;Kleiner strahlender Splitter;5;6664;8330
 12820;Feuerwasser der Winterfelle;2;2000;2000
 15127;Robuste Schultern;1;5270;6588
-15127;Robuste Schultern;1;13270;16588
 23628;Pläne: Gesegnete Armschienen;1;180000;190000
 23628;Pläne: Gesegnete Armschienen;1;249999;289999
 23628;Pläne: Gesegnete Armschienen;1;240000;280000
@@ -109,76 +92,9 @@
 23637;Pläne: Hand der Ewigkeit;1;180000;250000
 14775;Verheererwollwäsche;1;12550;25000
 15185;Prätorianerhelmkappe;1;46461;51624
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;39800
-21877;Netherstoff;20;24000;39800
-21877;Netherstoff;20;24000;39800
-21877;Netherstoff;20;24000;39800
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;40000;52000
-21877;Netherstoff;20;35600;42000
-21877;Netherstoff;20;35600;42000
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;2;2880;3600
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;24000;35000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;28800;36000
-21877;Netherstoff;20;35600;42000
-21877;Netherstoff;20;35600;42000
-21877;Netherstoff;20;44000;45500
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;34076;48556
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;24000;34000
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
 21877;Netherstoff;20;34900;35520
 21877;Netherstoff;20;34900;35520
 21877;Netherstoff;20;34900;35520
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
-21877;Netherstoff;20;28548;37060
 21877;Netherstoff;4;7219;9024
 21877;Netherstoff;20;36096;45120
 21877;Netherstoff;20;24000;34900
@@ -336,13 +252,7 @@
 15084;Tückische Lederarmschienen;1;47774;59749
 15084;Tückische Lederarmschienen;1;47774;59749
 15084;Tückische Lederarmschienen;1;47774;59749
-25901;Bemerkenswerter Erdsturmdiamant;1;995000;998600
 25901;Bemerkenswerter Erdsturmdiamant;1;972862;998776
-25901;Bemerkenswerter Erdsturmdiamant;1;964600;964600
-25901;Bemerkenswerter Erdsturmdiamant;1;939671;964700
-25901;Bemerkenswerter Erdsturmdiamant;1;964999;964999
-25901;Bemerkenswerter Erdsturmdiamant;1;929559;969220
-25901;Bemerkenswerter Erdsturmdiamant;1;975000;980000
 15150;Geistwandlerpolster;1;27110;37900
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;1500000;2000000
 14746;Titanischer Gürtel;1;10000;25000
@@ -394,20 +304,6 @@
 19768;Urzeitliches Tigerleder;5;125000;137500
 19768;Urzeitliches Tigerleder;1;24822;27580
 19768;Urzeitliches Tigerleder;1;24822;27580
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;55000;55000
 21841;Netherstofftasche;1;55000;55000
 21841;Netherstofftasche;1;55000;55000
@@ -533,8 +429,6 @@
 34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;4;195000;235000
 34330;Schweres Knotenhautrüstungsset;8;290000;349500
-23573;Gehärteter Adamantitbarren;4;500000;500000
-23573;Gehärteter Adamantitbarren;20;1919600;2399500
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1130000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
@@ -602,16 +496,12 @@
 17062;Rezept: Mithrilkopfforelle;1;89999;99999
 804;Großer blauer Sack;1;6238;8042
 18257;Rezept: Erheblicher Verjüngungstrank;1;2502051;2700057
-25867;Erdsturmdiamant;1;600000;610100
 25867;Erdsturmdiamant;1;660000;680000
 25867;Erdsturmdiamant;1;660000;680000
 25867;Erdsturmdiamant;1;660000;680000
 25867;Erdsturmdiamant;1;913500;920000
 25867;Erdsturmdiamant;1;660000;670000
-25867;Erdsturmdiamant;1;600000;610100
 25867;Erdsturmdiamant;1;603800;610000
-25867;Erdsturmdiamant;1;598751;604900
-25867;Erdsturmdiamant;1;595000;604000
 11208;Formel: Waffe - Dämonentöten;1;32025;40000
 11208;Formel: Waffe - Dämonentöten;1;9800;43500
 13024;Beazels Berster;1;13500;19900
@@ -748,7 +638,6 @@
 11137;Visionenstaub;20;49999;119999
 17194;Festtagsgewürze;20;33500;35000
 17194;Festtagsgewürze;20;33500;35000
-17194;Festtagsgewürze;10;16750;17500
 21790;Saphiranhänger der Winternacht;1;50000;70900
 21790;Saphiranhänger der Winternacht;1;50000;70900
 21790;Saphiranhänger der Winternacht;1;50000;70900
@@ -812,32 +701,16 @@
 13029;Umbralkristall;1;9592;12740
 13029;Umbralkristall;1;16293;18104
 13029;Umbralkristall;1;14567;16186
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;10;750;40000
 21151;Schwarzer Rumsey Rum;10;750;40000
 21151;Schwarzer Rumsey Rum;10;40000;40000
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;7;18620;23275
-21151;Schwarzer Rumsey Rum;10;14444;19999
-21151;Schwarzer Rumsey Rum;10;14444;19999
 21151;Schwarzer Rumsey Rum;10;48990;49990
-23572;Urnether;1;19999;19999
 23572;Urnether;20;450000;500000
 23572;Urnether;2;64155;64162
 23572;Urnether;20;440000;450000
@@ -846,35 +719,9 @@
 23572;Urnether;20;450000;500000
 23572;Urnether;20;450000;500000
 23572;Urnether;20;450000;500000
-23572;Urnether;1;47900;48900
 23572;Urnether;10;300000;400000
 23572;Urnether;3;90000;120000
 23572;Urnether;1;30000;40000
-23572;Urnether;5;99995;99995
-23572;Urnether;5;99995;99995
-23572;Urnether;5;99995;99995
-23572;Urnether;5;99995;99995
-23572;Urnether;1;47900;48900
-23572;Urnether;1;47900;48900
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;1;19999;19999
-23572;Urnether;2;102400;128000
-23572;Urnether;1;47900;48900
-23572;Urnether;20;491600;499500
-23572;Urnether;1;14000;20000
-23572;Urnether;1;43999;54999
-23572;Urnether;1;43999;54999
-23572;Urnether;1;43999;54999
-23572;Urnether;5;99995;99995
-23572;Urnether;1;47900;48900
-23572;Urnether;1;47900;48900
 10282;Smaragdunterarmschienen;1;30000;40000
 18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;59999;69999
 22522;Überragendes Zauberöl;1;72250;80000
@@ -1115,23 +962,6 @@
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;50;428100;437650
-32897;Mal der Illidari;50;428100;437650
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;10;70000;85000
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;10;70000;85000
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
@@ -1139,12 +969,8 @@
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
-32897;Mal der Illidari;5;46855;47790
+32897;Mal der Illidari;10;70000;85000
+32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;250;2440100;2550000
 17706;Pläne: Schneide des Winters;1;81000;343500
 12990;Messers Schneide;1;95000;118750
@@ -1187,7 +1013,6 @@
 12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;10000;20000
 13016;Killerschredder;1;27653;29614
 13016;Killerschredder;1;7156;9999
 13016;Killerschredder;1;7156;15000
@@ -1215,78 +1040,10 @@
 29548;Netherdrachenschuppe;1;16872;21090
 21114;Dunkler Rumsey Rum;3;5280;6600
 22457;Urmana;2;388060;392002
-11134;Geringe Mystikeressenz;1;3645;4557
 11134;Geringe Mystikeressenz;4;21737;27172
-11134;Geringe Mystikeressenz;1;4300;4325
-11134;Geringe Mystikeressenz;2;9200;9800
-11134;Geringe Mystikeressenz;1;3463;4329
-11134;Geringe Mystikeressenz;1;3645;4557
-11134;Geringe Mystikeressenz;1;3645;4557
-11134;Geringe Mystikeressenz;1;3645;4557
 11134;Geringe Mystikeressenz;2;6600;9900
 11134;Geringe Mystikeressenz;4;80228;88120
 15248;Gleißendes Claymore;1;2686;5555
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;207500;210000
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;269980;269980
-21887;Knotenhautleder;20;207500;210000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;189999;199999
-21887;Knotenhautleder;20;187500;250000
-21887;Knotenhautleder;10;79500;84500
-21887;Knotenhautleder;20;189999;199999
-21887;Knotenhautleder;20;189999;199999
-21887;Knotenhautleder;20;197500;200000
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;10;68750;99900
-21887;Knotenhautleder;20;187500;194500
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;20;190000;195000
-21887;Knotenhautleder;19;192128;192888
-21887;Knotenhautleder;4;27206;34008
 25894;Flüchtiger Himmelsfeuerdiamant;1;1115000;1120000
 34828;Antiker Silbermanschettenknopf;1;269536;337796
 34828;Antiker Silbermanschettenknopf;1;362571;402856

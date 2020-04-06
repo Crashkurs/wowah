@@ -5,7 +5,6 @@
 27429;Zangarischer Sporenfisch;20;68400;85500
 31910;Delirium Ass;1;29524;37905
 31910;Delirium Ass;1;29524;37905
-31910;Delirium Ass;1;35000;40000
 6557;Bardenstiefel;1;3300;3400
 9856;Bogenschützenstiefel;1;4258;10000
 25038;Waldtuch;1;2499999;2999999
@@ -37,9 +36,6 @@
 24206;Vorlage: Schimmernder Dämmerstein;1;30000;0
 9233;Elixier der Dämonenentdeckung;2;5000;5000
 15966;Giftschleierkugel;1;32724;48405
-10593;Unvollständiges Draenethystfragment;1;5036;6062
-16072;Expertenkochbuch;1;27600;29500
-16072;Expertenkochbuch;1;27244;34055
 19183;Stundenglassand;4;180000;200000
 25301;Zerschmetternder Dolch;1;100000;118168
 15992;Dichtes Sprengpulver;20;74500;75000
@@ -49,8 +45,6 @@
 9402;Erdgeborener Kilt;1;74844;83160
 9402;Erdgeborener Kilt;1;74844;83160
 9402;Erdgeborener Kilt;1;65308;84000
-10620;Thoriumerz;7;49560;62825
-10620;Thoriumerz;6;15648;19560
 11081;Formel: Schild - Geringer Schutz;1;7500;7500
 32464;Netheriterz;2;6200;7750
 32464;Netheriterz;5;15050;20170
@@ -70,22 +64,8 @@
 9224;Elixier des Dämonentötens;1;11050;12200
 9224;Elixier des Dämonentötens;20;662000;698000
 9224;Elixier des Dämonentötens;20;662000;698000
-19267;Elementarkartenset;1;2999993;2999999
 2835;Rauer Stein;20;5536;6920
 2835;Rauer Stein;11;3044;3806
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
 16052;Bauplan: Modularer Stimmenverstärker;1;1600000;1700000
 25287;Magicuszauberstab;1;100000;113932
 32428;Herz der Dunkelheit;1;30000;36600
@@ -110,15 +90,6 @@
 31140;Umhang der Entropie;1;123181;136868
 8486;Katzentransportkorb (Cornish Rex);1;91500;99000
 22797;Alptraumsaat;5;28496;35620
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;20;146000;155000
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;2;21998;25998
 22797;Alptraumsaat;20;113984;142480
 785;Maguskönigskraut;20;4480;5600
 783;Leichter Balg;7;4207;4984
@@ -131,10 +102,6 @@
 9252;Unteres Kartenfragment;1;31920;39900
 25174;Hanbo;1;112906;150000
 23197;Götze des Mondes;1;103535;150000
-22824;Elixier der erheblichen Stärke;1;11132;13916
-22824;Elixier der erheblichen Stärke;1;11132;13916
-22824;Elixier der erheblichen Stärke;20;299500;299800
-22824;Elixier der erheblichen Stärke;20;299500;299800
 31895;Sturm 4;1;57500;60000
 31895;Sturm 4;1;95000;119500
 23148;Vorlage: Glänzender Golddraenit;1;195000;200000
@@ -159,7 +126,6 @@
 2319;Mittleres Leder;20;24220;29860
 2319;Mittleres Leder;20;24220;29860
 25133;Sturmwindschlägel;1;120000;152530
-16043;Bauplan: Thoriumgewehr;1;3528;4410
 9396;Beinschützer des Gewölbes;1;350000;400000
 14492;Muster: Teufelsstoffstiefel;1;7500;10000
 8399;Muster: Feste Skorpidstiefel;1;1875;9900
@@ -170,7 +136,6 @@
 8485;Katzentransportkorb (Bombay);1;91500;99000
 8485;Katzentransportkorb (Bombay);1;91500;99000
 25257;Zitadellenarmbrust;1;85596;101996
-13446;Erheblicher Heiltrank;1;2000;2500
 23623;Pläne: Helm des Sturms;1;100000;129900
 22795;Teufelsblüte;20;4704;5880
 22795;Teufelsblüte;20;9972;16840
@@ -265,11 +230,6 @@
 804;Großer blauer Sack;1;6238;8042
 9859;Bogenschützenkappe;1;9190;11488
 9836;Bebänderte Rüstung;1;30000;60000
-19231;Bestien 3;1;199900;199900
-19231;Bestien 3;1;69059;86324
-19231;Bestien 3;1;18750;30000
-19231;Bestien 3;1;68000;68000
-19231;Bestien 3;1;86324;107906
 25177;Tanjostab;1;123994;130000
 19235;Bestien 7;1;1509600;2009500
 19235;Bestien 7;1;1509600;2009500
@@ -283,10 +243,6 @@
 9871;Renegatengamaschen;1;8898;11123
 11137;Visionenstaub;16;1919984;2079984
 11137;Visionenstaub;1;6399;7999
-12364;Gewaltiger Smaragd;4;125440;156800
-12364;Gewaltiger Smaragd;1;15000;99900
-31143;Tuch der Raserei;1;129055;143394
-31143;Tuch der Raserei;1;115874;144843
 8487;Katzentransportkorb (Orangefarbene Tigerkatze);1;91500;99000
 8487;Katzentransportkorb (Orangefarbene Tigerkatze);1;91500;99000
 23119;Funkelnder Azurmondstein;1;7056;8820
@@ -319,13 +275,8 @@
 19265;Kriegsfürst 8;1;44490;44495
 19265;Kriegsfürst 8;1;39664;49580
 19265;Kriegsfürst 8;1;40000;44500
-12361;Blauer Saphir;1;15600;19500
 12361;Blauer Saphir;1;20000;22000
 12361;Blauer Saphir;1;20000;22000
-12361;Blauer Saphir;1;14820;18525
-12361;Blauer Saphir;1;5921;11023
-12361;Blauer Saphir;2;29500;29999
-12361;Blauer Saphir;1;10500;10500
 9769;Grünzwirnzweig;1;5600;7000
 29550;Foliant des Wasserherbeizauberns IX;1;110000;110000
 16049;Bauplan: Dunkeleisenbombe;1;500000;600000
@@ -341,7 +292,6 @@
 16051;Bauplan: Thoriumpatronen;1;22579;28224
 16051;Bauplan: Thoriumpatronen;1;11517;14397
 16051;Bauplan: Thoriumpatronen;1;7500;11111
-31888;Segen 3;1;185000;220000
 31888;Segen 3;1;167200;209000
 10978;Kleiner gleißender Splitter;1;50;70
 10978;Kleiner gleißender Splitter;1;50;70
@@ -356,7 +306,6 @@
 10978;Kleiner gleißender Splitter;1;50;70
 10978;Kleiner gleißender Splitter;1;50;70
 10978;Kleiner gleißender Splitter;1;50;70
-9385;Archaischer Verteidiger;1;17100;21375
 8184;Feuerteufel;1;3300;3400
 27439;Grimmiger Flusskrebs;4;29500;38000
 27439;Grimmiger Flusskrebs;10;600000;800000
@@ -398,15 +347,11 @@
 23572;Urnether;10;300000;400000
 23572;Urnether;3;90000;120000
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;8016;9920
-10606;Bauplan: Fallschirmumhang;1;8465;9405
-10606;Bauplan: Fallschirmumhang;1;8000;9000
 9297;Rezept: Elixier der Traumvision;1;200000;220000
 31137;Stulpen der Läuterung;1;49999;50000
 27425;Tüpfelteufelsfinne;6;5000;6000
 27425;Tüpfelteufelsfinne;2;2491;2768
 8402;Muster: Fester Skorpidhelm;1;2062;5000
-8402;Muster: Fester Skorpidhelm;1;3062;5000
-8402;Muster: Fester Skorpidhelm;1;5079;5643
 23532;Stulpen des eisernen Turms;1;1955227;1990000
 12360;Arkanitbarren;1;47500;49900
 12360;Arkanitbarren;1;47500;49000
@@ -439,27 +384,10 @@
 2318;Leichtes Leder;20;8280;9640
 2318;Leichtes Leder;20;8280;9640
 2318;Leichtes Leder;14;5796;6748
-9294;Rezept: Wildrankentrank;1;21056;23395
-9294;Rezept: Wildrankentrank;1;21707;24119
 9811;Befestigte Armschienen;1;99900;99900
 9811;Befestigte Armschienen;1;99900;99900
 9811;Befestigte Armschienen;1;99900;99900
 9811;Befestigte Armschienen;1;20000;40000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9525;11907
-23118;Gediegener Azurmondstein;1;12065;12150
 19261;Kriegsfürst 4;1;22040;27550
 19261;Kriegsfürst 4;1;26000;29000
 19261;Kriegsfürst 4;1;40890;45434
@@ -472,41 +400,13 @@
 25649;Knotenhautlederfetzen;5;6875;9000
 31139;Faust der Abrechnung;1;244442;260000
 25232;Kriegsgleve;1;50000;100000
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
 22861;Fläschchen des blendenden Lichts;5;1049995;1049995
-22861;Fläschchen des blendenden Lichts;1;224997;224997
 22861;Fläschchen des blendenden Lichts;1;224996;224996
 22861;Fläschchen des blendenden Lichts;1;224996;224996
 22861;Fläschchen des blendenden Lichts;1;224996;224996
 22861;Fläschchen des blendenden Lichts;1;224996;224996
 22861;Fläschchen des blendenden Lichts;1;224996;224996
 22861;Fläschchen des blendenden Lichts;1;224996;224996
-22861;Fläschchen des blendenden Lichts;5;999999;1049999
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;5;999999;1049999
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;5;797996;997495
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
 23153;Vorlage: Funkelnder Azurmondstein;1;198750;200000
 19227;Bestien Ass;1;11999999;12999999
 14242;Graunebelhose;1;8119;24999
@@ -541,7 +441,6 @@
 4417;Bauplan: Große Zephyriumladung;1;58794;65327
 4417;Bauplan: Große Zephyriumladung;1;60000;68000
 22838;Hasttrank;5;207500;219899
-22838;Hasttrank;5;219998;219998
 22838;Hasttrank;5;196500;207499
 22838;Hasttrank;5;207500;207500
 22838;Hasttrank;5;196500;207499
@@ -571,12 +470,6 @@
 22838;Hasttrank;5;207500;219899
 22838;Hasttrank;5;207500;219899
 22838;Hasttrank;5;207399;207499
-9295;Rezept: Unsichtbarkeitstrank;1;15999;16999
-9295;Rezept: Unsichtbarkeitstrank;1;12999;15999
-9295;Rezept: Unsichtbarkeitstrank;1;33016;36684
-9295;Rezept: Unsichtbarkeitstrank;1;13000;16000
-9295;Rezept: Unsichtbarkeitstrank;1;13399;16699
-9295;Rezept: Unsichtbarkeitstrank;1;15999;16999
 25272;Schrotflinte PC-54;1;143624;179531
 13445;Elixier der überragenden Verteidigung;5;39050;45000
 19232;Bestien 4;1;65600;75000
@@ -604,8 +497,6 @@
 25168;Langschwert der Sha'tari;1;150000;179202
 19233;Bestien 5;1;1535550;1910000
 19233;Bestien 5;1;1535679;1919599
-31148;Dämonenbalgschiftung;1;181673;200000
-31148;Dämonenbalgschiftung;1;181673;199900
 31148;Dämonenbalgschiftung;1;166612;185124
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 19221;Dunkelmond-Spezialmischung;10;800120;995000
@@ -641,14 +532,6 @@
 19264;Kriegsfürst 7;1;294071;367589
 19264;Kriegsfürst 7;1;250000;290000
 24192;Vorlage: Heller lebendiger Rubin;1;319600;399500
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;2;500;626
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
 12365;Verdichteter Stein;20;4000;5000
 12365;Verdichteter Stein;20;4000;5000
 12365;Verdichteter Stein;20;4000;5000
@@ -662,26 +545,7 @@
 27666;Goldfischstäbchen;10;242250;250000
 27666;Goldfischstäbchen;10;242250;250000
 27666;Goldfischstäbchen;10;242250;250000
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;20;464646;474747
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;20;464646;474747
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;20;464646;474747
-27666;Goldfischstäbchen;20;400000;500000
-27666;Goldfischstäbchen;20;400000;500000
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;6;101350;120000
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;5;98619;98619
 31138;Gurt des Sturmfürsten;1;59252;65835
-9719;Zerbrochene Klinge der Helden;1;79999;98899
 32062;Elixier der erheblichen Seelenstärke;20;489999;499999
 32062;Elixier der erheblichen Seelenstärke;20;489999;499999
 32062;Elixier der erheblichen Seelenstärke;20;489999;499999
@@ -726,25 +590,8 @@
 29539;Kobraschuppen;4;607500;640000
 4292;Muster: Grüne Wolltasche;1;39900;39900
 31147;Anhänger der List;1;123254;129999
-22794;Teufelslotus;5;155000;230000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;5;155000;230000
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;650000;750000
-22794;Teufelslotus;20;300000;0
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;5;199995;249995
 22794;Teufelslotus;10;440000;450000
 22794;Teufelslotus;20;600000;650000
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;20;749580;749580
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
 9465;Grubenmeister 5000;1;59395;74244
 10050;Magiestofftasche;1;3750;7500
 22866;Fläschchen des reinen Todes;1;209999;219499
@@ -768,9 +615,6 @@
 23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
 15935;Haltbare Rute;1;9533;13292
 24205;Vorlage: Massiver Dämmerstein;1;273311;341639
-9298;Rezept: Elixier der Riesen;1;80903;89892
-9298;Rezept: Elixier der Riesen;1;62804;69782
-9298;Rezept: Elixier der Riesen;1;15500;19498
 31152;Brustschutz der Illumination;1;102838;128548
 31152;Brustschutz der Illumination;1;121000;128000
 23152;Vorlage: Gediegener Azurmondstein;1;195000;200000

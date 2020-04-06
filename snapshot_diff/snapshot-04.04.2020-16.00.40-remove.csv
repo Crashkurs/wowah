@@ -44,33 +44,9 @@
 8167;Schildkrˆtenschuppe;20;150000;158000
 8167;Schildkrˆtenschuppe;20;150000;158000
 8167;Schildkrˆtenschuppe;20;150000;158000
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4742;5269
-2453;Beulengras;20;4742;5269
-2453;Beulengras;7;952;1330
-2453;Beulengras;6;816;1140
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;20;750;0
 24206;Vorlage: Schimmernder D‰mmerstein;1;188800;189900
 2409;Muster: Dunkle Ledertunika;1;2400;3000
 7070;Elementarwasser;1;9900;14900
-7070;Elementarwasser;3;50000;80000
-7070;Elementarwasser;1;9935;13262
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;2;19955;24944
 24048;Glatter D‰mmerstein;1;145000;150000
 24048;Glatter D‰mmerstein;1;145000;150000
 24048;Glatter D‰mmerstein;1;145000;150000
@@ -84,9 +60,6 @@
 32620;Zeitverlorene Schriftrolle;1;9592;12740
 15578;Spiegelpanzerbrustplatte;1;22278;27848
 17056;Leichte Feder;20;20210;24999
-1716;Robe der Weisen;1;47500;59375
-1716;Robe der Weisen;1;58500;62500
-1716;Robe der Weisen;1;45000;58500
 15760;Muster: Eisenfederbrustplatte;1;45500;60000
 15757;Muster: T¸ckische Lederhose;1;12351;15439
 25650;Knotenhautr¸stungsset;1;16950;16975
@@ -222,9 +195,6 @@
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;576717;640797
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;576717;640797
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;895000;899900
-12205;Weiﬂes Spinnenfleisch;9;30097;33441
-12205;Weiﬂes Spinnenfleisch;8;24096;32000
-12205;Weiﬂes Spinnenfleisch;10;33441;37157
 21767;Einfacher Opalring;1;13365;14850
 21767;Einfacher Opalring;1;13365;14850
 21767;Einfacher Opalring;1;13365;14850
@@ -269,7 +239,6 @@
 24055;Unbest‰ndiges Nachtauge;1;158500;158500
 24055;Unbest‰ndiges Nachtauge;1;158500;158500
 24055;Unbest‰ndiges Nachtauge;1;158500;158500
-15546;Dickschuppenbrustplatte;1;15033;18792
 15671;Wunderbarer Umhang;1;14673;30000
 15975;Regenmacherszepter;1;7747;9684
 23436;Lebendiger Rubin;2;320000;350000
@@ -295,9 +264,6 @@
 33052;Fischerschmaus;5;49900;49900
 33052;Fischerschmaus;20;199900;199900
 15930;Imperiales rotes Szepter;1;9146;30000
-12361;Blauer Saphir;1;21000;22500
-12361;Blauer Saphir;1;21000;22500
-12361;Blauer Saphir;1;15600;19500
 22831;Elixier der erheblichen Beweglichkeit;20;312000;329000
 22831;Elixier der erheblichen Beweglichkeit;20;312000;329000
 31289;Stab der gˆttlichen Eingebung;1;160000;250000
@@ -352,27 +318,6 @@
 30422;Diamantener Fokusring;1;13365;14850
 30422;Diamantener Fokusring;1;13365;14850
 30422;Diamantener Fokusring;1;13365;14850
-12359;Thoriumbarren;10;59000;61100
-12359;Thoriumbarren;8;47200;52300
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;118000;122200
-12359;Thoriumbarren;20;118000;122200
-12359;Thoriumbarren;20;118000;122200
-12359;Thoriumbarren;20;118000;122200
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;20;99088;123860
-12359;Thoriumbarren;17;169900;169900
-12359;Thoriumbarren;20;199900;199900
-12359;Thoriumbarren;20;199900;199900
-12359;Thoriumbarren;20;199900;199900
-12359;Thoriumbarren;20;199900;199900
-12359;Thoriumbarren;18;179900;179900
 24211;Vorlage: Leuchtendes Nachtauge;1;252357;300397
 14299;Knochenwerfers Stiefel;1;17903;19500
 31328;Gamaschen der Tierherrschaft;1;1299977;1349900
@@ -389,8 +334,6 @@
 8170;Unverw¸stliches Leder;20;185000;187000
 14280;Opulentes Cape;1;18252;22816
 7068;Elementarfeuer;1;9000;9600
-7068;Elementarfeuer;6;36864;46080
-7068;Elementarfeuer;1;4500;5000
 7068;Elementarfeuer;1;9000;9600
 20520;Dunkelrune;1;113000;120000
 14047;Runenstoff;20;22000;29999
@@ -419,17 +362,6 @@
 5635;Scharfe Klaue;2;3266;3628
 14404;Widerstandsf‰hige Gamaschen;1;3708;7500
 14408;Steinstoffstiefel;1;3412;7000
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;10;99540;126050
-4305;Seidenstoffballen;1;7667;9584
 31201;Illidariumhang;1;3000155;3209061
 14304;Knochenwerfers G¸rtel;1;15000;15000
 12208;Zartes Wolfsfleisch;1;9000;10000
@@ -453,13 +385,6 @@
 32833;Gel‰uterte Jaggalperle;1;19000;20000
 33825;Sch‰delfischsuppe;20;953600;1009500
 33825;Sch‰delfischsuppe;20;953600;1009500
-4304;Dickes Leder;10;63700;67620
-4304;Dickes Leder;10;41800;52250
-4304;Dickes Leder;9;4050;0
-4304;Dickes Leder;4;1800;0
-4304;Dickes Leder;5;24000;25500
-4304;Dickes Leder;20;100000;0
-4304;Dickes Leder;2;9352;10890
 14343;Kleiner gl‰nzender Splitter;2;698;776
 14343;Kleiner gl‰nzender Splitter;2;698;776
 14343;Kleiner gl‰nzender Splitter;2;627;784
@@ -497,18 +422,6 @@
 24056;Leuchtendes Nachtauge;1;119999;124499
 24056;Leuchtendes Nachtauge;1;119999;124499
 22788;Flammenkappe;5;57000;71250
-3823;Geringer Unsichtbarkeitstrank;4;118000;127680
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;5;147500;159600
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
-3823;Geringer Unsichtbarkeitstrank;2;45354;56000
 27666;Goldfischst‰bchen;10;185000;187500
 27666;Goldfischst‰bchen;2;37000;37500
 3667;Zartes Krokiliskenfleisch;3;294;900
@@ -607,10 +520,6 @@
 7069;Elementarluft;1;9900;12000
 7069;Elementarluft;1;9900;12000
 7069;Elementarluft;1;9900;12000
-7069;Elementarluft;2;20000;24000
-7069;Elementarluft;2;20000;24000
-7069;Elementarluft;2;20000;24000
-7069;Elementarluft;1;18232;20258
 7069;Elementarluft;1;22095;23017
 7069;Elementarluft;1;22095;23017
 7069;Elementarluft;1;22095;23017
@@ -663,65 +572,12 @@
 21887;Knotenhautleder;20;112500;119000
 21887;Knotenhautleder;20;107500;118500
 14311;Himmlische Bindungen;1;9786;20000
-5498;Kleine irisierende Perle;4;6777;7530
-5498;Kleine irisierende Perle;1;1362;1703
 5498;Kleine irisierende Perle;7;13300;14168
-5498;Kleine irisierende Perle;3;2467;3084
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;3;2130;3000
-5498;Kleine irisierende Perle;6;4260;6000
-4306;Seidenstoff;20;12000;39900
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;10;2250;11000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;20;20000;20000
-4306;Seidenstoff;1;711;980
 4306;Seidenstoff;12;7680;9600
-4306;Seidenstoff;18;35900;44900
-4306;Seidenstoff;11;5500;17600
 12203;Rotes Wolfsfleisch;10;2000;2500
 12203;Rotes Wolfsfleisch;1;280;311
 12203;Rotes Wolfsfleisch;3;852;945
 2407;Muster: Weiﬂes Lederwams;1;3000;3000
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;20;939500;1176000
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;5;300000;325000
-14344;Groﬂer gl‰nzender Splitter;1;84500;99000
-14344;Groﬂer gl‰nzender Splitter;1;84500;99000
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;2;169000;198000
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 29539;Kobraschuppen;1;155550;173249
 29539;Kobraschuppen;1;155550;173249
 29539;Kobraschuppen;1;155550;173249
@@ -740,12 +596,10 @@
 23077;Blutgranat;1;4100;4400
 23077;Blutgranat;1;4100;4400
 23077;Blutgranat;5;18750;19900
-14399;Widerstandsf‰hige Stiefel;1;3397;4400
 15935;Haltbare Rute;1;9533;13292
 31212;Schim‰renhautgamaschen;1;459272;490000
 15912;Bukanierskugel;1;3673;4592
 27663;Schwarzgebratener Sporenfisch;12;72984;82020
-15564;Unverw¸stliches R¸stungsset;3;38900;39500
 25707;Teufelsbalg;20;187500;249900
 15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000
 15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000

@@ -21,8 +21,6 @@
 14204;Distelfellrobe;1;9731;12164
 13014;Axt von Rin'ji;1;64705;70000
 3369;Grabmoos;20;4944;6180
-24206;Vorlage: Schimmernder Dämmerstein;1;159522;199403
-24206;Vorlage: Schimmernder Dämmerstein;1;159522;199403
 21864;Seelenstoffschultern;1;1200000;1500000
 21876;Urmondstofftasche;1;4175000;4259500
 21876;Urmondstofftasche;1;4175000;4259500
@@ -42,11 +40,6 @@
 25334;Einschüchterungsgroßstab;1;139267;140000
 16244;Formel: Handschuhe - Große Stärke;1;350000;400000
 9929;Brigadeumhang;1;20000;30000
-23107;Schattendraenit;20;150000;179999
-23107;Schattendraenit;20;189900;199900
-23107;Schattendraenit;19;180405;189905
-23107;Schattendraenit;1;7596;9495
-23107;Schattendraenit;3;26022;28913
 22574;Feuerpartikel;1;27745;29945
 22574;Feuerpartikel;1;27745;29945
 22574;Feuerpartikel;1;27745;29945
@@ -66,42 +59,9 @@
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 22839;Zerstörungstrank;5;182000;185000
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;182000;185000
-22839;Zerstörungstrank;5;177500;184500
-22839;Zerstörungstrank;5;171111;179999
 22839;Zerstörungstrank;5;182000;185000
 22839;Zerstörungstrank;5;182000;185000
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
+22839;Zerstörungstrank;5;182000;185000
 22557;Formel: Waffe - Meister des Kampfes;1;700000;800000
 22557;Formel: Waffe - Meister des Kampfes;1;449900;479900
 32230;Schattensangamethyst;1;789999;800000
@@ -123,7 +83,6 @@
 7078;Essenz des Feuers;3;18808;23511
 7078;Essenz des Feuers;1;23603;26226
 7078;Essenz des Feuers;3;29307;29898
-22532;Formel: Armschiene - Mana wiederherstellen;1;249633;312042
 22532;Formel: Armschiene - Mana wiederherstellen;1;412540;515675
 22532;Formel: Armschiene - Mana wiederherstellen;1;412540;515675
 22532;Formel: Armschiene - Mana wiederherstellen;1;999999;1290999
@@ -135,7 +94,6 @@
 23113;Glänzender Golddraenit;1;6497;8122
 23113;Glänzender Golddraenit;1;6172;7715
 23113;Glänzender Golddraenit;1;6172;7715
-28270;Formel: Brust - Erhebliche Abhärtung;1;2989899;2989899
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;740000;750000
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;499999;799999
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;740000;750000
@@ -159,8 +117,6 @@
 24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
 25439;Tigeraugenband;1;375;9900
 25439;Tigeraugenband;1;375;9900
-25439;Tigeraugenband;1;7524;9405
-25439;Tigeraugenband;1;7524;9405
 25439;Tigeraugenband;1;375;9900
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;505000;550000
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;576717;640797
@@ -211,33 +167,6 @@
 24201;Vorlage: Irisierender Stern der Elune;1;183096;203440
 24201;Vorlage: Irisierender Stern der Elune;1;183096;203440
 22563;Formel: Überragendes Zauberöl;1;246250;299090
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;1;187900;189900
-29740;Teuflische Waffen;1;187900;189900
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;184000;192500
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;1;184000;192500
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;198000;207500
-29740;Teuflische Waffen;1;184000;192500
 12799;Großer Opal;1;23902;29878
 13038;Windhauch;1;23665;36228
 13038;Windhauch;1;23665;36228
@@ -253,40 +182,9 @@
 22572;Luftpartikel;5;33000;110000
 22572;Luftpartikel;1;24808;25781
 22572;Luftpartikel;7;162430;180478
-22793;Manadistel;20;91760;100100
-22793;Manadistel;17;77996;85085
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;1;4588;5005
-22793;Manadistel;20;75000;89999
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;4;31600;39500
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;99200;99500
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;75000;96500
-22793;Manadistel;20;95000;96900
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
 22793;Manadistel;20;105000;107800
 22793;Manadistel;4;15596;21996
 22793;Manadistel;20;105000;107800
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
 3685;Raptorei;8;72848;80000
 27682;Talbukwildbret;20;15000;16200
 27682;Talbukwildbret;5;4000;4300
@@ -413,23 +311,14 @@
 13043;Klinge der Titanen;1;32389;0
 28540;Arakkoakrallenaxt;1;64943;67900
 9974;Oberherrenschild;1;24673;50000
-22840;Elixier des erheblichen Magierbluts;20;555000;586000
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
 31306;Gamaschen des heiligen Wappens;1;154080;171200
-31306;Gamaschen des heiligen Wappens;1;50346;95000
-31306;Gamaschen des heiligen Wappens;1;163240;181378
 31306;Gamaschen des heiligen Wappens;1;138344;172930
-31306;Gamaschen des heiligen Wappens;1;163240;181378
 31306;Gamaschen des heiligen Wappens;1;150346;183344
 31306;Gamaschen des heiligen Wappens;1;187500;189999
 31306;Gamaschen des heiligen Wappens;1;187500;189999
 31306;Gamaschen des heiligen Wappens;1;187500;189999
 31306;Gamaschen des heiligen Wappens;1;180064;183200
 31306;Gamaschen des heiligen Wappens;1;90346;99900
-31306;Gamaschen des heiligen Wappens;1;180346;198900
-31306;Gamaschen des heiligen Wappens;1;180346;198900
 9936;Bannzaubererstiefel;1;6403;20000
 24171;Vorlage: Kette der Nebeleule;1;106379;132974
 24171;Vorlage: Kette der Nebeleule;1;183237;203597
@@ -444,9 +333,6 @@
 22539;Formel: Schild - Intelligenz;1;62500;76600
 9809;Überragende Tunika;1;10000;10000
 13019;Harpyienklauenkurzbogen;1;4765;0
-23117;Azurmondstein;1;4600;4900
-23117;Azurmondstein;1;4600;4900
-23117;Azurmondstein;1;4600;4900
 25320;Königinnenmarkung;1;210000;270000
 24192;Vorlage: Heller lebendiger Rubin;1;224098;242623
 24192;Vorlage: Heller lebendiger Rubin;1;224098;242623
@@ -481,7 +367,6 @@
 14165;Heidenkniehosen;1;19331;24164
 9873;Renegatenschild;1;20000;30000
 9873;Renegatenschild;1;20000;30000
-32231;Pyrostein;1;2555000;2660000
 9948;Häuptlingsstiefel;1;8365;30000
 12810;Verzaubertes Leder;1;80750;88888
 7080;Essenz des Wassers;1;93100;97020

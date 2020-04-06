@@ -32,19 +32,6 @@
 4625;Feuerblüte;20;7500;78000
 4625;Feuerblüte;20;180000;200000
 4625;Feuerblüte;20;180000;200000
-4625;Feuerblüte;1;6304;7004
-4625;Feuerblüte;20;180000;200000
-4625;Feuerblüte;12;119900;119900
-4625;Feuerblüte;20;180000;200000
-4625;Feuerblüte;1;9900;9900
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;20;199900;199900
-7972;Sekret des Untodes;1;520;578
-7972;Sekret des Untodes;1;520;578
-7972;Sekret des Untodes;1;520;578
-7972;Sekret des Untodes;3;1560;1734
 7972;Sekret des Untodes;6;3294;3660
 870;Feurige Kriegsaxt;1;72292;80000
 10593;Unvollständiges Draenethystfragment;1;27494;38327
@@ -79,8 +66,6 @@
 7966;Robuster Schleifstein;7;2100;0
 7966;Robuster Schleifstein;16;94800;149999
 12028;Basalthalskette;1;12822;16028
-4240;Wolltasche;1;450;0
-4240;Wolltasche;1;450;0
 2835;Rauer Stein;17;13600;17000
 2835;Rauer Stein;20;19560;25200
 2835;Rauer Stein;7;8900;8900
@@ -99,13 +84,6 @@
 6211;Rezept: Elixier der Ogerstärke;1;39632;49540
 6211;Rezept: Elixier der Ogerstärke;1;17733;22167
 2749;Die Grünen Hügel des Schlingendorntals - Seite 25;1;3062;3500
-8845;Geisterpilz;20;89950;90000
-8845;Geisterpilz;20;81250;100000
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;89950;90000
 7976;Pläne: Mithrilschildstachel;1;22316;27896
 12207;Riesenei;10;70000;74000
 12207;Riesenei;10;70000;74000
@@ -114,11 +92,7 @@
 11989;Vanadiumschleife;1;38000;40000
 6563;Schimmernde Armschienen;1;5942;6900
 6199;Band der schwarzen Witwe;1;99900;99900
-4611;Blaue Perle;1;1500;1590
 4611;Blaue Perle;2;19712;21903
-4611;Blaue Perle;1;700;2100
-4611;Blaue Perle;1;700;2100
-4611;Blaue Perle;1;1824;2280
 8153;Wildranke;1;2596;3246
 11995;Elfenbeinband;1;5000;6000
 2319;Mittleres Leder;20;24220;29860
@@ -146,41 +120,7 @@
 10365;Smaragdschild;1;26276;300000
 890;Stab des verrückten Sängers;1;507056;598951
 2879;Antipodenrute;1;10000;15000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
 14227;Eisenweberseide;1;86847;96496
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;60000;66600
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;60000;66600
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
 2098;Doppelläufige Schrotflinte;1;8500;8509
 2098;Doppelläufige Schrotflinte;1;7000;9900
 2098;Doppelläufige Schrotflinte;1;24531;30000
@@ -194,27 +134,15 @@
 12002;Marmorreif;1;9483;20000
 10592;Katzenaugenelixier;20;19091;21213
 10592;Katzenaugenelixier;2;1909;2121
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;5;1960;2450
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;3005;4000
 12184;Raptorfleisch;10;3005;4000
-12184;Raptorfleisch;10;4856;6070
 12184;Raptorfleisch;10;3005;4000
-12184;Raptorfleisch;6;4184;4649
 12184;Raptorfleisch;2;1394;1549
 12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;4800;6000
 12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
 8154;Skorpidschuppe;10;55432;69290
 6395;Silberfadenamicia;1;4044;5056
 11137;Visionenstaub;20;199980;199980
@@ -262,16 +190,7 @@
 2589;Leinenstoff;20;6400;6480
 2589;Leinenstoff;20;6400;6480
 2589;Leinenstoff;20;6400;6480
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
-14256;Teufelsstoff;4;88000;88800
 14256;Teufelsstoff;1;13000;20000
-14256;Teufelsstoff;2;44000;44400
 11973;Hämatitverbindung;1;173971;219500
 6413;Oberbrigadierarmschienen;1;7990;9988
 4426;Rolle der Stärke III;1;4100;4100
@@ -281,23 +200,14 @@
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
-7912;Robuster Stein;20;4012;4540
-7912;Robuster Stein;20;4012;4540
-7912;Robuster Stein;20;4012;4540
-7912;Robuster Stein;20;4012;4540
-7912;Robuster Stein;20;4012;4540
-7912;Robuster Stein;20;3000;3500
 7912;Robuster Stein;3;4284;4500
 7912;Robuster Stein;1;1428;1500
 7912;Robuster Stein;2;2856;3000
-7912;Robuster Stein;3;1687;1875
 14271;Gaeas Reif;1;21200;26500
 14271;Gaeas Reif;1;19549;25437
 1720;Wirrholzstab;1;45329;49255
 4234;Schweres Leder;8;30099;33444
 4234;Schweres Leder;20;75249;83610
-4234;Schweres Leder;3;16075;18000
-4234;Schweres Leder;13;67288;76375
 4234;Schweres Leder;2;7038;7532
 4234;Schweres Leder;2;8050;9900
 4234;Schweres Leder;1;3762;4180
@@ -340,10 +250,6 @@
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4999
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4999
 3685;Raptorei;2;3013;4900
-3685;Raptorei;2;5373;5970
-3685;Raptorei;3;18279;20310
-3685;Raptorei;5;30465;33850
-3685;Raptorei;6;14860;18576
 6468;Deviatschuppengürtel;1;399900;399900
 1705;Geringer Mondstein;20;158000;250000
 8949;Elixier der Beweglichkeit;5;19900;24900
@@ -364,7 +270,6 @@
 1210;Schattenedelstein;1;13917;14352
 14299;Knochenwerfers Stiefel;1;17903;19500
 4623;Geringer Steinschildtrank;1;13062;13100
-10608;Bauplan: Heckenschützenzielfernrohr;1;43178;47976
 12013;Wüstenring;1;30000;40000
 3820;Würgetang;5;3550;4000
 3820;Würgetang;5;3550;4000
@@ -394,17 +299,8 @@
 2825;Bogen der Sengpfeile;1;88823;98692
 2825;Bogen der Sengpfeile;1;67935;77705
 10413;Handschuhe des Giftzahns;1;299900;299900
-11754;Schwarzer Diamant;9;7034;8793
-11754;Schwarzer Diamant;20;14848;18560
-11754;Schwarzer Diamant;12;8908;11136
-11754;Schwarzer Diamant;20;14096;17620
-11754;Schwarzer Diamant;10;7048;8810
-11754;Schwarzer Diamant;2;1447;1608
-11754;Schwarzer Diamant;3;10100;11000
 8831;Lila Lotus;11;4950;24000
 8831;Lila Lotus;20;9000;75007
-8831;Lila Lotus;20;60000;80000
-8831;Lila Lotus;4;12000;16000
 7974;Scharfes Muschelfleisch;6;19131;21257
 7974;Scharfes Muschelfleisch;10;31885;35428
 7974;Scharfes Muschelfleisch;10;25504;31880
@@ -470,21 +366,8 @@
 14281;Opulente Krone;1;30000;40000
 1979;Mauer der Toten;1;141088;156764
 4038;Nachthauchrobe;1;22671;24079
-12037;Eigenartiges Fleisch;10;4760;5950
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;10;5645;6272
-12037;Eigenartiges Fleisch;2;1192;1324
-12037;Eigenartiges Fleisch;4;2258;2509
-12037;Eigenartiges Fleisch;6;2856;3570
-12037;Eigenartiges Fleisch;10;2473;2748
 12037;Eigenartiges Fleisch;8;1979;2198
 12037;Eigenartiges Fleisch;10;1832;2290
-12037;Eigenartiges Fleisch;5;2980;3310
 4603;Roher Tüpfelgelbschwanz;9;11001;12224
 4603;Roher Tüpfelgelbschwanz;20;20120;25000
 4603;Roher Tüpfelgelbschwanz;1;1645;1828

@@ -29,11 +29,6 @@
 10940;Seltsamer Staub;20;58000;58880
 10940;Seltsamer Staub;20;58000;58880
 10940;Seltsamer Staub;20;58000;58880
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
 22832;Erstklassiger Manatrank;5;114500;114500
 22832;Erstklassiger Manatrank;5;114500;114500
 21877;Netherstoff;20;24000;35900
@@ -79,8 +74,6 @@
 21884;Urfeuer;1;234498;234999
 21884;Urfeuer;1;234498;234999
 21884;Urfeuer;1;249900;250000
-9262;Schwarzes Vitriol;2;7294;9118
-9262;Schwarzes Vitriol;3;4500;0
 9262;Schwarzes Vitriol;2;5974;7468
 9262;Schwarzes Vitriol;2;5974;7468
 9262;Schwarzes Vitriol;1;5406;6758
@@ -116,17 +109,6 @@
 11082;Große Astralessenz;1;2500;3500
 11082;Große Astralessenz;1;2500;3500
 15757;Muster: Tückische Lederhose;1;12351;15439
-11084;Großer gleißender Splitter;11;93051;116314
-11084;Großer gleißender Splitter;3;14659;18324
-11084;Großer gleißender Splitter;1;6108;7635
-11084;Großer gleißender Splitter;2;7902;9878
-11084;Großer gleißender Splitter;3;18561;23202
-11084;Großer gleißender Splitter;1;4400;4900
-11084;Großer gleißender Splitter;1;14788;15985
-11084;Großer gleißender Splitter;1;14788;15985
-11084;Großer gleißender Splitter;1;4886;6108
-11084;Großer gleißender Splitter;1;4641;5802
-11084;Großer gleißender Splitter;6;36648;45810
 24787;Finsterbluthose;1;2200000;2200000
 29529;Trommeln der Schlacht;1;309999;309999
 29529;Trommeln der Schlacht;1;309999;309999
@@ -205,13 +187,6 @@
 10938;Geringe Magieessenz;6;59900;59900
 10938;Geringe Magieessenz;5;49900;49900
 34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;210000;220000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;127373;159217
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 13512;Fläschchen der obersten Macht;1;157500;167000
 13512;Fläschchen der obersten Macht;1;157500;167000
 13512;Fläschchen der obersten Macht;1;157500;167000
@@ -231,20 +206,6 @@
 24214;Vorlage: Mächtiger Edeltopas;1;175000;215000
 13127;Frosthäscherkrone;1;59667;62084
 24747;Waldläuferschulterstücke;1;76254;95318
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;2000000;2100000
-32229;Löwenauge;1;2000000;2100000
-32229;Löwenauge;1;1700000;1740000
-32229;Löwenauge;1;1700000;1740000
 32229;Löwenauge;1;2000000;2099999
 32229;Löwenauge;1;3749999;3999999
 32229;Löwenauge;1;3749999;3999999
@@ -397,13 +358,6 @@
 10644;Rezept: Goblinraketentreibstoff;1;193616;242020
 10644;Rezept: Goblinraketentreibstoff;1;193616;242020
 10644;Rezept: Goblinraketentreibstoff;1;193616;242020
-11128;Goldrute;1;34339;38154
-11128;Goldrute;1;20050;30000
-11128;Goldrute;1;29900;29900
-11128;Goldrute;1;29900;29900
-11128;Goldrute;1;29900;29900
-11128;Goldrute;1;25048;29561
-11128;Goldrute;1;25048;29561
 31222;Kopfputz des inneren Zorns;1;199500;239500
 19278;Portal 2;1;13716;17146
 24056;Leuchtendes Nachtauge;1;119459;119999
@@ -422,32 +376,11 @@
 17058;Fischöl;20;200540;200540
 17058;Fischöl;20;200540;200540
 17058;Fischöl;17;170459;170459
-11083;Seelenstaub;20;140000;157500
-11083;Seelenstaub;10;39632;49540
-11083;Seelenstaub;10;45000;49000
-11083;Seelenstaub;8;36000;39200
-11083;Seelenstaub;20;99700;99999
-11083;Seelenstaub;7;34895;34900
-11083;Seelenstaub;1;3199;3999
-11083;Seelenstaub;20;60100;64900
-11083;Seelenstaub;20;70000;80000
-11083;Seelenstaub;13;40100;49999
-11083;Seelenstaub;20;99700;99999
-11083;Seelenstaub;20;140000;159400
-11083;Seelenstaub;20;879260;1098000
-11083;Seelenstaub;20;51824;69780
-11083;Seelenstaub;14;615482;768600
-11083;Seelenstaub;20;879260;1098000
-11083;Seelenstaub;20;879260;1098000
-11083;Seelenstaub;16;41400;55824
-11083;Seelenstaub;20;61824;79780
 33872;Feuriger Würztalbuk;20;123000;130000
-33872;Feuriger Würztalbuk;20;124699;127479
 33872;Feuriger Würztalbuk;20;119632;129940
 33872;Feuriger Würztalbuk;20;114500;128000
 33872;Feuriger Würztalbuk;20;113999;127499
 33872;Feuriger Würztalbuk;20;113999;127499
-33872;Feuriger Würztalbuk;20;124699;127479
 33872;Feuriger Würztalbuk;20;123000;130000
 33872;Feuriger Würztalbuk;20;123000;130000
 33874;Kiblers Häppchen;20;74500;77000

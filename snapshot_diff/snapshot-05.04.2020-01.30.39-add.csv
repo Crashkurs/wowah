@@ -1,11 +1,6 @@
 33782;Beständiger Talasit;1;45000;80000
 33782;Beständiger Talasit;1;69999;79999
 13100;Furens Stiefel;1;14927;18659
-22526;Knochenfragmente;15;40000;50000
-22526;Knochenfragmente;20;160000;164000
-22526;Knochenfragmente;5;13920;20000
-22526;Knochenfragmente;3;7598;9498
-22526;Knochenfragmente;9;27944;31049
 14917;Jadestulpen;1;12144;27680
 13465;Bergsilbersalbei;16;133600;139909
 13465;Bergsilbersalbei;18;106704;133380
@@ -59,8 +54,6 @@
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
 21885;Urwasser;1;109000;115500
 21885;Urwasser;1;109000;115500
 21885;Urwasser;1;119860;119892
@@ -69,7 +62,6 @@
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
-21885;Urwasser;1;109977;109988
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
@@ -80,20 +72,6 @@
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
 21885;Urwasser;1;119861;119873
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
-21885;Urwasser;1;109977;109988
 21885;Urwasser;1;109977;109988
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;309600;509500
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
@@ -121,13 +99,6 @@
 13760;Roher Sonnenschuppenlachs;20;399600;399600
 13760;Roher Sonnenschuppenlachs;18;359640;359640
 7479;Waldläuferhelm;1;15593;19492
-22529;Wildwedel;10;53000;70000
-22529;Wildwedel;5;5300;28500
-22529;Wildwedel;7;7500;40000
-22529;Wildwedel;7;42100;46000
-22529;Wildwedel;9;57224;63582
-22529;Wildwedel;7;37021;46277
-22529;Wildwedel;10;55672;69590
 3840;Grüne Eisenschultern;1;19272;24090
 3840;Grüne Eisenschultern;1;19272;24090
 3840;Grüne Eisenschultern;1;19272;24090
@@ -153,65 +124,8 @@
 23197;Götze des Mondes;1;180000;200000
 22824;Elixier der erheblichen Stärke;20;299500;299800
 22824;Elixier der erheblichen Stärke;20;299500;299800
-22532;Formel: Armschiene - Mana wiederherstellen;1;249633;312042
-22532;Formel: Armschiene - Mana wiederherstellen;1;250000;300000
-22532;Formel: Armschiene - Mana wiederherstellen;1;250000;300000
-22532;Formel: Armschiene - Mana wiederherstellen;1;222500;250000
 23737;Adamantitgranate;10;97500;100000
 23148;Vorlage: Glänzender Golddraenit;1;195000;200000
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;20;689000;689500
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;20;689000;689500
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;20;737500;740000
-23793;Schweres Knotenhautleder;20;737500;740000
-23793;Schweres Knotenhautleder;20;700260;746060
-23793;Schweres Knotenhautleder;20;700260;746060
-23793;Schweres Knotenhautleder;20;700260;746060
-23793;Schweres Knotenhautleder;20;700260;746060
-23793;Schweres Knotenhautleder;20;700260;746060
-23793;Schweres Knotenhautleder;17;595221;634151
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;20;690000;690000
-23793;Schweres Knotenhautleder;20;690000;690000
-23793;Schweres Knotenhautleder;20;690000;690000
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;20;700000;700000
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;2;70500;74900
-23793;Schweres Knotenhautleder;20;700000;700000
 22527;Kern der Elemente;2;11916;14896
 22527;Kern der Elemente;1;6716;7462
 22527;Kern der Elemente;54;216200;220000
@@ -283,8 +197,6 @@
 21841;Netherstofftasche;1;55000;56000
 21841;Netherstofftasche;1;55000;56000
 21841;Netherstofftasche;1;55600;57000
-21841;Netherstofftasche;1;55600;57000
-21841;Netherstofftasche;1;55600;57000
 21841;Netherstofftasche;1;51600;61100
 21841;Netherstofftasche;1;55600;57000
 21841;Netherstofftasche;1;55600;57000
@@ -321,9 +233,6 @@
 22849;Eisenschildtrank;5;183500;194000
 22849;Eisenschildtrank;5;183500;194000
 22849;Eisenschildtrank;5;184999;194999
-23786;Khoriumkraftkern;1;368000;380000
-23786;Khoriumkraftkern;1;309999;309999
-23786;Khoriumkraftkern;1;368000;380000
 23766;Geeichtes Eterniumzielfernrohr;1;2070000;2196200
 23766;Geeichtes Eterniumzielfernrohr;1;2000021;2500000
 23766;Geeichtes Eterniumzielfernrohr;1;1987903;1988102
@@ -376,12 +285,7 @@
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
 34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1557498
 5819;Sonnenfeuerhelmkappe;1;4801;14999
-23120;Stürmischer Azurmondstein;1;16650;17500
-23120;Stürmischer Azurmondstein;1;16650;17500
 23120;Stürmischer Azurmondstein;1;15599;16699
-23120;Stürmischer Azurmondstein;1;16650;17500
-23120;Stürmischer Azurmondstein;1;16699;17799
-23783;Eine Hand voll Teufelseisenbolzen;1;35664;39627
 23199;Totem des Sturms;1;375500;385000
 23199;Totem des Sturms;1;353712;370000
 23199;Totem des Sturms;1;303712;500000
@@ -431,7 +335,6 @@
 23426;Khoriumerz;8;188771;198464
 23137;Vorlage: Glitzernder Flammenspessarit;1;192500;200000
 15427;Unvergleichlicher Umhang;1;12804;26000
-31151;Gurt der Belagerung;1;106920;118800
 38225;Mycahs Botanikerbeutel;1;1900000;2100000
 13466;Pestblüte;1;3052;3391
 12363;Arkankristall;1;13000;14900
@@ -439,8 +342,6 @@
 5788;Muster: Dicke Murlocrüstung;1;2161;2702
 13759;Roher Nachtflossenschnapper;14;139930;139930
 13759;Roher Nachtflossenschnapper;20;199900;199900
-31137;Stulpen der Läuterung;1;50000;50000
-31137;Stulpen der Läuterung;1;96780;123476
 7463;Schildwachenrundschild;1;9846;24808
 22572;Luftpartikel;1;19408;24261
 22572;Luftpartikel;7;160586;178429
@@ -489,15 +390,9 @@
 22542;Formel: Stiefel - Vitalität;1;449999;499999
 22851;Fläschchen der Stärkung;1;129999;130099
 22851;Fläschchen der Stärkung;1;129999;130099
-14047;Runenstoff;20;22000;24000
 14047;Runenstoff;3;5940;5940
 14047;Runenstoff;20;39600;39600
 14047;Runenstoff;18;23040;28800
-14047;Runenstoff;20;22000;24000
-14047;Runenstoff;20;32000;34500
-14047;Runenstoff;6;7680;9600
-14047;Runenstoff;20;22000;24000
-14047;Runenstoff;20;32000;34500
 13134;Gürtel des Gladiators;1;41549;46165
 12804;Mächtiges Mojo;1;80972;96902
 12804;Mächtiges Mojo;1;80972;96902
@@ -509,7 +404,6 @@
 7974;Scharfes Muschelfleisch;10;30000;30000
 7974;Scharfes Muschelfleisch;5;15000;15000
 7974;Scharfes Muschelfleisch;10;30000;30000
-22840;Elixier des erheblichen Magierbluts;20;499999;559999
 22840;Elixier des erheblichen Magierbluts;20;499999;559999
 22840;Elixier des erheblichen Magierbluts;20;449999;450000
 22840;Elixier des erheblichen Magierbluts;5;139994;139994
@@ -581,7 +475,6 @@
 19278;Portal 2;1;13000;16500
 12800;Azerothischer Diamant;1;15000;110000
 12800;Azerothischer Diamant;1;15000;110000
-31138;Gurt des Sturmfürsten;1;59252;65835
 16203;Große ewige Essenz;2;135588;169486
 5964;Barbarische Schultern;1;3913;10000
 5964;Barbarische Schultern;1;3913;10000
@@ -617,10 +510,6 @@
 33872;Feuriger Würztalbuk;20;124500;131200
 12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;3;56000;59500
-12808;Essenz des Untodes;3;30000;57000
-12808;Essenz des Untodes;1;10000;20000
-12808;Essenz des Untodes;1;1500;19900
 12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;1;14440;18050
@@ -659,7 +548,6 @@
 6037;Echtsilberbarren;20;80000;95000
 3857;Kohle;6;30000;40000
 31152;Brustschutz der Illumination;1;121000;128000
-31152;Brustschutz der Illumination;1;102838;128548
 23152;Vorlage: Gediegener Azurmondstein;1;195000;200000
 22565;Formel: Großer Prismasplitter;1;250000;275000
 8307;Heldenstiefel;1;28075;56000

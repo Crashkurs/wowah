@@ -1,7 +1,4 @@
 3928;Überragender Heiltrank;3;1272;1413
-3928;Überragender Heiltrank;5;1850;1850
-3928;Überragender Heiltrank;5;1875;2500
-3928;Überragender Heiltrank;5;1875;2500
 7736;Gefechtskeule;1;37956;39999
 7736;Gefechtskeule;1;30000;44500
 7409;Spitzelstiefel;1;7324;9156
@@ -35,12 +32,7 @@
 13055;Knochenkauer;1;40000;45000
 19183;Stundenglassand;4;180000;200000
 15992;Dichtes Sprengpulver;20;74500;75000
-11138;Kleiner leuchtender Splitter;1;1028;1285
 11138;Kleiner leuchtender Splitter;16;21017;26272
-11138;Kleiner leuchtender Splitter;1;1850;2055
-11138;Kleiner leuchtender Splitter;1;1013;1142
-11138;Kleiner leuchtender Splitter;4;7392;8212
-11138;Kleiner leuchtender Splitter;5;9240;10265
 32662;Flammender Quarzstab;1;295000;300000
 7492;Hauptmannsumhang;1;9648;12060
 4338;Magiestoff;20;120000;125000
@@ -50,27 +42,6 @@
 4338;Magiestoff;20;120000;125000
 4338;Magiestoff;7;2625;11000
 4338;Magiestoff;5;25596;31995
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;198500;199500
-4338;Magiestoff;20;139900;142900
-4338;Magiestoff;20;139900;142900
-4338;Magiestoff;15;95988;119985
-4338;Magiestoff;20;127680;159600
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;2;750;0
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;91184;113980
-4338;Magiestoff;20;91184;113980
-4338;Magiestoff;20;106400;133000
 13932;Gedünsteter Sonnenschuppenlachs;19;24364;27071
 32464;Netheriterz;2;6200;7750
 32201;Funkelnder Engelssaphir;1;950000;1100000
@@ -90,19 +61,8 @@
 32201;Funkelnder Engelssaphir;1;950000;1100000
 32201;Funkelnder Engelssaphir;1;862400;1078000
 32201;Funkelnder Engelssaphir;1;862400;1078000
-7428;Schattenkatzenbalg;5;9550;10610
-7428;Schattenkatzenbalg;1;1275;1500
 7428;Schattenkatzenbalg;3;2210;2763
-3864;Citrin;2;8800;9900
-3864;Citrin;14;78500;83500
-3864;Citrin;1;7999;8999
-3864;Citrin;13;15600;90000
-3864;Citrin;2;2400;0
-3864;Citrin;1;7999;8999
-3864;Citrin;20;154000;160000
 3864;Citrin;5;17816;22270
-3864;Citrin;1;9499;9499
-3864;Citrin;1;9499;9499
 7734;Sechsdämonentasche;1;25028;39542
 7734;Sechsdämonentasche;1;25028;39542
 7734;Sechsdämonentasche;1;35231;39146
@@ -140,15 +100,10 @@
 22527;Kern der Elemente;2;11916;14896
 7085;Muster: Azurblaue Schultern;1;28316;39240
 7085;Muster: Azurblaue Schultern;1;525;900
-34440;Trank des verrückten Alchemisten;5;189999;199999
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
-34440;Trank des verrückten Alchemisten;1;37999;39999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
 34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
 3866;Pläne: Jadeschlangenklinge;1;25760;37200
 3866;Pläne: Jadeschlangenklinge;1;7993;8882
@@ -177,11 +132,6 @@
 13521;Rezept: Fläschchen der obersten Macht;1;8999999;9999999
 13890;Panzerfisch;2;702;780
 13890;Panzerfisch;20;7023;7804
-13890;Panzerfisch;20;1700;7500
-13890;Panzerfisch;20;1700;7500
-13890;Panzerfisch;20;1700;7500
-13890;Panzerfisch;1;310;380
-13890;Panzerfisch;6;1860;2532
 34105;Köcher der tausend Federn;1;1886000;1973000
 3858;Mithrilerz;20;106400;133000
 3858;Mithrilerz;20;106400;133000
@@ -210,24 +160,7 @@
 35761;Spiegelndes Löwenauge;1;3575649;4469562
 5974;Muster: Wächterumhang;1;30525;69000
 32470;Balg eines Netherminenschinders;4;29424;36780
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;10;282500;300000
-34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;8;290000;350000
 34330;Schweres Knotenhautrüstungsset;8;290000;349500
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
-34330;Schweres Knotenhautrüstungsset;2;72500;89999
 13756;Roher Sommerbarsch;10;30288;40360
 7786;Kopfspalter;1;48407;49999
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
@@ -329,16 +262,6 @@
 34861;Geschärfter Angelhaken;10;10675;11861
 34861;Geschärfter Angelhaken;10;10675;11861
 34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
-34861;Geschärfter Angelhaken;10;10675;11861
 34861;Geschärfter Angelhaken;4;4270;4744
 32215;Leuchtender Schattensangamethyst;1;999900;999900
 32215;Leuchtender Schattensangamethyst;1;999900;999900
@@ -372,11 +295,6 @@
 32216;Königlicher Schattensangamethyst;1;889658;889747
 3914;Gesellenrucksack;1;9375;40000
 3914;Gesellenrucksack;1;36157;40175
-3914;Gesellenrucksack;1;18000;19500
-3914;Gesellenrucksack;1;59375;60000
-3914;Gesellenrucksack;1;9375;20000
-3914;Gesellenrucksack;1;44900;49900
-3914;Gesellenrucksack;1;44900;49900
 13927;Gekochter glänzender Machtfisch;14;2520;2800
 13927;Gekochter glänzender Machtfisch;20;3600;4000
 5753;Gesträubter Kranz;1;4102;5128
@@ -409,13 +327,7 @@
 7341;Eckiger Zirkonring;1;120000;140000
 7341;Eckiger Zirkonring;1;120000;140000
 13518;Rezept: Fläschchen der Versteinerung;1;550000;600000
-13758;Roher Rotkiemen;6;5000;6000
 13758;Roher Rotkiemen;3;5321;5912
-13758;Roher Rotkiemen;20;47424;59280
-13758;Roher Rotkiemen;20;10000;20000
-13758;Roher Rotkiemen;10;7600;9500
-13758;Roher Rotkiemen;20;99980;99980
-13758;Roher Rotkiemen;20;99980;99980
 7451;Muster: Grünwelpenarmschienen;1;41916;46573
 7451;Muster: Grünwelpenarmschienen;1;32240;42800
 22578;Wasserpartikel;3;29540;37800
@@ -465,24 +377,6 @@
 13876;40-pfündiger Zackenbarsch;1;15274;19093
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 13876;40-pfündiger Zackenbarsch;1;10089;20098
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;2;12472;13858
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;7;31354;39193
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;1;3400;3480
-11139;Großer leuchtender Splitter;1;2786;3483
 11139;Großer leuchtender Splitter;2;8868;11086
 13877;47-pfündiger Zackenbarsch;1;109581;137727
 5964;Barbarische Schultern;1;3913;10000
@@ -515,9 +409,6 @@
 7443;Schildwachenhandschuhe;1;6916;8645
 4038;Nachthauchrobe;1;22671;24079
 4038;Nachthauchrobe;1;18300;22875
-33872;Feuriger Würztalbuk;20;125500;133000
-33872;Feuriger Würztalbuk;20;125500;133000
-33872;Feuriger Würztalbuk;20;124500;131200
 33874;Kiblers Häppchen;20;66666;77777
 33874;Kiblers Häppchen;20;66666;77777
 33874;Kiblers Häppchen;20;66666;77777
@@ -531,25 +422,7 @@
 32224;Strahlender Gischtsmaragd;1;499999;619999
 32224;Strahlender Gischtsmaragd;1;501599;626999
 32224;Strahlender Gischtsmaragd;1;501599;626999
-7080;Essenz des Wassers;1;78118;86798
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 7080;Essenz des Wassers;3;185000;200000
-7080;Essenz des Wassers;1;45000;60000
-7080;Essenz des Wassers;1;50000;50000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;45000;60000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 7482;Waldläuferschultern;1;7389;7700
 19262;Kriegsfürst 5;1;170000;175000
 4306;Seidenstoff;10;9526;13100
@@ -560,27 +433,9 @@
 7517;Hauchzarte Tunika;1;30000;40000
 32223;Robuster Gischtsmaragd;1;689999;699999
 6037;Echtsilberbarren;20;37232;46540
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;89980;99980
-6037;Echtsilberbarren;20;37232;46540
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;7;17115;17150
-6037;Echtsilberbarren;8;15000;0
-6037;Echtsilberbarren;20;65990;73323
-6037;Echtsilberbarren;20;65990;73323
-6037;Echtsilberbarren;2;8032;8924
-6037;Echtsilberbarren;20;43000;48999
 6037;Echtsilberbarren;20;37232;46540
 6037;Echtsilberbarren;20;37232;46540
-6037;Echtsilberbarren;14;62986;69986
+6037;Echtsilberbarren;20;37232;46540
 6037;Echtsilberbarren;20;37232;46540
 6037;Echtsilberbarren;11;19577;25597
 6037;Echtsilberbarren;20;37232;46540

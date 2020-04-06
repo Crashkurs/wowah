@@ -50,8 +50,6 @@
 14292;Arachnidisches Cape;1;19554;26193
 15366;Schwindlergamaschen;1;10000;20000
 4625;Feuerblüte;5;11875;18000
-4625;Feuerblüte;20;7500;87500
-4625;Feuerblüte;7;41300;44100
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;9225;10251
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;7612;9516
 15187;Prätorianerschulterstücke;1;16377;20000
@@ -111,8 +109,6 @@
 6889;Kleines Ei;1;7999;8999
 6889;Kleines Ei;1;7999;8999
 6889;Kleines Ei;1;7999;8999
-15230;Kammspaltbeil;1;30000;40000
-15230;Kammspaltbeil;1;8816;11020
 15230;Kammspaltbeil;1;30000;50000
 11040;Morgenkorn;20;44444;55555
 11040;Morgenkorn;20;44444;55555
@@ -251,8 +247,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;258320;279490
 22854;Fläschchen des unerbittlichen Angriffs;1;258320;279490
 22854;Fläschchen des unerbittlichen Angriffs;1;258320;279490
-22854;Fläschchen des unerbittlichen Angriffs;5;920000;924998
-22854;Fläschchen des unerbittlichen Angriffs;5;799999;799999
 10301;Muster: Weiße Banditenmaske;1;11875;14500
 10301;Muster: Weiße Banditenmaske;1;15575;17306
 10301;Muster: Weiße Banditenmaske;1;7000;19900
@@ -286,16 +280,11 @@
 6542;Weidencape;1;328;666
 14280;Opulentes Cape;1;18252;22816
 15386;Zornprankenschultern;1;20000;30000
-3611;Pläne: Grüne Eisenstiefel;1;47444;52715
 3611;Pläne: Grüne Eisenstiefel;1;10750;25000
-3611;Pläne: Grüne Eisenstiefel;1;31600;42000
-3611;Pläne: Grüne Eisenstiefel;1;26255;29173
 14304;Knochenwerfers Gürtel;1;9291;12345
 14304;Knochenwerfers Gürtel;1;15000;15000
 17195;Unechter Mistelzweig;20;320;700
-15346;Pfadfinderweste;1;8921;11152
 15346;Pfadfinderweste;1;4182;7000
-15346;Pfadfinderweste;1;4182;8420
 11039;Formel: Umhang - Schwache Beweglichkeit;1;640;800
 3575;Eisenbarren;20;17700;20000
 3575;Eisenbarren;20;17700;20000
@@ -311,23 +300,8 @@
 15250;Gleißender Flamberg;1;20000;30000
 13019;Harpyienklauenkurzbogen;1;19193;23992
 13019;Harpyienklauenkurzbogen;1;19193;23992
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;100000;0
 4304;Dickes Leder;4;1800;0
 4304;Dickes Leder;9;4050;0
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
-4304;Dickes Leder;20;133399;133999
 5079;Kaltes Basiliskenauge;1;52464;58293
 14343;Kleiner glänzender Splitter;2;627;784
 3818;Blassblatt;20;14999;15000
@@ -392,7 +366,6 @@
 21887;Knotenhautleder;20;147500;150000
 21887;Knotenhautleder;20;147500;150000
 14311;Himmlische Bindungen;1;9786;20000
-14311;Himmlische Bindungen;1;33486;36096
 4306;Seidenstoff;20;14500;19999
 4306;Seidenstoff;20;14500;19999
 4306;Seidenstoff;20;14500;19999

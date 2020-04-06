@@ -8,10 +8,6 @@
 27429;Zangarischer Sporenfisch;20;68400;85500
 27429;Zangarischer Sporenfisch;20;68400;85500
 31910;Delirium Ass;1;37500;39900
-23425;Adamantiterz;20;158800;161616
-23425;Adamantiterz;20;158900;159999
-23425;Adamantiterz;20;121600;152000
-23425;Adamantiterz;20;158800;161616
 3182;Spinnenseide;1;1238;1548
 10940;Seltsamer Staub;4;11600;11776
 10940;Seltsamer Staub;5;14495;14715
@@ -263,12 +259,7 @@
 27422;Stachelkiemenforelle;20;13360;16700
 27422;Stachelkiemenforelle;20;13360;16700
 4415;Bauplan: Handwerkermonokel;1;3825;4900
-23199;Totem des Sturms;1;303712;350000
 23199;Totem des Sturms;1;330000;340000
-23199;Totem des Sturms;1;375500;385000
-23199;Totem des Sturms;1;370000;390000
-23199;Totem des Sturms;1;303712;500000
-23199;Totem des Sturms;1;353712;370000
 11178;Großer strahlender Splitter;1;9924;17929
 11178;Großer strahlender Splitter;1;9924;17929
 23736;Teufelseisenbombe;10;98008;107510
@@ -285,14 +276,6 @@
 23119;Funkelnder Azurmondstein;1;7056;8820
 23119;Funkelnder Azurmondstein;1;6703;8379
 23119;Funkelnder Azurmondstein;1;6703;8379
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
 23119;Funkelnder Azurmondstein;1;7056;8820
 13057;Blutpike;1;8073;10900
 13057;Blutpike;1;9536;11270
@@ -377,9 +360,6 @@
 8838;Sonnengras;1;3080;3500
 8838;Sonnengras;6;540;25000
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
-2776;Golderz;19;15642;19553
-2776;Golderz;20;12800;16000
-2776;Golderz;18;11520;14400
 23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
 13049;Claymore des Dekanats;1;14670;16300
 13049;Claymore des Dekanats;1;13172;16465
@@ -416,64 +396,18 @@
 29547;Windschuppen;20;897500;999500
 29547;Windschuppen;20;899999;999999
 23131;Vorlage: Klobiger Blutgranat;1;198750;200000
-13046;Blanchards Schädelbrecher;1;53500;70000
-13046;Blanchards Schädelbrecher;1;44404;50449
 21768;Saphirsiegel;1;18750;30000
 21768;Saphirsiegel;1;18750;28750
-22825;Elixier der Heilkraft;7;305200;341600
-22825;Elixier der Heilkraft;20;899700;899800
-22825;Elixier der Heilkraft;20;899700;899800
-22825;Elixier der Heilkraft;10;426000;449000
 22825;Elixier der Heilkraft;5;149995;149995
 22825;Elixier der Heilkraft;5;149995;149995
 22825;Elixier der Heilkraft;5;149995;149995
-22825;Elixier der Heilkraft;1;23750;39900
-22825;Elixier der Heilkraft;20;852000;898000
-22825;Elixier der Heilkraft;10;426000;449000
-22825;Elixier der Heilkraft;10;426000;449000
 22825;Elixier der Heilkraft;5;149995;149995
-22825;Elixier der Heilkraft;10;426000;449000
-22825;Elixier der Heilkraft;10;426000;449000
-22825;Elixier der Heilkraft;10;426000;449000
-22825;Elixier der Heilkraft;20;852000;898000
-22825;Elixier der Heilkraft;20;852000;898000
-22825;Elixier der Heilkraft;20;852000;898000
-22825;Elixier der Heilkraft;1;23750;39900
-22825;Elixier der Heilkraft;1;23750;39900
 9036;Magiewiderstandstrank;5;219999;229999
 9036;Magiewiderstandstrank;5;219999;229999
 9036;Magiewiderstandstrank;5;219999;229999
 9036;Magiewiderstandstrank;5;219999;229999
-22851;Fläschchen der Stärkung;1;194999;194999
 22851;Fläschchen der Stärkung;1;129999;130099
-22851;Fläschchen der Stärkung;1;121000;128000
-22851;Fläschchen der Stärkung;1;125555;128799
-22851;Fläschchen der Stärkung;1;125555;128799
-22851;Fläschchen der Stärkung;1;125555;128799
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
 22851;Fläschchen der Stärkung;1;129999;130099
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
-22851;Fläschchen der Stärkung;1;194999;194999
 27684;Rezept: Bussardbissen;1;7350;9702
 20749;Hervorragendes Zauberöl;1;137000;145000
 20749;Hervorragendes Zauberöl;1;137000;145000
@@ -511,8 +445,6 @@
 20744;Schwaches Zauberöl;1;4000;8000
 21881;Netherweberseide;10;179900;198700
 21881;Netherweberseide;10;179900;198700
-23154;Vorlage: Stürmischer Azurmondstein;1;23500;35499
-23154;Vorlage: Stürmischer Azurmondstein;1;23000;35000
 23154;Vorlage: Stürmischer Azurmondstein;1;58500;69900
 27657;Schwarzgebratener Basilisk;20;499999;524999
 27657;Schwarzgebratener Basilisk;20;499999;524999
@@ -590,8 +522,6 @@
 10179;Mystische Stiefel;1;12948;26000
 14165;Heidenkniehosen;1;19331;24164
 3821;Golddorn;14;3150;80000
-33872;Feuriger Würztalbuk;20;127998;135498
-22853;Fläschchen der mächtigen Wiederherstellung;5;625495;750495
 4603;Roher Tüpfelgelbschwanz;20;22336;27920
 4603;Roher Tüpfelgelbschwanz;20;22336;27920
 32231;Pyrostein;1;2400000;2460000
@@ -656,9 +586,5 @@
 11176;Traumstaub;20;120000;130000
 30323;Pläne: Stiefel des Beschützers;1;172819;192022
 24934;Dunkelkammgürtel;1;30639;35000
-23424;Teufelseisenerz;20;90000;94444
 23424;Teufelseisenerz;12;138000;140000
-23424;Teufelseisenerz;20;90000;94444
-23424;Teufelseisenerz;20;90000;94444
-23424;Teufelseisenerz;20;90000;94444
 24274;Runenverzierter Zauberfaden;1;2699500;2809500

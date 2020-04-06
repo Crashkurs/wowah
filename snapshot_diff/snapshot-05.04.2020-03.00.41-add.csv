@@ -1,8 +1,6 @@
 10184;Schwadroneursarmschienen;1;30000;40000
 10256;Abenteurerarmschienen;1;15463;30000
-11204;Formel: Armschiene - Groﬂe Willenskraft;1;35377;44222
 11204;Formel: Armschiene - Groﬂe Willenskraft;1;33832;41258
-11204;Formel: Armschiene - Groﬂe Willenskraft;1;35200;44000
 17414;Kodex: Gebet der Seelenst‰rke II;1;36100;45125
 17414;Kodex: Gebet der Seelenst‰rke II;1;22125;30000
 17414;Kodex: Gebet der Seelenst‰rke II;1;44799;55999
@@ -15,15 +13,8 @@
 21991;Schwerer Netherstoffverband;20;130000;150000
 21991;Schwerer Netherstoffverband;20;60000;75000
 21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;62720;78400
-21991;Schwerer Netherstoffverband;20;60000;75000
 10125;Verschnˆrkelte Schulterst¸cke;1;29000;29000
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
-11084;Groﬂer gleiﬂender Splitter;11;93051;116314
-11084;Groﬂer gleiﬂender Splitter;3;14659;18324
-11084;Groﬂer gleiﬂender Splitter;1;6108;7635
-11084;Groﬂer gleiﬂender Splitter;2;7902;9878
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
@@ -32,12 +23,6 @@
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
 11084;Groﬂer gleiﬂender Splitter;2;23792;26436
-11084;Groﬂer gleiﬂender Splitter;6;29318;36648
-11084;Groﬂer gleiﬂender Splitter;2;23792;26436
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
 10127;Klagegeistarmschienen;1;23600;29500
 17683;Buch: Gabe der Wildnis II;1;39999;49999
 17683;Buch: Gabe der Wildnis II;1;39999;49999
@@ -58,20 +43,8 @@
 22390;Pl‰ne: Willensbrecher;1;3500000;4000000
 22390;Pl‰ne: Willensbrecher;1;3500000;4000000
 2841;Bronzebarren;1;723;724
-2841;Bronzebarren;20;13500;14500
 2841;Bronzebarren;1;723;724
 10203;Oberherrenbrustplatte;1;27292;34565
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;200100;250000
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;5;51650;53520
 23113;Gl‰nzender Golddraenit;1;25366;39208
 23113;Gl‰nzender Golddraenit;1;25366;39208
@@ -81,7 +54,6 @@
 2863;Grober Wetzstein;9;10128;11254
 10074;Rechtschaffene Gamaschen;1;41264;51580
 2862;Rauer Wetzstein;20;10000;12000
-2862;Rauer Wetzstein;20;9408;11760
 10174;Mystisches Cape;1;12181;24000
 10281;Smaragdschulterst¸cke;1;29533;40000
 10078;Lordwappen;1;27963;34567
@@ -282,7 +254,6 @@
 21886;Urleben;1;113000;119500
 21886;Urleben;1;113000;119500
 11128;Goldrute;1;34339;38154
-11128;Goldrute;1;20050;30000
 11135;Groﬂe Mystikeressenz;10;180000;200000
 11135;Groﬂe Mystikeressenz;10;180000;200000
 11135;Groﬂe Mystikeressenz;10;185000;190000
@@ -296,7 +267,6 @@
 10199;Kreuzfahrergamaschen;1;30000;40000
 11186;Roter Machtkristall;5;19000;34495
 11186;Roter Machtkristall;1;3800;6899
-11186;Roter Machtkristall;1;6210;6900
 11083;Seelenstaub;20;99700;99999
 11083;Seelenstaub;1;3199;3999
 11083;Seelenstaub;8;36000;39200

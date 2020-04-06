@@ -9,11 +9,6 @@
 4231;Geschmeidiger leichter Balg;1;800;1900
 7369;Ältestenrobe;1;9456;11820
 2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;4562;5000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29000;29500
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29962;29999
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29000;29500
 2990;Brünierte Gamaschen;1;9585;13732
 1315;Lilienkranz;1;899999;999999
 8272;Ebenholzschulterpolster;1;20545;45500
@@ -22,56 +17,16 @@
 8389;Muster: Große Voodoohose;1;4676;5195
 8389;Muster: Große Voodoohose;1;4017;5022
 8315;Alabasterplattengurt;1;19000;19000
-3039;Kurzer Eschenbogen;1;7220;9025
-8171;Unverwüstlicher Balg;1;1604;1782
-8171;Unverwüstlicher Balg;8;15336;17048
-8171;Unverwüstlicher Balg;8;13600;14400
 2672;Sehniges Wolfsfleisch;10;22220;33330
 2672;Sehniges Wolfsfleisch;2;2468;2742
 3730;Großbärenfleisch;2;800;1000
 7492;Hauptmannsumhang;1;9648;12060
-4338;Magiestoff;20;7500;119999
 4338;Magiestoff;20;91184;113980
 4338;Magiestoff;20;91184;113980
-4338;Magiestoff;20;7500;119999
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;7500;119999
-4338;Magiestoff;20;7500;119999
-4338;Magiestoff;20;127680;159600
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;139900;142900
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;187500;189900
-4338;Magiestoff;20;187500;189900
-4338;Magiestoff;20;187500;189900
-4338;Magiestoff;20;187500;189900
-4338;Magiestoff;20;187500;189900
-4338;Magiestoff;20;147500;149999
-4338;Magiestoff;20;147500;149999
-4338;Magiestoff;20;198500;199500
-4338;Magiestoff;20;139999;140000
-4338;Magiestoff;20;139999;140000
-4338;Magiestoff;20;139999;140000
-4338;Magiestoff;20;139999;140000
-4338;Magiestoff;20;139999;140000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;20;106400;133000
-4338;Magiestoff;2;750;0
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;20;177500;185500
-4338;Magiestoff;15;95988;119985
-4338;Magiestoff;20;139900;142900
 8180;Jagdbogen;1;10000;10000
 1716;Robe der Weisen;1;42236;52796
 1716;Robe der Weisen;1;44460;55575
 1716;Robe der Weisen;1;45000;58500
-7428;Schattenkatzenbalg;5;9550;10610
 3864;Citrin;14;78500;83500
 3864;Citrin;1;9499;9499
 3864;Citrin;1;7999;8999
@@ -102,7 +57,6 @@
 6211;Rezept: Elixier der Ogerstärke;1;15000;20000
 6211;Rezept: Elixier der Ogerstärke;1;14900;19900
 4048;Geschmückter Hut;1;2650;5500
-6068;Rezept: Schattenöl;1;39600;72001
 7453;Muster: Hurtige Stiefel;1;23462;26069
 7453;Muster: Hurtige Stiefel;1;43320;54150
 7453;Muster: Hurtige Stiefel;1;45600;57000
@@ -119,8 +73,6 @@
 7613;Muster: Grüne Lederrüstung;1;15600;20000
 6199;Band der schwarzen Witwe;1;99900;99900
 3075;Flammenauge;1;22500;22500
-3075;Flammenauge;1;205073;209500
-3075;Flammenauge;1;22609;30000
 8153;Wildranke;1;2596;3246
 8183;Präzisionsbogen;1;3639;7000
 8368;Dicker Wolfsbalg;1;2921;3246
@@ -130,7 +82,6 @@
 3866;Pläne: Jadeschlangenklinge;1;7993;8882
 3866;Pläne: Jadeschlangenklinge;1;7993;8882
 3866;Pläne: Jadeschlangenklinge;1;25760;37200
-7421;Phalanxhandschuhe;1;2667;5555
 2996;Leinenstoffballen;10;5000;5500
 2996;Leinenstoffballen;10;5000;5500
 2996;Leinenstoffballen;2;844;990
@@ -138,7 +89,6 @@
 2996;Leinenstoffballen;10;5000;5500
 2996;Leinenstoffballen;10;8800;9900
 2996;Leinenstoffballen;6;4800;5400
-4090;Becher des Schmerzes;1;105004;150000
 4090;Becher des Schmerzes;1;99999;149999
 8249;Imperiale rote Handschuhe;1;8004;16000
 8249;Imperiale rote Handschuhe;1;8004;16000
@@ -170,7 +120,6 @@
 32836;Geläuterte Schattenperle;1;550000;557500
 32836;Geläuterte Schattenperle;1;550000;557500
 32836;Geläuterte Schattenperle;1;550000;557500
-6308;Roher Stoppelfühlerwels;3;1000;1000
 2621;Gugel der Totenbeschwörung;1;13535;15500
 3871;Pläne: Goldene Schuppenschultern;1;24810;31013
 4045;Blaunebelarmschienen;1;7625;9532
@@ -197,29 +146,8 @@
 32225;Schillernder Gischtsmaragd;1;499999;619999
 6046;Pläne: Stahlwaffenkette;1;1600000;1800000
 3914;Gesellenrucksack;1;37668;41854
-3914;Gesellenrucksack;1;9375;20000
-3914;Gesellenrucksack;1;44900;49900
-3914;Gesellenrucksack;1;44900;49900
 3914;Gesellenrucksack;1;59375;60000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;176400;195020
-8170;Unverwüstliches Leder;20;176400;195020
-8170;Unverwüstliches Leder;20;176400;195020
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;121699;139599
-8170;Unverwüstliches Leder;20;155000;160000
-8170;Unverwüstliches Leder;20;183900;183999
-8170;Unverwüstliches Leder;20;183900;183999
-8170;Unverwüstliches Leder;9;79380;87759
-8170;Unverwüstliches Leder;20;131500;139000
 8170;Unverwüstliches Leder;3;18900;19200
-8170;Unverwüstliches Leder;20;131500;139000
 8170;Unverwüstliches Leder;20;126000;128000
 8170;Unverwüstliches Leder;20;126000;128000
 8170;Unverwüstliches Leder;20;126000;128000
@@ -227,32 +155,7 @@
 8170;Unverwüstliches Leder;20;126000;128000
 8170;Unverwüstliches Leder;20;126000;128000
 8170;Unverwüstliches Leder;20;126000;128000
-8170;Unverwüstliches Leder;20;135000;140000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
-8170;Unverwüstliches Leder;20;131500;139000
 7525;Hauchzarte Armschienen;1;4659;4900
-3860;Mithrilbarren;20;222000;299500
-3860;Mithrilbarren;20;168200;186889
-3860;Mithrilbarren;10;126000;170000
-3860;Mithrilbarren;20;222000;299500
-3860;Mithrilbarren;20;222000;299500
-3860;Mithrilbarren;20;168200;186889
-3860;Mithrilbarren;20;222000;299500
-3860;Mithrilbarren;4;18816;23520
-3860;Mithrilbarren;20;222000;299500
-3860;Mithrilbarren;20;222000;299500
 3860;Mithrilbarren;15;129000;159900
 7676;Disteltee;10;300450;350000
 4082;Schwarzschmiedebrustplatte;1;17548;35000
@@ -282,19 +185,6 @@
 3012;Rolle der Beweglichkeit;1;5000;7500
 8290;Arkane Robe;1;145473;150000
 7742;Bauplan: Gnomische Tarnvorrichtung;1;50900;100000
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;10;9120;10000
-4096;Grobes Gorillahaar;10;8880;9990
-4096;Grobes Gorillahaar;10;8880;9990
-4096;Grobes Gorillahaar;8;6464;6800
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;2;1514;1682
-4096;Grobes Gorillahaar;10;8080;8500
 4037;Silberfadenhose;1;29317;31566
 6303;Rohe Glitschhautmakrele;20;3408;4260
 6303;Rohe Glitschhautmakrele;18;3067;3834
@@ -313,8 +203,6 @@
 6291;Roher glänzender Kleinfisch;20;49980;49980
 6291;Roher glänzender Kleinfisch;20;49980;49980
 6291;Roher glänzender Kleinfisch;20;49980;49980
-6291;Roher glänzender Kleinfisch;20;16590;18434
-6291;Roher glänzender Kleinfisch;3;232;291
 6309;17-pfündiger Wels;1;3400;4400
 6309;17-pfündiger Wels;1;8354;9283
 6309;17-pfündiger Wels;1;8354;9283
@@ -325,8 +213,6 @@
 4070;Tjosterwappen;1;23606;29508
 6289;Roher langzahniger Matschschnapper;20;99980;99980
 6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;37704;41894
-6289;Roher langzahniger Matschschnapper;3;5655;6284
 6289;Roher langzahniger Matschschnapper;20;99980;99980
 6289;Roher langzahniger Matschschnapper;20;99980;99980
 6289;Roher langzahniger Matschschnapper;20;99980;99980
@@ -337,14 +223,10 @@
 8176;Stirnband des Nachtschleichers;1;6742;30000
 818;Tigerauge;5;2292;2865
 7443;Schildwachenhandschuhe;1;6916;8645
-4038;Nachthauchrobe;1;18300;22875
 3873;Pläne: Goldener Schuppenkürass;1;24420;27134
 3049;Züngelnde Schuppenbrustplatte;1;5978;6900
 3069;Helle Robe;1;4518;5648
 7080;Essenz des Wassers;1;50000;50000
-8193;Hose des Nachtschleichers;1;13062;30000
-8193;Hose des Nachtschleichers;1;13062;330000
-8193;Hose des Nachtschleichers;1;13062;30000
 7482;Waldläuferschultern;1;7389;7700
 1717;Doppelverbundtunika;1;8899;9499
 1717;Doppelverbundtunika;1;7219;9024
@@ -361,21 +243,9 @@
 8350;Der Eine Ring;1;200000;250000
 8350;Der Eine Ring;1;400000;500000
 6044;Pläne: Eisenschildstachel;1;800;6000
-6044;Pläne: Eisenschildstachel;1;16032;27540
 4339;Magiestoffballen;10;996792;999999
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;14;62986;69986
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;20;48900;49000
 6037;Echtsilberbarren;20;43000;48999
-6037;Echtsilberbarren;20;48900;49000
-6037;Echtsilberbarren;7;17115;17150
-6037;Echtsilberbarren;8;15000;0
-6037;Echtsilberbarren;20;65990;73323
-6037;Echtsilberbarren;20;65990;73323
 6037;Echtsilberbarren;2;8032;8924
-3037;Peitschenholzdoppelbogen;1;15641;19552
-3037;Peitschenholzdoppelbogen;1;17307;21634
 6310;19-pfündiger Wels;1;63797;70886
 6310;19-pfündiger Wels;1;63797;70886
 6310;19-pfündiger Wels;1;30150;34400

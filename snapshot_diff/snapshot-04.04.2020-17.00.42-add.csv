@@ -6,7 +6,6 @@
 23633;Pläne: Runenverzierter Hammer;1;180000;250000
 20404;Verschlüsselter Schattenhammertext;2;20965;23295
 12820;Feuerwasser der Winterfelle;10;87600;109500
-12820;Feuerwasser der Winterfelle;2;5000;5000
 23628;Pläne: Gesegnete Armschienen;1;240000;280000
 23637;Pläne: Hand der Ewigkeit;1;180000;250000
 16651;Schredderanleitung - Seite 7;1;1500;1500
@@ -115,7 +114,6 @@
 16072;Expertenkochbuch;1;33750;50000
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;125000;140000
 2771;Zinnerz;13;6823;7581
-2771;Zinnerz;2;827;1034
 25334;Einschüchterungsgroßstab;1;450000;500000
 12431;E'ko der Winterfelle;3;100;199
 12713;Pläne: Strahlende Gamaschen;1;89999;99999
@@ -126,7 +124,6 @@
 15578;Spiegelpanzerbrustplatte;1;22278;27848
 4338;Magiestoff;8;3000;12000
 14791;Beschützercape;1;38910;39900
-4382;Bronzegerüst;1;1500;3500
 4382;Bronzegerüst;2;14225;15805
 15760;Muster: Eisenfederbrustplatte;1;45500;60000
 6317;Roher Lochfrenzy;5;1000;1000
@@ -284,7 +281,6 @@
 15772;Muster: Teufelssauriergamaschen;1;45599;56699
 28501;Felshetzeromelett;5;7286;8095
 15546;Dickschuppenbrustplatte;1;20000;30000
-15546;Dickschuppenbrustplatte;1;15033;18792
 15671;Wunderbarer Umhang;1;14673;30000
 15151;Geistwandlerbeinschützer;1;20000;30000
 15975;Regenmacherszepter;1;7747;9684
@@ -330,35 +326,7 @@
 13510;Fläschchen der Titanen;1;49900;69900
 13510;Fläschchen der Titanen;1;49900;69900
 13013;Hexerältestenmantel;1;96164;106849
-7910;Sternrubin;1;57500;71111
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;5;260000;274500
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;57500;61111
-7910;Sternrubin;5;260000;274500
 7910;Sternrubin;1;7500;8900
-7910;Sternrubin;1;7500;8900
-7910;Sternrubin;1;7500;8900
-7910;Sternrubin;1;39000;49500
-7910;Sternrubin;1;7500;9000
-7910;Sternrubin;1;9200;49800
-7910;Sternrubin;5;260000;274500
-7910;Sternrubin;1;9535;12544
-7910;Sternrubin;1;41724;52155
-7910;Sternrubin;1;57500;61111
-7910;Sternrubin;1;57500;61111
-7910;Sternrubin;1;7500;9900
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;24074;24915
 4389;Gyrochronatom;1;22800;28500
@@ -383,12 +351,6 @@
 15543;Tückischer Kettenschild;1;6268;7700
 4348;Muster: Phönixhandschuhe;1;4000;5000
 4348;Muster: Phönixhandschuhe;1;3800;4750
-7912;Robuster Stein;10;10500;20000
-7912;Robuster Stein;10;10500;20000
-7912;Robuster Stein;1;1325;1425
-7912;Robuster Stein;1;100;400
-7912;Robuster Stein;20;8000;10000
-7912;Robuster Stein;20;8000;10000
 15731;Muster: Runenverzierte Lederstulpen;1;6167;7709
 15731;Muster: Runenverzierte Lederstulpen;1;6167;7709
 15731;Muster: Runenverzierte Lederstulpen;1;34294;42868
@@ -438,7 +400,6 @@
 16113;Handbuch: Magiestoffverband;1;31875;50000
 4425;Rolle der Beweglichkeit III;1;16970;17963
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;36989;37766
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;20000;35000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
@@ -450,8 +411,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;179999
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;179999
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
-1210;Schattenedelstein;8;9440;11800
-1210;Schattenedelstein;1;1180;1475
 1210;Schattenedelstein;3;3900;4200
 12528;Der Hammer des Richters;1;121065;151332
 1685;Trollbalgtasche;1;34738;38597
@@ -505,7 +464,6 @@
 4412;Bauplan: Mondsichtgewehr;1;10000;15000
 15346;Pfadfinderweste;1;4182;8420
 2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;11357;12619
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;4562;5000
 21881;Netherweberseide;2;15000;20000
 15994;Thoriumapparat;10;189999;199999
 15994;Thoriumapparat;10;189999;199999
@@ -588,20 +546,9 @@
 7911;Echtsilbererz;20;20000;26000
 7911;Echtsilbererz;20;20000;26000
 7911;Echtsilbererz;20;20000;26000
-7911;Echtsilbererz;20;21648;27060
-7911;Echtsilbererz;1;1476;1640
-7911;Echtsilbererz;11;18083;20093
-7911;Echtsilbererz;20;32879;36532
-7911;Echtsilbererz;5;7756;9695
-7911;Echtsilbererz;18;19520;25650
-7911;Echtsilbererz;20;22800;28500
-7911;Echtsilbererz;20;43000;53800
-7911;Echtsilbererz;20;22800;28500
-7911;Echtsilbererz;20;22800;28500
 4422;Rolle der Ausdauer III;2;5000;5000
 31283;Schärpe des besiegelten Schicksals;1;193848;267799
 12800;Azerothischer Diamant;1;15000;110000
-12800;Azerothischer Diamant;1;115000;120000
 12800;Azerothischer Diamant;1;15000;110000
 14491;Muster: Runenstoffhose;1;26719;38576
 4364;Grobes Sprengpulver;1;586;651
@@ -614,36 +561,17 @@
 13052;Kriegstreiber;1;65022;72247
 12691;Pläne: Wilddornpanzerung;1;36176;47973
 12691;Pläne: Wilddornpanzerung;1;36176;47973
-12691;Pläne: Wilddornpanzerung;1;9560;12825
-12691;Pläne: Wilddornpanzerung;1;12500;13500
 29730;Muster: Irdene Netherschuppenstiefel;1;180000;250000
 13144;Gürtel der Beschaulichkeit;1;24320;27022
 13062;Donnerholz;1;34150;35722
 24719;Lumpenpackbrustharnisch;1;50000;60000
 31837;Kodex: Gebet des Schattenschutzes II;1;22125;50000
-15417;Teufelssaurierleder;1;2500;3000
 15417;Teufelssaurierleder;6;51122;56802
 23625;Pläne: Helm der Eidestreue;1;180000;220000
 13066;Wyrmtöterschiftung;1;55792;61991
 24089;Eterniumband der Loderflamme;1;559727;660000
 12987;Dunkelgewirkte Bundhosen;1;1916;29895
 15580;Spiegelpanzerkopfband;1;45587;59484
-2770;Kupfererz;20;7632;9540
-2770;Kupfererz;5;2660;3325
-2770;Kupfererz;10;8500;9000
-2770;Kupfererz;7;2895;3619
-2770;Kupfererz;20;7632;9540
-2770;Kupfererz;20;9050;10900
-2770;Kupfererz;1;381;477
-2770;Kupfererz;15;6720;8400
-2770;Kupfererz;3;1732;2166
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;7575;9876
-2770;Kupfererz;3;1144;1431
-2770;Kupfererz;20;7575;9876
 15768;Muster: Tückischer Ledergürtel;1;89999;99999
 12424;Imperialer Plattengürtel;1;14607;58000
 12424;Imperialer Plattengürtel;1;14607;58000
@@ -659,7 +587,6 @@
 15765;Muster: Runenverzierte Lederhose;1;9900;9900
 15892;Töterschild;1;11462;14328
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
-4377;Schweres Sprengpulver;2;1030;1144
 4377;Schweres Sprengpulver;1;5082;6047
 4349;Muster: Phönixhose;1;59999;79999
 4349;Muster: Phönixhose;1;69559;88199
@@ -722,10 +649,6 @@
 24694;Knochenmalmerflickenstiefel;1;50000;60000
 6372;Schwimmtempotrank;1;335;500
 4339;Magiestoffballen;10;250500;400000
-4339;Magiestoffballen;8;222200;333300
-4339;Magiestoffballen;10;333350;444400
-4339;Magiestoffballen;10;333350;444400
-4339;Magiestoffballen;10;996792;999999
 15935;Haltbare Rute;1;9533;13292
 24669;Eldr'naangürtel;1;93500;100000
 4345;Muster: Rote Wollstiefel;1;15716;17462
@@ -746,59 +669,11 @@
 22790;Urflechte;20;38000;38000
 22790;Urflechte;20;38000;38000
 22790;Urflechte;20;38000;38000
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;19;92625;94525
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-15564;Unverwüstliches Rüstungsset;3;38900;39500
 15564;Unverwüstliches Rüstungsset;2;9065;10072
 25707;Teufelsbalg;20;187500;194000
 25707;Teufelsbalg;5;66875;85000
 12435;E'ko eines Eisdistelyetis;2;145;215
 30323;Pläne: Stiefel des Beschützers;1;150000;170000
-3384;Schwacher Magiewiderstandstrank;4;26800;27900
 3384;Schwacher Magiewiderstandstrank;5;33500;34875
-3384;Schwacher Magiewiderstandstrank;5;33500;34999
 15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000
 15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000

@@ -6,7 +6,6 @@
 27429;Zangarischer Sporenfisch;20;68400;85500
 27429;Zangarischer Sporenfisch;20;68400;85500
 27429;Zangarischer Sporenfisch;20;68400;85500
-31910;Delirium Ass;1;35000;40000
 10184;Schwadroneursarmschienen;1;30000;40000
 25324;Zornesstab;1;272765;303072
 23626;Pläne: Schwarze Teufelsstahlarmschienen;1;180000;199900
@@ -21,12 +20,6 @@
 24988;Felsfaustschulterklappen;1;150000;190000
 25302;Seelentöterdolch;1;100000;190000
 15185;Prätorianerhelmkappe;1;46461;51624
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
@@ -62,27 +55,9 @@
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
 21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;10;15968;19960
-21877;Netherstoff;20;31936;39920
-21877;Netherstoff;20;34300;43120
-21877;Netherstoff;20;31936;39920
-21877;Netherstoff;20;34300;43120
+21877;Netherstoff;20;34999;49999
+21877;Netherstoff;20;34999;49999
 21877;Netherstoff;2;2816;3520
 21877;Netherstoff;20;24000;33000
 21877;Netherstoff;20;24000;33000
@@ -108,10 +83,6 @@
 21864;Seelenstoffschultern;1;796175;995219
 21864;Seelenstoffschultern;1;1200000;1500000
 15589;Beständige Stampfer;1;20000;30000
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;3000000;3150000
 870;Feurige Kriegsaxt;1;72292;80000
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;140000;150000
@@ -135,19 +106,6 @@
 24950;Sumpfschlägergürtel;1;50000;60000
 24922;Grimmschuppenhelm;1;44076;54400
 24922;Grimmschuppenhelm;1;79336;88152
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
-22839;Zerstörungstrank;5;171111;174444
 22839;Zerstörungstrank;3;47760;59700
 15363;Schwindlerkopfputz;1;23833;26482
 32428;Herz der Dunkelheit;4;159996;199996
@@ -169,15 +127,6 @@
 8486;Katzentransportkorb (Cornish Rex);1;91500;99000
 15562;Plündererschulterstücke;1;30000;40000
 27671;Bussardfleisch;4;4130;4589
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;20;148480;149999
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;20;146000;155000
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;5;54995;64995
-22797;Alptraumsaat;2;21998;25998
 25050;Moldavitring;1;70000;100000
 2449;Erdwurzel;20;6900;7000
 21854;Netherstoffrobe;1;143900;150000
@@ -188,13 +137,8 @@
 19283;Portal 7;1;358750;360000
 2841;Bronzebarren;20;15680;19600
 2841;Bronzebarren;12;9408;11760
-21842;Magieerfüllter Netherstoffballen;3;76800;96000
 25122;Khoriumbeschichteter Knüttel;1;103710;129999
 25174;Hanbo;1;112906;150000
-22824;Elixier der erheblichen Stärke;1;11132;13916
-22824;Elixier der erheblichen Stärke;1;11132;13916
-22824;Elixier der erheblichen Stärke;20;299500;299800
-22824;Elixier der erheblichen Stärke;20;299500;299800
 22824;Elixier der erheblichen Stärke;10;111328;139160
 7078;Essenz des Feuers;1;23603;26226
 13121;Flügel des Welplings;1;24017;26685
@@ -224,26 +168,6 @@
 22527;Kern der Elemente;51;180789;200877
 2319;Mittleres Leder;20;41500;54500
 2319;Mittleres Leder;1;2500;2500
-20748;Hervorragendes Manaöl;1;169500;179000
-20748;Hervorragendes Manaöl;1;169500;179000
-20748;Hervorragendes Manaöl;1;169500;179000
-20748;Hervorragendes Manaöl;1;169500;179000
-20748;Hervorragendes Manaöl;1;178999;178999
-20748;Hervorragendes Manaöl;1;178999;178999
-20748;Hervorragendes Manaöl;1;168500;178000
-20748;Hervorragendes Manaöl;1;168500;178000
-20748;Hervorragendes Manaöl;1;168500;178000
-20748;Hervorragendes Manaöl;1;168500;178000
-20748;Hervorragendes Manaöl;1;168500;178000
-20748;Hervorragendes Manaöl;1;177999;177999
-20748;Hervorragendes Manaöl;1;177999;177999
-20748;Hervorragendes Manaöl;1;171500;177777
-20748;Hervorragendes Manaöl;1;167500;177000
-20748;Hervorragendes Manaöl;1;167500;177000
-20748;Hervorragendes Manaöl;1;171500;177777
-20748;Hervorragendes Manaöl;1;176999;176999
-20748;Hervorragendes Manaöl;1;176999;176999
-20748;Hervorragendes Manaöl;1;176999;176999
 23768;Weißes Rauchsignal;10;203750;220000
 7085;Muster: Azurblaue Schultern;1;28316;39240
 7085;Muster: Azurblaue Schultern;1;28316;39240
@@ -253,21 +177,6 @@
 15408;Schwere Skorpidschuppe;20;56584;62872
 23537;Schwarze Teufelsstahlarmschienen;1;2229644;2559556
 23537;Schwarze Teufelsstahlarmschienen;1;2229644;2559556
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
-21841;Netherstofftasche;1;51153;55542
 24927;Ango'roshsabatons;1;57494;61868
 23503;Adamantitbeil;1;127500;138000
 23503;Adamantitbeil;1;127500;138000
@@ -404,9 +313,7 @@
 25106;Kobrakurzklinge;1;99793;129999
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
 9871;Renegatengamaschen;1;8898;11123
-31143;Tuch der Raserei;1;129055;143394
 31143;Tuch der Raserei;1;79064;87849
-31143;Tuch der Raserei;1;115874;144843
 8487;Katzentransportkorb (Orangefarbene Tigerkatze);1;91500;99000
 8487;Katzentransportkorb (Orangefarbene Tigerkatze);1;91500;99000
 23119;Funkelnder Azurmondstein;1;6368;7960
@@ -442,7 +349,6 @@
 27674;Felshetzerfleisch;13;59345;64636
 31151;Gurt der Belagerung;1;106920;118800
 31151;Gurt der Belagerung;1;90000;90000
-31888;Segen 3;1;185000;220000
 19707;Rotes Schmuckstück der Hakkari;1;130100;140000
 19707;Rotes Schmuckstück der Hakkari;1;130100;140000
 19707;Rotes Schmuckstück der Hakkari;1;130100;140000
@@ -519,8 +425,6 @@
 929;Heiltrank;1;276;307
 27425;Tüpfelteufelsfinne;2;2491;2768
 27425;Tüpfelteufelsfinne;6;5000;6000
-8402;Muster: Fester Skorpidhelm;1;5079;5643
-8402;Muster: Fester Skorpidhelm;1;3062;5000
 23532;Stulpen des eisernen Turms;1;1955227;1990000
 17057;Glänzende Fischschuppen;6;472;525
 23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
@@ -566,23 +470,8 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;180000
-23118;Gediegener Azurmondstein;1;12065;12150
 23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9525;11907
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
 23118;Gediegener Azurmondstein;1;12591;13990
-23118;Gediegener Azurmondstein;1;12065;12150
 23118;Gediegener Azurmondstein;1;9504;13131
 23118;Gediegener Azurmondstein;1;9504;13131
 23118;Gediegener Azurmondstein;1;9999;12299
@@ -596,37 +485,8 @@
 22861;Fläschchen des blendenden Lichts;5;1050000;1050000
 22861;Fläschchen des blendenden Lichts;5;1050000;1050000
 22861;Fläschchen des blendenden Lichts;5;1050000;1050000
-22861;Fläschchen des blendenden Lichts;5;797996;997495
 22861;Fläschchen des blendenden Lichts;5;997490;997490
 22861;Fläschchen des blendenden Lichts;5;997490;997490
-22861;Fläschchen des blendenden Lichts;5;999999;1049999
-22861;Fläschchen des blendenden Lichts;5;999999;1049999
-22861;Fläschchen des blendenden Lichts;5;999999;1049999
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224998;224998
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
-22861;Fläschchen des blendenden Lichts;1;224997;224997
 23153;Vorlage: Funkelnder Azurmondstein;1;198750;200000
 25058;Anglesithalsreif;1;50000;60000
 29547;Windschuppen;20;997500;999999
@@ -659,88 +519,27 @@
 14047;Runenstoff;20;17667;29754
 14047;Runenstoff;20;17667;29754
 14047;Runenstoff;10;8800;8800
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;140000;146000
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;140000;146000
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;274022;284050
-20749;Hervorragendes Zauberöl;1;138500;146500
-20749;Hervorragendes Zauberöl;1;138500;146500
 13094;Das Juwel der Königin;1;9900;14900
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
 23445;Teufelseisenbarren;20;114000;142500
 25272;Schrotflinte PC-54;1;143624;179531
 15177;Potente Schultern;1;30000;40000
 23531;Teufelszornstulpen;1;3996888;4000000
 2836;Grober Stein;2;3264;3627
 27499;Rolle der Intelligenz V;3;9597;11997
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;7;55999;69900
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;1;15800;19750
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;9801;10890
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;10;89999;99999
-21881;Netherweberseide;7;55999;69900
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;1;15800;19750
-21881;Netherweberseide;1;15800;19750
 21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;1;15800;19750
+21881;Netherweberseide;4;40000;44400
+21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
@@ -770,8 +569,6 @@
 24656;Konsortiumhandschuhe;1;1654491;1660000
 15250;Gleißender Flamberg;1;20000;30000
 20816;Feiner Kupferdraht;1;1716;2146
-31148;Dämonenbalgschiftung;1;181673;200000
-31148;Dämonenbalgschiftung;1;181673;199900
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 8488;Katzentransportkorb (Silberne Tigerkatze);1;91500;99000
 8488;Katzentransportkorb (Silberne Tigerkatze);1;91500;99000
@@ -782,22 +579,6 @@
 31153;Axt der Legion;1;600000;650000
 31153;Axt der Legion;1;649903;799900
 31153;Axt der Legion;1;498304;510000
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;5;649999;699999
-21886;Urleben;1;146000;148000
-21886;Urleben;1;146000;148000
-21886;Urleben;6;780000;810000
-21886;Urleben;5;650000;666666
-21886;Urleben;20;2777777;2799999
-21886;Urleben;4;404000;550000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 24875;Eisenrückenbeinschützer;1;100000;150000
 23117;Azurmondstein;1;3750;3987
@@ -805,37 +586,11 @@
 23117;Azurmondstein;20;93500;99000
 23117;Azurmondstein;20;93500;99000
 25320;Königinnenmarkung;1;210000;270000
-12365;Verdichteter Stein;2;500;626
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
-12365;Verdichteter Stein;20;6064;7580
 2838;Schwerer Stein;20;14000;16000
 27665;Gedünstete Blauflosse;20;444440;444440
 22913;Rezept: Hasttrank;1;228000;285000
-27666;Goldfischstäbchen;20;400000;500000
-27666;Goldfischstäbchen;20;400000;500000
-27666;Goldfischstäbchen;20;464646;474747
-27666;Goldfischstäbchen;20;464646;474747
-27666;Goldfischstäbchen;20;464646;474747
 27666;Goldfischstäbchen;20;385024;399980
 27666;Goldfischstäbchen;20;385024;399980
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;5;99990;99990
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;20;549999;574999
-27666;Goldfischstäbchen;6;101350;120000
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;5;98619;98619
-27666;Goldfischstäbchen;5;98619;98619
 8390;Muster: Großer Voodooumhang;1;20340;31489
 31138;Gurt des Sturmfürsten;1;59252;65835
 3819;Winterbiss;20;49900;50000
@@ -889,30 +644,6 @@
 29539;Kobraschuppen;1;121600;162000
 29539;Kobraschuppen;1;121600;162000
 31147;Anhänger der List;1;123254;129999
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;300000;0
-22794;Teufelslotus;20;650000;750000
-22794;Teufelslotus;20;650000;750000
-22794;Teufelslotus;20;650000;750000
-22794;Teufelslotus;5;155000;230000
-22794;Teufelslotus;5;155000;230000
-22794;Teufelslotus;5;155000;230000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;20;749580;749580
 22866;Fläschchen des reinen Todes;1;209999;219499
 22866;Fläschchen des reinen Todes;1;209999;219499
 22866;Fläschchen des reinen Todes;1;209999;219499
@@ -982,8 +713,6 @@
 10285;Schattenseide;1;7328;8142
 25184;Felshetzerklauen;1;85279;150000
 21845;Urmondstoff;1;246000;300000
-21845;Urmondstoff;1;326000;333333
-21845;Urmondstoff;1;326000;333333
 24934;Dunkelkammgürtel;1;30639;35000
 25238;Höllenfeuerkriegsspeer;1;144522;199999
 31887;Segen 6;1;12300000;15350000

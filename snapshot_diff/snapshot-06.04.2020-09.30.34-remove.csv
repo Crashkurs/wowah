@@ -1,13 +1,5 @@
 1169;Schwarzschädelschild;1;82523;103154
-22526;Knochenfragmente;9;29020;32244
-22526;Knochenfragmente;13;38987;46787
-22526;Knochenfragmente;30;89970;107970
-22526;Knochenfragmente;30;89970;107970
-22526;Knochenfragmente;30;89970;107970
-22526;Knochenfragmente;14;35434;44310
-22526;Knochenfragmente;5;13920;20000
 22526;Knochenfragmente;3;7598;9498
-22526;Knochenfragmente;20;160000;164000
 856;Blaue Ledertasche;1;2800;3500
 13037;Kristallfichtenstecher;1;11447;14309
 8152;Fläschchen großes Mojo;5;6892;7658
@@ -65,7 +57,6 @@
 4338;Magiestoff;20;77900;108560
 4338;Magiestoff;20;77900;108560
 4338;Magiestoff;20;77900;108560
-11082;Große Astralessenz;7;33600;34300
 11082;Große Astralessenz;1;5000;6000
 6889;Kleines Ei;7;1327;1659
 22574;Feuerpartikel;1;23162;24999
@@ -123,17 +114,12 @@
 22527;Kern der Elemente;2;9900;9999
 22527;Kern der Elemente;4;17082;18981
 22527;Kern der Elemente;2;4331;5414
-22541;Formel: Schild - Widerstand;1;245784;307230
-22541;Formel: Schild - Widerstand;1;599999;599999
 809;Blutklinge;1;88473;95592
 13110;Schreckenswolfharnisch;1;188480;235600
 6585;Späherumhang;1;10000;30000
 7421;Phalanxhandschuhe;1;2667;5555
 6394;Silberfadenstiefel;1;1561;3333
 720;Muskelprotzhandschuhe;1;12800;18500
-13446;Erheblicher Heiltrank;5;20150;27170
-13446;Erheblicher Heiltrank;5;20150;27170
-13446;Erheblicher Heiltrank;5;20150;27170
 13039;Schädelspalterarmbrust;1;19560;25450
 5578;Pläne: Bronzene Brustplatte mit Versilberung;1;12366;15458
 22558;Formel: Waffe - Zauberflut;1;297500;299999
@@ -180,8 +166,6 @@
 22522;Überragendes Zauberöl;1;152099;165099
 22522;Überragendes Zauberöl;1;84444;84444
 22572;Luftpartikel;3;49560;62700
-22572;Luftpartikel;5;130000;135000
-22572;Luftpartikel;7;158883;176537
 9811;Befestigte Armschienen;1;20000;40000
 5786;Muster: Murlocschuppengürtel;1;1920;2400
 6578;Verteidigungsstarke Gamaschen;1;20000;40000
@@ -220,19 +204,6 @@
 7069;Elementarluft;1;11095;11917
 12990;Messers Schneide;1;101845;157108
 4349;Muster: Phönixhose;1;69559;88199
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 7080;Essenz des Wassers;3;232997;258886
 11134;Geringe Mystikeressenz;4;80228;88120
 8395;Muster: Feste Skorpidbrustplatte;1;5265;6582

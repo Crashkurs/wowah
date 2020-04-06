@@ -8,7 +8,6 @@
 11177;Kleiner strahlender Splitter;19;10101;10101
 11177;Kleiner strahlender Splitter;20;30000;40000
 11177;Kleiner strahlender Splitter;1;200;900
-12820;Feuerwasser der Winterfelle;2;5000;5000
 2244;Krolklinge;1;271858;290000
 2244;Krolklinge;1;271858;290000
 2244;Krolklinge;1;271858;290000
@@ -37,7 +36,6 @@
 10593;Unvollständiges Draenethystfragment;1;5036;6062
 2771;Zinnerz;20;4950;9900
 2771;Zinnerz;20;4950;9900
-2771;Zinnerz;2;827;1034
 2771;Zinnerz;20;4950;9900
 2771;Zinnerz;20;5040;6300
 2771;Zinnerz;20;5040;6300
@@ -66,7 +64,6 @@
 10620;Thoriumerz;20;65360;69200
 10620;Thoriumerz;20;65360;69200
 10620;Thoriumerz;20;65360;69200
-4382;Bronzegerüst;1;1500;3500
 6317;Roher Lochfrenzy;5;1000;1000
 11082;Große Astralessenz;7;33600;34300
 3385;Geringer Manatrank;3;456;570
@@ -234,35 +231,7 @@
 12799;Großer Opal;1;10500;29800
 12644;Verdichteter Schleifstein;20;119080;148860
 12644;Verdichteter Schleifstein;20;505894;562104
-7910;Sternrubin;1;9535;12544
-7910;Sternrubin;1;7500;9900
-7910;Sternrubin;1;57500;61111
 7910;Sternrubin;1;19900;24900
-7910;Sternrubin;1;41724;52155
-7910;Sternrubin;1;57500;61111
-7910;Sternrubin;1;57500;61111
-7910;Sternrubin;1;57500;71111
-7910;Sternrubin;5;260000;274500
-7910;Sternrubin;5;260000;274500
-7910;Sternrubin;5;260000;274500
-7910;Sternrubin;1;9200;49800
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;39000;49500
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;7500;9000
-7910;Sternrubin;1;49999;69999
-7910;Sternrubin;1;7500;8900
-7910;Sternrubin;1;7500;8900
 4389;Gyrochronatom;1;22800;28500
 6358;Öliges Schwarzmaul;9;88784;113480
 6358;Öliges Schwarzmaul;20;159999;169999
@@ -277,14 +246,6 @@
 15543;Tückischer Kettenschild;1;6268;7700
 4348;Muster: Phönixhandschuhe;1;4000;5000
 4348;Muster: Phönixhandschuhe;1;3800;4750
-7912;Robuster Stein;1;1325;1425
-7912;Robuster Stein;20;8000;10000
-7912;Robuster Stein;20;8000;10000
-7912;Robuster Stein;20;8000;10000
-7912;Robuster Stein;1;100;400
-7912;Robuster Stein;10;10500;20000
-7912;Robuster Stein;20;8000;10000
-7912;Robuster Stein;10;10500;20000
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
@@ -338,14 +299,11 @@
 12811;Rechtschaffene Kugel;1;499999;499999
 8836;Arthas' Tränen;9;15580;19476
 4425;Rolle der Beweglichkeit III;1;16970;17963
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;20000;35000
 34622;Wirbelschnitter;1;3500000;4000000
 34622;Wirbelschnitter;1;2000000;2250000
 34622;Wirbelschnitter;1;2009500;2137500
 34622;Wirbelschnitter;1;3500000;4000000
 34622;Wirbelschnitter;1;3500000;4000000
-1210;Schattenedelstein;8;9440;11800
-1210;Schattenedelstein;1;1180;1475
 12528;Der Hammer des Richters;1;121065;151332
 34827;Adligenmonokel;1;849562;858703
 4421;Rolle des Schutzes III;1;385;900
@@ -375,7 +333,6 @@
 12704;Pläne: Thoriumgamaschen;1;17500;25100
 12704;Pläne: Thoriumgamaschen;1;19076;23845
 4412;Bauplan: Mondsichtgewehr;1;10000;15000
-2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;4562;5000
 6326;Rezept: Glitschhautmakrele;1;44658;49620
 6326;Rezept: Glitschhautmakrele;1;44658;49620
 6326;Rezept: Glitschhautmakrele;1;8873;18592
@@ -420,21 +377,10 @@
 12365;Verdichteter Stein;20;6064;7580
 12365;Verdichteter Stein;20;6064;7580
 12365;Verdichteter Stein;1;330;330
-7911;Echtsilbererz;20;43000;53800
-7911;Echtsilbererz;20;22800;28500
-7911;Echtsilbererz;20;22800;28500
 7911;Echtsilbererz;20;31024;38780
 7911;Echtsilbererz;20;31024;38780
 7911;Echtsilbererz;19;31317;34797
-7911;Echtsilbererz;20;22800;28500
-7911;Echtsilbererz;18;19520;25650
-7911;Echtsilbererz;5;7756;9695
-7911;Echtsilbererz;20;32879;36532
-7911;Echtsilbererz;11;18083;20093
-7911;Echtsilbererz;1;1476;1640
-7911;Echtsilbererz;20;21648;27060
 4422;Rolle der Ausdauer III;2;5000;5000
-12800;Azerothischer Diamant;1;115000;120000
 4364;Grobes Sprengpulver;2;1172;1302
 4364;Grobes Sprengpulver;1;586;651
 6309;17-pfündiger Wels;1;3400;4400
@@ -442,27 +388,8 @@
 6309;17-pfündiger Wels;1;8354;9283
 6309;17-pfündiger Wels;1;3400;4400
 34826;Goldener Trauring;1;200000;250000
-12691;Pläne: Wilddornpanzerung;1;12500;13500
-12691;Pläne: Wilddornpanzerung;1;9560;12825
-15417;Teufelssaurierleder;1;2500;3000
 12987;Dunkelgewirkte Bundhosen;1;1916;29895
-2770;Kupfererz;3;1732;2166
-2770;Kupfererz;20;9540;13300
 2770;Kupfererz;20;10150;10900
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;10;8500;9000
-2770;Kupfererz;20;9050;10900
-2770;Kupfererz;7;2895;3619
-2770;Kupfererz;20;7632;9540
-2770;Kupfererz;20;7632;9540
-2770;Kupfererz;1;381;477
-2770;Kupfererz;5;2660;3325
-2770;Kupfererz;15;6720;8400
-2770;Kupfererz;20;7575;9876
-2770;Kupfererz;20;7575;9876
-2770;Kupfererz;3;1144;1431
 12424;Imperialer Plattengürtel;1;14607;58000
 12424;Imperialer Plattengürtel;1;14607;58000
 12424;Imperialer Plattengürtel;1;14607;58000
@@ -479,16 +406,9 @@
 33872;Feuriger Würztalbuk;20;127000;134500
 33872;Feuriger Würztalbuk;20;125500;133000
 33872;Feuriger Würztalbuk;20;127998;135498
-4377;Schweres Sprengpulver;2;1030;1144
 4349;Muster: Phönixhose;1;69559;88199
 4349;Muster: Phönixhose;1;59999;79999
 12808;Essenz des Untodes;1;10000;20000
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;74500;77000
-33874;Kiblers Häppchen;20;74500;77000
 12810;Verzaubertes Leder;2;161500;168888
 12810;Verzaubertes Leder;1;80750;88888
 6362;Roher Steinschuppenkabeljau;20;43871;48746
@@ -526,10 +446,6 @@
 9172;Unsichtbarkeitstrank;5;50000;75410
 13022;Greifenflügellangbogen;1;20542;36158
 15541;Tückische Kettenbeinschützer;1;5161;5500
-4339;Magiestoffballen;10;996792;999999
-4339;Magiestoffballen;10;333350;444400
-4339;Magiestoffballen;10;333350;444400
-4339;Magiestoffballen;8;222200;333300
 4345;Muster: Rote Wollstiefel;1;15716;17462
 4345;Muster: Rote Wollstiefel;1;15716;17462
 4345;Muster: Rote Wollstiefel;1;15599;16699
@@ -539,74 +455,3 @@
 6311;22-pfündiger Wels;1;110187;120000
 6311;22-pfündiger Wels;1;121934;135482
 11176;Traumstaub;17;100186;105983
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;20;133529;148366
-11176;Traumstaub;19;92625;94525
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;120000;139800
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;20;199980;199980
-11176;Traumstaub;7;31500;34300
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;20;110000;120000
-11176;Traumstaub;3;10100;14500
-3384;Schwacher Magiewiderstandstrank;5;33500;34999
-3384;Schwacher Magiewiderstandstrank;4;26800;27900

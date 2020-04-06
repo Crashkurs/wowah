@@ -1,6 +1,4 @@
 1169;Schwarzsch‰delschild;1;37014;46268
-13100;Furens Stiefel;1;14180;17726
-13100;Furens Stiefel;1;28131;60000
 12977;Handschuhe der Magiekraft;1;20000;39900
 9856;Bogensch¸tzenstiefel;1;4258;10000
 24662;Schattenratstiefel;1;1430619;1440000
@@ -55,7 +53,6 @@
 7070;Elementarwasser;1;4220;12347
 7070;Elementarwasser;1;9383;11729
 14301;Knochenwerfers Bindungen;1;8176;10900
-14301;Knochenwerfers Bindungen;1;8176;16000
 23636;Pl‰ne: Todeslied;1;310000;320000
 11138;Kleiner leuchtender Splitter;1;500;900
 24275;Silberner Zauberfaden;1;1110000;1120000
@@ -65,28 +62,10 @@
 13422;Steinschuppenaal;3;12936;16170
 13422;Steinschuppenaal;20;95600;119500
 5214;Zauberstab der Abendzeit;1;11400;14250
-17056;Leichte Feder;20;60210;70000
-17056;Leichte Feder;20;60210;70000
-17056;Leichte Feder;20;60210;70000
 17056;Leichte Feder;20;20210;25000
 15251;Treffsicheres Schwert;1;55600;69500
 15251;Treffsicheres Schwert;1;53219;66524
 11082;Groﬂe Astralessenz;1;3300;3900
-11082;Groﬂe Astralessenz;2;7000;7888
-11082;Groﬂe Astralessenz;8;40000;48000
-11082;Groﬂe Astralessenz;9;45000;54000
-11082;Groﬂe Astralessenz;1;5000;6000
-11082;Groﬂe Astralessenz;10;38400;48000
-11082;Groﬂe Astralessenz;10;38400;48000
-11082;Groﬂe Astralessenz;2;7000;8000
-11082;Groﬂe Astralessenz;2;7680;9600
-11082;Groﬂe Astralessenz;1;3495;3940
-11082;Groﬂe Astralessenz;2;7680;9600
-11082;Groﬂe Astralessenz;2;7680;9600
-11082;Groﬂe Astralessenz;2;7680;9600
-11082;Groﬂe Astralessenz;2;7680;9600
-11082;Groﬂe Astralessenz;7;33600;34300
-11082;Groﬂe Astralessenz;1;3495;3940
 11082;Groﬂe Astralessenz;1;3300;3900
 11084;Groﬂer gleiﬂender Splitter;1;4400;4900
 25868;Himmelsfeuerdiamant;1;980000;980000
@@ -105,15 +84,6 @@
 15412;Gr¸ne Drachenschuppe;20;45000;50000
 15412;Gr¸ne Drachenschuppe;19;47473;49942
 19267;Elementarkartenset;1;2800000;2890000
-2835;Rauer Stein;9;3686;4608
-2835;Rauer Stein;17;13600;17000
-2835;Rauer Stein;7;8900;8900
-2835;Rauer Stein;20;19900;19900
-2835;Rauer Stein;20;19900;19900
-2835;Rauer Stein;20;19900;19900
-2835;Rauer Stein;20;19900;19900
-2835;Rauer Stein;20;19900;19900
-2835;Rauer Stein;10;7600;9500
 2835;Rauer Stein;20;6800;7300
 2835;Rauer Stein;20;6680;7420
 2835;Rauer Stein;20;6680;7420
@@ -125,8 +95,6 @@
 6149;Groﬂer Manatrank;5;900;7500
 18335;Makelloser schwarzer Diamant;1;200100;210000
 25898;Harter Erdsturmdiamant;1;995000;999900
-7076;Essenz der Erde;4;204796;204796
-7076;Essenz der Erde;4;204796;204796
 15349;Kopfj‰gerg¸rtel;1;6625;7900
 9968;Gepr‰gter Plattengurt;1;7116;10000
 15502;Kundschafterhandschuhe;1;20000;30000
@@ -184,11 +152,6 @@
 15408;Schwere Skorpidschuppe;3;8487;9430
 24245;Gl¸hkappe;15;39285;39999
 23884;Bauplan: Manatrankeinspritzung;1;10000000;11000000
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;52205;55557
 35562;B‰renflanke;5;129750;149999
 35562;B‰renflanke;5;129750;149999
 35562;B‰renflanke;5;129750;149999
@@ -216,7 +179,6 @@
 14227;Eisenweberseide;6;521083;578981
 14227;Eisenweberseide;1;63750;66600
 14227;Eisenweberseide;1;63750;66600
-13109;Cape der schwarzen Flamme;1;15124;18905
 13454;Groﬂes Arkanelixier;7;39075;41000
 15378;Zornprankeng¸rtel;1;30000;40000
 15526;Wachpostencape;1;24000;36000
@@ -242,39 +204,17 @@
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1557498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1557498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1130000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1126598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1126600
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119900;1127498
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1127498
 17062;Rezept: Mithrilkopfforelle;1;89999;99999
 21858;Zauberfeuertasche;1;2200000;2500000
 21858;Zauberfeuertasche;1;2200000;2500000
 25867;Erdsturmdiamant;1;600000;610100
-25867;Erdsturmdiamant;1;657559;669900
 25867;Erdsturmdiamant;1;600000;610100
 15269;Massive Streitaxt;1;9715;12144
 22563;Formel: ‹berragendes Zauberˆl;1;246250;299090
@@ -377,15 +317,12 @@
 13139;Bauchripper;1;31543;31900
 32216;Kˆniglicher Schattensangamethyst;1;889746;889746
 32216;Kˆniglicher Schattensangamethyst;1;889746;889746
-14299;Knochenwerfers Stiefel;1;12903;18888
 14242;Graunebelhose;1;8119;24999
 29547;Windschuppen;4;157500;164400
 34827;Adligenmonokel;1;781269;976587
 3820;W¸rgetang;20;3000;10000
 3820;W¸rgetang;20;3000;10000
 8170;Unverw¸stliches Leder;20;109999;109999
-8170;Unverw¸stliches Leder;18;144342;160380
-8170;Unverw¸stliches Leder;13;103194;114660
 15279;Elfenbeinzauberstab;1;39638;49548
 10306;Rolle der Willenskraft IV;1;14600;17500
 14280;Opulentes Cape;1;18252;22816
@@ -401,9 +338,6 @@
 24058;Gravierter Edeltopas;1;133108;142499
 29723;Muster: Kobraschuppenkapuze;1;80915;92127
 15529;Wachpostengamaschen;1;7920;9900
-2825;Bogen der Sengpfeile;1;68030;85038
-2825;Bogen der Sengpfeile;1;109546;121718
-2825;Bogen der Sengpfeile;1;67935;77705
 29536;Netherkluftbeinr¸stung;1;1780000;1788800
 29536;Netherkluftbeinr¸stung;1;1780000;1788800
 12804;M‰chtiges Mojo;20;490000;600000
@@ -429,10 +363,7 @@
 24050;Schimmernder D‰mmerstein;1;151768;166669
 24050;Schimmernder D‰mmerstein;1;151768;166669
 13490;Rezept: Groﬂer Steinschildtrank;1;196000;200000
-14304;Knochenwerfers G¸rtel;1;9291;12345
 17195;Unechter Mistelzweig;20;320;700
-15346;Pfadfinderweste;1;8921;11152
-15346;Pfadfinderweste;1;4182;8420
 15346;Pfadfinderweste;1;4182;10000
 29718;Muster: Trommeln des Tempos;1;59902;69300
 29718;Muster: Trommeln des Tempos;1;59902;69300
@@ -441,18 +372,6 @@
 27657;Schwarzgebratener Basilisk;20;254500;255000
 34207;Handschuhverst‰rkung;1;391250;400000
 22539;Formel: Schild - Intelligenz;1;52500;54500
-21886;Urleben;1;125000;125000
-21886;Urleben;1;125000;125000
-21886;Urleben;1;125000;125000
-21886;Urleben;1;125000;125000
-21886;Urleben;1;125000;125000
-21886;Urleben;1;125000;125000
-21886;Urleben;1;146000;148000
-21886;Urleben;1;146000;148000
-21886;Urleben;6;780000;810000
-21886;Urleben;5;650000;666666
-21886;Urleben;20;2777777;2799999
-21886;Urleben;4;404000;550000
 25896;M‰chtiger Erdsturmdiamant;1;845000;849900
 25896;M‰chtiger Erdsturmdiamant;1;809849;850341
 10036;Smokingjacke;1;242611;249999
@@ -539,30 +458,13 @@
 14281;Opulente Krone;1;30000;40000
 13115;Schafsledermantel;1;9691;12114
 15379;Zornprankenstiefel;1;11481;17777
-11083;Seelenstaub;14;60000;70000
-11083;Seelenstaub;20;140000;157500
-11083;Seelenstaub;10;39632;49540
-11083;Seelenstaub;10;45000;49000
-11083;Seelenstaub;8;36000;39200
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;3;8800;9900
-11083;Seelenstaub;20;99700;99999
-11083;Seelenstaub;7;34895;34900
-11083;Seelenstaub;1;3199;3999
-11083;Seelenstaub;20;60100;64900
-11083;Seelenstaub;20;70000;80000
 11083;Seelenstaub;13;40100;49999
-11083;Seelenstaub;20;99700;99999
 31901;Furien Ass;1;125000;130000
-15381;Zornprankenbrustschutz;1;31600;39500
 13492;Rezept: L‰uterungstrank;1;19168;23961
 13016;Killerschredder;1;7156;15000
 7075;Erdenkern;1;50000;53500
 7075;Erdenkern;1;49126;54584
 7075;Erdenkern;1;49126;54584
-13102;Cassandras Anmut;1;99900;99900
 15352;Kopfj‰gerrundschild;1;13123;16404
 11134;Geringe Mystikeressenz;2;6600;9900
 14311;Himmlische Bindungen;1;33486;36096
@@ -587,21 +489,6 @@
 25894;Fl¸chtiger Himmelsfeuerdiamant;1;1115000;1120000
 34828;Antiker Silbermanschettenknopf;1;269536;337796
 4306;Seidenstoff;20;12500;13000
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;20;35000;38500
-4306;Seidenstoff;11;21659;21989
-4306;Seidenstoff;9;17721;17991
-4306;Seidenstoff;20;24500;25000
-4306;Seidenstoff;5;6125;6250
-4306;Seidenstoff;10;9526;13100
-4306;Seidenstoff;20;14500;15000
-4306;Seidenstoff;20;14500;17500
-4306;Seidenstoff;20;14500;17500
-4306;Seidenstoff;20;14500;17777
 12982;Silberverbundfuﬂsch¸tzer;1;20000;30000
 25897;Starker Erdsturmdiamant;1;975000;977700
 13103;Polster der Giftspinne;1;7288;9110
@@ -620,7 +507,6 @@
 12404;Verdichteter Wetzstein;20;19508;25260
 12404;Verdichteter Wetzstein;20;19508;25260
 14344;Groﬂer gl‰nzender Splitter;20;1549904;1589880
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 14344;Groﬂer gl‰nzender Splitter;4;111100;222200
 14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 14344;Groﬂer gl‰nzender Splitter;1;80100;84900
@@ -628,15 +514,6 @@
 14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;2;169000;198000
-14344;Groﬂer gl‰nzender Splitter;1;84500;99000
-14344;Groﬂer gl‰nzender Splitter;1;84500;99000
-14344;Groﬂer gl‰nzender Splitter;5;300000;325000
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;20;939500;1176000
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
 22794;Teufelslotus;20;800000;866000
 22794;Teufelslotus;20;800000;866000
 22794;Teufelslotus;20;800000;866000

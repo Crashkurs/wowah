@@ -30,7 +30,6 @@
 24057;Königliches Nachtauge;1;155000;157500
 3369;Grabmoos;20;4944;6180
 24206;Vorlage: Schimmernder Dämmerstein;1;188800;189900
-24206;Vorlage: Schimmernder Dämmerstein;1;159522;199403
 24206;Vorlage: Schimmernder Dämmerstein;1;187485;208316
 21864;Seelenstoffschultern;1;1200000;1500000
 21876;Urmondstofftasche;1;4175000;4259500
@@ -77,39 +76,6 @@
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24203;Vorlage: Glänzender Dämmerstein;1;635000;655500
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;171111;179999
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;177500;177500
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;164999;164999
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;162500;162500
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177000;177400
-22839;Zerstörungstrank;5;177500;184500
 22557;Formel: Waffe - Meister des Kampfes;1;700000;800000
 22557;Formel: Waffe - Meister des Kampfes;1;449900;479900
 19269;Elementar 2;1;99999;100000
@@ -143,7 +109,6 @@
 7078;Essenz des Feuers;1;23603;26226
 7078;Essenz des Feuers;3;18808;23511
 7078;Essenz des Feuers;2;15000;16000
-22532;Formel: Armschiene - Mana wiederherstellen;1;249633;312042
 28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
 28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
 23113;Glänzender Golddraenit;1;6172;7715
@@ -152,7 +117,6 @@
 23113;Glänzender Golddraenit;1;6497;8122
 23113;Glänzender Golddraenit;1;6497;8122
 28270;Formel: Brust - Erhebliche Abhärtung;1;2989700;2989700
-28270;Formel: Brust - Erhebliche Abhärtung;1;2989899;2989899
 2863;Grober Wetzstein;9;10799;11999
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;499999;799999
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;740000;750000
@@ -183,8 +147,6 @@
 24197;Vorlage: Fragiler lebendiger Rubin;1;151999;189999
 24197;Vorlage: Fragiler lebendiger Rubin;1;200000;225000
 24618;Verteidigerhose;1;37332;50000
-25439;Tigeraugenband;1;7524;9405
-25439;Tigeraugenband;1;7524;9405
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;505000;550000
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;576717;640797
@@ -260,26 +222,6 @@
 20826;Schwerer silberner Ring;1;3310;9900
 20826;Schwerer silberner Ring;1;3310;9900
 20826;Schwerer silberner Ring;1;3310;9900
-29740;Teuflische Waffen;1;184000;192500
-29740;Teuflische Waffen;1;187900;189900
-29740;Teuflische Waffen;1;187900;189900
-29740;Teuflische Waffen;1;184000;192500
-29740;Teuflische Waffen;1;184000;192500
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;198000;207500
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
-29740;Teuflische Waffen;10;1813076;1898990
 29740;Teuflische Waffen;1;181307;189899
 29740;Teuflische Waffen;1;181307;189899
 29740;Teuflische Waffen;1;181307;189899
@@ -288,8 +230,6 @@
 29740;Teuflische Waffen;1;181307;189899
 29740;Teuflische Waffen;1;181307;189899
 29740;Teuflische Waffen;1;185000;185000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
 12799;Großer Opal;1;23902;29878
 25720;Muster: Schweres Knotenhautleder;1;75000;100000
 23441;Nachtauge;1;114900;149900
@@ -297,7 +237,6 @@
 23441;Nachtauge;1;114900;149900
 32249;Gischtsmaragd;1;420000;500000
 30282;Muster: Stiefel der Zauberwucht;1;1648653;1715998
-20827;Ring der Silbermacht;1;46700;57700
 2842;Silberbarren;6;11164;13956
 13138;Der Verstummer;1;27326;34158
 13138;Der Verstummer;1;39763;44181
@@ -316,35 +255,6 @@
 22572;Luftpartikel;5;33000;110000
 22572;Luftpartikel;1;24808;25781
 22572;Luftpartikel;7;162430;180478
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;99200;99500
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;17;77996;85085
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;20;91760;100100
-22793;Manadistel;1;4588;5005
-22793;Manadistel;4;31600;39500
-22793;Manadistel;20;75000;89999
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;98888;98888
-22793;Manadistel;20;95000;96900
-22793;Manadistel;20;75000;96500
-22793;Manadistel;20;98000;98800
 13146;Kugelspeiende Schrotflinte;1;47305;59132
 24200;Vorlage: Funkelnder Stern der Elune;1;315000;320000
 24200;Vorlage: Funkelnder Stern der Elune;1;327685;409607
@@ -440,8 +350,6 @@
 22542;Formel: Stiefel - Vitalität;1;505399;631749
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;23500;27500
 13145;Riesiger Ogergürtel;1;26798;29775
-13134;Gürtel des Gladiators;1;30000;45000
-13134;Gürtel des Gladiators;1;37305;46632
 9942;Bannzaubererhose;1;14011;20000
 2825;Bogen der Sengpfeile;1;68030;85038
 28540;Arakkoakrallenaxt;1;64943;67900
@@ -452,15 +360,6 @@
 22840;Elixier des erheblichen Magierbluts;20;569999;579999
 22840;Elixier des erheblichen Magierbluts;20;569999;579999
 22840;Elixier des erheblichen Magierbluts;20;569999;579999
-22840;Elixier des erheblichen Magierbluts;20;555000;586000
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
-22840;Elixier des erheblichen Magierbluts;20;580000;585900
-31306;Gamaschen des heiligen Wappens;1;163240;181378
-31306;Gamaschen des heiligen Wappens;1;163240;181378
-31306;Gamaschen des heiligen Wappens;1;180346;198900
-31306;Gamaschen des heiligen Wappens;1;180346;198900
-31306;Gamaschen des heiligen Wappens;1;50346;95000
 9936;Bannzaubererstiefel;1;6403;20000
 28595;Heller Blutgranat;1;8050;10000
 28595;Heller Blutgranat;1;8050;10000
@@ -485,13 +384,10 @@
 12425;Imperiale Plattenarmschienen;1;15957;39900
 12425;Imperiale Plattenarmschienen;1;15957;39900
 12425;Imperiale Plattenarmschienen;1;15957;39900
-23117;Azurmondstein;1;4600;4900
 23117;Azurmondstein;1;5320;6650
 23117;Azurmondstein;20;189900;199900
 23117;Azurmondstein;2;9597;9598
-23117;Azurmondstein;1;4600;4900
 23117;Azurmondstein;1;3987;3988
-23117;Azurmondstein;1;4600;4900
 12800;Azerothischer Diamant;1;115000;120000
 9799;Efeustoffschärpe;1;2032;2540
 9799;Efeustoffschärpe;1;1175;1469
@@ -525,7 +421,6 @@
 9873;Renegatenschild;1;20000;30000
 9873;Renegatenschild;1;20000;30000
 14127;Ritualtuch;1;99900;99900
-32231;Pyrostein;1;2555000;2660000
 32231;Pyrostein;1;2400000;2500000
 32231;Pyrostein;1;2400000;2500000
 32231;Pyrostein;1;2400000;2500000

@@ -34,11 +34,6 @@
 8839;Blindkraut;1;4695;5216
 6211;Rezept: Elixier der Ogerstärke;1;39632;49540
 6211;Rezept: Elixier der Ogerstärke;1;17733;22167
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;81250;100000
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;111200;114444
-8845;Geisterpilz;20;111200;114444
 8845;Geisterpilz;17;118983;135983
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
@@ -46,8 +41,6 @@
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
-8845;Geisterpilz;20;89950;90000
-8845;Geisterpilz;20;89950;90000
 6068;Rezept: Schattenöl;1;39600;72001
 11989;Vanadiumschleife;1;38000;40000
 6199;Band der schwarzen Witwe;1;99900;99900
@@ -67,19 +60,6 @@
 10592;Katzenaugenelixier;20;19091;21213
 10592;Katzenaugenelixier;2;1909;2121
 11734;Buchband der Hartnäckigkeit;1;52000;55000
-12184;Raptorfleisch;5;1960;2450
-12184;Raptorfleisch;10;4800;6000
-12184;Raptorfleisch;10;4856;6070
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;6;4184;4649
 10307;Rolle der Ausdauer IV;1;10168;15000
 10309;Rolle der Beweglichkeit IV;1;35398;35399
 10309;Rolle der Beweglichkeit IV;1;34500;34700
@@ -151,7 +131,6 @@
 8836;Arthas' Tränen;20;39950;40000
 6046;Pläne: Stahlwaffenkette;1;1600000;1800000
 10608;Bauplan: Heckenschützenzielfernrohr;1;11425;14500
-10608;Bauplan: Heckenschützenzielfernrohr;1;43178;47976
 12013;Wüstenring;1;30000;40000
 11993;Tonring;1;99900;99900
 11993;Tonring;1;7711;8500
@@ -166,18 +145,9 @@
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;1;6786;8987
 10413;Handschuhe des Giftzahns;1;299900;299900
-11754;Schwarzer Diamant;20;14096;17620
-11754;Schwarzer Diamant;10;7048;8810
-11754;Schwarzer Diamant;3;10100;11000
-11754;Schwarzer Diamant;20;14848;18560
-11754;Schwarzer Diamant;12;8908;11136
 11754;Schwarzer Diamant;5;4116;5145
 11754;Schwarzer Diamant;1;1010;1070
-11754;Schwarzer Diamant;9;7034;8793
-11754;Schwarzer Diamant;2;1447;1608
 8831;Lila Lotus;1;3800;4750
-8831;Lila Lotus;4;12000;16000
-8831;Lila Lotus;20;60000;80000
 5997;Elixier der schwachen Verteidigung;2;200;290
 5997;Elixier der schwachen Verteidigung;2;200;290
 5997;Elixier der schwachen Verteidigung;2;200;290
@@ -215,19 +185,6 @@
 11139;Großer leuchtender Splitter;7;31354;39193
 11139;Großer leuchtender Splitter;3;30000;30000
 11965;Quarzring;1;1484;1856
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;6;2856;3570
-12037;Eigenartiges Fleisch;2;1192;1324
-12037;Eigenartiges Fleisch;4;2258;2509
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;10;4760;5950
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;10;5645;6272
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;10;2473;2748
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;3662;4578
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;12716;14676
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;92600;102800

@@ -63,21 +63,11 @@
 13059;Steinrabe;1;36027;45034
 13059;Steinrabe;1;50410;56011
 13059;Steinrabe;1;37924;47405
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;7;41300;44100
-4625;Feuerblüte;12;119900;119900
-4625;Feuerblüte;20;199900;199900
 4625;Feuerblüte;20;7500;87500
 4625;Feuerblüte;20;7500;87500
 4625;Feuerblüte;20;7500;87500
 4625;Feuerblüte;20;7500;87500
 4625;Feuerblüte;20;7500;87500
-4625;Feuerblüte;20;199900;199900
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;1;5119;6399
-4625;Feuerblüte;20;167600;189998
 30809;Mal des Sargeras;100;1940000;1950000
 2409;Muster: Dunkle Ledertunika;1;2400;3000
 7070;Elementarwasser;2;19955;24944
@@ -108,9 +98,6 @@
 14423;Seidensandschulterpolster;1;5109;5500
 8142;Chromitbarbute;1;15878;22348
 2771;Zinnerz;20;4560;5700
-2771;Zinnerz;20;5550;6000
-2771;Zinnerz;20;5550;6000
-2771;Zinnerz;20;5550;6000
 23636;Pläne: Todeslied;1;249999;279999
 12053;Vulkangesteinring;1;3500;5000
 2450;Wilddornrose;20;60750;80000
@@ -231,8 +218,6 @@
 23439;Edeltopas;1;125000;138000
 28100;Flüchtiger Heiltrank;5;27500;30000
 6598;Derwischrundschild;1;7763;9704
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
 23634;Pläne: Teufelsgehärteter Schlägel;1;179999;209999
 6585;Späherumhang;1;10000;30000
 14407;Steinstoffweste;1;13651;17064
@@ -254,10 +239,6 @@
 23635;Pläne: Runenverzierte Eterniumklinge;1;160000;170000
 13081;Schild der leeren Augen;1;17984;19999
 13081;Schild der leeren Augen;1;24172;26858
-13051;Hexenfuror;1;34200;42750
-13051;Hexenfuror;1;34366;42599
-13051;Hexenfuror;1;42800;53500
-13051;Hexenfuror;1;42800;53500
 25845;Eterniumrute;1;490000;500000
 25845;Eterniumrute;1;490000;500000
 30308;Muster: Stiefel des Wirbelsturms;1;550000;560000
@@ -368,7 +349,6 @@
 23436;Lebendiger Rubin;2;320000;350000
 23436;Lebendiger Rubin;1;175000;176000
 13060;Der Nadler;1;99999;109999
-13060;Der Nadler;1;100284;111426
 21902;Muster: Seelenstoffhandschuhe;1;389999;399999
 17062;Rezept: Mithrilkopfforelle;1;89999;99999
 25867;Erdsturmdiamant;1;660000;680000
@@ -378,15 +358,6 @@
 6533;Aquadynamischer Fischanlocker;20;33968;44960
 6533;Aquadynamischer Fischanlocker;20;33968;44960
 5575;Großer grüner Sack;1;7600;9500
-12184;Raptorfleisch;5;1960;2450
-12184;Raptorfleisch;10;4800;6000
-12184;Raptorfleisch;10;4856;6070
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
 22528;Dunkeleisenfragmente;11;19536;24420
 31180;Stulpen der Schädelspalter;1;128002;150000
 15742;Muster: Kriegsbärenharnisch;1;89999;99999
@@ -415,23 +386,7 @@
 31289;Stab der göttlichen Eingebung;1;189949;199999
 8168;Pechschwarze Feder;4;1280;1600
 2842;Silberbarren;7;23372;26716
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;5;8750;9000
-8146;Tückische Klaue;4;7000;7200
-8146;Tückische Klaue;5;7250;8500
-8146;Tückische Klaue;1;1450;1700
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;1;1515;1683
-8146;Tückische Klaue;1;750;1500
 8146;Tückische Klaue;1;689;862
-8146;Tückische Klaue;2;3030;3366
 8146;Tückische Klaue;2;2153;2692
 29425;Mal von Kil'jaeden;2;25704;28560
 22146;Buch: Gabe der Wildnis III;1;106399;132999
@@ -440,9 +395,6 @@
 24061;Glitzernder Edeltopas;1;227500;227500
 20854;Vorlage: Amulett des Mondes;1;2500;2500
 4234;Schweres Leder;20;100000;0
-4234;Schweres Leder;20;104500;105000
-4234;Schweres Leder;20;104500;105000
-4234;Schweres Leder;20;104500;105000
 4234;Schweres Leder;20;100000;0
 4234;Schweres Leder;20;100000;0
 4234;Schweres Leder;20;100000;0
@@ -483,7 +435,6 @@
 32751;Muster: Lebendige Erdschultern;1;438750;440000
 25802;Schreckensgiftbeutel;5;39632;49540
 25700;Teufelsschuppen;12;143753;189692
-2772;Eisenerz;20;9596;12620
 23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
 22793;Manadistel;13;63700;64220
 22793;Manadistel;20;93333;93333
@@ -491,7 +442,6 @@
 22793;Manadistel;20;93333;93333
 22793;Manadistel;20;93333;93333
 13049;Claymore des Dekanats;1;13172;16465
-13049;Claymore des Dekanats;1;15599;17332
 24200;Vorlage: Funkelnder Stern der Elune;1;315000;320000
 8125;Myrmidonenarmschienen;1;19000;19000
 4721;Insignienmantel;1;8988;11236
@@ -568,8 +518,6 @@
 13046;Blanchards Schädelbrecher;1;44404;50449
 6577;Verteidigungsstarke Stulpen;1;10973;20000
 13085;Halsreif des Horizonts;1;22420;28025
-13085;Halsreif des Horizonts;1;19500;29500
-13085;Halsreif des Horizonts;1;30960;34400
 13072;Stulpen des steinernen Griffs;1;50000;100000
 13072;Stulpen des steinernen Griffs;1;50000;100000
 13072;Stulpen des steinernen Griffs;1;18351;90000
@@ -650,11 +598,6 @@
 6657;Pikantes Deviat Supreme;10;149999;199999
 6657;Pikantes Deviat Supreme;10;149999;199999
 6657;Pikantes Deviat Supreme;10;149999;199999
-11754;Schwarzer Diamant;20;14096;17620
-11754;Schwarzer Diamant;10;7048;8810
-11754;Schwarzer Diamant;3;10100;11000
-11754;Schwarzer Diamant;20;14848;18560
-11754;Schwarzer Diamant;12;8908;11136
 22840;Elixier des erheblichen Magierbluts;20;577700;577800
 22840;Elixier des erheblichen Magierbluts;20;577700;577800
 22840;Elixier des erheblichen Magierbluts;20;577700;577800
@@ -670,11 +613,7 @@
 31201;Illidariumhang;1;454836;500000
 6615;Weisenhandschuhe;1;2636;3296
 14304;Knochenwerfers Gürtel;1;15000;15000
-12208;Zartes Wolfsfleisch;1;9000;10000
 2836;Grober Stein;10;9044;9980
-8150;Tiefsteinsalz;1;9576;11970
-8150;Tiefsteinsalz;1;12782;15978
-8150;Tiefsteinsalz;5;50000;63000
 8150;Tiefsteinsalz;5;45484;56855
 21881;Netherweberseide;1;9999;9999
 21881;Netherweberseide;1;9999;9999
@@ -708,17 +647,6 @@
 4238;Leinentasche;1;200;300
 31905;Furien 7;1;717500;720000
 16224;Formel: Umhang - Überragende Verteidigung;1;269999;289999
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;627;784
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
 23117;Azurmondstein;5;18750;21000
 15747;Muster: Frostsäblergamaschen;1;8000;10000
 15747;Muster: Frostsäblergamaschen;1;7900;7900
@@ -748,7 +676,6 @@
 3576;Zinnbarren;17;11043;13804
 3576;Zinnbarren;2;1233;1542
 13053;Verhängnisbringer;1;79999;169999
-13053;Verhängnisbringer;1;88779;178000
 13062;Donnerholz;1;14486;20000
 31837;Kodex: Gebet des Schattenschutzes II;1;29999;38899
 24276;Goldener Zauberfaden;1;1499999;1699999
@@ -763,28 +690,9 @@
 24199;Vorlage: Gediegener Stern der Elune;1;531999;664999
 3734;Rezept: Großes Bärensteak;1;289999;299999
 15768;Muster: Tückischer Ledergürtel;1;89999;99999
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;4;1069;1187
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;1;262;291
 15765;Muster: Runenverzierte Lederhose;1;9900;9900
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
 12037;Eigenartiges Fleisch;6;2856;3570
-12037;Eigenartiges Fleisch;2;1192;1324
-12037;Eigenartiges Fleisch;4;2258;2509
-12037;Eigenartiges Fleisch;5;2980;3310
 12037;Eigenartiges Fleisch;10;4760;5950
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;10;5645;6272
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;7;9508;12635
 5083;Muster: Kodobalgtasche;1;89999;99999
 22853;Fläschchen der mächtigen Wiederherstellung;1;158000;159000
 22853;Fläschchen der mächtigen Wiederherstellung;1;158000;159000
@@ -807,47 +715,11 @@
 23449;Khoriumbarren;10;1187500;1200000
 23449;Khoriumbarren;10;1187500;1200000
 6663;Rezept: Elixier des Riesenwuchses;1;189999;209999
-12203;Rotes Wolfsfleisch;5;1420;1575
 12203;Rotes Wolfsfleisch;10;2000;2500
-12203;Rotes Wolfsfleisch;1;280;311
-12203;Rotes Wolfsfleisch;3;852;945
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;2;374;400
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
 2407;Muster: Weißes Lederwams;1;3000;3000
 25897;Starker Erdsturmdiamant;1;886600;967200
 24478;Jaggalperle;4;20000;25000
-14344;Großer glänzender Splitter;1;98811;99911
-14344;Großer glänzender Splitter;1;98811;99911
-14344;Großer glänzender Splitter;1;98811;99911
-14344;Großer glänzender Splitter;20;1333320;1333320
-14344;Großer glänzender Splitter;20;1333320;1333320
-14344;Großer glänzender Splitter;4;188160;235200
-14344;Großer glänzender Splitter;20;939500;1176000
-14344;Großer glänzender Splitter;4;188160;235200
-14344;Großer glänzender Splitter;5;300000;325000
 14344;Großer glänzender Splitter;1;84500;99000
-14344;Großer glänzender Splitter;1;84500;99000
-14344;Großer glänzender Splitter;1;98811;99911
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;2;169000;198000
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
-14344;Großer glänzender Splitter;1;80100;84900
 29539;Kobraschuppen;4;657500;660000
 29539;Kobraschuppen;20;3290000;3475000
 4737;Imperiale Lederschiftung;1;23520;29400

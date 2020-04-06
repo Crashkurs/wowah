@@ -14,17 +14,7 @@
 13059;Steinrabe;1;37924;47405
 13059;Steinrabe;1;50410;56011
 13059;Steinrabe;1;36027;45034
-4625;Feuerbl¸te;1;5119;6399
-4625;Feuerbl¸te;20;167600;189998
-4625;Feuerbl¸te;12;119900;119900
-4625;Feuerbl¸te;20;199900;199900
-4625;Feuerbl¸te;20;199900;199900
-4625;Feuerbl¸te;20;199900;199900
-4625;Feuerbl¸te;20;199900;199900
 4625;Feuerbl¸te;1;9900;9900
-4625;Feuerbl¸te;20;118000;126000
-4625;Feuerbl¸te;20;118000;126000
-4625;Feuerbl¸te;7;41300;44100
 2409;Muster: Dunkle Ledertunika;1;2400;3000
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;73643;79603
 14398;Widerstandsf‰hige Tunika;1;7536;9420
@@ -32,9 +22,6 @@
 13055;Knochenkauer;1;44050;80000
 14423;Seidensandschulterpolster;1;5109;5500
 8142;Chromitbarbute;1;15878;22348
-2771;Zinnerz;20;5550;6000
-2771;Zinnerz;20;5550;6000
-2771;Zinnerz;20;5550;6000
 11138;Kleiner leuchtender Splitter;4;8768;9740
 11138;Kleiner leuchtender Splitter;5;10960;12175
 8006;Der Ziggler;1;25460;31825
@@ -86,10 +73,6 @@
 13081;Schild der leeren Augen;1;24172;26858
 13081;Schild der leeren Augen;1;17984;19999
 13051;Hexenfuror;1;39999;45000
-13051;Hexenfuror;1;34200;42750
-13051;Hexenfuror;1;34366;42599
-13051;Hexenfuror;1;42800;53500
-13051;Hexenfuror;1;42800;53500
 13446;Erheblicher Heiltrank;5;17500;19900
 11733;Buchband der Konstitution;1;231776;289720
 10075;Rechtschaffene Schiftung;1;20000;30000
@@ -107,7 +90,6 @@
 14374;Blutrote Sandalen;1;199900;199900
 11302;Uthers Kraft;1;10695;12499
 11302;Uthers Kraft;1;47130;60000
-13060;Der Nadler;1;100284;111426
 11734;Buchband der Hartn‰ckigkeit;1;52000;55000
 6533;Aquadynamischer Fischanlocker;20;33968;44960
 6533;Aquadynamischer Fischanlocker;20;33968;44960
@@ -122,18 +104,9 @@
 11178;Groﬂer strahlender Splitter;1;22000;28000
 11178;Groﬂer strahlender Splitter;1;22000;28000
 11178;Groﬂer strahlender Splitter;1;22000;28000
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
 12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6971;7746
 12184;Raptorfleisch;7;4881;5423
 12184;Raptorfleisch;5;3486;3874
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;10;6971;7746
-12184;Raptorfleisch;5;1960;2450
-12184;Raptorfleisch;10;4800;6000
-12184;Raptorfleisch;10;4856;6070
 13077;Gurt von Uther;1;61103;67893
 13077;Gurt von Uther;1;21717;35000
 11137;Visionenstaub;20;160100;169500
@@ -150,9 +123,6 @@
 13310;Bauplan: Genaues Zielfernrohr;1;10750;49900
 12361;Blauer Saphir;1;10000;22000
 12361;Blauer Saphir;1;10000;22000
-4234;Schweres Leder;20;104500;105000
-4234;Schweres Leder;20;104500;105000
-4234;Schweres Leder;20;104500;105000
 10978;Kleiner gleiﬂender Splitter;1;10;120
 4711;Gleiﬂender Umhang;1;25723;26359
 13056;Rasender Schl‰ger;1;72495;145000
@@ -162,7 +132,6 @@
 13079;Schild von Thorsen;1;22564;23960
 2318;Leichtes Leder;20;17550;18999
 2318;Leichtes Leder;20;17550;18999
-13049;Claymore des Dekanats;1;15599;17332
 8125;Myrmidonenarmschienen;1;19000;19000
 14397;Widerstandsf‰higer Mantel;1;5120;6400
 14325;Pr‰chtige Schulterklappen;1;19126;40000
@@ -198,8 +167,6 @@
 13046;Blanchards Sch‰delbrecher;1;44404;50449
 13046;Blanchards Sch‰delbrecher;1;50200;50399
 6577;Verteidigungsstarke Stulpen;1;10973;20000
-13085;Halsreif des Horizonts;1;19500;29500
-13085;Halsreif des Horizonts;1;30960;34400
 13072;Stulpen des steinernen Griffs;1;50000;100000
 13072;Stulpen des steinernen Griffs;1;50000;100000
 13072;Stulpen des steinernen Griffs;1;18351;90000
@@ -215,18 +182,10 @@
 12223;Fleischiger Fledermausfl¸gel;5;4860;5400
 14404;Widerstandsf‰hige Gamaschen;1;3708;7500
 14408;Steinstoffstiefel;1;3412;7000
-11754;Schwarzer Diamant;9;7034;8793
-11754;Schwarzer Diamant;20;14848;18560
-11754;Schwarzer Diamant;12;8908;11136
-11754;Schwarzer Diamant;20;14096;17620
-11754;Schwarzer Diamant;10;7048;8810
-11754;Schwarzer Diamant;5;4116;5145
 11754;Schwarzer Diamant;1;976;1084
 11754;Schwarzer Diamant;1;976;1084
 11754;Schwarzer Diamant;1;976;1084
 11754;Schwarzer Diamant;1;976;1084
-11754;Schwarzer Diamant;1;1010;1070
-11754;Schwarzer Diamant;3;10100;11000
 11175;Groﬂe Netheressenz;1;50000;54000
 11175;Groﬂe Netheressenz;1;50000;54000
 11175;Groﬂe Netheressenz;1;50000;54000
@@ -248,7 +207,6 @@
 14304;Knochenwerfers G¸rtel;1;15000;15000
 12208;Zartes Wolfsfleisch;10;70500;100000
 12208;Zartes Wolfsfleisch;10;70500;100000
-12208;Zartes Wolfsfleisch;1;9000;10000
 13065;Zauberstab von Allistarj;1;59174;63526
 8134;Myrmidonenverteidiger;1;52000;65000
 6572;Verteidigungsstarker Schild;1;20000;50000
@@ -261,18 +219,7 @@
 4238;Leinentasche;1;200;300
 4238;Leinentasche;1;200;300
 4238;Leinentasche;1;200;300
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
 14343;Kleiner gl‰nzender Splitter;4;6700;7444
-14343;Kleiner gl‰nzender Splitter;2;627;784
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
-14343;Kleiner gl‰nzender Splitter;2;698;776
 11135;Groﬂe Mystikeressenz;1;3500;4000
 6512;J¸ngerrobe;1;10000;15000
 10199;Kreuzfahrergamaschen;1;30000;40000
@@ -284,7 +231,6 @@
 8827;Elixier des Wasserwandelns;20;13750;19900
 8827;Elixier des Wasserwandelns;20;13750;19900
 8827;Elixier des Wasserwandelns;20;13750;19900
-13053;Verh‰ngnisbringer;1;88779;178000
 13062;Donnerholz;1;14486;20000
 13066;Wyrmtˆterschiftung;1;46188;51320
 13066;Wyrmtˆterschiftung;1;31360;39200
@@ -292,28 +238,9 @@
 14380;Blutrote Robe;1;5000;7000
 14380;Blutrote Robe;1;4713;5892
 14281;Opulente Krone;1;12222;19999
-12202;Tigerfleisch;1;262;291
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
-12202;Tigerfleisch;5;1310;1455
 12202;Tigerfleisch;10;3091;3434
-12202;Tigerfleisch;4;1069;1187
 12037;Eigenartiges Fleisch;1;247;274
-12037;Eigenartiges Fleisch;5;2980;3310
 12037;Eigenartiges Fleisch;10;2473;2748
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;5;2980;3310
-12037;Eigenartiges Fleisch;2;1192;1324
-12037;Eigenartiges Fleisch;7;9508;12635
-12037;Eigenartiges Fleisch;4;2258;2509
-12037;Eigenartiges Fleisch;10;5645;6272
 13063;Sternenregner;1;45933;57703
 13063;Sternenregner;1;33853;44817
 13492;Rezept: L‰uterungstrank;1;90235;94706
@@ -326,20 +253,6 @@
 11152;Formel: Handschuhe - Angeln;1;112580;125089
 14311;Himmlische Bindungen;1;9786;20000
 6568;Schimmernde Beinkleider;1;150000;200000
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;5;1420;1575
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;2;374;400
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;10;1870;2000
-12203;Rotes Wolfsfleisch;3;852;945
-12203;Rotes Wolfsfleisch;1;280;311
 2407;Muster: Weiﬂes Lederwams;1;3000;3000
 10998;Geringe Astralessenz;1;1100;1600
 10998;Geringe Astralessenz;1;1100;1600
@@ -351,29 +264,6 @@
 10998;Geringe Astralessenz;1;1100;1600
 10998;Geringe Astralessenz;1;1100;1600
 14344;Groﬂer gl‰nzender Splitter;20;1549904;1589880
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
-14344;Groﬂer gl‰nzender Splitter;20;1333320;1333320
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;20;939500;1176000
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;4;188160;235200
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;5;300000;325000
-14344;Groﬂer gl‰nzender Splitter;1;98811;99911
-14344;Groﬂer gl‰nzender Splitter;1;84500;99000
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;2;169000;198000
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
-14344;Groﬂer gl‰nzender Splitter;1;80100;84900
 13119;Verzauberte Kodoarmschienen;1;33119;34576
 1081;Knuspriges Spinnenfleisch;10;1935;2150
 11982;Viridiumband;1;99900;99900

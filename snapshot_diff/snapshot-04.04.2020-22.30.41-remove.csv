@@ -9,12 +9,9 @@
 16254;Formel: Waffe - Lebensdiebstahl;1;799900;799900
 16254;Formel: Waffe - Lebensdiebstahl;1;401250;450000
 16254;Formel: Waffe - Lebensdiebstahl;1;74999;99999
-10940;Seltsamer Staub;10;28800;36000
 10940;Seltsamer Staub;5;14495;14715
 10940;Seltsamer Staub;5;14495;14715
 10940;Seltsamer Staub;5;14495;14715
-10940;Seltsamer Staub;17;49300;50048
-10940;Seltsamer Staub;16;46400;47104
 10940;Seltsamer Staub;5;14495;14715
 873;Stab des Jordan;1;999999;1199999
 22644;Knuspriges Spinnenbein;3;1517;1685
@@ -80,11 +77,6 @@
 8167;Schildkrötenschuppe;1;10150;19900
 8167;Schildkrötenschuppe;1;10150;19900
 8167;Schildkrötenschuppe;5;25280;31600
-22449;Großer Prismasplitter;5;780100;800000
-22449;Großer Prismasplitter;5;780100;800000
-22449;Großer Prismasplitter;5;780100;800000
-22449;Großer Prismasplitter;5;780100;800000
-22449;Großer Prismasplitter;11;1729900;1739999
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;2980000;2990000
@@ -101,10 +93,7 @@
 7070;Elementarwasser;3;50000;80000
 7070;Elementarwasser;1;4487;13129
 7070;Elementarwasser;1;4487;13129
-21876;Urmondstofftasche;1;3000000;3400000
-21876;Urmondstofftasche;1;3000000;3400000
 21876;Urmondstofftasche;1;3350000;3350000
-21876;Urmondstofftasche;1;3255000;3290000
 21876;Urmondstofftasche;1;3350000;3350000
 24051;Massiver Dämmerstein;1;147500;147500
 24051;Massiver Dämmerstein;1;147500;147500
@@ -217,7 +206,6 @@
 9224;Elixier des Dämonentötens;10;355504;395004
 9224;Elixier des Dämonentötens;10;355504;395004
 14496;Muster: Teufelsstoffkapuze;1;9597;9598
-14496;Muster: Teufelsstoffkapuze;1;10000;11000
 22557;Formel: Waffe - Meister des Kampfes;1;700000;800000
 22557;Formel: Waffe - Meister des Kampfes;1;449900;479900
 13131;Spiegelpanzermantel;1;31381;75294
@@ -247,10 +235,6 @@
 21842;Magieerfüllter Netherstoffballen;3;76800;96000
 25901;Bemerkenswerter Erdsturmdiamant;1;665000;669700
 13121;Flügel des Welplings;1;24017;26685
-22532;Formel: Armschiene - Mana wiederherstellen;1;249633;312042
-22532;Formel: Armschiene - Mana wiederherstellen;1;999999;1290999
-22532;Formel: Armschiene - Mana wiederherstellen;1;250000;300000
-22532;Formel: Armschiene - Mana wiederherstellen;1;250000;300000
 22445;Arkaner Staub;17;258419;287132
 22445;Arkaner Staub;20;304022;337803
 22445;Arkaner Staub;20;304022;337803
@@ -274,30 +258,7 @@
 22445;Arkaner Staub;20;206784;214080
 22445;Arkaner Staub;13;134400;139152
 22445;Arkaner Staub;5;49500;53000
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
-23793;Schweres Knotenhautleder;4;141500;149800
 8153;Wildranke;1;2596;3246
-22527;Kern der Elemente;3;4500;4500
-22527;Kern der Elemente;51;180789;200877
-22527;Kern der Elemente;1;3000;3000
-22527;Kern der Elemente;2;11916;14896
 14492;Muster: Teufelsstoffstiefel;1;9900;9900
 12717;Pläne: Löwenherzhelm;1;3499999;3999999
 34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
@@ -356,22 +317,6 @@
 22849;Eisenschildtrank;5;183500;194000
 22849;Eisenschildtrank;5;183500;194000
 22849;Eisenschildtrank;5;183500;194000
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;3;3403;4254
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;3;3403;4254
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;20;31680;39600
-2840;Kupferbarren;10;24600;24600
-2840;Kupferbarren;20;48900;48900
-2840;Kupferbarren;20;48900;48900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
 2840;Kupferbarren;20;48900;49000
 2879;Antipodenrute;1;22571;25079
 24028;Feingeschliffener lebendiger Rubin;1;225000;249999
@@ -394,12 +339,6 @@
 13135;Fürstliche Armschützer;1;26372;31524
 32229;Löwenauge;1;2000000;2100000
 32229;Löwenauge;1;2000000;2100000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1459924;1597498
 14506;Muster: Teufelsstoffrobe;1;25000;30000
 22451;Urluft;10;2100000;2120000
 22451;Urluft;10;2100000;2120000
@@ -414,11 +353,7 @@
 22563;Formel: Überragendes Zauberöl;1;246250;299090
 14553;Schärpe der Gnade;1;899999;999999
 22528;Dunkeleisenfragmente;7;2100;20000
-22528;Dunkeleisenfragmente;11;37000;37500
-22528;Dunkeleisenfragmente;11;37000;37500
 22528;Dunkeleisenfragmente;68;33619;69524
-22528;Dunkeleisenfragmente;10;28638;31820
-22528;Dunkeleisenfragmente;11;19536;24420
 8154;Skorpidschuppe;10;55432;69290
 27658;Gerösteter Grollhuf;20;89500;95000
 27658;Gerösteter Grollhuf;20;89500;95000
@@ -535,13 +470,6 @@
 22572;Luftpartikel;1;19408;24261
 22572;Luftpartikel;7;160586;178429
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
-22793;Manadistel;4;15596;21996
-22793;Manadistel;20;93333;93333
-22793;Manadistel;20;93333;93333
-22793;Manadistel;20;93333;93333
-22793;Manadistel;20;93333;93333
-22793;Manadistel;20;75000;77900
-22793;Manadistel;20;75000;79900
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;4562;5000
 24030;Runenverzierter lebendiger Rubin;1;205000;210000
 16243;Formel: Runenverzierte Arkanitrute;1;239999;289999
@@ -556,30 +484,8 @@
 13443;Überragender Manatrank;2;5052;6316
 13122;Dunkles Phantomcape;1;67233;80000
 13122;Dunkles Phantomcape;1;87233;90000
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
 3820;Würgetang;15;14256;17820
 3820;Würgetang;1;717;796
 3820;Würgetang;5;3550;4000
@@ -610,21 +516,7 @@
 20520;Dunkelrune;1;189999;199999
 20520;Dunkelrune;1;189999;199999
 14047;Runenstoff;20;17872;22340
-14047;Runenstoff;20;32000;35000
-14047;Runenstoff;20;32000;35000
-14047;Runenstoff;20;32000;35000
 14047;Runenstoff;20;22000;26900
-14047;Runenstoff;20;32000;35000
-14047;Runenstoff;14;33600;35000
-14047;Runenstoff;20;48000;50000
-14047;Runenstoff;7;8316;9240
-14047;Runenstoff;14;21908;24342
-14047;Runenstoff;20;135000;140000
-14047;Runenstoff;9;14084;15648
-14047;Runenstoff;2;2240;2800
-14047;Runenstoff;20;20000;25000
-14047;Runenstoff;20;20000;25000
-14047;Runenstoff;20;20000;25000
 16252;Formel: Waffe - Kreuzfahrer;1;1800000;2000000
 15010;Urzeitliche Wickeltücher;1;9999;9999
 16251;Formel: Armschiene - Überragende Ausdauer;1;201761;252202
@@ -756,7 +648,6 @@
 9210;Geisterfarbstoff;1;70000;80000
 2838;Schwerer Stein;20;7536;9420
 2838;Schwerer Stein;20;7536;9420
-2838;Schwerer Stein;1;376;471
 3818;Blassblatt;20;13750;13999
 33093;Manatrankeinspritzung;20;580000;599980
 33093;Manatrankeinspritzung;20;580000;599980
@@ -862,28 +753,18 @@
 20823;Band der Schwermut;1;5000;10000
 20823;Band der Schwermut;1;5000;10000
 5083;Muster: Kodobalgtasche;1;89999;99999
-33872;Feuriger Würztalbuk;20;127998;135498
 33872;Feuriger Würztalbuk;20;125500;133000
 33872;Feuriger Würztalbuk;20;125500;133000
-33872;Feuriger Würztalbuk;20;124500;131200
 27664;Gegrillter Matschflosser;4;50360;55955
 27664;Gegrillter Matschflosser;20;279755;279755
 27664;Gegrillter Matschflosser;20;279755;279755
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;66666;77777
-33874;Kiblers Häppchen;20;74500;77000
-33874;Kiblers Häppchen;20;74500;77000
 33874;Kiblers Häppchen;20;65000;75000
-33874;Kiblers Häppchen;17;63825;70000
 12683;Pläne: Thoriumgürtel;1;400000;500000
 5498;Kleine irisierende Perle;4;6777;7530
 22573;Erdpartikel;1;6673;7499
 22573;Erdpartikel;1;6673;7499
 22573;Erdpartikel;3;17100;21375
 22573;Erdpartikel;10;57000;71250
-4306;Seidenstoff;20;14500;17500
 4306;Seidenstoff;20;12704;15880
 4306;Seidenstoff;13;6240;7800
 4306;Seidenstoff;20;12704;15880
@@ -892,15 +773,6 @@
 10998;Geringe Astralessenz;1;1200;1500
 10998;Geringe Astralessenz;1;1200;1500
 14167;Bukanierscape;1;1145;7732
-22794;Teufelslotus;20;799984;890999
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;20;799984;890999
-22794;Teufelslotus;20;799984;890999
-22794;Teufelslotus;3;110097;110097
-22794;Teufelslotus;15;449909;450000
-22794;Teufelslotus;20;699998;699999
 22794;Teufelslotus;20;800000;866000
 22794;Teufelslotus;1;32999;34999
 22794;Teufelslotus;20;800000;866000
@@ -914,25 +786,6 @@
 22794;Teufelslotus;1;32999;34999
 22794;Teufelslotus;1;32999;34999
 22794;Teufelslotus;1;32999;34999
-22794;Teufelslotus;20;699998;699999
-22794;Teufelslotus;10;290000;299999
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;749999;799999
-22794;Teufelslotus;20;300000;0
 23077;Blutgranat;3;14892;16547
 2598;Muster: Rote Leinenrobe;1;785;872
 14479;Muster: Hellstoffhandschuhe;1;6479;7199

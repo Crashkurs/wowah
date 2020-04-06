@@ -29,10 +29,6 @@
 34440;Trank des verrückten Alchemisten;5;140009;155565
 34440;Trank des verrückten Alchemisten;5;140009;155565
 34440;Trank des verrückten Alchemisten;1;37999;39999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
 6585;Späherumhang;1;10000;30000
 4998;Blutring;1;99900;99900
 6587;Späherhose;1;800000;1000000
@@ -56,27 +52,10 @@
 2924;Krokiliskenfleisch;1;419;466
 33052;Fischerschmaus;10;63000;70000
 33052;Fischerschmaus;10;63000;70000
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;4;7000;7200
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;1;1450;1700
-8146;Tückische Klaue;5;7250;8500
-8146;Tückische Klaue;5;8750;9000
 8146;Tückische Klaue;2;5044;6182
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;2;3030;3366
-8146;Tückische Klaue;1;750;1500
-8146;Tückische Klaue;1;1515;1683
 7912;Robuster Stein;2;2856;3000
 2877;Mitstreiterclaymore;1;18664;20738
 2555;Rezept: Hurtigkeitstrank;1;75247;83607
-2772;Eisenerz;20;9596;12620
 2772;Eisenerz;3;4371;4857
 2776;Golderz;10;6360;7900
 2776;Golderz;10;6360;7900
@@ -126,9 +105,6 @@
 6615;Weisenhandschuhe;1;2636;3296
 2836;Grober Stein;2;3264;3627
 8150;Tiefsteinsalz;2;15640;19550
-8150;Tiefsteinsalz;1;9576;11970
-8150;Tiefsteinsalz;1;12782;15978
-8150;Tiefsteinsalz;5;50000;63000
 4297;Muster: Barbarische Handschuhe;1;17546;19496
 6584;Spähertunika;1;2124;4500
 6596;Schlachtschmiedebeinschützer;1;7225;9032
