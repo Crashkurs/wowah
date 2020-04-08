@@ -59,7 +59,6 @@
 25719;Arakkoafeder;100;2300200;2400000
 30810;Siegel des Sonnenzorns;55;306500;370000
 30810;Siegel des Sonnenzorns;250;1995000;1999000
-13018;Henkerspaltbeil;1;44050;44500
 13018;Henkerspaltbeil;1;57950;66666
 32201;Funkelnder Engelssaphir;1;950000;1100000
 32201;Funkelnder Engelssaphir;1;950000;1100000
@@ -100,9 +99,6 @@
 24300;Muster: Umhang der Ewigkeit;1;195599;201999
 24300;Muster: Umhang der Ewigkeit;1;699999;699999
 31291;Kristallgeschmiedete Kriegsaxt;1;158460;198075
-31291;Kristallgeschmiedete Kriegsaxt;1;343676;429596
-31291;Kristallgeschmiedete Kriegsaxt;1;149536;188171
-31291;Kristallgeschmiedete Kriegsaxt;1;227599;230000
 29729;Muster: Lebendiger Drachenschuppenhelm;1;149775;187219
 22797;Alptraumsaat;5;28496;35620
 22797;Alptraumsaat;2;21998;25998
@@ -148,36 +144,6 @@
 24027;Klobiger lebendiger Rubin;1;280000;283500
 24027;Klobiger lebendiger Rubin;1;280000;283500
 24027;Klobiger lebendiger Rubin;1;280000;283500
-23793;Schweres Knotenhautleder;2;78750;87500
-23793;Schweres Knotenhautleder;3;118125;120000
-23793;Schweres Knotenhautleder;20;797500;799900
-23793;Schweres Knotenhautleder;20;797500;799900
-23793;Schweres Knotenhautleder;3;118125;120000
-23793;Schweres Knotenhautleder;3;118125;120000
-23793;Schweres Knotenhautleder;3;118125;120000
-23793;Schweres Knotenhautleder;3;118125;120000
-23793;Schweres Knotenhautleder;3;118125;120000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;45000;57000
-31298;Beinschützer der Zerschmetterten Hand;1;191919;202020
-31298;Beinschützer der Zerschmetterten Hand;1;223535;251919
 31298;Beinschützer der Zerschmetterten Hand;1;188152;199900
 31298;Beinschützer der Zerschmetterten Hand;1;188152;210000
 23094;Tränenförmiger Blutgranat;1;23519;29399
@@ -194,20 +160,7 @@
 13023;Adlerhornlangbogen;1;73937;92422
 24032;Fragiler lebendiger Rubin;1;125000;155500
 24032;Fragiler lebendiger Rubin;1;125000;155500
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
 22849;Eisenschildtrank;5;179000;189000
-22849;Eisenschildtrank;5;179999;189999
 22849;Eisenschildtrank;5;179000;189000
 22849;Eisenschildtrank;5;179000;189000
 22849;Eisenschildtrank;5;179000;189000
@@ -266,8 +219,6 @@
 23099;Glänzender Flammenspessarit;1;8050;10000
 23099;Glänzender Flammenspessarit;1;8050;10000
 23099;Glänzender Flammenspessarit;1;8050;10000
-31303;Valanos' Langbogen;1;151600;189500
-31303;Valanos' Langbogen;1;182399;227999
 24655;Konsortiumrobe;1;2499999;2999999
 13013;Hexerältestenmantel;1;74351;82612
 29728;Muster: Windtöterwickel;1;169502;188335
@@ -299,16 +250,8 @@
 31285;Brustschutz der Kralle;1;180000;182200
 31285;Brustschutz der Kralle;1;180000;182200
 31285;Brustschutz der Kralle;1;180000;182200
-31285;Brustschutz der Kralle;1;121600;152000
-31285;Brustschutz der Kralle;1;145520;151000
-31289;Stab der göttlichen Eingebung;1;239949;249999
-31289;Stab der göttlichen Eingebung;1;189511;238139
-31289;Stab der göttlichen Eingebung;1;189874;235000
 31289;Stab der göttlichen Eingebung;1;149874;220000
 31299;Der Schwurbewahrer;1;199800;199800
-31299;Der Schwurbewahrer;1;149999;179999
-31299;Der Schwurbewahrer;1;160379;178199
-31299;Der Schwurbewahrer;1;160000;170000
 24060;Glänzender Edeltopas;1;169999;189999
 24060;Glänzender Edeltopas;1;180000;182500
 24060;Glänzender Edeltopas;1;180000;182500
@@ -331,7 +274,6 @@
 13026;Himmelslicht;1;39121;48902
 32751;Muster: Lebendige Erdschultern;1;432566;480629
 13020;Bogen des Himmelsstürmers;1;14826;18533
-32215;Leuchtender Schattensangamethyst;1;999999;999999
 27682;Talbukwildbret;20;26000;30000
 32225;Schillernder Gischtsmaragd;1;589999;599999
 32225;Schillernder Gischtsmaragd;1;609998;609998
@@ -342,7 +284,6 @@
 32225;Schillernder Gischtsmaragd;1;650000;700000
 32225;Schillernder Gischtsmaragd;1;650000;700000
 31236;Düstere Schuhe;1;77616;97020
-13025;Vorschlaghammer der Totenwaldfelle;1;25149;27943
 13025;Vorschlaghammer der Totenwaldfelle;1;25696;29099
 34622;Wirbelschnitter;1;1800000;2000000
 32216;Königlicher Schattensangamethyst;1;889647;889736
@@ -371,54 +312,6 @@
 31308;Der Überbringer des Todes;1;258511;287235
 31308;Der Überbringer des Todes;1;157333;160000
 31308;Der Überbringer des Todes;1;157333;160000
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;10;249900;299900
-22825;Elixier der Heilkraft;20;575000;579900
-22825;Elixier der Heilkraft;20;575000;579900
-22825;Elixier der Heilkraft;20;575000;580000
-22825;Elixier der Heilkraft;20;575000;580000
-22825;Elixier der Heilkraft;20;548000;578000
-22825;Elixier der Heilkraft;20;548000;578000
-22825;Elixier der Heilkraft;20;548000;578000
-22825;Elixier der Heilkraft;5;144495;144495
-22825;Elixier der Heilkraft;5;144495;144495
-22825;Elixier der Heilkraft;5;144495;144495
-22825;Elixier der Heilkraft;5;144495;144495
-22825;Elixier der Heilkraft;20;547999;577999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;2;67500;69900
-22825;Elixier der Heilkraft;7;165200;278600
-22825;Elixier der Heilkraft;1;33750;33999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
 22825;Elixier der Heilkraft;20;580000;580000
 22825;Elixier der Heilkraft;20;580000;580000
 22851;Fläschchen der Stärkung;1;194999;194999
@@ -551,8 +444,6 @@
 31306;Gamaschen des heiligen Wappens;1;181500;183200
 31306;Gamaschen des heiligen Wappens;1;181500;183200
 31306;Gamaschen des heiligen Wappens;1;181500;183200
-31306;Gamaschen des heiligen Wappens;1;180064;183200
-31306;Gamaschen des heiligen Wappens;1;100346;150000
 13012;Yorgens Armschienen;1;50000;60000
 13003;Lord Alexanders Streitaxt;1;77000;99000
 25896;Mächtiger Erdsturmdiamant;1;1000000;1000000
@@ -607,9 +498,6 @@
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 31305;Ceds Schnitzer;1;214500;220000
-31305;Ceds Schnitzer;1;159324;160000
-31305;Ceds Schnitzer;1;121600;152000
-31305;Ceds Schnitzer;1;115520;144400
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
@@ -653,8 +541,6 @@
 22457;Urmana;1;197963;197981
 22457;Urmana;1;197963;197981
 22457;Urmana;1;197963;197981
-13021;Einfädler;1;19537;26172
-13021;Einfädler;1;25041;30000
 13021;Einfädler;1;29078;32309
 13022;Greifenflügellangbogen;1;41985;59999
 13022;Greifenflügellangbogen;1;83795;98661
@@ -674,18 +560,3 @@
 24368;Waffen des Echsenkessels;1;108911;121013
 24368;Waffen des Echsenkessels;1;108911;121013
 32223;Robuster Gischtsmaragd;1;689999;699999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;90000;96500
-24052;Kompakter Dämmerstein;1;87600;97099
-24052;Kompakter Dämmerstein;1;87600;97099
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999

@@ -8,18 +8,7 @@
 22449;Großer Prismasplitter;1;114000;142500
 25680;Schicker lilafarbener Hut;1;920000;920000
 17012;Kernleder;9;489808;612261
-4625;Feuerblüte;20;50000;77500
 4625;Feuerblüte;20;50000;50000
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;20;50000;77500
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;57500;80000
 4625;Feuerblüte;20;50000;50000
 31918;Delirium 2;1;39705;44117
 7909;Aquamarin;1;9467;11834
@@ -58,8 +47,6 @@
 14048;Runenstoffballen;9;47000;49000
 31204;Kanonenklinge;1;161604;200000
 17056;Leichte Feder;3;9999;10000
-32749;Muster: Schultern der blitzartigen Reflexe;1;262500;274400
-32749;Muster: Schultern der blitzartigen Reflexe;1;228750;250000
 11082;Große Astralessenz;2;4400;5500
 16653;Schredderanleitung - Seite 9;1;30000;50000
 16653;Schredderanleitung - Seite 9;1;30000;50000
@@ -84,9 +71,6 @@
 31194;Gronngesegnete Kriegsperlen;1;146596;255500
 22445;Arkaner Staub;5;40100;70000
 22445;Arkaner Staub;7;91500;97000
-4611;Blaue Perle;2;19712;21903
-4611;Blaue Perle;1;1340;1420
-4611;Blaue Perle;3;16408;18232
 31237;Elekkbalggamaschen;1;61194;100000
 7085;Muster: Azurblaue Schultern;1;525;2000
 32737;Pläne: Flinkstahlschultern;1;449999;449999
@@ -107,15 +91,11 @@
 21841;Netherstofftasche;1;68899;69999
 31230;Stiefel des Abysswandlers;1;273239;290000
 17050;Chans imperiale Roben;1;18804;22000
-32747;Muster: Flinkschlagschultern;1;1478750;1790000
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32659;Kristallerfülltes Messer;1;275000;300000
-32739;Pläne: Morgenstahlschultern;1;309999;359999
-32739;Pläne: Morgenstahlschultern;1;421250;499999
 23436;Lebendiger Rubin;1;225000;230000
 23436;Lebendiger Rubin;1;225000;230000
 23436;Lebendiger Rubin;1;225000;230000
@@ -168,8 +148,6 @@
 31234;Kristallklinge der Draenei;1;212800;266000
 31234;Kristallklinge der Draenei;1;334439;343049
 31234;Kristallklinge der Draenei;1;201075;220000
-32751;Muster: Lebendige Erdschultern;1;398750;400000
-32751;Muster: Lebendige Erdschultern;1;417999;417999
 25700;Teufelsschuppen;4;99776;107220
 25700;Teufelsschuppen;1;5514;5527
 16710;Armschienen der Schattenkunst;1;65669;80000
@@ -193,12 +171,6 @@
 31202;Gurt des göttlichen Segens;1;229054;239900
 31196;Amulett der Weihung;1;82937;98010
 31203;Arkanschleife;1;124868;156086
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;366000;368000
 13043;Klinge der Titanen;1;40000;42000
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
@@ -229,32 +201,13 @@
 31222;Kopfputz des inneren Zorns;1;149514;187768
 31222;Kopfputz des inneren Zorns;1;129232;161540
 31222;Kopfputz des inneren Zorns;1;147579;170043
-24273;Mystischer Zauberfaden;1;1404999;1409999
 24273;Mystischer Zauberfaden;1;1394500;1399500
-24273;Mystischer Zauberfaden;1;1394999;1399999
-24273;Mystischer Zauberfaden;1;1404999;1409999
-24273;Mystischer Zauberfaden;1;1394999;1399999
 16655;Schredderanleitung - Seite 11;1;30000;50000
 16203;Große ewige Essenz;1;66600;77700
 16203;Große ewige Essenz;10;799999;799999
 16203;Große ewige Essenz;1;66600;77700
 16203;Große ewige Essenz;1;66600;77700
 16203;Große ewige Essenz;1;66600;77700
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-32062;Elixier der erheblichen Seelenstärke;17;314500;452880
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
 24276;Goldener Zauberfaden;1;1624999;1659999
@@ -291,22 +244,12 @@
 11083;Seelenstaub;3;5500;6500
 22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
 22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
-7075;Erdenkern;1;30000;34000
-7075;Erdenkern;1;30000;34000
-7075;Erdenkern;1;49126;54584
-7075;Erdenkern;1;49126;54584
 22457;Urmana;1;200000;200000
 22457;Urmana;1;200000;200000
 22457;Urmana;1;200000;200000
 22457;Urmana;1;200000;200000
 5498;Kleine irisierende Perle;2;600;1000
 25689;Schwere Grollhufweste;1;1397515;1699900
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;398750;410000
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
 14344;Großer glänzender Splitter;1;87908;88887
 14344;Großer glänzender Splitter;1;87908;88887
 14344;Großer glänzender Splitter;1;87908;88887

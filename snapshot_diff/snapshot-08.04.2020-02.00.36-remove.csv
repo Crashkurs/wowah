@@ -6,15 +6,9 @@
 12977;Handschuhe der Magiekraft;1;299900;299900
 13004;Fackel von Austen;1;109594;121771
 19821;Durchstochene Voodoopuppe;1;326762;408453
-21929;Flammenspessarit;20;189900;199480
 21929;Flammenspessarit;1;2978;3723
 21929;Flammenspessarit;20;90000;119999
 21929;Flammenspessarit;20;90000;119999
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;18;170910;179532
 20404;Verschlüsselter Schattenhammertext;2;20965;23295
 16254;Formel: Waffe - Lebensdiebstahl;1;75999;94999
 12820;Feuerwasser der Winterfelle;1;63624;70694
@@ -25,45 +19,14 @@
 35759;Kraftvoller Gischtsmaragd;1;699800;699800
 35759;Kraftvoller Gischtsmaragd;1;699800;699800
 35759;Kraftvoller Gischtsmaragd;1;649999;689999
-23571;Urmacht;1;774000;783400
-23571;Urmacht;1;786000;790000
-23571;Urmacht;1;786000;790000
-23571;Urmacht;1;786000;790000
-23571;Urmacht;1;797777;799999
-23571;Urmacht;1;786000;790000
-23571;Urmacht;1;786000;790000
-23571;Urmacht;1;797777;799999
-23571;Urmacht;1;797777;799999
-23571;Urmacht;1;874000;880000
-23571;Urmacht;1;797777;799999
 23571;Urmacht;1;874000;880000
 23571;Urmacht;1;874000;880000
 23571;Urmacht;1;874000;880000
 23571;Urmacht;1;874000;880000
-23571;Urmacht;1;793999;819999
-23571;Urmacht;1;793999;819999
-23571;Urmacht;1;893999;897999
-23571;Urmacht;1;899900;900000
+23571;Urmacht;1;874000;880000
 13009;Balg des Kuhkönigs;1;23180;26867
 13009;Balg des Kuhkönigs;1;30000;40000
-30809;Mal des Sargeras;33;354187;393541
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;1;300;15500
-30809;Mal des Sargeras;18;155400;160000
-30809;Mal des Sargeras;10;89580;91050
-30809;Mal des Sargeras;10;89580;91050
-30809;Mal des Sargeras;10;89580;91050
-30809;Mal des Sargeras;1;14000;15000
-30809;Mal des Sargeras;16;160000;160000
-30809;Mal des Sargeras;10;100000;118990
-30809;Mal des Sargeras;100;1999900;1999900
-30809;Mal des Sargeras;10;100000;118990
-30809;Mal des Sargeras;10;100000;118990
-30809;Mal des Sargeras;10;100000;118990
-30809;Mal des Sargeras;10;100000;118990
-30809;Mal des Sargeras;100;1999900;1999900
 30809;Mal des Sargeras;5;49999;55000
-30809;Mal des Sargeras;100;1999900;1999900
 32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;226952;230000
@@ -82,9 +45,6 @@
 4338;Magiestoff;9;13375;14400
 32464;Netheriterz;20;55000;60000
 32464;Netheriterz;20;55000;60000
-19260;Kriegsfürst 3;1;30000;30000
-19260;Kriegsfürst 3;1;22800;28500
-19260;Kriegsfürst 3;1;18737;23422
 31896;Sturm 7;1;193500;600000
 31896;Sturm 7;1;193500;600000
 29529;Trommeln der Schlacht;1;470000;489999
@@ -234,24 +194,7 @@
 29535;Netherkobrabeinrüstung;1;2899419;2899709
 29535;Netherkobrabeinrüstung;1;2909417;2909708
 29535;Netherkobrabeinrüstung;1;2895000;2915000
-23095;Klobiger Blutgranat;1;19830;24256
 23095;Klobiger Blutgranat;1;26699;28899
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;19830;24256
-23095;Klobiger Blutgranat;1;18899;23399
-23095;Klobiger Blutgranat;1;18899;23399
 32659;Kristallerfülltes Messer;1;275000;300000
 32659;Kristallerfülltes Messer;1;275000;300000
 31900;Sturm 2;1;40000;50000
@@ -281,9 +224,6 @@
 20406;Mantel eines Schattenhammerkultisten;1;2893;3000
 19231;Bestien 3;1;299900;299900
 19231;Bestien 3;1;346721;422502
-27658;Gerösteter Grollhuf;20;299999;399999
-27658;Gerösteter Grollhuf;20;299999;399999
-27658;Gerösteter Grollhuf;20;299999;399999
 19235;Bestien 7;1;2500000;2799999
 29534;Grollbalgbeinrüstung;1;850000;879000
 29534;Grollbalgbeinrüstung;1;849000;849500
@@ -452,7 +392,6 @@
 3203;Handfester Dreiecksstreitkolben;1;18154;19900
 31889;Segen 2;1;3000000;6000000
 31889;Segen 2;1;3000000;6000000
-12975;Ausgrabungsleiteraxt;1;16964;21206
 3820;Würgetang;15;7980;9975
 22825;Elixier der Heilkraft;1;33750;33999
 22825;Elixier der Heilkraft;7;165200;278600
@@ -462,26 +401,7 @@
 9036;Magiewiderstandstrank;5;100150;110000
 18265;Muster: Flimmerkernwickeltücher;1;4449999;4449999
 27660;Talbuksteak;20;14500;18000
-22452;Urerde;1;54412;54912
-22452;Urerde;1;40000;40000
-22452;Urerde;3;120282;133647
 22452;Urerde;2;72000;88000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;40000;40000
-22452;Urerde;1;54412;54912
-22452;Urerde;1;54412;54912
-22452;Urerde;1;54412;54912
-22452;Urerde;1;54412;54912
 20520;Dunkelrune;20;3770000;3980000
 20520;Dunkelrune;20;3770000;3980000
 20520;Dunkelrune;20;3770000;3980000
@@ -498,18 +418,6 @@
 24272;Schattenstoff;1;346000;346000
 10559;Mithrilrohr;9;50125;75000
 10559;Mithrilrohr;10;51250;80000
-29536;Netherkluftbeinrüstung;1;1699999;1755555
-29536;Netherkluftbeinrüstung;1;1350000;1455050
-29536;Netherkluftbeinrüstung;1;1353360;1554200
-29536;Netherkluftbeinrüstung;1;1353360;1554200
-29536;Netherkluftbeinrüstung;1;1353360;1554200
-29536;Netherkluftbeinrüstung;1;1750000;1980000
-29536;Netherkluftbeinrüstung;1;1699999;1755555
-29536;Netherkluftbeinrüstung;1;1699999;1755555
-29536;Netherkluftbeinrüstung;1;1699999;1755555
-29536;Netherkluftbeinrüstung;1;1350000;1455050
-29536;Netherkluftbeinrüstung;1;1350000;1455050
-29536;Netherkluftbeinrüstung;1;1350000;1455050
 27656;Sporlingschmaus;20;34500;50000
 27656;Sporlingschmaus;2;5550;9900
 23445;Teufelseisenbarren;20;170000;198600
@@ -540,11 +448,7 @@
 23529;Adamantitwetzstein;10;250000;285000
 23529;Adamantitwetzstein;10;250000;285000
 22220;Pläne: Dunkler Griff des Zerstörers;1;2999999;2999999
-31905;Furien 7;1;1099999;1199999
-31905;Furien 7;1;717500;720000
 31905;Furien 7;1;729280;911600
-31905;Furien 7;1;1099999;1199999
-31905;Furien 7;1;717500;720000
 31905;Furien 7;1;729280;911600
 18333;Buchband des Fokus;1;880000;880000
 23117;Azurmondstein;20;83000;88000
@@ -556,21 +460,6 @@
 31903;Furien 5;1;16999999;24999999
 31903;Furien 5;1;16999999;24999999
 12985;Ring der Verteidigung;1;49500;60000
-24056;Leuchtendes Nachtauge;1;119999;120099
-24056;Leuchtendes Nachtauge;1;75000;90000
-24056;Leuchtendes Nachtauge;1;114031;115000
-24056;Leuchtendes Nachtauge;1;114031;115000
-24056;Leuchtendes Nachtauge;1;114031;115000
-24056;Leuchtendes Nachtauge;1;108000;114500
-24056;Leuchtendes Nachtauge;1;114860;115000
-24056;Leuchtendes Nachtauge;1;119999;121199
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
-24056;Leuchtendes Nachtauge;1;122299;122299
 24273;Mystischer Zauberfaden;1;1380000;1380000
 24273;Mystischer Zauberfaden;1;1394999;1399999
 24273;Mystischer Zauberfaden;1;1364500;1379500
@@ -588,43 +477,22 @@
 27515;Große Tüpfelteufelsfinne;5;43750;50000
 27515;Große Tüpfelteufelsfinne;5;57600;69500
 27515;Große Tüpfelteufelsfinne;1;14020;17526
-21843;Magieerfüllte Netherstofftasche;1;1000000;1200000
 21843;Magieerfüllte Netherstofftasche;1;1400000;1500000
 21843;Magieerfüllte Netherstofftasche;1;1400000;1500000
-21843;Magieerfüllte Netherstofftasche;1;1000000;1200000
-21843;Magieerfüllte Netherstofftasche;1;1185001;1190000
 12987;Dunkelgewirkte Bundhosen;1;94900;99900
 12990;Messers Schneide;1;35744;39680
 12990;Messers Schneide;1;34583;40150
 12990;Messers Schneide;1;33000;49000
 14549;Stiefel der Vermeidung;1;76855;80000
 31901;Furien Ass;1;59500;76000
-31901;Furien Ass;1;81547;96029
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
 31901;Furien Ass;1;115000;120000
-31901;Furien Ass;1;125000;130000
-31901;Furien Ass;1;109511;138389
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
 31901;Furien Ass;1;59500;76000
-31901;Furien Ass;1;81547;96029
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;109511;138389
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;125000;130000
 31901;Furien Ass;1;115000;120000
 12808;Essenz des Untodes;2;23638;29548
 12808;Essenz des Untodes;1;13031;16289
 23536;Helm der Eidestreue;1;5503452;6000000
 22153;Foliant der arkanen Brillanz 2;1;195188;243986
 22153;Foliant der arkanen Brillanz 2;1;195188;243986
-22153;Foliant der arkanen Brillanz 2;1;118200;198000
-22153;Foliant der arkanen Brillanz 2;1;187086;197874
 24291;Sumpflordranke;68;283468;299336
 19813;Durchstochene Voodoopuppe;1;90999;99999
 19933;Leuchtendes Skorpidblut;4;14552;16169

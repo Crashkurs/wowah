@@ -594,7 +594,6 @@
 13935;Gebackener Lachs;20;300;0
 15362;Schwindlerstiefel;1;15000;17500
 30308;Muster: Stiefel des Wirbelsturms;1;170000;240000
-30308;Muster: Stiefel des Wirbelsturms;1;180000;250000
 13890;Panzerfisch;2;3332;6666
 13890;Panzerfisch;20;2200;8500
 13890;Panzerfisch;20;2200;8500
@@ -602,9 +601,6 @@
 13890;Panzerfisch;6;1860;2532
 13890;Panzerfisch;1;1666;2999
 34105;Köcher der tausend Federn;1;1886000;1973000
-30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
-30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
-30305;Muster: Stiefel der naturgleichen Anmut;1;390000;430000
 30305;Muster: Stiefel der naturgleichen Anmut;1;400000;425000
 27503;Rolle der Stärke V;5;219500;232000
 27503;Rolle der Stärke V;5;185710;232750
@@ -628,26 +624,6 @@
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;225025;245000
-27503;Rolle der Stärke V;2;59548;75810
-27503;Rolle der Stärke V;1;35000;39900
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;189500;237500
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
@@ -657,10 +633,8 @@
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
 27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
-27503;Rolle der Stärke V;5;189500;237500
+27503;Rolle der Stärke V;5;224500;237000
+27503;Rolle der Stärke V;5;224500;237000
 24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
 24197;Vorlage: Fragiler lebendiger Rubin;1;151600;189500
 24197;Vorlage: Fragiler lebendiger Rubin;1;279557;351072
@@ -833,8 +807,6 @@
 32249;Gischtsmaragd;1;309999;329999
 32249;Gischtsmaragd;1;309999;329999
 32249;Gischtsmaragd;1;309999;329999
-30282;Muster: Stiefel der Zauberwucht;1;1117001;1121252
-30282;Muster: Stiefel der Zauberwucht;1;1695000;1790000
 30282;Muster: Stiefel der Zauberwucht;1;1648653;1715998
 22446;Große Planaressenz;1;120500;127500
 22446;Große Planaressenz;1;120500;127500
@@ -910,24 +882,14 @@
 20828;Ring des Zwielichts;1;4015;6000
 25700;Teufelsschuppen;1;5514;5527
 25700;Teufelsschuppen;4;99776;107220
-2772;Eisenerz;20;49900;49900
 2772;Eisenerz;1;1280;1600
-2772;Eisenerz;3;4371;4857
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
 2772;Eisenerz;20;7632;9540
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
 2772;Eisenerz;20;40000;50000
 2772;Eisenerz;20;7632;9540
 2772;Eisenerz;20;40000;50000
 2772;Eisenerz;20;40000;50000
-2772;Eisenerz;20;49900;49900
 22793;Manadistel;19;97500;103500
 3197;Steinfräserclaymore;1;23600;29500
-2318;Leichtes Leder;20;29376;36720
-2318;Leichtes Leder;7;9557;9600
 2318;Leichtes Leder;20;20450;29800
 24200;Vorlage: Funkelnder Stern der Elune;1;605345;688325
 23819;Elementare Zephyriumladung;2;358000;360000
@@ -951,15 +913,6 @@
 21882;Seelenessenz;1;16793;19994
 21882;Seelenessenz;20;299900;309500
 21882;Seelenessenz;20;275000;299900
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
-21882;Seelenessenz;1;23009;23010
 6391;Muster: Modisches grünes Hemd;1;2400;3000
 6391;Muster: Modisches grünes Hemd;1;2400;3000
 22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
@@ -1018,7 +971,6 @@
 13094;Das Juwel der Königin;1;15000;20000
 27502;Rolle der Ausdauer V;5;17824;22280
 27502;Rolle der Ausdauer V;2;2572;3216
-27502;Rolle der Ausdauer V;2;3384;3386
 23883;Bauplan: Heiltrankeinspritzung;1;446250;490000
 31861;Großer Dämmerstein;1;159679;167499
 31861;Großer Dämmerstein;1;150000;180000
@@ -1083,8 +1035,6 @@
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
-30307;Muster: Stiefel des Purpurfalken;1;230000;270000
-30307;Muster: Stiefel des Purpurfalken;1;227600;247000
 30307;Muster: Stiefel des Purpurfalken;1;220000;250000
 24050;Schimmernder Dämmerstein;1;85000;90000
 24050;Schimmernder Dämmerstein;1;85000;90000

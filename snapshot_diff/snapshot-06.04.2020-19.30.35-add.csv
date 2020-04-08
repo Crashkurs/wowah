@@ -5,20 +5,11 @@
 23101;Mächtiger Flammenspessarit;1;29999;39999
 20750;Zauberöl;1;29999;39999
 20750;Zauberöl;1;29999;39999
-21877;Netherstoff;20;24999;32999
-21877;Netherstoff;20;121000;123500
-21877;Netherstoff;20;24999;32999
-21877;Netherstoff;13;33280;41600
-21877;Netherstoff;20;121000;123500
-21877;Netherstoff;20;24999;32999
-21877;Netherstoff;20;121000;123500
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;25536;31920
 21877;Netherstoff;20;25536;31920
 21877;Netherstoff;20;25536;31920
 22450;Kristall der Leere;1;63191;63198
-6373;Elixier der Feuermacht;5;12535;13925
-6373;Elixier der Feuermacht;2;4232;5290
 25071;Tansanitanhänger;1;57157;100000
 5469;Schreiterfleisch;4;12419;15524
 21876;Urmondstofftasche;1;3025000;3050000
@@ -54,7 +45,6 @@
 23793;Schweres Knotenhautleder;20;797500;799900
 23793;Schweres Knotenhautleder;20;797500;799900
 24170;Vorlage: Zärtliche Morgenröte;1;159600;199500
-809;Blutklinge;1;95925;99000
 809;Blutklinge;1;95800;98000
 19270;Elementar 3;1;32500;40000
 25708;Dickes Grollhufleder;10;393650;399999
@@ -85,7 +75,6 @@
 14960;Oberhäuptlingsgürtel;1;49897;62372
 804;Großer blauer Sack;1;6238;8042
 13024;Beazels Berster;1;17294;20000
-23104;Gezackter Tiefenperidot;1;26159;37699
 5266;Auge von Adaegus;1;16735;33500
 19259;Kriegsfürst 2;1;20000;22500
 13038;Windhauch;1;17017;21272
@@ -97,20 +86,11 @@
 27498;Rolle der Beweglichkeit V;1;37984;47481
 812;Glimmender Reinholzstab;1;155527;200000
 9036;Magiewiderstandstrank;5;210150;228000
-22452;Urerde;1;54412;54912
-20749;Hervorragendes Zauberöl;1;141500;149500
-20749;Hervorragendes Zauberöl;1;141500;149500
-20749;Hervorragendes Zauberöl;1;141500;149500
-20749;Hervorragendes Zauberöl;1;141500;149500
 27500;Rolle des Schutzes V;1;20150;30000
 27500;Rolle des Schutzes V;3;115197;143997
 24171;Vorlage: Kette der Nebeleule;1;86567;108209
 24171;Vorlage: Kette der Nebeleule;1;91124;113905
 774;Malachit;5;2014;2238
-21881;Netherweberseide;1;17500;19000
-21881;Netherweberseide;1;17500;19000
-21881;Netherweberseide;2;35000;38000
-21881;Netherweberseide;1;16000;17600
 23427;Eterniumerz;16;150000;320000
 24882;Der'izuhelm;1;101546;126933
 20816;Feiner Kupferdraht;1;1708;2135
@@ -124,11 +104,6 @@
 11135;Große Mystikeressenz;10;150100;160000
 11135;Große Mystikeressenz;10;150100;160000
 5071;Schattenzauberstab;1;664;1312
-23103;Strahlender Tiefenperidot;1;4123;5692
-23103;Strahlender Tiefenperidot;1;6043;7554
-23103;Strahlender Tiefenperidot;1;3800;4750
-23103;Strahlender Tiefenperidot;1;4123;5692
-23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;4400;4749
 23103;Strahlender Tiefenperidot;1;4400;4749
 23103;Strahlender Tiefenperidot;1;4400;4749
@@ -152,8 +127,6 @@
 21843;Magieerfüllte Netherstofftasche;1;1500000;1800000
 9770;Grünzwirnumhang;1;625;1312
 24198;Vorlage: Scheinender lebendiger Rubin;1;755000;800000
-818;Tigerauge;1;608;760
-818;Tigerauge;1;540;676
 818;Tigerauge;4;3089;3432
 11083;Seelenstaub;20;50100;60000
 11083;Seelenstaub;20;50100;60000
@@ -163,10 +136,6 @@
 20823;Band der Schwermut;1;5000;10000
 5083;Muster: Kodobalgtasche;1;89999;99999
 24168;Vorlage: Geflochtene Eterniumkette;1;85000;100000
-5498;Kleine irisierende Perle;8;34400;38848
-5498;Kleine irisierende Perle;8;7576;8096
-5498;Kleine irisierende Perle;1;799;800
-5498;Kleine irisierende Perle;1;799;800
 25689;Schwere Grollhufweste;1;1397515;1699900
 24478;Jaggalperle;2;3000;10600
 4346;Muster: Schwerer Wollumhang;1;7897;9872

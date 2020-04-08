@@ -13,7 +13,6 @@
 25699;Kristalldurchdrungenes Leder;10;162472;203090
 25699;Kristalldurchdrungenes Leder;6;51250;60000
 23101;Mächtiger Flammenspessarit;1;29999;39999
-24243;Adamantitpulver;2;4068;5030
 23114;Schimmernder Golddraenit;1;27756;34696
 22450;Kristall der Leere;1;74500;79000
 22450;Kristall der Leere;1;84500;89500
@@ -30,7 +29,6 @@
 32227;Purpurspinell;1;2487599;2499999
 32227;Purpurspinell;1;2470000;2480000
 32227;Purpurspinell;1;2470000;2480000
-30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;10;100000;107990
 30809;Mal des Sargeras;10;100000;107990
 30809;Mal des Sargeras;80;758000;799000
@@ -39,24 +37,7 @@
 30809;Mal des Sargeras;10;100000;107990
 30809;Mal des Sargeras;10;100000;107990
 30809;Mal des Sargeras;3;20900;30000
-30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;1;10300;20000
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;70000;100000
-30809;Mal des Sargeras;65;584176;649085
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;11;93300;124900
-30809;Mal des Sargeras;5;49999;55000
 31918;Delirium 2;1;39705;44117
 24051;Massiver Dämmerstein;1;85000;95000
 24051;Massiver Dämmerstein;1;120000;169999
@@ -86,26 +67,7 @@
 24051;Massiver Dämmerstein;1;85000;95000
 24051;Massiver Dämmerstein;1;85000;95000
 24051;Massiver Dämmerstein;1;85000;95000
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;13399;17799
-23100;Glitzernder Flammenspessarit;1;13399;17799
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;17394;17827
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13399;16699
-23100;Glitzernder Flammenspessarit;1;13399;16699
-31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
 31878;Vorlage: Verschleierter Edeltopas;1;293088;366361
-31878;Vorlage: Verschleierter Edeltopas;1;334878;372087
 21885;Urwasser;1;106000;109700
 21885;Urwasser;1;106000;109700
 21885;Urwasser;1;106000;109700
@@ -115,16 +77,6 @@
 14090;Perlenkniehosen;1;178;10000
 21991;Schwerer Netherstoffverband;20;60000;88000
 31875;Vorlage: Großer Dämmerstein;1;189528;195910
-30810;Siegel des Sonnenzorns;1;5700;7125
-30810;Siegel des Sonnenzorns;6;37800;39990
-30810;Siegel des Sonnenzorns;55;489900;499900
-30810;Siegel des Sonnenzorns;14;88838;111048
-30810;Siegel des Sonnenzorns;11;69801;87252
-30810;Siegel des Sonnenzorns;4;15000;30000
-30810;Siegel des Sonnenzorns;3;10900;20000
-30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;8;62986;69985
 31876;Vorlage: Ausbalanciertes Nachtauge;1;175000;179999
 4382;Bronzegerüst;1;1710;1900
 23771;Grünes Rauchsignal;5;91875;99500
@@ -186,8 +138,6 @@
 30420;Schwerer Jadering;1;5467;6074
 30420;Schwerer Jadering;1;5467;6074
 32420;Nachtend;1;1980517;1990000
-32420;Nachtend;1;1700345;1999500
-32420;Nachtend;1;1909545;2100000
 31883;Segen 8;1;8007500;8008000
 23793;Schweres Knotenhautleder;20;889999;899999
 16043;Bauplan: Thoriumgewehr;1;3528;4410
@@ -217,7 +167,6 @@
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
 24245;Glühkappe;15;39285;39999
-24245;Glühkappe;10;22000;33000
 31677;Teufelsmanatrank;5;249999;293995
 31677;Teufelsmanatrank;5;249999;293995
 31677;Teufelsmanatrank;5;249999;293995
@@ -349,7 +298,6 @@
 25653;Reitgerte;1;799999;899999
 22831;Elixier der erheblichen Beweglichkeit;5;186236;217795
 22831;Elixier der erheblichen Beweglichkeit;5;174236;217795
-22831;Elixier der erheblichen Beweglichkeit;3;119634;149634
 31888;Segen 3;1;136800;171000
 31888;Segen 3;1;145000;180000
 31888;Segen 3;1;167200;209000
@@ -401,36 +349,13 @@
 4235;Schwerer Balg;3;220900;229999
 22851;Fläschchen der Stärkung;2;200000;222100
 22851;Fläschchen der Stärkung;5;550000;589889
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
 24272;Schattenstoff;1;346000;350000
 24272;Schattenstoff;1;346000;350000
 24272;Schattenstoff;1;339900;350000
 24272;Schattenstoff;1;336000;349000
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;366000;368000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
-24272;Schattenstoff;1;346000;369000
 16006;Empfindlicher Arkanitwandler;1;777777;888888
 16006;Empfindlicher Arkanitwandler;1;777777;888888
-31861;Großer Dämmerstein;1;150000;180000
 31861;Großer Dämmerstein;1;120000;169999
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;159679;167499
 31861;Großer Dämmerstein;1;120000;169999
 31672;Rippchen der Mok'Nathal;7;3500;5250
 32392;Armschienen der Seelenwache;1;2008148;2200000
@@ -491,32 +416,15 @@
 23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;3800;4750
-24273;Mystischer Zauberfaden;1;1394999;1399999
-24273;Mystischer Zauberfaden;1;1394999;1399999
-24273;Mystischer Zauberfaden;1;1404999;1409999
-24273;Mystischer Zauberfaden;1;1404999;1409999
 4576;Leichter Bogen;1;5000;6000
 2592;Wollstoff;20;30000;40000
 2592;Wollstoff;20;30000;40000
 2592;Wollstoff;20;30000;40000
 14096;Eingeborenenweste;1;20000;30000
 3576;Zinnbarren;20;4500;4800
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
 32062;Elixier der erheblichen Seelenstärke;9;254008;317511
 32062;Elixier der erheblichen Seelenstärke;20;564464;705580
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-31837;Kodex: Gebet des Schattenschutzes II;1;44750;50000
 31837;Kodex: Gebet des Schattenschutzes II;1;22125;50000
-31837;Kodex: Gebet des Schattenschutzes II;1;29511;38514
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
 24276;Goldener Zauberfaden;1;1624999;1639999
@@ -566,56 +474,10 @@
 25682;Schicker Dschungelhut;1;507308;600000
 25682;Schicker Dschungelhut;1;507308;600000
 14192;Regenmacherrobe;1;2919;6000
-14192;Regenmacherrobe;1;12919;15500
-31901;Furien Ass;1;125000;130000
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;78399;97999
-31901;Furien Ass;1;170000;184500
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;81547;96029
-31901;Furien Ass;1;140998;156665
-31901;Furien Ass;1;59500;76000
 24066;Strahlender Talasit;1;89999;99999
 13492;Rezept: Läuterungstrank;1;19168;23961
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
 22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
 22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;5;739800;749000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;1;140000;145000
-22853;Fläschchen der mächtigen Wiederherstellung;5;739800;749000
 4603;Roher Tüpfelgelbschwanz;4;4128;5160
 32231;Pyrostein;1;2400000;2450000
 32231;Pyrostein;1;2400000;2450000

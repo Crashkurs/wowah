@@ -34,19 +34,6 @@
 22449;Großer Prismasplitter;1;114000;142500
 9262;Schwarzes Vitriol;1;8500;9500
 17012;Kernleder;9;489808;612261
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;57500;80000
-4625;Feuerblüte;20;109300;124740
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;20;50000;77500
-4625;Feuerblüte;20;50000;77500
 7070;Elementarwasser;1;11884;13205
 7070;Elementarwasser;1;4468;13072
 8190;Hanzos Schwert;1;70000;78000
@@ -58,8 +45,6 @@
 32620;Zeitverlorene Schriftrolle;1;9592;12740
 17056;Leichte Feder;3;9999;10000
 8180;Jagdbogen;1;20360;40000
-32749;Muster: Schultern der blitzartigen Reflexe;1;228750;250000
-32749;Muster: Schultern der blitzartigen Reflexe;1;262500;274400
 32749;Muster: Schultern der blitzartigen Reflexe;1;281157;300000
 32749;Muster: Schultern der blitzartigen Reflexe;1;281157;300000
 32749;Muster: Schultern der blitzartigen Reflexe;1;281157;300000
@@ -81,15 +66,11 @@
 27655;Heißer Hetzer;20;194500;200000
 6359;Feuerflossenschnapper;20;17591;19545
 2841;Bronzebarren;20;16843;18714
-4611;Blaue Perle;1;1340;1420
-4611;Blaue Perle;2;19712;21903
 4611;Blaue Perle;1;1147;1434
-4611;Blaue Perle;3;16408;18232
 31237;Elekkbalggamaschen;1;61194;100000
 10938;Geringe Magieessenz;1;7400;7499
 10938;Geringe Magieessenz;1;6833;7592
 10938;Geringe Magieessenz;1;6790;7545
-23768;Weißes Rauchsignal;1;11300;12556
 7071;Eiserne Gürtelschnalle;5;7500;7500
 7071;Eiserne Gürtelschnalle;1;1800;1800
 7071;Eiserne Gürtelschnalle;1;1800;1800
@@ -111,9 +92,6 @@
 23765;Khoriumzielfernrohr;1;843750;850000
 23632;Pläne: Teufelsstahlschneide;1;131177;147900
 32747;Muster: Flinkschlagschultern;1;1482000;1852500
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1478750;1790000
-23766;Geeichtes Eterniumzielfernrohr;1;1950000;1966200
 23766;Geeichtes Eterniumzielfernrohr;1;1900021;2220000
 31330;Krone der Blitze;1;991524;1000000
 32659;Kristallerfülltes Messer;1;275000;300000
@@ -124,9 +102,7 @@
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
-32739;Pläne: Morgenstahlschultern;1;421250;499999
 32739;Pläne: Morgenstahlschultern;1;431200;539000
-32739;Pläne: Morgenstahlschultern;1;309999;359999
 11137;Visionenstaub;5;18995;23740
 13510;Fläschchen der Titanen;1;67500;80000
 13510;Fläschchen der Titanen;1;67500;80000
@@ -138,13 +114,6 @@
 24167;Vorlage: Lebendiger Rubinanhänger;1;201839;212044
 29425;Mal von Kil'jaeden;16;4800;100000
 4234;Schweres Leder;20;90000;100000
-4234;Schweres Leder;13;69199;77207
-4234;Schweres Leder;20;106460;118780
-4234;Schweres Leder;20;106460;118780
-4234;Schweres Leder;20;106460;118780
-4234;Schweres Leder;20;106460;118780
-4234;Schweres Leder;20;106460;118780
-4234;Schweres Leder;20;106460;118780
 8184;Feuerteufel;1;8036;10893
 31234;Kristallklinge der Draenei;1;212800;266000
 31234;Kristallklinge der Draenei;1;334439;343049
@@ -153,8 +122,6 @@
 12988;Sternensuchertunika;1;15581;43467
 12988;Sternensuchertunika;1;15581;43467
 32751;Muster: Lebendige Erdschultern;1;334400;418000
-32751;Muster: Lebendige Erdschultern;1;398750;400000
-32751;Muster: Lebendige Erdschultern;1;417999;417999
 22577;Schattenpartikel;1;6553;8654
 16710;Armschienen der Schattenkunst;1;65669;80000
 2452;Flitzdistel;20;20000;20000
@@ -176,8 +143,6 @@
 12975;Ausgrabungsleiteraxt;1;23307;40000
 8170;Unverwüstliches Leder;12;55000;60000
 22542;Formel: Stiefel - Vitalität;1;445000;450000
-4235;Schwerer Balg;2;130600;140000
-4235;Schwerer Balg;2;121598;151998
 22851;Fläschchen der Stärkung;1;114000;124000
 22851;Fläschchen der Stärkung;1;114000;124000
 22851;Fläschchen der Stärkung;1;114000;124000
@@ -234,26 +199,16 @@
 8191;Schildkrötenschuppenhelm;1;19999;20000
 8191;Schildkrötenschuppenhelm;1;19999;20000
 16655;Schredderanleitung - Seite 11;1;30000;50000
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;17;314500;452880
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
 32062;Elixier der erheblichen Seelenstärke;5;143975;144900
 32062;Elixier der erheblichen Seelenstärke;5;143975;144900
 32062;Elixier der erheblichen Seelenstärke;6;101250;110000
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
 12990;Messers Schneide;1;33000;49000
 12990;Messers Schneide;1;34583;40150
 12990;Messers Schneide;1;40149;40149
 12984;Himmelrufer;1;3034;10000
-7075;Erdenkern;1;30000;34000
 7075;Erdenkern;2;61200;70000
-7075;Erdenkern;1;30000;34000
 7075;Erdenkern;1;30600;35000
 7075;Erdenkern;2;61200;70000
-7075;Erdenkern;1;30000;34000
-7075;Erdenkern;1;30000;34000
-7075;Erdenkern;1;49126;54584
-7075;Erdenkern;1;49126;54584
 8193;Hose des Nachtschleichers;1;22999;23000
 8193;Hose des Nachtschleichers;1;22999;23000
 8193;Hose des Nachtschleichers;1;22999;23000
@@ -276,13 +231,7 @@
 3174;Spinnensekret;1;11011;12057
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;429999;429999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;398750;410000
 14344;Großer glänzender Splitter;6;527450;533322
 14344;Großer glänzender Splitter;5;400500;413500
 14344;Großer glänzender Splitter;1;87908;88887

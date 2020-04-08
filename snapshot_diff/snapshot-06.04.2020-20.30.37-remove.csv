@@ -34,10 +34,6 @@
 9233;Elixier der Dämonenentdeckung;3;5858;6509
 23100;Glitzernder Flammenspessarit;1;16947;21184
 23100;Glitzernder Flammenspessarit;1;16947;21184
-23100;Glitzernder Flammenspessarit;1;15619;19524
-23100;Glitzernder Flammenspessarit;1;13750;19523
-23100;Glitzernder Flammenspessarit;1;15619;19524
-23100;Glitzernder Flammenspessarit;1;15619;19524
 23100;Glitzernder Flammenspessarit;1;16947;21184
 23100;Glitzernder Flammenspessarit;1;16947;21184
 19183;Stundenglassand;4;180000;200000
@@ -61,15 +57,6 @@
 7428;Schattenkatzenbalg;3;2210;2763
 3864;Citrin;15;18000;100000
 3864;Citrin;2;9877;10975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;10;162500;165000
 24868;Blutritterschulterstücke;1;53186;75000
 6364;32-pfündiger Wels;1;15604423;17338248
 2835;Rauer Stein;20;7736;8020
@@ -96,8 +83,6 @@
 22448;Kleiner Prismasplitter;1;59531;75914
 16220;Formel: Stiefel - Willenskraft;1;996000;1000000
 2824;Hurrikan;1;59999;60000
-23793;Schweres Knotenhautleder;20;797500;799900
-23793;Schweres Knotenhautleder;20;797500;799900
 22527;Kern der Elemente;2;11916;14896
 2319;Mittleres Leder;9;19173;23967
 20748;Hervorragendes Manaöl;1;174999;174999
@@ -128,18 +113,6 @@
 15415;Blaue Drachenschuppe;1;4753;5281
 7079;Kugel des Wassers;1;8953;9948
 25686;Teufelslederstiefel;1;409293;600000
-22575;Lebenspartikel;5;53000;80000
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;3;77733;97167
-22576;Manapartikel;8;160000;168000
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;1;10600;20000
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;1;18954;20999
-22576;Manapartikel;5;53000;80000
 24980;Häscherschulterklappen;1;49873;55900
 22451;Urluft;1;248300;250000
 22451;Urluft;1;248300;250000
@@ -210,14 +183,6 @@
 8951;Elixier der großen Verteidigung;10;19900;24900
 11018;Erde von Un'Goro;26;36025;45032
 8838;Sonnengras;18;25020;28000
-22577;Schattenpartikel;10;25493;31800
-22577;Schattenpartikel;3;7648;9560
-22577;Schattenpartikel;10;16000;30000
-22577;Schattenpartikel;1;4000;4500
-22577;Schattenpartikel;3;12639;14043
-22577;Schattenpartikel;1;6553;8654
-22577;Schattenpartikel;5;27692;34615
-22577;Schattenpartikel;2;2300;4100
 2772;Eisenerz;15;6264;7830
 2772;Eisenerz;20;12032;17040
 2772;Eisenerz;20;12032;17040
@@ -237,50 +202,15 @@
 6661;Rezept: Pikantes Deviat Supreme;1;799999;999999
 25263;Geräuschlose Assassinenarmbrust;1;74268;120000
 3820;Würgetang;20;8000;12000
-22825;Elixier der Heilkraft;2;67500;69900
 22825;Elixier der Heilkraft;20;599999;600000
 22825;Elixier der Heilkraft;20;599999;600000
 22825;Elixier der Heilkraft;20;599999;600000
-22825;Elixier der Heilkraft;7;165200;278600
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;1;33750;33999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;749999;774999
-22825;Elixier der Heilkraft;20;580000;580000
-22825;Elixier der Heilkraft;20;580000;580000
 9036;Magiewiderstandstrank;5;230495;240495
 9036;Magiewiderstandstrank;5;230495;240495
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;119999;127799
-22851;Fläschchen der Stärkung;1;121000;128000
 22851;Fläschchen der Stärkung;1;119999;128899
 22851;Fläschchen der Stärkung;1;119999;128899
 22851;Fläschchen der Stärkung;1;119999;128899
 22851;Fläschchen der Stärkung;1;119999;128899
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;119999;124499
-22851;Fläschchen der Stärkung;1;119999;124499
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;119999;124999
-22851;Fläschchen der Stärkung;1;119999;124999
-22851;Fläschchen der Stärkung;1;119999;124999
 11404;Böses Fledermausauge;1;4392;4880
 9155;Arkanes Elixier;20;16660;21560
 9155;Arkanes Elixier;20;16660;21560
@@ -300,9 +230,6 @@
 6657;Pikantes Deviat Supreme;10;179000;189000
 6657;Pikantes Deviat Supreme;10;179000;189000
 6657;Pikantes Deviat Supreme;10;179000;189000
-22578;Wasserpartikel;3;57000;60000
-22578;Wasserpartikel;1;26871;27772
-22578;Wasserpartikel;3;50952;56613
 22578;Wasserpartikel;9;75400;95500
 9154;Elixier der Untotenentdeckung;4;5863;6515
 22840;Elixier des erheblichen Magierbluts;20;399999;439999

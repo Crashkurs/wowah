@@ -94,9 +94,6 @@
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24217;Vorlage: Robuster Talasit;1;575000;588800
-24217;Vorlage: Robuster Talasit;1;555000;600000
-24217;Vorlage: Robuster Talasit;1;699999;699999
-24217;Vorlage: Robuster Talasit;1;541147;641148
 6149;Großer Manatrank;5;10900;20000
 6149;Großer Manatrank;5;10900;20000
 6149;Großer Manatrank;5;10900;20000
@@ -110,9 +107,7 @@
 29460;Gefängnisschlüssel des Astraleums;1;118052;119866
 29460;Gefängnisschlüssel des Astraleums;1;118052;119866
 27671;Bussardfleisch;5;2520;2605
-24212;Vorlage: Königliches Nachtauge;1;245000;250000
 24212;Vorlage: Königliches Nachtauge;1;245000;245500
-24212;Vorlage: Königliches Nachtauge;1;280000;300000
 25901;Bemerkenswerter Erdsturmdiamant;1;950000;957500
 13054;Gevatter Tod;1;33549;37277
 24027;Klobiger lebendiger Rubin;1;280000;283500
@@ -145,14 +140,8 @@
 23793;Schweres Knotenhautleder;4;170000;179999
 23793;Schweres Knotenhautleder;4;170000;179999
 23793;Schweres Knotenhautleder;4;170000;179999
-4461;Raptorbalg;6;1801;2002
-4461;Raptorbalg;1;300;333
 4461;Raptorbalg;7;31338;41673
 4461;Raptorbalg;3;604;756
-4461;Raptorbalg;8;1990;2100
-4461;Raptorbalg;3;604;756
-4461;Raptorbalg;7;1657;2072
-4461;Raptorbalg;6;1801;2002
 29157;Goldring der Macht;1;19670;24078
 29157;Goldring der Macht;1;19670;24078
 29157;Goldring der Macht;1;19670;24078
@@ -224,11 +213,6 @@
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
 24214;Vorlage: Mächtiger Edeltopas;1;290000;320000
 24214;Vorlage: Mächtiger Edeltopas;1;204800;206000
-24210;Vorlage: Unbeständiges Nachtauge;1;299999;499999
-24210;Vorlage: Unbeständiges Nachtauge;1;299999;499999
-24210;Vorlage: Unbeständiges Nachtauge;1;699999;699999
-24210;Vorlage: Unbeständiges Nachtauge;1;699999;699999
-24210;Vorlage: Unbeständiges Nachtauge;1;330000;390000
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
@@ -245,26 +229,16 @@
 22576;Manapartikel;1;10600;20000
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
-15772;Muster: Teufelssauriergamaschen;1;11250;27500
 15772;Muster: Teufelssauriergamaschen;1;38400;48000
 29158;Echtsilberring des Kommandanten;1;71360;86600
 29158;Echtsilberring des Kommandanten;1;25776;30862
 29158;Echtsilberring des Kommandanten;1;25776;30862
 24937;Dunkelkammstulpen;1;30970;40000
-6308;Roher Stoppelfühlerwels;20;2912;3640
-6308;Roher Stoppelfühlerwels;6;873;1092
-23436;Lebendiger Rubin;1;274000;274000
-23436;Lebendiger Rubin;1;274000;274000
-23436;Lebendiger Rubin;1;274000;274000
-23436;Lebendiger Rubin;1;274000;274000
 23436;Lebendiger Rubin;1;266928;273993
 15737;Muster: Schimärenstiefel;1;6203;7754
 24207;Vorlage: Kompakter Dämmerstein;1;165000;200000
 24207;Vorlage: Kompakter Dämmerstein;1;356811;446014
 24207;Vorlage: Kompakter Dämmerstein;1;211680;264600
-24201;Vorlage: Irisierender Stern der Elune;1;121600;152000
-24201;Vorlage: Irisierender Stern der Elune;1;155000;160000
-24201;Vorlage: Irisierender Stern der Elune;1;181471;201635
 11734;Buchband der Hartnäckigkeit;1;440100;880000
 11178;Großer strahlender Splitter;10;291200;306500
 13099;Mokassins des Weißen Hasen;1;19000;39000
@@ -391,7 +365,6 @@
 20520;Dunkelrune;1;189999;199999
 20520;Dunkelrune;1;189999;199999
 20520;Dunkelrune;1;189999;199999
-24222;Dolch des schleichenden Todes;1;76315;88888
 24222;Dolch des schleichenden Todes;1;97898;108776
 24058;Gravierter Edeltopas;1;180000;185000
 24058;Gravierter Edeltopas;1;180000;185000
@@ -523,7 +496,6 @@
 29539;Kobraschuppen;2;306000;323000
 29539;Kobraschuppen;2;306000;323000
 29539;Kobraschuppen;2;306000;323000
-13119;Verzauberte Kodoarmschienen;1;4594;6000
 13119;Verzauberte Kodoarmschienen;1;7305;10039
 13119;Verzauberte Kodoarmschienen;1;7305;10039
 27681;Phasenverschobenes Fleisch;5;16500;22000

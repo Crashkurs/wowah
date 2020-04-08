@@ -12,7 +12,6 @@
 31910;Delirium Ass;1;47155;52394
 23629;Pläne: Teufelsstahllangschwert;1;150000;155000
 23629;Pläne: Teufelsstahllangschwert;1;140000;150000
-23425;Adamantiterz;20;185000;190000
 23425;Adamantiterz;10;99930;124940
 23425;Adamantiterz;10;99930;124940
 23425;Adamantiterz;10;99930;124940
@@ -20,33 +19,8 @@
 23425;Adamantiterz;10;99930;124940
 23425;Adamantiterz;10;99930;124940
 23425;Adamantiterz;10;99930;124940
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;185000;190000
 23425;Adamantiterz;10;99930;124940
-23425;Adamantiterz;20;185000;190000
-23425;Adamantiterz;20;171600;192000
-23425;Adamantiterz;20;171600;192000
 19821;Durchstochene Voodoopuppe;1;326762;408453
-23633;Pläne: Runenverzierter Hammer;1;20000;150000
-23633;Pläne: Runenverzierter Hammer;1;120000;130000
-23633;Pläne: Runenverzierter Hammer;1;180000;199800
-23633;Pläne: Runenverzierter Hammer;1;179999;199999
 23633;Pläne: Runenverzierter Hammer;1;180000;200000
 20404;Verschlüsselter Schattenhammertext;2;20965;23295
 20404;Verschlüsselter Schattenhammertext;5;49995;57995
@@ -73,8 +47,6 @@
 21877;Netherstoff;4;7219;9024
 21877;Netherstoff;20;36096;45120
 21877;Netherstoff;20;24000;34900
-21877;Netherstoff;20;35000;35000
-21877;Netherstoff;20;35000;35000
 13491;Rezept: Elixier des Mungos;1;69500;78900
 8272;Ebenholzschulterpolster;1;20545;41000
 22450;Kristall der Leere;12;920100;929900
@@ -85,59 +57,15 @@
 5469;Schreiterfleisch;4;12419;15524
 14447;Hochgeborenenfußpolster;1;28163;35204
 24206;Vorlage: Schimmernder Dämmerstein;1;30000;0
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;65;584176;649085
-30809;Mal des Sargeras;68;550400;600000
-30809;Mal des Sargeras;10;70000;100000
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;8;52400;80000
 30809;Mal des Sargeras;6;51800;68000
-30809;Mal des Sargeras;10;100000;107990
-30809;Mal des Sargeras;10;100000;107990
-30809;Mal des Sargeras;10;100000;107990
-30809;Mal des Sargeras;10;100000;107990
-30809;Mal des Sargeras;10;100000;107990
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;1;10300;20000
-30809;Mal des Sargeras;80;758000;799000
-30809;Mal des Sargeras;3;20900;30000
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;11;93300;124900
-30809;Mal des Sargeras;5;49999;55000
 4733;Schwarzschmiedeschulterstücke;1;11935;24000
 21864;Seelenstoffschultern;1;796175;995219
 21864;Seelenstoffschultern;1;796175;995219
-21876;Urmondstofftasche;1;3025000;3050000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2750000;2755000
 21876;Urmondstofftasche;1;3100000;3150000
 24209;Vorlage: Stattliches Nachtauge;1;287566;359458
-24209;Vorlage: Stattliches Nachtauge;1;302701;378377
 3612;Pläne: Grüne Eisenstulpen;1;18071;22589
 8315;Alabasterplattengurt;1;20213;22459
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;269999;299999
-23636;Pläne: Todeslied;1;180000;250000
-23636;Pläne: Todeslied;1;310000;320000
 23636;Pläne: Todeslied;1;273158;303509
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;258039;285154
 23810;Bauplan: Krachbummroboter;1;28177;33752
 23810;Bauplan: Krachbummroboter;1;28177;33752
 5504;Würziges Muschelfleisch;1;100;2000
@@ -160,17 +88,6 @@
 22834;Elixier der erheblichen Verteidigung;5;23530;83060
 22834;Elixier der erheblichen Verteidigung;5;23530;83060
 22834;Elixier der erheblichen Verteidigung;5;23530;83060
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;1;5700;7125
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;73000;80000
-30810;Siegel des Sonnenzorns;13;91000;97500
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
 8266;Ebenholzumhang;1;25774;28638
 24117;Zärtliche Morgenröte;1;479900;555500
 24117;Zärtliche Morgenröte;1;479900;555500
@@ -209,49 +126,14 @@
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;169900;173875
-22839;Zerstörungstrank;5;169900;173875
-22839;Zerstörungstrank;5;169900;173875
 22839;Zerstörungstrank;5;162500;172500
 22839;Zerstörungstrank;5;162500;172500
 22839;Zerstörungstrank;5;162500;172500
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;159999;173999
-22839;Zerstörungstrank;5;174999;199999
 23781;Elementarsprengpulver;1;18629;19588
 23781;Elementarsprengpulver;1;1600;2000
 19269;Elementar 2;1;89998;89999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
 32428;Herz der Dunkelheit;20;600000;800000
 32428;Herz der Dunkelheit;20;600000;800000
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
 24217;Vorlage: Robuster Talasit;1;541147;641148
 29533;Kobrahautbeinrüstung;1;1434999;1434999
 29533;Kobrahautbeinrüstung;1;1434999;1434999
@@ -266,8 +148,6 @@
 18335;Makelloser schwarzer Diamant;1;180100;220000
 14419;Seidensandarmschienen;1;29000;30000
 24169;Vorlage: Auge der Nacht;1;55000;80000
-24169;Vorlage: Auge der Nacht;1;110000;110000
-24169;Vorlage: Auge der Nacht;1;110000;110000
 24169;Vorlage: Auge der Nacht;1;55000;80000
 13040;Herzsuchende Armbrust;1;63579;70644
 14459;Elunarischer Umhang;1;38872;43192
@@ -512,52 +392,12 @@
 32836;Geläuterte Schattenperle;1;530000;530000
 32836;Geläuterte Schattenperle;1;530000;530000
 13035;Schlangenschnitzler;1;40351;44834
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;209967;209983
-22451;Urluft;1;166000;170000
-22451;Urluft;1;166000;170000
-22451;Urluft;1;209967;209983
 22451;Urluft;1;166000;170000
 22451;Urluft;1;166000;170000
 22451;Urluft;1;166000;170000
-22451;Urluft;1;175000;180000
 22451;Urluft;1;166000;170000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;175000;180000
-22451;Urluft;1;196000;199999
+22451;Urluft;1;166000;170000
+22451;Urluft;1;166000;170000
 12731;Makelloser Balg der Bestie;1;999999;1299999
 12731;Makelloser Balg der Bestie;1;999999;1299999
 12728;Pläne: Unverwundbarer Panzer;1;3133667;3917084
@@ -676,8 +516,6 @@
 7357;Ältestenhut;1;30000;60000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;2571
 5787;Muster: Murlocschuppenbrustplatte;1;2056;2571
-4234;Schweres Leder;20;39900;45000
-4234;Schweres Leder;20;39900;45000
 13466;Pestblüte;9;14947;18684
 13029;Umbralkristall;1;16293;18104
 23572;Urnether;1;26011;28901
@@ -751,8 +589,6 @@
 13479;Rezept: Elixier der Weisen;1;8999;13199
 13479;Rezept: Elixier der Weisen;1;8999;13199
 13479;Rezept: Elixier der Weisen;1;8999;13199
-24211;Vorlage: Leuchtendes Nachtauge;1;215000;219900
-24211;Vorlage: Leuchtendes Nachtauge;1;189500;237500
 24211;Vorlage: Leuchtendes Nachtauge;1;230000;250000
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;212899;236555
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;212899;236555
@@ -918,10 +754,6 @@
 27499;Rolle der Intelligenz V;3;17290;19211
 27499;Rolle der Intelligenz V;3;12136;13485
 21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;155000;174900
 21881;Netherweberseide;10;166140;175770
 21881;Netherweberseide;10;166140;175770
 21881;Netherweberseide;10;166140;175770
@@ -931,23 +763,7 @@
 21881;Netherweberseide;10;166140;175770
 21881;Netherweberseide;10;166140;175770
 21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;1;17500;19000
-21881;Netherweberseide;1;16000;17500
-21881;Netherweberseide;1;16000;17600
-21881;Netherweberseide;2;35000;38000
-21881;Netherweberseide;1;17500;19000
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
+21881;Netherweberseide;10;166140;175770
 23427;Eterniumerz;10;342584;383230
 23427;Eterniumerz;1;31190;34655
 23427;Eterniumerz;5;359375;400000
@@ -1053,9 +869,6 @@
 17058;Fischöl;20;120000;180000
 17058;Fischöl;9;68748;76387
 3358;Khadgars Schnurrbart;15;3300;3315
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;140998;156665
 13492;Rezept: Läuterungstrank;1;13500;17000
 13492;Rezept: Läuterungstrank;1;19168;23961
 13492;Rezept: Läuterungstrank;1;15600;19500
@@ -1113,47 +926,6 @@
 14344;Großer glänzender Splitter;2;197622;199822
 14344;Großer glänzender Splitter;1;85555;88888
 14344;Großer glänzender Splitter;1;85555;88888
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;1;121875;161000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;303750;323500
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;1;161875;171000
-29539;Kobraschuppen;1;161875;171000
-29539;Kobraschuppen;1;161875;171000
-29539;Kobraschuppen;1;161875;171000
-29539;Kobraschuppen;2;303750;323500
-29539;Kobraschuppen;2;303750;323500
-29539;Kobraschuppen;1;121600;162000
-29539;Kobraschuppen;20;3107500;3150000
-29539;Kobraschuppen;1;121875;161000
-29539;Kobraschuppen;10;1399999;1599999
-29539;Kobraschuppen;20;2970000;3140000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;2;306000;323000
-29539;Kobraschuppen;1;121600;162000
-29539;Kobraschuppen;20;2997500;2999999
-29539;Kobraschuppen;20;3139999;3139999
 29539;Kobraschuppen;1;141875;149900
 29539;Kobraschuppen;1;141875;149900
 29539;Kobraschuppen;1;141875;149900
@@ -1161,15 +933,6 @@
 29539;Kobraschuppen;1;141875;149900
 29539;Kobraschuppen;1;141875;149900
 29539;Kobraschuppen;2;303750;322000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
-29539;Kobraschuppen;1;141875;150000
 22794;Teufelslotus;20;699999;799999
 22794;Teufelslotus;5;199995;249995
 22794;Teufelslotus;20;600000;690000
@@ -1219,24 +982,7 @@
 29531;Trommeln der Wiederherstellung;1;445000;469000
 29531;Trommeln der Wiederherstellung;1;445000;469000
 29531;Trommeln der Wiederherstellung;1;445000;469000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;17;108256;135320
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;120000;130000
-11176;Traumstaub;20;96864;99980
 11176;Traumstaub;5;18236;22795
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
-11176;Traumstaub;20;96864;99980
 25707;Teufelsbalg;3;28125;30000
 25707;Teufelsbalg;2;19998;19998
 14478;Muster: Hellstoffrobe;1;5250;10000

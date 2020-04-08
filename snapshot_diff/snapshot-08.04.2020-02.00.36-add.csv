@@ -1,6 +1,3 @@
-24165;Vorlage: Eterniumband der Loderflamme;1;82500;89500
-24165;Vorlage: Eterniumband der Loderflamme;1;68020;85025
-24165;Vorlage: Eterniumband der Loderflamme;1;144341;183712
 25057;Bernsteinband;1;238105;250000
 25057;Bernsteinband;1;449999;449999
 16254;Formel: Waffe - Lebensdiebstahl;1;68056;85071
@@ -13,11 +10,7 @@
 23447;Eterniumbarren;15;896250;899900
 22832;Erstklassiger Manatrank;5;145000;150000
 22832;Erstklassiger Manatrank;5;145000;150000
-21877;Netherstoff;20;38900;38900
 21877;Netherstoff;3;3967;4959
-21877;Netherstoff;20;38900;38900
-21877;Netherstoff;20;38900;38900
-21877;Netherstoff;6;7536;9420
 21877;Netherstoff;20;35600;42000
 21877;Netherstoff;20;34000;35000
 21877;Netherstoff;20;34000;35000
@@ -51,18 +44,8 @@
 8167;Schildkrötenschuppe;20;190000;198000
 14204;Distelfellrobe;1;9536;11920
 25071;Tansanitanhänger;1;57157;100000
-32227;Purpurspinell;1;2791956;2892185
-32227;Purpurspinell;1;2965000;2970000
-32227;Purpurspinell;1;2965000;2970000
-32227;Purpurspinell;1;2927200;2931500
-32227;Purpurspinell;1;2965000;2970000
 9908;Königliches Cape;1;10000;30000
 12426;Imperiale Plattenstiefel;1;46961;58702
-23112;Golddraenit;1;22634;35793
-23112;Golddraenit;20;315000;332500
-23112;Golddraenit;1;29999;38899
-23112;Golddraenit;1;29999;38899
-23112;Golddraenit;20;371600;389500
 27676;Seltsame Sporen;20;92000;92000
 27676;Seltsame Sporen;8;22400;23500
 27676;Seltsame Sporen;20;92000;92000
@@ -131,27 +114,15 @@
 22739;Foliant der Verwandlung: Schildkröte;1;12999999;14999999
 6582;Späherstiefel;1;2339;2924
 24077;Dicke Adamantithalskette;1;71082;111000
-13468;Schwarzer Lotus;2;80000;82200
 13468;Schwarzer Lotus;1;35635;44544
 13468;Schwarzer Lotus;1;35635;44544
 13468;Schwarzer Lotus;1;35635;44544
-13468;Schwarzer Lotus;1;41100;41100
 13468;Schwarzer Lotus;1;35635;44544
 13468;Schwarzer Lotus;1;35635;44544
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;20;693600;699999
-13468;Schwarzer Lotus;2;80000;82200
 22834;Elixier der erheblichen Verteidigung;5;23530;85985
 22834;Elixier der erheblichen Verteidigung;5;23530;85985
 31501;Foliant des Essenherbeizauberns VIII;1;199588;200000
-22785;Teufelsgras;20;54999;55599
-22785;Teufelsgras;20;65000;69200
 22785;Teufelsgras;20;15000;0
-22785;Teufelsgras;20;55000;56600
-22785;Teufelsgras;20;55000;56600
-22785;Teufelsgras;20;55000;56600
 24117;Zärtliche Morgenröte;1;422180;467725
 15757;Muster: Tückische Lederhose;1;20000;20000
 25059;Feueropalhalsschmuck;1;60000;70000
@@ -191,13 +162,10 @@
 24950;Sumpfschlägergürtel;1;50000;60000
 9863;Bogenschützenschulterpolster;1;4810;5500
 24922;Grimmschuppenhelm;1;44076;58800
-23781;Elementarsprengpulver;1;6908;8635
-23781;Elementarsprengpulver;1;1600;2000
 22835;Elixier der erheblichen Schattenmacht;20;180000;200000
 22835;Elixier der erheblichen Schattenmacht;5;40000;50000
 24899;Gemarterte Beinschützer;1;67750;89999
 6574;Verteidigungsstarke Armschienen;1;1817;2272
-6574;Verteidigungsstarke Armschienen;1;79900;79900
 27671;Bussardfleisch;1;519;520
 27671;Bussardfleisch;1;519;520
 27671;Bussardfleisch;1;519;520
@@ -213,8 +181,6 @@
 27671;Bussardfleisch;4;4130;4589
 27671;Bussardfleisch;1;519;520
 27671;Bussardfleisch;1;519;520
-27671;Bussardfleisch;5;2520;2605
-27671;Bussardfleisch;16;7232;9040
 4562;Abspalteraxt;1;953;1192
 4562;Abspalteraxt;1;953;1192
 4562;Abspalteraxt;1;953;1192
@@ -244,24 +210,6 @@
 19712;Lila Schmuckstück der Hakkari;1;131400;140000
 19712;Lila Schmuckstück der Hakkari;1;131400;140000
 19712;Lila Schmuckstück der Hakkari;1;131400;140000
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;8;133128;135992
-22445;Arkaner Staub;8;133128;135992
-22445;Arkaner Staub;8;133128;135992
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;13;153673;154856
 22445;Arkaner Staub;20;320100;340000
 22445;Arkaner Staub;20;320100;340000
 22445;Arkaner Staub;20;320100;340000
@@ -272,24 +220,6 @@
 22445;Arkaner Staub;20;320100;340000
 22445;Arkaner Staub;20;320100;340000
 22445;Arkaner Staub;20;320100;340000
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;20;330100;340000
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;20;236420;238240
-22445;Arkaner Staub;20;236420;238240
-22445;Arkaner Staub;20;236420;238240
-22445;Arkaner Staub;12;145910;152388
-22445;Arkaner Staub;20;250000;250000
-22445;Arkaner Staub;20;300100;310000
-22445;Arkaner Staub;20;300100;310000
-22445;Arkaner Staub;20;236420;238240
 24105;Geröstete Mondweidenlenden;11;1300;1375
 24105;Geröstete Mondweidenlenden;17;1900;2125
 25104;Paradedolch;1;46787;53484
@@ -381,27 +311,6 @@
 23786;Khoriumkraftkern;1;338000;350000
 23786;Khoriumkraftkern;1;338000;350000
 24968;Krallenwachenrüstung;1;67032;83790
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;6;515010;572233
 14227;Eisenweberseide;1;80000;80000
 14227;Eisenweberseide;1;80000;80000
 14227;Eisenweberseide;1;80000;80000
@@ -410,8 +319,6 @@
 13454;Großes Arkanelixier;5;20000;30000
 6522;Deviatfisch;20;100120;200000
 14190;Regenmacherweste;1;20000;30000
-23766;Geeichtes Eterniumzielfernrohr;1;1965806;1966003
-23766;Geeichtes Eterniumzielfernrohr;1;1950000;1966200
 23766;Geeichtes Eterniumzielfernrohr;1;1947099;1955099
 22909;Rezept: Elixier der erheblichen Verteidigung;1;275000;300000
 25040;Finsterblutcape;1;270000;330000
@@ -419,10 +326,6 @@
 4500;Reiserucksack;1;59500;59500
 22836;Erheblicher Trank des traumlosen Schlafs;1;11400;14250
 22836;Erheblicher Trank des traumlosen Schlafs;1;11400;14250
-32229;Löwenauge;1;1450000;1460000
-32229;Löwenauge;1;1450000;1460000
-32229;Löwenauge;1;1450000;1460000
-32229;Löwenauge;1;1450000;1460000
 10071;Rechtschaffener Umhang;1;19822;24778
 14375;Blutrote Manschetten;1;1689;2112
 14215;Vitale Tunika;1;11223;14029
@@ -432,69 +335,13 @@
 32836;Geläuterte Schattenperle;1;395199;493999
 32836;Geläuterte Schattenperle;1;499999;519999
 32836;Geläuterte Schattenperle;1;499999;519999
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179877;179888
-22451;Urluft;10;2065400;2099400
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;1;179963;179981
-22451;Urluft;10;2065400;2099400
-22451;Urluft;10;2065400;2099400
-22451;Urluft;10;2065400;2099400
-22451;Urluft;10;2065400;2099400
-22451;Urluft;10;2065400;2099400
-22451;Urluft;1;179877;179888
-22451;Urluft;10;2065400;2099400
-22451;Urluft;10;2065400;2099400
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;206540;209940
-22451;Urluft;1;179877;179888
-22451;Urluft;1;179877;179888
 24990;Totschlägergürtel;1;499999;499999
 24937;Dunkelkammstulpen;1;30970;40000
 14743;Titanische Bänder;1;2587;3234
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;5;805000;1000000
-23436;Lebendiger Rubin;1;207500;219000
-23436;Lebendiger Rubin;1;207500;219000
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;208000;219500
-23436;Lebendiger Rubin;1;220000;220000
 23436;Lebendiger Rubin;1;269999;273399
 23436;Lebendiger Rubin;1;269999;273399
 23436;Lebendiger Rubin;1;225000;230000
 23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;225000;230000
-23436;Lebendiger Rubin;1;273344;273999
 24957;Sumpfschlägerarmschienen;1;32853;50000
 32228;Engelssaphir;1;315000;320000
 32228;Engelssaphir;1;330000;350000
@@ -542,18 +389,6 @@
 8178;Ausbildungsschwert;1;979;1224
 9871;Renegatengamaschen;1;8868;11086
 9871;Renegatengamaschen;1;10000;20000
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;5;17495;18740
 21790;Saphiranhänger der Winternacht;1;50000;70900
 21790;Saphiranhänger der Winternacht;1;50000;70900
 21790;Saphiranhänger der Winternacht;1;50000;70900
@@ -567,7 +402,6 @@
 12364;Gewaltiger Smaragd;1;69999;89999
 12364;Gewaltiger Smaragd;1;69999;89999
 12364;Gewaltiger Smaragd;1;69999;89999
-12364;Gewaltiger Smaragd;1;41384;45983
 12364;Gewaltiger Smaragd;1;69999;89999
 12364;Gewaltiger Smaragd;1;69999;89999
 12364;Gewaltiger Smaragd;1;69999;89999
@@ -639,31 +473,19 @@
 9811;Befestigte Armschienen;1;79900;79900
 16113;Handbuch: Magiestoffverband;1;31875;50000
 16113;Handbuch: Magiestoffverband;1;30000;49900
-23437;Talasit;1;25839;32299
-23437;Talasit;1;25839;32299
-23437;Talasit;2;67998;67998
-23437;Talasit;2;67998;67998
-23437;Talasit;20;600000;0
 13479;Rezept: Elixier der Weisen;1;8999;13199
 6578;Verteidigungsstarke Gamaschen;1;24000;60000
 9841;Bebänderte Gamaschen;1;49521;52652
-16243;Formel: Runenverzierte Arkanitrute;1;289999;299999
-22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
-22854;Fläschchen des unerbittlichen Angriffs;1;169000;169900
 22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
 22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
 22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
 22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
-22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
-22854;Fläschchen des unerbittlichen Angriffs;2;340500;359000
-22854;Fläschchen des unerbittlichen Angriffs;1;169000;169900
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;179500
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;179500
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;179500
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;179500
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;180000
-22854;Fläschchen des unerbittlichen Angriffs;1;169000;169900
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;180000
 22854;Fläschchen des unerbittlichen Angriffs;1;179999;180000
@@ -763,26 +585,6 @@
 22838;Hasttrank;5;209532;218015
 14228;Glutseidenkronenreif;1;11392;14240
 23445;Teufelseisenbarren;20;170000;195000
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;2;22286;23886
-16204;Illusionsstaub;2;22286;23886
-16204;Illusionsstaub;2;22286;23886
-16204;Illusionsstaub;2;22286;23886
-16204;Illusionsstaub;4;44572;47772
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;2;18000;20000
-16204;Illusionsstaub;4;44572;47772
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;4;44572;47772
-16204;Illusionsstaub;6;66858;71658
-16204;Illusionsstaub;6;66858;71658
-16204;Illusionsstaub;6;66858;71658
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;1;11143;11943
-16204;Illusionsstaub;1;11143;11943
 22578;Wasserpartikel;1;16871;17999
 22578;Wasserpartikel;1;12201;13023
 22578;Wasserpartikel;1;12000;15000
@@ -836,9 +638,7 @@
 24882;Der'izuhelm;1;101546;126933
 3067;Helle Hose;1;4080;5100
 6584;Spähertunika;1;4531;5664
-6584;Spähertunika;1;3924;4500
 10036;Smokingjacke;1;160000;550000
-16224;Formel: Umhang - Überragende Verteidigung;1;259999;279999
 25055;Alexandritring;1;898049;1122562
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
@@ -879,13 +679,6 @@
 12365;Verdichteter Stein;20;49999;49999
 12365;Verdichteter Stein;20;49999;49999
 6512;Jüngerrobe;1;10000;15000
-23784;Adamantitrahmen;1;63500;79000
-23784;Adamantitrahmen;1;63000;63500
-23784;Adamantitrahmen;1;63000;63500
-23784;Adamantitrahmen;1;63000;63500
-23784;Adamantitrahmen;1;63000;63500
-23784;Adamantitrahmen;1;63500;79000
-23784;Adamantitrahmen;1;63644;79555
 24978;Häscherhelm;1;391999;489999
 25049;Scheelitring;1;30000;40000
 25158;Skelettbreitschwert;1;108022;120000
@@ -947,7 +740,6 @@
 11139;Großer leuchtender Splitter;1;2583;3229
 11139;Großer leuchtender Splitter;3;5166;6458
 11139;Großer leuchtender Splitter;3;2583;3229
-11139;Großer leuchtender Splitter;1;2200;3300
 11139;Großer leuchtender Splitter;5;12916;16145
 11139;Großer leuchtender Splitter;2;5166;6458
 11139;Großer leuchtender Splitter;1;2583;3229
@@ -962,27 +754,18 @@
 24078;Schwerer Adamantitring;1;82475;103094
 3047;Züngelnde Schuppenhandschuhe;1;3998;4998
 24965;Khan'aisharmschienen;1;119662;149578
-8169;Dicker Balg;3;1444;1806
 8169;Dicker Balg;1;1034;1341
 8169;Dicker Balg;1;1034;1341
 8169;Dicker Balg;1;1034;1341
 8169;Dicker Balg;1;1034;1341
 8169;Dicker Balg;1;1034;1341
 8169;Dicker Balg;1;1034;1341
-8169;Dicker Balg;7;7324;8138
-8169;Dicker Balg;7;6144;6827
-8169;Dicker Balg;8;7022;7802
-8169;Dicker Balg;2;963;1204
-8169;Dicker Balg;4;1596;1996
-8169;Dicker Balg;10;3990;4990
-8169;Dicker Balg;10;3990;4990
 8169;Dicker Balg;1;1034;1341
 32897;Mal der Illidari;250;1880100;1990000
 14165;Heidenkniehosen;1;26623;30274
 13486;Rezept: Untod zu Wasser transmutieren;1;71238;89048
 14198;Distelfellumhang;1;10000;20000
 13463;Traumblatt;8;60416;68072
-13463;Traumblatt;20;93856;117320
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;59999;88899
 24066;Strahlender Talasit;1;45000;89900
@@ -1011,26 +794,10 @@
 10051;Rote Magiestofftasche;1;11248;14060
 24168;Vorlage: Geflochtene Eterniumkette;1;134680;169644
 24168;Vorlage: Geflochtene Eterniumkette;1;110000;110000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;20;700000;725000
-29548;Netherdrachenschuppe;1;27549;34437
 29548;Netherdrachenschuppe;2;69000;73500
 29548;Netherdrachenschuppe;2;69000;73500
 29548;Netherdrachenschuppe;2;69000;73500
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
 29548;Netherdrachenschuppe;2;69000;73500
-29548;Netherdrachenschuppe;20;705000;744000
-29548;Netherdrachenschuppe;20;705000;744000
-29548;Netherdrachenschuppe;4;140000;148000
-29548;Netherdrachenschuppe;4;140000;148000
 16039;Ta'Kierthan Arkanklinge;1;153598;159500
 11152;Formel: Handschuhe - Angeln;1;159516;176021
 29506;Handschuhe der lebendigen Berührung;1;3911220;3920000
@@ -1038,8 +805,6 @@
 23449;Khoriumbarren;4;325000;359900
 16218;Formel: Armschiene - Überragende Willenskraft;1;45250;150000
 23787;Teufelsstahlstabilisator;1;198000;199900
-23787;Teufelsstahlstabilisator;1;222944;234604
-23787;Teufelsstahlstabilisator;1;222984;278730
 27667;Würziger Flusskrebs;1;5980;6450
 27667;Würziger Flusskrebs;20;94500;100000
 27667;Würziger Flusskrebs;20;94500;100000
@@ -1065,7 +830,6 @@
 11144;Echtsilberrute;1;25000;25000
 11144;Echtsilberrute;1;25000;25000
 11144;Echtsilberrute;1;25000;25000
-11144;Echtsilberrute;1;23500;24500
 11144;Echtsilberrute;1;1500;44000
 10285;Schattenseide;2;2948;7002
 10285;Schattenseide;1;1430;1430
@@ -1087,8 +851,6 @@
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;89999;99999
-24067;Gezackter Talasit;1;89999;99999
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000

@@ -8,19 +8,10 @@
 13467;Eiskappe;14;8050;10000
 2878;Hakenknochenaxt;1;17714;20000
 24883;Der'izubeinschützer;1;70000;83086
-21929;Flammenspessarit;1;18899;19999
 21929;Flammenspessarit;8;39664;49580
-21929;Flammenspessarit;20;90000;119999
-21929;Flammenspessarit;1;18899;19999
-21929;Flammenspessarit;20;90000;119999
-21929;Flammenspessarit;20;90000;119999
 21929;Flammenspessarit;20;181818;191919
-21929;Flammenspessarit;1;2978;3723
-21929;Flammenspessarit;5;18750;25500
 21929;Flammenspessarit;20;99560;125200
-21929;Flammenspessarit;1;18899;19999
 21929;Flammenspessarit;2;15600;19500
-21929;Flammenspessarit;1;18899;19999
 21877;Netherstoff;20;34000;40000
 22449;Großer Prismasplitter;5;879999;949950
 22449;Großer Prismasplitter;5;879999;949950
@@ -118,8 +109,6 @@
 23079;Tiefenperidot;1;7900;8400
 23079;Tiefenperidot;1;7900;8400
 23079;Tiefenperidot;1;7900;8400
-24032;Fragiler lebendiger Rubin;1;125000;149900
-24032;Fragiler lebendiger Rubin;1;125000;149900
 2840;Kupferbarren;9;20135;35000
 2840;Kupferbarren;20;59199;74999
 2840;Kupferbarren;20;70300;72000
@@ -137,32 +126,18 @@
 11302;Uthers Kraft;1;80000;110000
 24801;Drachenfalkenhandschuhe;1;80000;90000
 21902;Muster: Seelenstoffhandschuhe;1;389999;399999
-23120;Stürmischer Azurmondstein;1;15897;17664
 23120;Stürmischer Azurmondstein;1;15550;16600
 23120;Stürmischer Azurmondstein;1;15550;16600
-23120;Stürmischer Azurmondstein;1;13750;15500
 23120;Stürmischer Azurmondstein;1;15550;16600
-23120;Stürmischer Azurmondstein;1;13750;15500
-23120;Stürmischer Azurmondstein;1;14499;15599
-23120;Stürmischer Azurmondstein;1;13399;14499
 23199;Totem des Sturms;1;222200;225000
 23199;Totem des Sturms;1;236500;249500
 23199;Totem des Sturms;1;223712;250000
 24839;Zornflossenschienbeinschützer;1;41430;99900
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
-29740;Teuflische Waffen;10;1950000;1990000
 13464;Goldener Sansam;1;19950;20000
 13464;Goldener Sansam;4;70000;85000
 24916;Nethersturmschulterschutz;1;92905;240000
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
 31303;Valanos' Langbogen;1;146736;183421
-31303;Valanos' Langbogen;1;139399;174249
 2589;Leinenstoff;20;390;0
 2589;Leinenstoff;20;390;0
 2589;Leinenstoff;20;390;0
@@ -173,29 +148,13 @@
 23119;Funkelnder Azurmondstein;1;7400;7959
 23119;Funkelnder Azurmondstein;1;7400;7959
 23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;5745;7182
-23119;Funkelnder Azurmondstein;1;6049;7562
 25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
 22446;Große Planaressenz;1;113999;114999
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;10;1000000;1000000
-22446;Große Planaressenz;10;1000000;1000000
-22446;Große Planaressenz;10;1000000;1000000
-22446;Große Planaressenz;10;1000000;1000000
-22446;Große Planaressenz;10;1000000;1000000
 22446;Große Planaressenz;1;106500;113000
 22446;Große Planaressenz;1;106500;113000
-22446;Große Planaressenz;10;1029673;1144081
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;1;106500;113000
@@ -216,8 +175,6 @@
 22446;Große Planaressenz;10;850000;1000000
 23137;Vorlage: Glitzernder Flammenspessarit;1;192500;200000
 2997;Wollstoffballen;10;3200;4000
-27674;Felshetzerfleisch;20;26000;30000
-27674;Felshetzerfleisch;20;26000;30000
 22146;Buch: Gabe der Wildnis III;1;319600;399500
 22146;Buch: Gabe der Wildnis III;1;138972;173716
 22146;Buch: Gabe der Wildnis III;1;150000;158500
@@ -272,20 +229,7 @@
 27498;Rolle der Beweglichkeit V;5;299995;299995
 27498;Rolle der Beweglichkeit V;5;299995;299995
 13025;Vorschlaghammer der Totenwaldfelle;1;22664;27404
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;9065;10000
-23118;Gediegener Azurmondstein;1;7631;9539
 31331;Die Nachtklinge;1;1979936;1989920
-27677;Basiliskbrocken;1;20000;30000
-27677;Basiliskbrocken;2;20600;30000
 27677;Basiliskbrocken;1;30643;34048
 27677;Basiliskbrocken;1;21238;34048
 23153;Vorlage: Funkelnder Azurmondstein;1;198750;200000
@@ -293,12 +237,6 @@
 10120;Verschnörkelter Umhang;1;10000;20000
 25017;Schmetterhandstulpen;1;79964;99956
 31308;Der Überbringer des Todes;1;240000;249999
-31308;Der Überbringer des Todes;1;274889;290000
-31308;Der Überbringer des Todes;1;157333;160000
-31308;Der Überbringer des Todes;1;258511;287235
-31308;Der Überbringer des Todes;1;244889;250000
-31308;Der Überbringer des Todes;1;129900;155000
-31308;Der Überbringer des Todes;1;169600;212000
 22825;Elixier der Heilkraft;20;575000;580000
 22825;Elixier der Heilkraft;20;575000;580000
 24960;Khan'aishbrustplatte;1;70000;83584
@@ -321,81 +259,6 @@
 3860;Mithrilbarren;20;236500;249500
 24845;Zornflossenbindungen;1;94233;99000
 31321;Halsreif der Buße;1;1499997;1499997
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
 22838;Hasttrank;5;219998;219998
 22838;Hasttrank;5;219998;219998
 22838;Hasttrank;5;219998;219998
@@ -408,33 +271,10 @@
 22838;Hasttrank;5;219998;219998
 22838;Hasttrank;5;219998;219998
 22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;197995;197995
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
 11185;Grüner Machtkristall;11;56155;70202
 13015;Serathil;1;68159;70000
 21862;Magieerfüllte Netherstofftunika;1;271655;299990
 31306;Gamaschen des heiligen Wappens;1;100346;150000
-31306;Gamaschen des heiligen Wappens;1;130346;140000
-31306;Gamaschen des heiligen Wappens;1;130346;140000
-31306;Gamaschen des heiligen Wappens;1;106400;133000
 8290;Arkane Robe;1;145473;150000
 21881;Netherweberseide;10;79885;99800
 21881;Netherweberseide;10;79885;99800
@@ -472,30 +312,13 @@
 24987;Felsfaustbeinplatten;1;90999;90999
 22913;Rezept: Hasttrank;1;269999;279999
 22913;Rezept: Hasttrank;1;212799;265999
-24065;Schillernder Talasit;1;79592;91116
-24065;Schillernder Talasit;1;79592;91116
-24065;Schillernder Talasit;1;79592;91116
-24065;Schillernder Talasit;1;69999;89999
 24965;Khan'aisharmschienen;1;119662;149578
 31305;Ceds Schnitzer;1;115520;144400
 31305;Ceds Schnitzer;1;223588;248431
-24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;69900;89900
 24066;Strahlender Talasit;1;69900;89900
-24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;69900;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;45000;89900
 6431;Imperiale Lederstiefel;1;7500;15000
-22153;Foliant der arkanen Brillanz 2;1;195188;243986
-22153;Foliant der arkanen Brillanz 2;1;195188;243986
-22153;Foliant der arkanen Brillanz 2;1;118200;198000
 22153;Foliant der arkanen Brillanz 2;1;150000;170000
 23144;Vorlage: Leuchtender Schattendraenit;1;195000;200000
 22903;Rezept: Trank der Wahnsinnsstärke;1;99999999;100000000
@@ -506,20 +329,9 @@
 21887;Knotenhautleder;20;257500;260000
 21887;Knotenhautleder;20;269980;269980
 27681;Phasenverschobenes Fleisch;5;16500;22000
-27681;Phasenverschobenes Fleisch;2;8000;9000
 22794;Teufelslotus;10;440000;450000
 22794;Teufelslotus;10;440000;450000
 24840;Zornflossenrüstung;1;55198;99900
-22866;Fläschchen des reinen Todes;1;199999;199999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;199800;199900
-22866;Fläschchen des reinen Todes;1;199800;199900
-22866;Fläschchen des reinen Todes;1;199800;199900
-22866;Fläschchen des reinen Todes;1;199800;199900
-22866;Fläschchen des reinen Todes;5;1030000;1049999
-22866;Fläschchen des reinen Todes;5;1030000;1049999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;199999;199999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
@@ -529,7 +341,6 @@
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;199999;199999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
@@ -537,14 +348,8 @@
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;202020;202020
-22866;Fläschchen des reinen Todes;1;202020;202020
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;202020;202020
-22866;Fläschchen des reinen Todes;1;202020;202020
-22866;Fläschchen des reinen Todes;1;202020;202020
+22866;Fläschchen des reinen Todes;1;209999;209999
+22866;Fläschchen des reinen Todes;1;209999;209999
 23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
 24031;Heller lebendiger Rubin;1;259999;299999
 24031;Heller lebendiger Rubin;1;285000;289999
@@ -552,35 +357,6 @@
 21899;Muster: Magieerfüllte Netherstoffstiefel;1;152500;160000
 22890;Foliant des Frostzauberschutzes V;1;39999;49999
 23152;Vorlage: Gediegener Azurmondstein;1;195000;200000
-24033;Gediegener Stern der Elune;1;69000;77000
-24033;Gediegener Stern der Elune;1;69000;77000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;69000;77000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;143400;154945
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;68900;76900
-24033;Gediegener Stern der Elune;1;143400;154945
-24033;Gediegener Stern der Elune;1;65000;70000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;67799;73399
-24033;Gediegener Stern der Elune;1;65000;70000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;69999;77799
 22790;Urflechte;20;51420;58200
 22790;Urflechte;20;51420;58200
 22790;Urflechte;20;51420;58200

@@ -3,9 +3,6 @@
 25057;Bernsteinband;1;449999;449999
 13100;Furens Stiefel;1;14180;17726
 13100;Furens Stiefel;1;13471;16839
-31910;Delirium Ass;1;47155;52394
-31910;Delirium Ass;1;37500;39900
-31910;Delirium Ass;1;29524;37905
 31910;Delirium Ass;1;29524;37905
 31910;Delirium Ass;1;35000;40000
 31910;Delirium Ass;1;34251;38057
@@ -95,7 +92,6 @@
 7909;Aquamarin;1;1500;6800
 24209;Vorlage: Stattliches Nachtauge;1;287566;359458
 24209;Vorlage: Stattliches Nachtauge;1;302701;378377
-13055;Knochenkauer;1;44050;65500
 25301;Zerschmetternder Dolch;1;100000;118182
 32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;226952;230000
@@ -181,29 +177,6 @@
 22557;Formel: Waffe - Meister des Kampfes;1;297841;372302
 13070;Saphirons Schuppenstiefel;1;49200;59000
 25287;Magicuszauberstab;1;70000;83932
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;159996;199996
-32428;Herz der Dunkelheit;20;600000;800000
-32428;Herz der Dunkelheit;20;600000;800000
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
-32428;Herz der Dunkelheit;4;158000;189999
 12682;Pläne: Thoriumrüstung;1;9999;29999
 13082;Berghangbeschützer;1;28452;28499
 13082;Berghangbeschützer;1;38580;42866
@@ -409,7 +382,6 @@
 32063;Erdelixier;10;92500;119900
 32063;Erdelixier;5;89999;99999
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
-13101;Schuhe des Wolfsläufers;1;61477;66600
 13064;Jainas Feuerteufel;1;39256;43618
 12364;Gewaltiger Smaragd;1;35000;42200
 13057;Blutpike;1;9016;11270
@@ -485,14 +457,6 @@
 13049;Claymore des Dekanats;1;13759;15287
 13049;Claymore des Dekanats;1;18992;21102
 24200;Vorlage: Funkelnder Stern der Elune;1;436100;441000
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
-32586;Armschienen des flinken Gedankens;1;4501514;5289982
 32586;Armschienen des flinken Gedankens;1;4499999;4999999
 23437;Talasit;2;87000;89000
 21882;Seelenessenz;20;275000;279900
@@ -544,12 +508,7 @@
 22542;Formel: Stiefel - Vitalität;1;249999;249999
 22542;Formel: Stiefel - Vitalität;1;249999;249999
 22542;Formel: Stiefel - Vitalität;1;249999;249999
-22542;Formel: Stiefel - Vitalität;1;445000;450000
 22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;492800;616000
-22542;Formel: Stiefel - Vitalität;1;342000;427500
-22542;Formel: Stiefel - Vitalität;1;342000;427500
 22542;Formel: Stiefel - Vitalität;1;15000;250000
 22851;Fläschchen der Stärkung;1;119999;127799
 22851;Fläschchen der Stärkung;1;119999;127799
@@ -674,27 +633,11 @@
 22912;Rezept: Heldentrank;1;280000;290000
 13075;Beinschützer der Düsterschwinge;1;40296;45995
 25168;Langschwert der Sha'tari;1;150000;179202
-24035;Funkelnder Stern der Elune;1;65000;85000
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;65000;85000
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;69999;89999
-24035;Funkelnder Stern der Elune;1;65000;85000
-24035;Funkelnder Stern der Elune;1;65000;85000
-24035;Funkelnder Stern der Elune;1;45000;59900
-24035;Funkelnder Stern der Elune;1;65000;85000
-24035;Funkelnder Stern der Elune;1;65000;85000
 24035;Funkelnder Stern der Elune;1;65000;69900
-24035;Funkelnder Stern der Elune;1;45000;59900
 24882;Der'izuhelm;1;101546;126933
 19233;Bestien 5;1;1999999;3499999
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 22710;Blutdistel;9;225000;261000
-31905;Furien 7;1;729280;911600
-31905;Furien 7;1;1099999;1199999
 16224;Formel: Umhang - Überragende Verteidigung;1;227500;279090
 25055;Alexandritring;1;898049;1122562
 24875;Eisenrückenbeinschützer;1;100000;150000
@@ -770,9 +713,6 @@
 13120;Armschienen des tiefen Zorns;1;19184;23538
 13120;Armschienen des tiefen Zorns;1;19184;23538
 13120;Armschienen des tiefen Zorns;1;10000;20000
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;140998;156665
 13126;Kriegsruferstulpen;1;65000;75000
 13126;Kriegsruferstulpen;1;75561;80203
 13063;Sternenregner;1;45933;57703
@@ -844,11 +784,6 @@
 24205;Vorlage: Massiver Dämmerstein;1;287696;359620
 24205;Vorlage: Massiver Dämmerstein;1;585000;650000
 22890;Foliant des Frostzauberschutzes V;1;39999;49999
-13108;Tigerfellmantel;1;40620;45134
-13108;Tigerfellmantel;1;26198;32748
-13108;Tigerfellmantel;1;23643;29554
-13108;Tigerfellmantel;1;22460;28076
-13108;Tigerfellmantel;1;22460;28076
 23152;Vorlage: Gediegener Azurmondstein;1;195000;200000
 24033;Gediegener Stern der Elune;1;160000;185000
 24033;Gediegener Stern der Elune;1;160000;185000

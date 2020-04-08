@@ -178,10 +178,6 @@
 15970;Eingeborenenzweig;1;6000;8000
 4240;Wolltasche;1;4400;4889
 4240;Wolltasche;1;4400;4889
-22529;Wildwedel;4;10000;10000
-22529;Wildwedel;1;2499;2499
-22529;Wildwedel;1;2499;2499
-22529;Wildwedel;9;23505;26117
 2835;Rauer Stein;20;5536;6920
 2934;Verdorbene Lederfetzen;19;10199;10200
 2934;Verdorbene Lederfetzen;20;10210;10300
@@ -240,28 +236,12 @@
 4461;Raptorbalg;6;1801;2002
 4461;Raptorbalg;1;300;333
 4461;Raptorbalg;6;1801;2002
-22527;Kern der Elemente;7;27434;34293
 22527;Kern der Elemente;4;17082;18981
-22527;Kern der Elemente;2;9900;9999
-22527;Kern der Elemente;21;96300;100000
-22527;Kern der Elemente;3;8997;14997
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;51;180789;200877
-22527;Kern der Elemente;2;9021;10023
-22541;Formel: Schild - Widerstand;1;245784;307230
 22541;Formel: Schild - Widerstand;1;599999;599999
-22541;Formel: Schild - Widerstand;1;289512;362891
 10938;Geringe Magieessenz;1;6800;7500
 1263;Hirnhacker;1;137458;152731
 3869;Pläne: Schattensichelaxt;1;8888;9999
 2863;Grober Wetzstein;9;9702;10780
-13110;Schreckenswolfharnisch;1;30000;40000
-13110;Schreckenswolfharnisch;1;52500;53000
-13110;Schreckenswolfharnisch;1;52539;58376
-13110;Schreckenswolfharnisch;1;30000;40000
 897;Irrwolfarmschienen;1;1533;2500
 31187;Stiefel des Pfadfinders;1;90157;108896
 31187;Stiefel des Pfadfinders;1;151005;188757
@@ -339,13 +319,7 @@
 10071;Rechtschaffener Umhang;1;19675;20000
 4298;Muster: Wächtergürtel;1;5000;10000
 2815;Bogenklingenreißer;1;32426;36029
-23120;Stürmischer Azurmondstein;1;15550;16600
-23120;Stürmischer Azurmondstein;1;15550;16600
-23120;Stürmischer Azurmondstein;1;15550;16600
-23120;Stürmischer Azurmondstein;1;14499;15599
 23120;Stürmischer Azurmondstein;1;15599;16699
-23120;Stürmischer Azurmondstein;1;13750;15500
-23120;Stürmischer Azurmondstein;1;13750;15500
 10592;Katzenaugenelixier;2;1922;2136
 10592;Katzenaugenelixier;20;19225;21362
 20950;Anhänger des Achatschilds;1;7636;9545
@@ -360,9 +334,6 @@
 23199;Totem des Sturms;1;330000;340000
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 9842;Bebänderte Schulterstücke;1;8000;10000
-22528;Dunkeleisenfragmente;26;49500;52500
-22528;Dunkeleisenfragmente;44;43200;90000
-22528;Dunkeleisenfragmente;10;20988;23320
 1981;Eispanzerwams;1;41169;50505
 3871;Pläne: Goldene Schuppenschultern;1;8888;11000
 1204;Der grüne Turm;1;120057;133397
@@ -477,27 +448,7 @@
 3685;Raptorei;8;46272;57840
 20745;Schwaches Manaöl;1;11500;20000
 20745;Schwaches Manaöl;1;11500;20000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9999;11199
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9525;11907
 23118;Gediegener Azurmondstein;1;11761;13068
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9999;11199
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9999;10099
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
 13117;Ogrons Schärpe;1;46608;51787
 13117;Ogrons Schärpe;1;46608;51787
 1210;Schattenedelstein;9;6840;8550
@@ -546,14 +497,7 @@
 31196;Amulett der Weihung;1;95788;99000
 31196;Amulett der Weihung;1;82937;98010
 13124;Ravasaurusschuppenstiefel;1;18950;21056
-13124;Ravasaurusschuppenstiefel;1;18848;20943
 31203;Arkanschleife;1;127417;159272
-22542;Formel: Stiefel - Vitalität;1;342000;427500
-22542;Formel: Stiefel - Vitalität;1;342000;427500
-22542;Formel: Stiefel - Vitalität;1;492800;616000
-22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;445000;450000
 22542;Formel: Stiefel - Vitalität;1;15000;250000
 4235;Schwerer Balg;2;160600;169999
 6401;Muster: Dunkles Seidenhemd;1;3400;40000
@@ -572,77 +516,8 @@
 24272;Schattenstoff;1;346000;369000
 20749;Hervorragendes Zauberöl;1;141500;149090
 22838;Hasttrank;5;196500;207499
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
 22838;Hasttrank;5;196500;207499
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;198000;198000
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
 22838;Hasttrank;5;196500;207499
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;188500;199899
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
 22838;Hasttrank;5;197995;197995
 14856;Gurt des Vorposten;1;16252;22222
 11225;Formel: Armschiene - Große Ausdauer;1;72204;80227
@@ -740,7 +615,6 @@
 15518;Stachelkettenbrustplatte;1;20000;30000
 2447;Friedensblume;20;4000;5000
 1982;Nachtklinge;1;100000;169999
-22539;Formel: Schild - Intelligenz;1;52500;54500
 19233;Bestien 5;1;1501202;1876503
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 31153;Axt der Legion;1;208304;499998
@@ -774,8 +648,6 @@
 6716;Bauplan: EZ-Thro-Dynamit;1;6935;7706
 2770;Kupfererz;6;4400;5500
 13115;Schafsledermantel;1;15247;16941
-13115;Schafsledermantel;1;9501;12752
-13115;Schafsledermantel;1;9691;12114
 818;Tigerauge;1;608;760
 818;Tigerauge;1;540;676
 15379;Zornprankenstiefel;1;11481;17777
@@ -832,42 +704,6 @@
 1081;Knuspriges Spinnenfleisch;9;1690;1790
 1081;Knuspriges Spinnenfleisch;10;1903;2115
 1081;Knuspriges Spinnenfleisch;10;1600;2000
-22866;Fläschchen des reinen Todes;1;210000;214779
-22866;Fläschchen des reinen Todes;1;210000;214779
-22866;Fläschchen des reinen Todes;1;210000;214779
-22866;Fläschchen des reinen Todes;1;210000;214779
-22866;Fläschchen des reinen Todes;1;210000;214779
-22866;Fläschchen des reinen Todes;5;1070000;1072995
-22866;Fläschchen des reinen Todes;5;1070000;1072995
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;210000;214600
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209998;209998
 22866;Fläschchen des reinen Todes;1;209998;209998
 22866;Fläschchen des reinen Todes;1;209998;209998

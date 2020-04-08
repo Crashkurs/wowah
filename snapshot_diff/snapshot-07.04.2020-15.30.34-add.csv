@@ -26,15 +26,6 @@
 22449;Großer Prismasplitter;5;879999;949950
 22449;Großer Prismasplitter;5;879999;949950
 13009;Balg des Kuhkönigs;1;23180;26867
-13009;Balg des Kuhkönigs;1;30000;40000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;3100000;3100000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2750000;2755000
-21876;Urmondstofftasche;1;2735000;2740000
 21876;Urmondstofftasche;1;2655000;2700000
 27676;Seltsame Sporen;3;10341;11490
 27676;Seltsame Sporen;20;92000;92000
@@ -45,38 +36,15 @@
 27676;Seltsame Sporen;20;92000;92000
 27676;Seltsame Sporen;20;92000;92000
 30036;Gürtel des langen Weges;1;6879999;8599999
-21991;Schwerer Netherstoffverband;20;130000;132000
-21991;Schwerer Netherstoffverband;20;57760;72200
-21991;Schwerer Netherstoffverband;20;54864;68580
 21991;Schwerer Netherstoffverband;20;60000;88000
-21991;Schwerer Netherstoffverband;20;130000;132000
-17056;Leichte Feder;20;44443;44443
 17056;Leichte Feder;20;39980;43980
-17056;Leichte Feder;20;20210;25000
-17056;Leichte Feder;20;44443;44443
-17056;Leichte Feder;13;21548;26936
 17056;Leichte Feder;20;39980;43980
 21934;Verzierte Tigeraugenhalskette;1;5000;5000
 21934;Verzierte Tigeraugenhalskette;1;4000;5000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;1;110100;120000
-29739;Arkaner Foliant;20;3979980;3979980
 29739;Arkaner Foliant;1;109900;119900
-29739;Arkaner Foliant;1;110100;120000
-29739;Arkaner Foliant;1;110100;120000
-29739;Arkaner Foliant;5;590100;600000
-29739;Arkaner Foliant;5;499999;575000
-29739;Arkaner Foliant;33;3300100;3630000
-29739;Arkaner Foliant;5;500100;600000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-11082;Große Astralessenz;1;11700;12704
 11082;Große Astralessenz;5;58500;63520
-11082;Große Astralessenz;1;11700;12704
 1529;Jade;1;19200;24000
 21949;Vorlage: Rubinschlange;1;4502500;4900000
-22456;Urschatten;10;390000;399800
 30420;Schwerer Jadering;1;4616;5770
 30420;Schwerer Jadering;1;4616;5770
 21863;Seelenstoffhandschuhe;1;2990711;4990000
@@ -99,7 +67,6 @@
 28103;Elixier des Adepten;5;99999;108899
 28103;Elixier des Adepten;5;99999;108899
 28103;Elixier des Adepten;5;100050;107999
-30283;Muster: Stiefel des langen Weges;1;355000;400000
 30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
 30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
 30305;Muster: Stiefel der naturgleichen Anmut;1;390000;425000
@@ -111,8 +78,6 @@
 7079;Kugel des Wassers;1;5230;6538
 21898;Muster: Magieerfüllte Netherstoffhose;1;112500;120000
 22447;Geringe Planaressenz;2;30100;39000
-22447;Geringe Planaressenz;10;374144;415715
-22447;Geringe Planaressenz;1;31634;39543
 21902;Muster: Seelenstoffhandschuhe;1;389999;399999
 21860;Magieerfüllte Netherstoffstiefel;1;300000;340000
 21860;Magieerfüllte Netherstoffstiefel;1;300000;340000
@@ -153,9 +118,6 @@
 25110;Scharfes Bowiemesser;1;198168;247710
 30282;Muster: Stiefel der Zauberwucht;1;1285644;1338161
 30282;Muster: Stiefel der Zauberwucht;1;1695000;1790000
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;10;850000;1000000
-22446;Große Planaressenz;1;113999;114999
 22446;Große Planaressenz;10;1000000;1000000
 22446;Große Planaressenz;10;1000000;1000000
 22446;Große Planaressenz;10;1000000;1000000
@@ -163,45 +125,20 @@
 22446;Große Planaressenz;10;1000000;1000000
 22446;Große Planaressenz;1;106500;113000
 22446;Große Planaressenz;1;106500;113000
-22446;Große Planaressenz;10;1029673;1144081
-22446;Große Planaressenz;10;850000;1000000
-22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;1;106500;113000
 22446;Große Planaressenz;10;850000;1000000
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;10;850000;1000000
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;1;113999;114999
-22446;Große Planaressenz;10;850000;1000000
-22446;Große Planaressenz;1;113999;114999
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;10;850000;1000000
-27674;Felshetzerfleisch;20;26000;30000
-27674;Felshetzerfleisch;20;26000;30000
+22446;Große Planaressenz;10;850000;1000000
+22446;Große Planaressenz;10;850000;1000000
 22146;Buch: Gabe der Wildnis III;1;319600;399500
 22146;Buch: Gabe der Wildnis III;1;138972;173716
 22146;Buch: Gabe der Wildnis III;1;150000;158500
 22146;Buch: Gabe der Wildnis III;1;114000;142500
 22393;Kodex: Gebet des Schattenschutzes;1;93500;99000
 22393;Kodex: Gebet des Schattenschutzes;1;89999;99999
-27678;Grollhuffleisch;17;76867;96084
-27678;Grollhuffleisch;20;76000;80000
-27678;Grollhuffleisch;1;3308;3676
-27439;Grimmiger Flusskrebs;10;600000;800000
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;1;59999;79950
-27439;Grimmiger Flusskrebs;10;599990;799500
-27439;Grimmiger Flusskrebs;5;299995;399750
 27439;Grimmiger Flusskrebs;5;300100;350000
 27439;Grimmiger Flusskrebs;5;300100;350000
 27439;Grimmiger Flusskrebs;5;300100;350000
@@ -217,28 +154,12 @@
 17057;Glänzende Fischschuppen;20;1360;1700
 17057;Glänzende Fischschuppen;10;787;875
 17057;Glänzende Fischschuppen;20;1360;1700
-27682;Talbukwildbret;15;14100;15000
-27682;Talbukwildbret;14;20580;24010
-27682;Talbukwildbret;17;51136;63920
-27682;Talbukwildbret;7;2800;3500
-27682;Talbukwildbret;20;23340;25700
-27682;Talbukwildbret;20;15000;20000
-27682;Talbukwildbret;20;15000;20000
-27682;Talbukwildbret;20;15000;20000
-27682;Talbukwildbret;20;15000;20000
-27682;Talbukwildbret;20;15000;20000
-27682;Talbukwildbret;20;15000;20000
 22459;Sphäre der Leere;1;3841;4802
 22459;Sphäre der Leere;1;3841;4802
-27498;Rolle der Beweglichkeit V;5;299995;299995
-27498;Rolle der Beweglichkeit V;5;299995;299995
 27498;Rolle der Beweglichkeit V;5;299995;299995
 8836;Arthas' Tränen;15;23604;29505
 23118;Gediegener Azurmondstein;1;7631;9539
 27677;Basiliskbrocken;1;20000;30000
-27677;Basiliskbrocken;2;20600;30000
-27677;Basiliskbrocken;1;30643;34048
-27677;Basiliskbrocken;1;21238;34048
 12975;Ausgrabungsleiteraxt;1;23307;40000
 12975;Ausgrabungsleiteraxt;1;15636;19545
 12975;Ausgrabungsleiteraxt;1;16964;21206
@@ -255,47 +176,7 @@
 13010;Beinschützer des Traumsängers;1;41586;46207
 21862;Magieerfüllte Netherstofftunika;1;271655;299990
 8831;Lila Lotus;20;108800;136000
-31672;Rippchen der Mok'Nathal;20;29832;29940
-31672;Rippchen der Mok'Nathal;1;499;999
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;20;29832;29940
-31672;Rippchen der Mok'Nathal;20;29832;29940
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;20;29832;29940
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;7;3500;5250
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
 31306;Gamaschen des heiligen Wappens;1;106400;133000
 13012;Yorgens Armschienen;1;50000;60000
 27858;Sonnenwindkarpfen;1;1289;1612
@@ -307,19 +188,9 @@
 8827;Elixier des Wasserwandelns;20;29592;38740
 13002;Fürstin Alizabeths Anhänger;1;29500;38000
 13008;Beinkleider der Talwinde;1;135605;169507
-12990;Messers Schneide;1;35744;39680
 12990;Messers Schneide;1;33000;49000
 12990;Messers Schneide;1;40149;40149
 12990;Messers Schneide;1;34583;40150
-17058;Fischöl;9;68748;76387
-17058;Fischöl;9;79900;82900
-17058;Fischöl;20;120000;180000
-17058;Fischöl;20;120000;180000
-17058;Fischöl;20;120000;180000
-17058;Fischöl;20;120000;180000
-17058;Fischöl;20;120000;180000
-17058;Fischöl;17;144269;144269
-17058;Fischöl;20;169728;169728
 13007;Magieflammenumhang;1;74574;82860
 12984;Himmelrufer;1;9999;11099
 28104;Elixier des Meisters;1;34011;35090
@@ -353,8 +224,6 @@
 21887;Knotenhautleder;20;147500;159000
 21887;Knotenhautleder;20;257500;260000
 21887;Knotenhautleder;20;269980;269980
-27681;Phasenverschobenes Fleisch;5;16500;22000
-27681;Phasenverschobenes Fleisch;2;8000;9000
 21899;Muster: Magieerfüllte Netherstoffstiefel;1;152500;160000
 31673;Knusperschlange;5;62500;75000
 31673;Knusperschlange;5;62500;75000

@@ -51,13 +51,6 @@
 25334;Einschüchterungsgroßstab;1;297104;371380
 31288;Des Meisters Treter;1;335000;399900
 8180;Jagdbogen;1;20360;40000
-24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
-24203;Vorlage: Glänzender Dämmerstein;1;435000;440000
-24203;Vorlage: Glänzender Dämmerstein;1;449999;450000
 22797;Alptraumsaat;20;146000;155000
 785;Maguskönigskraut;10;100;390
 785;Maguskönigskraut;10;100;390
@@ -67,13 +60,6 @@
 857;Großer roter Sack;1;8028;10587
 14474;Muster: Froststoffhandschuhe;1;3800;4750
 14474;Muster: Froststoffhandschuhe;1;4800;8095
-22445;Arkaner Staub;2;30358;33731
-22445;Arkaner Staub;10;166410;169990
-22445;Arkaner Staub;10;166410;169990
-22445;Arkaner Staub;10;166410;169990
-22445;Arkaner Staub;17;256753;285281
-22445;Arkaner Staub;20;302062;335625
-22445;Arkaner Staub;20;302062;335625
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;180000;250000
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;190130;291255
 28280;Formel: Stiefel - Flinkheit des Ebers;1;655000;700000
@@ -85,9 +71,6 @@
 7071;Eiserne Gürtelschnalle;1;1800;1800
 7071;Eiserne Gürtelschnalle;1;1800;1800
 7071;Eiserne Gürtelschnalle;1;1800;1800
-23094;Tränenförmiger Blutgranat;1;6195;14505
-23094;Tränenförmiger Blutgranat;1;23519;29399
-23094;Tränenförmiger Blutgranat;1;6195;14505
 23634;Pläne: Teufelsgehärteter Schlägel;1;179998;179998
 23634;Pläne: Teufelsgehärteter Schlägel;1;210000;220000
 23634;Pläne: Teufelsgehärteter Schlägel;1;209999;219999
@@ -132,7 +115,6 @@
 28103;Elixier des Adepten;5;99999;108899
 28103;Elixier des Adepten;5;99999;108899
 14484;Muster: Hellstoffumhang;1;16751;18612
-14484;Muster: Hellstoffumhang;1;8800;18800
 23635;Pläne: Runenverzierte Eterniumklinge;1;450000;479900
 23623;Pläne: Helm des Sturms;1;120000;150000
 23623;Pläne: Helm des Sturms;1;121440;151800
@@ -180,20 +162,14 @@
 9871;Renegatengamaschen;1;10000;20000
 6358;Öliges Schwarzmaul;5;69000;70000
 6358;Öliges Schwarzmaul;2;27099;28000
-20424;Sandwurmfleisch;20;279312;349140
 23621;Pläne: Stulpen des eisernen Turms;1;188948;209942
 23621;Pläne: Stulpen des eisernen Turms;1;699999;699999
 23621;Pläne: Stulpen des eisernen Turms;1;150000;150000
 23621;Pläne: Stulpen des eisernen Turms;1;130000;140000
 8184;Feuerteufel;1;8036;10893
 22577;Schattenpartikel;10;24792;25999
-24200;Vorlage: Funkelnder Stern der Elune;1;436100;441000
 24200;Vorlage: Funkelnder Stern der Elune;1;335000;340000
 25649;Knotenhautlederfetzen;20;23999;24999
-25649;Knotenhautlederfetzen;20;44320;46360
-25649;Knotenhautlederfetzen;5;6875;9000
-25649;Knotenhautlederfetzen;2;4432;4636
-25649;Knotenhautlederfetzen;8;11398;14248
 3203;Handfester Dreiecksstreitkolben;1;14471;19701
 22846;Erheblicher Schattenschutztrank;5;71636;89545
 31308;Der Überbringer des Todes;1;129900;155000
@@ -201,73 +177,13 @@
 24202;Vorlage: Stürmischer Stern der Elune;1;181365;196707
 24202;Vorlage: Stürmischer Stern der Elune;1;99999;99999
 24202;Vorlage: Stürmischer Stern der Elune;1;95000;97000
-22825;Elixier der Heilkraft;20;575000;580000
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;20;547999;577999
-22825;Elixier der Heilkraft;20;548000;578000
-22825;Elixier der Heilkraft;20;548000;578000
-22825;Elixier der Heilkraft;20;575000;580000
-22825;Elixier der Heilkraft;20;575000;579900
-22825;Elixier der Heilkraft;20;575000;579900
-22825;Elixier der Heilkraft;10;249900;299900
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;5;143995;143995
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;20;546000;576000
-22825;Elixier der Heilkraft;5;143995;143995
-22825;Elixier der Heilkraft;5;143995;143995
-22825;Elixier der Heilkraft;5;143995;143995
-22825;Elixier der Heilkraft;5;169995;169995
 22825;Elixier der Heilkraft;20;489500;489900
 22825;Elixier der Heilkraft;20;489500;489900
 22825;Elixier der Heilkraft;5;142900;143900
 22825;Elixier der Heilkraft;5;142900;143900
 22825;Elixier der Heilkraft;5;142900;143900
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
-22825;Elixier der Heilkraft;5;169995;169995
 22825;Elixier der Heilkraft;2;57500;60000
 6406;Nachthauchstiefel;1;25550;29700
-22851;Fläschchen der Stärkung;1;119999;124499
-22851;Fläschchen der Stärkung;1;119999;124499
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;1;124999;124999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
 27500;Rolle des Schutzes V;1;51677;60035
 27500;Rolle des Schutzes V;1;44045;49005
 27500;Rolle des Schutzes V;5;249995;299995
@@ -290,15 +206,6 @@
 22844;Erheblicher Naturschutztrank;5;38412;48015
 22840;Elixier des erheblichen Magierbluts;20;428980;428980
 22840;Elixier des erheblichen Magierbluts;20;428980;428980
-22840;Elixier des erheblichen Magierbluts;5;107245;107245
-22840;Elixier des erheblichen Magierbluts;20;420000;429900
-22840;Elixier des erheblichen Magierbluts;5;107245;107245
-22840;Elixier des erheblichen Magierbluts;5;107245;107245
-22840;Elixier des erheblichen Magierbluts;5;107245;107245
-22840;Elixier des erheblichen Magierbluts;20;407000;429000
-22840;Elixier des erheblichen Magierbluts;5;107245;107245
-22840;Elixier des erheblichen Magierbluts;20;420000;429900
-22840;Elixier des erheblichen Magierbluts;20;420000;429900
 23630;Pläne: Khoriumchampion;1;3790000;4400000
 12974;Der schwarze Ritter;1;19157;20000
 21881;Netherweberseide;4;40000;44400
@@ -329,14 +236,6 @@
 24047;Brillanter Dämmerstein;1;139999;159900
 24047;Brillanter Dämmerstein;1;139999;159900
 21886;Urleben;2;259998;279998
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;20;2678800;2679999
-21886;Urleben;20;2699999;2699999
-21886;Urleben;1;126000;126900
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
@@ -346,14 +245,6 @@
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
-21886;Urleben;1;116000;124800
-21886;Urleben;12;1369188;1379856
-21886;Urleben;2;224200;234000
-21886;Urleben;1;106000;115000
-21886;Urleben;1;106000;115000
-21886;Urleben;1;106000;115000
-21886;Urleben;10;1140990;1178880
-21886;Urleben;5;600000;750000
 2911;Kellers Gurt;1;120581;134326
 14491;Muster: Runenstoffhose;1;11385;14232
 14491;Muster: Runenstoffhose;1;11000;14000
@@ -392,28 +283,9 @@
 10051;Rote Magiestofftasche;1;11027;13919
 14416;Steinstoffbindungen;1;19976;23049
 23519;Teufelsstahlhelm;1;408733;450000
-23077;Blutgranat;1;4870;6088
-23077;Blutgranat;1;3400;3700
-23077;Blutgranat;1;3400;3700
-23077;Blutgranat;4;31600;39500
-23077;Blutgranat;5;18750;23000
-23077;Blutgranat;20;141500;149500
-23077;Blutgranat;20;141500;149500
-23077;Blutgranat;20;141500;149500
-23077;Blutgranat;1;29999;39999
-23077;Blutgranat;1;3400;3700
-23077;Blutgranat;20;100000;119999
-23077;Blutgranat;1;3400;3700
 23077;Blutgranat;20;217744;222180
-23077;Blutgranat;1;29999;39999
-23077;Blutgranat;1;29999;39999
-23077;Blutgranat;1;29999;39999
-23077;Blutgranat;1;3039;3799
-23077;Blutgranat;1;3400;3700
 24205;Vorlage: Massiver Dämmerstein;1;287696;359620
 24205;Vorlage: Massiver Dämmerstein;1;585000;650000
 20407;Robe eines Schattenhammerkultisten;1;3871;4000
 14478;Muster: Hellstoffrobe;1;5250;10000
-28279;Formel: Stiefel - Schnelligkeit der Katze;1;599999;599999
-28279;Formel: Stiefel - Schnelligkeit der Katze;1;599999;599999
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;405000;450000

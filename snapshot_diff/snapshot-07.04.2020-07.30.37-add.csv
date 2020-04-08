@@ -36,13 +36,6 @@
 21877;Netherstoff;20;28800;36000
 21877;Netherstoff;20;28800;36000
 21877;Netherstoff;20;44000;45500
-22450;Kristall der Leere;1;74500;79000
-22450;Kristall der Leere;1;84500;89500
-22450;Kristall der Leere;1;84500;89500
-22450;Kristall der Leere;1;74500;79000
-22450;Kristall der Leere;1;74500;79000
-22450;Kristall der Leere;1;74500;79000
-22450;Kristall der Leere;1;74500;79000
 22450;Kristall der Leere;1;60100;69999
 22450;Kristall der Leere;1;60100;69999
 22786;Traumwinde;20;115000;140000
@@ -118,7 +111,6 @@
 24990;Totschlägergürtel;1;499999;499999
 21902;Muster: Seelenstoffhandschuhe;1;389999;399999
 18257;Rezept: Erheblicher Verjüngungstrank;1;2949588;3258235
-18654;Bauplan: Gnomischer Alarm-o-Bot;1;7500;9500
 14552;Palisadenschulterstücke;1;38000;47500
 12184;Raptorfleisch;10;4504;5630
 12184;Raptorfleisch;10;4504;5630
@@ -128,9 +120,6 @@
 13013;Hexerältestenmantel;1;74351;82612
 6471;Perfekte Deviatschuppe;5;37600;49500
 8398;Muster: Feste Skorpidhandschuhe;1;4180;5225
-8398;Muster: Feste Skorpidhandschuhe;1;5000;5500
-8398;Muster: Feste Skorpidhandschuhe;1;5000;5500
-8398;Muster: Feste Skorpidhandschuhe;1;5720;5720
 25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
 22446;Große Planaressenz;4;455996;459996
@@ -150,7 +139,6 @@
 14271;Gaeas Reif;1;9548;15310
 1720;Wirrholzstab;1;26300;28000
 10978;Kleiner gleißender Splitter;5;268;335
-10978;Kleiner gleißender Splitter;7;268;335
 10978;Kleiner gleißender Splitter;5;268;335
 10978;Kleiner gleißender Splitter;5;268;335
 10978;Kleiner gleißender Splitter;14;268;335
@@ -161,7 +149,6 @@
 27435;Feigenschimmers Matschflosser;20;99500;125000
 27435;Feigenschimmers Matschflosser;20;99500;125000
 18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;11637;17047
-18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;12367;17959
 14551;Handschützer des Klingenmeisters;1;249622;299528
 14551;Handschützer des Klingenmeisters;1;364429;404921
 22577;Schattenpartikel;9;32832;41040
@@ -173,7 +160,6 @@
 19261;Kriegsfürst 4;1;19514;25393
 19261;Kriegsfürst 4;1;19514;25393
 8397;Muster: Feste Skorpidarmschienen;1;3072;3841
-29547;Windschuppen;20;899999;999999
 21768;Saphirsiegel;1;39600;49500
 25017;Schmetterhandstulpen;1;79964;99956
 18265;Muster: Flimmerkernwickeltücher;1;4449999;4449999
