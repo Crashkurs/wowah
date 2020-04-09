@@ -154,20 +154,12 @@
 22574;Feuerpartikel;1;27745;29945
 22574;Feuerpartikel;1;27745;29945
 22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22574;Feuerpartikel;1;27745;29945
-22529;Wildwedel;6;14993;14993
 22529;Wildwedel;6;14993;14993
 24687;Elementaristentunika;1;99800;99900
 24950;Sumpfschlägergürtel;1;50000;60000
 24922;Grimmschuppenhelm;1;44076;58800
 24401;Unbekannte Pflanzenteile;39;193875;199900
 23781;Elementarsprengpulver;1;18629;19588
-22557;Formel: Waffe - Meister des Kampfes;1;449900;499900
 22557;Formel: Waffe - Meister des Kampfes;1;449900;499900
 24604;Sternenfeuergelenkbänder;1;44999;49999
 24899;Gemarterte Beinschützer;1;67750;89999
@@ -184,7 +176,6 @@
 25122;Khoriumbeschichteter Knüttel;1;99999;119999
 25174;Hanbo;1;80000;100000
 24858;Marschenkrabblerhelm;1;85112;106391
-22532;Formel: Armschiene - Mana wiederherstellen;1;182400;228000
 22532;Formel: Armschiene - Mana wiederherstellen;1;182400;228000
 23737;Adamantitgranate;10;97500;100000
 23121;Irisierender Azurmondstein;1;23128;25698
@@ -226,7 +217,6 @@
 25153;Gladiatorengroßschwert;1;99999;119999
 31304;Essenzfokussierer;1;205246;228052
 14235;Glutseidenkordel;1;5724;7156
-14235;Glutseidenkordel;1;5724;7156
 23105;Robuster Tiefenperidot;1;7900;8497
 23105;Robuster Tiefenperidot;1;6457;8072
 23105;Robuster Tiefenperidot;1;6457;8072
@@ -260,30 +250,6 @@
 21841;Netherstofftasche;1;54999;59999
 21841;Netherstofftasche;1;54999;59999
 21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
 24668;Schattenratarmschienen;1;97500;100000
 24479;Schattenperle;1;501500;550000
 24479;Schattenperle;1;500185;535761
@@ -296,7 +262,6 @@
 23623;Pläne: Helm des Sturms;1;120000;150000
 22795;Teufelsblüte;18;4219;5274
 30305;Muster: Stiefel der naturgleichen Anmut;1;390000;425000
-22558;Formel: Waffe - Zauberflut;1;999999;999999
 22558;Formel: Waffe - Zauberflut;1;999999;999999
 30324;Pläne: Rote Stiefel der Verwüstung;1;195929;217699
 23765;Khoriumzielfernrohr;1;193750;299999
@@ -390,12 +355,6 @@
 24741;Waldläufergürtel;1;30000;70000
 22563;Formel: Überragendes Zauberöl;1;246250;299999
 22563;Formel: Überragendes Zauberöl;1;246250;299999
-22528;Dunkeleisenfragmente;26;53500;54500
-22528;Dunkeleisenfragmente;26;49500;52500
-22528;Dunkeleisenfragmente;70;98000;112000
-22528;Dunkeleisenfragmente;250;350000;400000
-22528;Dunkeleisenfragmente;250;350000;400000
-22528;Dunkeleisenfragmente;3;6100;6200
 22528;Dunkeleisenfragmente;70;98000;112000
 22528;Dunkeleisenfragmente;250;350000;400000
 22528;Dunkeleisenfragmente;3;6100;6200
@@ -403,8 +362,6 @@
 22528;Dunkeleisenfragmente;26;49500;52500
 22528;Dunkeleisenfragmente;250;350000;400000
 24839;Zornflossenschienbeinschützer;1;41430;99900
-23736;Teufelseisenbombe;10;98008;107510
-23736;Teufelseisenbombe;10;98008;107510
 23736;Teufelseisenbombe;10;98008;107510
 23736;Teufelseisenbombe;10;98008;107510
 25177;Tanjostab;1;123994;130000
@@ -445,43 +402,7 @@
 31299;Der Schwurbewahrer;1;127908;159885
 31299;Der Schwurbewahrer;1;204500;217500
 31299;Der Schwurbewahrer;1;149999;179999
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;279999;299999
 24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;279999;299999
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;260000;270000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;260000;270000
 27678;Grollhuffleisch;1;3308;3676
 27678;Grollhuffleisch;17;76867;96084
 23572;Urnether;1;43999;54999
@@ -501,7 +422,6 @@
 24675;Eldr'naanschulterpolster;1;1952745;1990000
 17057;Glänzende Fischschuppen;10;787;875
 31333;Der Nachtwächter;1;3638983;3998729
-22572;Luftpartikel;1;24076;26752
 22572;Luftpartikel;1;24076;26752
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
 25037;Geflicktes Cape;1;39999;60000
@@ -525,7 +445,6 @@
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
-13479;Rezept: Elixier der Weisen;1;8999;13199
 13479;Rezept: Elixier der Weisen;1;8999;13199
 13479;Rezept: Elixier der Weisen;1;8999;13199
 13479;Rezept: Elixier der Weisen;1;8999;13199
@@ -565,11 +484,6 @@
 3211;Brünierte Armschienen;1;559;50000
 22825;Elixier der Heilkraft;20;355000;400000
 22825;Elixier der Heilkraft;20;355000;400000
-22542;Formel: Stiefel - Vitalität;1;249999;249999
-22542;Formel: Stiefel - Vitalität;1;750000;770000
-22542;Formel: Stiefel - Vitalität;1;492800;616000
-22542;Formel: Stiefel - Vitalität;1;249999;249999
-22542;Formel: Stiefel - Vitalität;1;750000;770000
 22542;Formel: Stiefel - Vitalität;1;249999;249999
 22542;Formel: Stiefel - Vitalität;1;750000;770000
 22542;Formel: Stiefel - Vitalität;1;750000;770000
@@ -651,24 +565,6 @@
 24987;Felsfaustbeinplatten;1;90999;90999
 791;Knorriger Eschenstab;1;19500;26000
 24745;Waldläuferhut;1;77244;96556
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;2;44084;44538
-27666;Goldfischstäbchen;19;365700;379981
-27666;Goldfischstäbchen;20;399999;400000
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;20;399999;400000
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;1;18748;18749
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;20;374500;375000
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;5;87500;95000
-27666;Goldfischstäbchen;20;399999;400000
 27666;Goldfischstäbchen;20;399999;400000
 24750;Dolchfennstiefel;1;380000;399900
 24717;Lumpenpackgürtel;1;89100;99000
@@ -731,8 +627,6 @@
 28104;Elixier des Meisters;1;34011;35090
 28104;Elixier des Meisters;1;34011;35090
 24691;Elementaristenmantel;1;2453494;2490000
-24691;Elementaristenmantel;1;1500000;1600000
-24691;Elementaristenmantel;1;2453494;2490000
 24924;Grimmschuppenschulterstücke;1;27696;37120
 22829;Erstklassiger Heiltrank;5;77013;85570
 22829;Erstklassiger Heiltrank;1;15402;17114
@@ -746,20 +640,6 @@
 29548;Netherdrachenschuppe;20;745000;745000
 24702;Haal'eshistiefel;1;49999;50000
 11152;Formel: Handschuhe - Angeln;1;159516;176021
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;1;8890;9990
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;10;49576;62720
-22573;Erdpartikel;6;29505;37632
-22573;Erdpartikel;1;5580;6271
-22573;Erdpartikel;1;5580;6271
-22573;Erdpartikel;1;8890;9990
-22573;Erdpartikel;1;8890;9990
-22573;Erdpartikel;10;49576;62720
 22573;Erdpartikel;10;49576;62720
 22573;Erdpartikel;1;8890;9990
 22573;Erdpartikel;1;8890;9990

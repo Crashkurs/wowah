@@ -18,21 +18,7 @@
 19282;Portal 6;1;175000;190000
 19282;Portal 6;1;306960;341067
 3478;Grober Schleifstein;2;77937;97422
-7992;Pläne: Blaue glitzernde Axt;1;5000;7500
-7992;Pläne: Blaue glitzernde Axt;1;6014;7518
 19706;Münze der Blutskalpe;4;143660;179576
-8167;Schildkrötenschuppe;20;150000;158000
-8167;Schildkrötenschuppe;1;10150;19900
-8167;Schildkrötenschuppe;1;10150;19900
-8167;Schildkrötenschuppe;1;10150;19900
-8167;Schildkrötenschuppe;1;10150;19900
-8167;Schildkrötenschuppe;1;10150;19900
-8167;Schildkrötenschuppe;20;150000;158000
-8167;Schildkrötenschuppe;20;153000;157000
-8167;Schildkrötenschuppe;20;150000;158000
-8167;Schildkrötenschuppe;20;150000;158000
-8167;Schildkrötenschuppe;20;150000;158000
-8167;Schildkrötenschuppe;20;150000;158000
 4339;Magiestoffballen;10;146800;183500
 3486;Schwerer Schleifstein;13;81950;99999
 3575;Eisenbarren;20;86000;100000
@@ -66,7 +52,6 @@
 19265;Kriegsfürst 8;1;42940;53675
 8197;Stiefel des Nachtschleichers;1;40000;40000
 10403;Geschwärzter Gürtel der Defias;1;20811;40000
-8151;Fläschchen Mojo;4;11908;13231
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
@@ -291,8 +276,6 @@
 10938;Geringe Magieessenz;10;52440;65550
 10938;Geringe Magieessenz;1;100;6900
 10938;Geringe Magieessenz;1;100;6900
-7974;Scharfes Muschelfleisch;10;26848;33560
-7974;Scharfes Muschelfleisch;10;26848;33560
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
@@ -317,56 +300,6 @@
 4338;Magiestoff;20;149800;149900
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;97500;100000
-8170;Unverwüstliches Leder;20;185000;189900
-8170;Unverwüstliches Leder;16;97280;121600
-8170;Unverwüstliches Leder;2;11500;18000
-8170;Unverwüstliches Leder;20;185000;189900
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;2;12160;15200
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;150000;190000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;9;27844;39805
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;20;179000;189000
-8170;Unverwüstliches Leder;4;28000;30000
-8170;Unverwüstliches Leder;20;155000;194900
-8170;Unverwüstliches Leder;20;150000;190000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;155000;194900
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;20;195000;199000
-8170;Unverwüstliches Leder;10;7500;99000
 18662;Schwerer Lederball;1;2150;4100
 18662;Schwerer Lederball;2;17280;21600
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;22382;24869
@@ -620,39 +553,6 @@
 19271;Elementar 4;1;28416;35520
 19271;Elementar 4;1;42500;44400
 19271;Elementar 4;1;18750;30000
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;119980;119980
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;17;106675;108375
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
-10940;Seltsamer Staub;20;125500;127500
 19259;Kriegsfürst 2;1;20000;25000
 19259;Kriegsfürst 2;1;29500;38000
 10316;Muster: Bunter Kilt;1;9545;12557
@@ -690,11 +590,6 @@
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
-8150;Tiefsteinsalz;1;12764;15956
-8150;Tiefsteinsalz;1;7600;9500
-8150;Tiefsteinsalz;5;79600;99500
-8150;Tiefsteinsalz;5;81875;83388
-8150;Tiefsteinsalz;5;51056;63820
 10315;Muster: Rote Magiestoffschultern;1;6132;7666
 4337;Dicke Spinnenseide;1;2222;2322
 4337;Dicke Spinnenseide;1;2222;2322
@@ -818,10 +713,6 @@
 8494;Papageienkäfig (Hyazinthara);1;5999999;6999999
 8494;Papageienkäfig (Hyazinthara);1;7999900;7999900
 3415;Stab des Fraters;1;799900;799900
-8146;Tückische Klaue;5;3750;9900
-8146;Tückische Klaue;1;1750;2500
-8146;Tückische Klaue;2;5044;6182
-8146;Tückische Klaue;2;4204;5256
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;53200;66500
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;70000;70000
 19269;Elementar 2;1;115209;115210
@@ -846,10 +737,6 @@
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;2999;4999
 19227;Bestien Ass;1;12999999;14999999
 10560;Instabiler Auslöser;1;55820;55821
-8006;Der Ziggler;1;18708;20000
-8006;Der Ziggler;1;47102;52336
-8006;Der Ziggler;1;47966;53295
-8006;Der Ziggler;1;26800;33501
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;5011;5567
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;2349;2937
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;92600;102800
@@ -882,11 +769,6 @@
 8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
 19700;Münze der Hakkari;5;241540;268377
 19700;Münze der Hakkari;1;31360;39200
-8152;Fläschchen großes Mojo;20;35000;50000
-8152;Fläschchen großes Mojo;10;17500;25000
-8152;Fläschchen großes Mojo;1;745;1385
-8152;Fläschchen großes Mojo;5;7047;7831
-8152;Fläschchen großes Mojo;1;1250;1299
 8392;Feuerverbrannte Eberlunge;4;18934;23668
 3389;Elixier der Verteidigung;8;67808;79760
 3389;Elixier der Verteidigung;10;80166;89074

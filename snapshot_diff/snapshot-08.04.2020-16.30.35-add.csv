@@ -63,18 +63,6 @@
 4251;Schultern des Hügelwächters;1;4800;6000
 4251;Schultern des Hügelwächters;1;4800;6000
 4251;Schultern des Hügelwächters;1;4800;6000
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
 22850;Erstklassiger Verjüngungstrank;5;102500;120000
 7472;Majestätische Stiefel;1;10000;30000
 7279;Kleiner Ledermunitionsbeutel;1;200;4500
@@ -93,16 +81,12 @@
 31875;Vorlage: Großer Dämmerstein;1;161833;179792
 7415;Derwischschiftung;1;20000;30000
 23107;Schattendraenit;3;21657;27072
-3478;Grober Schleifstein;1;36100;45125
-3478;Grober Schleifstein;1;36100;45125
 5214;Zauberstab der Abendzeit;1;8888;9999
-1973;Täuschungskugel;1;150018;182500
 7278;Leichter Lederköcher;1;8900;10000
 7278;Leichter Lederköcher;1;8900;10000
 7278;Leichter Lederköcher;1;8900;10000
 7278;Leichter Lederköcher;1;8900;10000
 7278;Leichter Lederköcher;1;8900;10000
-7428;Schattenkatzenbalg;7;8585;9539
 7428;Schattenkatzenbalg;1;1270;1350
 24117;Zärtliche Morgenröte;1;349900;399900
 29739;Arkaner Foliant;2;150100;180000
@@ -137,25 +121,8 @@
 7453;Muster: Hurtige Stiefel;1;44727;55909
 24212;Vorlage: Königliches Nachtauge;1;342000;427500
 5256;Kovorks Rassel;1;20719;23021
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;2;155420;159820
-22448;Kleiner Prismasplitter;2;155420;159820
-22448;Kleiner Prismasplitter;4;310840;319640
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;79800;79800
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;79800;79800
-22448;Kleiner Prismasplitter;1;79800;79800
-22448;Kleiner Prismasplitter;1;79800;79800
-22448;Kleiner Prismasplitter;1;79800;79800
-22448;Kleiner Prismasplitter;13;950387;1055985
-22448;Kleiner Prismasplitter;4;310840;319640
 21842;Magieerfüllter Netherstoffballen;10;999900;1100000
 21842;Magieerfüllter Netherstoffballen;10;999900;1100000
-21842;Magieerfüllter Netherstoffballen;20;2221584;2491980
-21842;Magieerfüllter Netherstoffballen;20;2221584;2491980
 31194;Gronngesegnete Kriegsperlen;1;199900;249900
 7286;Schwarzwelpenschuppe;7;25468;31836
 32420;Nachtend;1;1980517;1982000
@@ -179,12 +146,6 @@
 7421;Phalanxhandschuhe;1;20000;30000
 21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
 21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;60000;70000
@@ -207,46 +168,6 @@
 21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;60000;70000
 21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;55500;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;54400;58800
-21841;Netherstofftasche;1;55500;58800
 4998;Blutring;1;99900;99900
 23079;Tiefenperidot;2;14227;17784
 25708;Dickes Grollhufleder;20;532500;549999
@@ -272,18 +193,12 @@
 5342;Raptorpunsch;4;12000;23750
 5342;Raptorpunsch;8;24000;47500
 30324;Pläne: Rote Stiefel der Verwüstung;1;180000;190000
-4245;Kleines Seidenpack;1;18899;19999
-4245;Kleines Seidenpack;1;18899;19999
 32905;Flasche mit Nethergondampf;2;8094;8994
 24028;Feingeschliffener lebendiger Rubin;1;205000;210000
 31336;Klinge der Zauberei;1;24999999;27689899
 32747;Muster: Flinkschlagschultern;1;1359600;1509500
 32747;Muster: Flinkschlagschultern;1;1359600;1509500
-5075;Blutsplitter;10;1245;1383
 5075;Blutsplitter;9;1029;1287
-5075;Blutsplitter;10;1075;1500
-5075;Blutsplitter;10;1075;1500
-5075;Blutsplitter;3;112;300
 29535;Netherkobrabeinrüstung;1;2779999;2789999
 7367;Ältestenmantel;1;10000;20000
 24210;Vorlage: Unbeständiges Nachtauge;1;266778;333473
@@ -295,17 +210,12 @@
 29158;Echtsilberring des Kommandanten;1;60500;64500
 29158;Echtsilberring des Kommandanten;1;60500;64500
 22447;Geringe Planaressenz;1;37577;39542
-22447;Geringe Planaressenz;10;374144;415715
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;31634;39543
 5245;Zauberstab des Beschwörers;1;13536;14900
 24207;Vorlage: Kompakter Dämmerstein;1;201096;251370
 24207;Vorlage: Kompakter Dämmerstein;1;201096;251370
 24201;Vorlage: Irisierender Stern der Elune;1;289999;299999
 25867;Erdsturmdiamant;1;710000;720000
 24218;Vorlage: Strahlender Talasit;1;127634;159543
-3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;17999;39999
 7091;Muster: Handschuhe des wahren Glaubens;1;6500;8500
 7091;Muster: Handschuhe des wahren Glaubens;1;6840;8550
 31180;Stulpen der Schädelspalter;1;99900;125000
@@ -334,26 +244,14 @@
 23426;Khoriumerz;2;107500;110000
 24674;Eldr'naanhose;1;1950219;1990000
 22446;Große Planaressenz;2;247998;249998
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;10;1028404;1142671
 22446;Große Planaressenz;6;743994;749994
 22446;Große Planaressenz;2;247998;249998
 22446;Große Planaressenz;4;495996;499996
-22446;Große Planaressenz;1;120500;127500
 22446;Große Planaressenz;6;743994;749994
 22446;Große Planaressenz;8;991992;999992
 22446;Große Planaressenz;8;991992;999992
 22446;Große Planaressenz;10;1239990;1249990
-22446;Große Planaressenz;1;120500;127500
 22446;Große Planaressenz;4;495996;499996
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
-22446;Große Planaressenz;1;120500;127500
 4300;Muster: Wächterlederarmschienen;1;13950;19900
 7455;Ritterbeinschützer;1;10000;20000
 25653;Reitgerte;1;586250;748000
@@ -465,13 +363,9 @@
 9036;Magiewiderstandstrank;5;125000;135000
 9036;Magiewiderstandstrank;3;136797;136797
 9036;Magiewiderstandstrank;3;136797;136797
-4235;Schwerer Balg;2;130600;140000
 4235;Schwerer Balg;2;138999;139999
 4235;Schwerer Balg;2;138999;139999
 4235;Schwerer Balg;2;138999;139999
-4235;Schwerer Balg;4;239396;265996
-4235;Schwerer Balg;1;40300;50000
-4235;Schwerer Balg;2;121598;151998
 9155;Arkanes Elixier;10;37240;46550
 31292;Pulsierender Kristallschild;1;358645;380000
 7341;Eckiger Zirkonring;1;39760;57200
@@ -490,63 +384,11 @@
 22840;Elixier des erheblichen Magierbluts;5;85000;95000
 24050;Schimmernder Dämmerstein;1;65000;85000
 9179;Elixier der großen Intelligenz;12;47040;58800
-21881;Netherweberseide;1;16614;17577
 21881;Netherweberseide;1;11248;14061
-21881;Netherweberseide;10;111608;139510
-21881;Netherweberseide;9;92767;103075
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;10;155000;174900
-21881;Netherweberseide;5;39972;44414
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;3;19077;19362
-21881;Netherweberseide;10;75000;150000
-21881;Netherweberseide;5;37500;75000
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;5;37500;50000
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;179900;198700
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;1;16614;17577
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;10;166140;175770
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
 25905;Vorlage: Harter Erdsturmdiamant;1;119644;129556
 3575;Eisenbarren;20;20000;20000
 3575;Eisenbarren;13;13000;13000
 3575;Eisenbarren;20;20000;20000
-3575;Eisenbarren;20;56000;56999
-3575;Eisenbarren;1;1568;1960
-3575;Eisenbarren;20;56000;56999
-3575;Eisenbarren;20;45600;57000
-3575;Eisenbarren;20;45600;57000
-3575;Eisenbarren;20;45600;57000
-3575;Eisenbarren;20;45600;57000
 4810;Felspolster;1;27624;32924
 4293;Muster: Lederweste des Hügelwächters;1;13309;14787
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
@@ -618,9 +460,6 @@
 3466;Starker Fluxus;2;2913;3642
 7476;Majestätische Schärpe;1;30000;40000
 7491;Hauptmannsschulterschutz;1;12492;17982
-3576;Zinnbarren;20;12800;16000
-3576;Zinnbarren;20;41050;50000
-3576;Zinnbarren;20;5280;6600
 3576;Zinnbarren;20;9050;9500
 3576;Zinnbarren;20;9050;9500
 4716;Gefechtsumhang;1;2487;3000
@@ -639,8 +478,6 @@
 25846;Pläne: Adamantitrute;1;179000;199000
 24691;Elementaristenmantel;1;2453494;2490000
 5007;Band der Dornen;1;5222;10101
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 3415;Stab des Fraters;1;799900;799900
 22457;Urmana;1;194960;194980
 22457;Urmana;1;194960;194980

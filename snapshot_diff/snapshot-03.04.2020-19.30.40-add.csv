@@ -91,8 +91,6 @@
 22794;Teufelslotus;15;449909;450000
 9882;Zauberersphäre;1;19276;24095
 24663;Schattenrattunika;1;90000;108274
-4251;Schultern des Hügelwächters;1;6000;7600
-4251;Schultern des Hügelwächters;1;1800;5000
 7554;Weidenzweig;1;5000;6000
 22838;Hasttrank;5;160500;169899
 22838;Hasttrank;5;160500;169899
@@ -291,16 +289,9 @@
 23505;Adamantitrapier;1;130000;150000
 23505;Adamantitrapier;1;130000;150000
 7561;Bauplan: Goblinüberbrückungskabel;1;20750;30000
-30038;Gürtel der Zauberwucht;1;11000000;11000000
-30038;Gürtel der Zauberwucht;1;13500000;15000000
-30038;Gürtel der Zauberwucht;1;13500000;15000000
-30038;Gürtel der Zauberwucht;1;11000000;11000000
-30038;Gürtel der Zauberwucht;1;10090321;10220000
 11174;Geringe Netheressenz;2;31160;38950
 9898;Jazeraintumhang;1;20000;30000
 24479;Schattenperle;1;601500;650000
-7734;Sechsdämonentasche;1;35082;38980
-7734;Sechsdämonentasche;1;44209;49121
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;91960;114950
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;309600;509500
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
@@ -511,13 +502,6 @@
 24054;Stattliches Nachtauge;1;190074;199975
 24054;Stattliches Nachtauge;1;190074;199975
 24054;Stattliches Nachtauge;1;190074;199975
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
 9402;Erdgeborener Kilt;1;25308;0
 9402;Erdgeborener Kilt;1;65308;84000
 9402;Erdgeborener Kilt;1;76132;84591
@@ -537,26 +521,6 @@
 24296;Muster: Armschienen des Unerschütterlichen;1;198475;203094
 24296;Muster: Armschienen des Unerschütterlichen;1;103658;129573
 9895;Jazeraintstiefel;1;19000;19000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;16;10620;20000
-2770;Kupfererz;10;5000;8000
-2770;Kupfererz;3;1732;2166
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;5;2660;3325
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;10150;10900
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
 29528;Trommeln des Krieges;1;199999;199999
 29528;Trommeln des Krieges;1;199999;199999
 29528;Trommeln des Krieges;1;199999;199999
@@ -591,10 +555,6 @@
 22577;Schattenpartikel;3;11726;13029
 22577;Schattenpartikel;3;7785;9732
 22577;Schattenpartikel;8;10000;20000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
 8183;Präzisionsbogen;1;3639;7000
 24031;Heller lebendiger Rubin;1;259999;299999
 24031;Heller lebendiger Rubin;1;259999;299999
@@ -737,16 +697,6 @@
 9974;Oberherrenschild;1;24673;50000
 9358;Ein Kopftuch;1;400000;1200000
 9358;Ein Kopftuch;1;400000;1200000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15200;19000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
 22825;Elixier der Heilkraft;1;48998;48998
 22825;Elixier der Heilkraft;5;244990;244990
 22825;Elixier der Heilkraft;5;244990;244990

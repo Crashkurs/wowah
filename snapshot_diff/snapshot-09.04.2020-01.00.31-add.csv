@@ -1,5 +1,3 @@
-33782;Beständiger Talasit;1;65000;79900
-33782;Beständiger Talasit;1;64499;88899
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;100000;110000
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;115000;115000
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;100000;120000
@@ -57,8 +55,6 @@
 31876;Vorlage: Ausbalanciertes Nachtauge;1;135679;169599
 31876;Vorlage: Ausbalanciertes Nachtauge;1;175000;179999
 19260;Kriegsfürst 3;1;30000;30000
-19260;Kriegsfürst 3;1;23849;26498
-19260;Kriegsfürst 3;1;18737;23422
 19260;Kriegsfürst 3;1;19999;22299
 19260;Kriegsfürst 3;1;24900;25000
 22785;Teufelsgras;20;54500;73360
@@ -188,10 +184,8 @@
 31883;Segen 8;1;7135184;8918980
 24306;Muster: Wickeltuch der Vergeltung;1;154964;193705
 27532;Anglermeister - Die hohe Kunst des Angelns;1;155000;250000
-31131;Schärpe der lautlosen Klingen;1;90000;100000
 34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
 31877;Vorlage: Energieerfülltes Nachtauge;1;146477;183097
-31877;Vorlage: Energieerfülltes Nachtauge;1;154187;192734
 33954;Pläne: Hammer der rechtschaffenen Macht;1;126316;173151
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
@@ -307,18 +301,6 @@
 31134;Klinge des Unglücks;1;169015;169400
 31134;Klinge des Unglücks;1;147600;169500
 31134;Klinge des Unglücks;1;147600;169500
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;63644;79555
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;85000;98900
-31863;Ausbalanciertes Nachtauge;1;85000;98900
-31863;Ausbalanciertes Nachtauge;1;85000;98900
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;90000;97900
 22575;Lebenspartikel;5;78248;97810
 22575;Lebenspartikel;1;17934;22093
 22575;Lebenspartikel;1;17934;22093
@@ -368,9 +350,6 @@
 27658;Gerösteter Grollhuf;20;344500;359999
 33053;Heiße Forelle in Butter;4;4000;4000
 33053;Heiße Forelle in Butter;5;5000;5000
-31143;Tuch der Raserei;1;80241;89156
-31143;Tuch der Raserei;1;87838;97598
-31143;Tuch der Raserei;1;106400;133000
 33052;Fischerschmaus;3;15000;22500
 15152;Nächtliche Schuhe;1;20000;40000
 15341;Pfadfinderfußpolster;1;5430;6788
@@ -393,9 +372,6 @@
 21752;Thoriumfassung;20;85000;100000
 15168;Imposante Hose;1;11926;22000
 31882;Segen Ass;1;29800;30000
-31882;Segen Ass;1;29715;37144
-31882;Segen Ass;1;25116;31396
-31882;Segen Ass;1;45000;50000
 13759;Roher Nachtflossenschnapper;20;199900;199900
 13759;Roher Nachtflossenschnapper;14;139930;139930
 31137;Stulpen der Läuterung;1;52000;75000
@@ -436,20 +412,6 @@
 30422;Diamantener Fokusring;1;12976;16221
 30422;Diamantener Fokusring;1;12976;16221
 19261;Kriegsfürst 4;1;19514;25393
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;6;8888;10000
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;2;2232;2436
-25649;Knotenhautlederfetzen;20;22320;24360
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;20;22320;24360
-25649;Knotenhautlederfetzen;20;22320;24360
-25649;Knotenhautlederfetzen;20;22320;24360
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;20;17500;25000
-25649;Knotenhautlederfetzen;5;8888;10000
-25649;Knotenhautlederfetzen;20;17500;25000
 31139;Faust der Abrechnung;1;84442;100000
 31139;Faust der Abrechnung;1;114442;120000
 3914;Gesellenrucksack;1;44900;49900
@@ -510,17 +472,11 @@
 22578;Wasserpartikel;1;12000;15000
 22578;Wasserpartikel;1;12201;13023
 31672;Rippchen der Mok'Nathal;2;900;1400
-15177;Potente Schultern;1;27280;34100
 22844;Erheblicher Naturschutztrank;5;38412;48015
 22844;Erheblicher Naturschutztrank;5;38412;48015
 22844;Erheblicher Naturschutztrank;5;38412;48015
 32392;Armschienen der Seelenwache;1;2008148;2100000
 19232;Bestien 4;1;29800;35000
-19232;Bestien 4;1;39600;49500
-19232;Bestien 4;1;39600;49500
-19232;Bestien 4;1;63605;79507
-19232;Bestien 4;1;101472;102191
-19232;Bestien 4;1;101472;102191
 19232;Bestien 4;1;29800;35000
 22840;Elixier des erheblichen Magierbluts;20;567000;598000
 22840;Elixier des erheblichen Magierbluts;5;149495;149495
@@ -559,35 +515,11 @@
 31079;Quecksilberadamantit;1;111600;149500
 19228;Bestienkartenset;1;24750000;28000000
 19228;Bestienkartenset;1;23990000;25990000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;319999;319999
-27657;Schwarzgebratener Basilisk;20;319999;319999
-27657;Schwarzgebratener Basilisk;20;319999;319999
 27657;Schwarzgebratener Basilisk;20;319499;319499
 27657;Schwarzgebratener Basilisk;20;319499;319499
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
 27657;Schwarzgebratener Basilisk;20;594500;599900
 27657;Schwarzgebratener Basilisk;20;594500;599900
 27657;Schwarzgebratener Basilisk;20;340998;340998
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
-27657;Schwarzgebratener Basilisk;20;304500;320000
 27657;Schwarzgebratener Basilisk;20;304500;320000
 27657;Schwarzgebratener Basilisk;20;304500;320000
 27657;Schwarzgebratener Basilisk;20;304500;320000
@@ -665,7 +597,6 @@
 11083;Seelenstaub;2;4000;4000
 15381;Zornprankenbrustschutz;1;31600;39500
 33872;Feuriger Würztalbuk;20;122000;129000
-33872;Feuriger Würztalbuk;20;119632;129940
 33872;Feuriger Würztalbuk;20;59864;60000
 33872;Feuriger Würztalbuk;20;59864;60000
 33872;Feuriger Würztalbuk;10;27750;29899
@@ -681,13 +612,7 @@
 23536;Helm der Eidestreue;1;5503452;6000000
 22789;Terozapfen;20;186512;213140
 22789;Terozapfen;20;186512;213140
-22789;Terozapfen;20;125000;140000
 22789;Terozapfen;20;186512;213140
-31127;Halsberge des Totemzorns;1;51300;64125
-31127;Halsberge des Totemzorns;1;82491;91657
-31127;Halsberge des Totemzorns;1;45231;56539
-31127;Halsberge des Totemzorns;1;83714;94643
-31127;Halsberge des Totemzorns;1;62559;70000
 31127;Halsberge des Totemzorns;1;41706;50000
 31127;Halsberge des Totemzorns;1;62559;65500
 33874;Kiblers Häppchen;3;5250;6750
@@ -714,12 +639,6 @@
 32381;Bauplan: Verschmorte Verkabelung;1;275000;300000
 24368;Waffen des Echsenkessels;2;1500;250000
 31868;Tückischer Edeltopas;1;270000;285000
-31868;Tückischer Edeltopas;1;269999;289999
-31868;Tückischer Edeltopas;1;274000;289000
-31868;Tückischer Edeltopas;1;274000;289000
-31868;Tückischer Edeltopas;1;274000;289000
-31868;Tückischer Edeltopas;1;274000;289000
-31868;Tückischer Edeltopas;1;274000;289000
 31868;Tückischer Edeltopas;1;270000;285000
 31868;Tückischer Edeltopas;1;270000;285000
 24031;Heller lebendiger Rubin;1;269999;288899

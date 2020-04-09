@@ -1,10 +1,5 @@
 9260;Flüchtiger Rum;4;3628;4031
 10560;Instabiler Auslöser;1;55820;55821
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-4293;Muster: Lederweste des Hügelwächters;1;29999;39999
-3053;Humberts Brustharnisch;1;6848;8560
-1168;Schädelflammenschild;1;156799;195999
 22445;Arkaner Staub;1;9000;9900
 22445;Arkaner Staub;1;9000;9900
 22445;Arkaner Staub;1;9000;9900
@@ -22,7 +17,6 @@
 8827;Elixier des Wasserwandelns;20;13750;19900
 8827;Elixier des Wasserwandelns;20;13750;19900
 8827;Elixier des Wasserwandelns;20;13750;19900
-2598;Muster: Rote Leinenrobe;1;783;979
 29740;Teuflische Waffen;1;189999;189999
 29740;Teuflische Waffen;1;189999;189999
 29740;Teuflische Waffen;1;189999;189999
@@ -60,15 +54,9 @@
 25802;Schreckensgiftbeutel;3;25536;31920
 25802;Schreckensgiftbeutel;5;42560;53200
 5575;Großer grüner Sack;1;11640;12934
-3164;Verfärbtes Worgherz;10;38290;42720
 25650;Knotenhautrüstungsset;4;60000;65000
-3203;Handfester Dreiecksstreitkolben;1;13500;19500
-3203;Handfester Dreiecksstreitkolben;1;14471;19701
 22785;Teufelsgras;19;41800;41800
-3174;Spinnensekret;2;102;128
-3174;Spinnensekret;10;512;640
 890;Stab des verrückten Sängers;1;507056;598951
-3210;Brutale Kriegsaxt;1;18006;22508
 27498;Rolle der Beweglichkeit V;5;240000;249499
 27498;Rolle der Beweglichkeit V;5;240000;249499
 27498;Rolle der Beweglichkeit V;5;240000;249499
@@ -95,18 +83,11 @@
 25867;Erdsturmdiamant;1;676767;686868
 25867;Erdsturmdiamant;1;676767;686868
 7392;Grünwelpenschuppe;1;8999;9998
-3206;Chevalierszweihänder;1;6873;9000
 7428;Schattenkatzenbalg;3;5788;6431
 7428;Schattenkatzenbalg;4;7717;8574
 31319;Band der undurchdringlichen Verteidigung;1;4798537;4999900
 25057;Bernsteinband;1;449999;449999
-3173;Bärenfleisch;10;9966;11073
-3173;Bärenfleisch;10;9966;11073
-3173;Bärenfleisch;4;3000;4000
-3173;Bärenfleisch;10;9900;11000
 24905;Talbalghandschuhe;1;559999;559999
-3021;Waldläuferbogen;1;7747;9684
-3021;Waldläuferbogen;1;7359;9599
 11178;Großer strahlender Splitter;1;22000;28000
 11178;Großer strahlender Splitter;1;22000;28000
 11178;Großer strahlender Splitter;1;22000;28000
@@ -125,9 +106,6 @@
 30839;Flammenherzweste;1;342900;399990
 22450;Kristall der Leere;1;59500;90000
 7331;Phalanxschild;1;13856;17320
-4251;Schultern des Hügelwächters;1;1800;5000
-4251;Schultern des Hügelwächters;1;6000;7600
-4251;Schultern des Hügelwächters;1;1800;5000
 9782;Banditenwams;1;50000;59000
 31143;Tuch der Raserei;1;100000;119000
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;7714;8572
@@ -162,7 +140,6 @@
 22459;Sphäre der Leere;1;1499;2660
 5498;Kleine irisierende Perle;2;3138;3487
 5498;Kleine irisierende Perle;1;1362;1703
-3039;Kurzer Eschenbogen;1;8915;9500
 3345;Hexerseidenhut;1;4080;4900
 4245;Kleines Seidenpack;1;7500;11111
 4245;Kleines Seidenpack;1;7500;11111
@@ -205,7 +182,6 @@
 12037;Eigenartiges Fleisch;1;247;274
 4096;Grobes Gorillahaar;3;2369;2632
 1081;Knuspriges Spinnenfleisch;10;1935;2150
-3182;Spinnenseide;1;1238;1548
 24666;Schattenrathose;1;667910;669999
 22794;Teufelslotus;3;110097;110097
 24056;Leuchtendes Nachtauge;1;122299;122299
@@ -225,8 +201,6 @@
 24065;Schillernder Talasit;1;46511;58139
 31501;Foliant des Essenherbeizauberns VIII;1;999900;999900
 9292;Feldplattenschulterstücke;1;40000;50000
-4278;Geringes Blutsteinerz;11;84084;105105
-4278;Geringes Blutsteinerz;20;152880;191100
 23489;Teufelseisenbrustplatte;1;65000;85000
 23489;Teufelseisenbrustplatte;1;65000;85000
 23489;Teufelseisenbrustplatte;1;65000;85000
@@ -286,24 +260,15 @@
 29539;Kobraschuppen;2;183750;198900
 29539;Kobraschuppen;2;183750;198900
 29539;Kobraschuppen;2;183750;198900
-1177;Oil of Olaf;5;156;195
 785;Maguskönigskraut;20;4999;5000
 785;Maguskönigskraut;20;4999;5000
 785;Maguskönigskraut;20;4999;5000
 785;Maguskönigskraut;20;4999;5000
 785;Maguskönigskraut;13;3200;3250
 5503;Muschelfleisch;1;1918;2131
-3227;Stab der Nachtheuler;1;7625;9532
-3199;Kampfschlächter;1;7093;8867
 7076;Essenz der Erde;2;102398;102398
 7076;Essenz der Erde;4;204796;204796
-1169;Schwarzschädelschild;1;85127;94586
-1169;Schwarzschädelschild;1;45446;56808
-4294;Muster: Gürtel des Hügelwächters;1;4000;5000
 12202;Tigerfleisch;10;3091;3434
-3066;Helle Handschuhe;1;10000;10000
-3066;Helle Handschuhe;1;3000;4000
-3283;Kampfkettentunika;1;10000;10000
 3357;Lebenswurz;3;225;0
 3357;Lebenswurz;5;1040;1300
 3357;Lebenswurz;20;9999;10000
@@ -321,13 +286,11 @@
 22792;Alptraumranke;20;244880;244880
 10075;Rechtschaffene Schiftung;1;20000;30000
 1639;Grinseraxt;1;50000;60000
-10606;Bauplan: Fallschirmumhang;1;1500;2400
 8839;Blindkraut;3;11000;15000
 24401;Unbekannte Pflanzenteile;6;45144;56430
 24401;Unbekannte Pflanzenteile;1;9900;9900
 22787;Zottelkappe;18;55800;55800
 8831;Lila Lotus;16;52800;52800
-3018;Balg von Lupos;1;199900;199900
 9881;Zauberermantelung;1;5050;9999
 10644;Rezept: Goblinraketentreibstoff;1;193616;242020
 10644;Rezept: Goblinraketentreibstoff;1;193616;242020

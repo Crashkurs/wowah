@@ -5,8 +5,6 @@
 23626;Pläne: Schwarze Teufelsstahlarmschienen;1;237800;297251
 23629;Pläne: Teufelsstahllangschwert;1;150000;155000
 23629;Pläne: Teufelsstahllangschwert;1;180000;200000
-24297;Muster: Armschienen der Verwüstung;1;347596;434496
-24297;Muster: Armschienen der Verwüstung;1;324990;406238
 24297;Muster: Armschienen der Verwüstung;1;324990;406238
 24297;Muster: Armschienen der Verwüstung;1;347596;434496
 23425;Adamantiterz;20;199860;249880
@@ -57,7 +55,6 @@
 29292;Hölleneberspeck;5;19261;21401
 30809;Mal des Sargeras;17;145100;150000
 3829;Frostöl;1;3000;3000
-3829;Frostöl;1;3000;3000
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
@@ -106,7 +103,6 @@
 24051;Massiver Dämmerstein;1;135000;140000
 24051;Massiver Dämmerstein;1;130000;165000
 24051;Massiver Dämmerstein;1;130000;165000
-24275;Silberner Zauberfaden;1;1110000;1120000
 24275;Silberner Zauberfaden;1;1110000;1120000
 31204;Kanonenklinge;1;120000;180000
 22834;Elixier der erheblichen Verteidigung;5;23530;83060
@@ -340,19 +336,6 @@
 23119;Funkelnder Azurmondstein;1;6368;7960
 23119;Funkelnder Azurmondstein;1;6368;7960
 23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;9382;11728
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;6368;7960
-23119;Funkelnder Azurmondstein;1;7056;8820
 24674;Eldr'naanhose;1;1950219;1990000
 1460;Schattenfellzweihandschwert;1;38961;41134
 28498;Rabenwächterbandelier;1;77351;85946
@@ -478,9 +461,6 @@
 24296;Muster: Armschienen des Unerschütterlichen;1;180000;200000
 24296;Muster: Armschienen des Unerschütterlichen;1;178159;300000
 24296;Muster: Armschienen des Unerschütterlichen;1;151600;189500
-24296;Muster: Armschienen des Unerschütterlichen;1;180000;200000
-24296;Muster: Armschienen des Unerschütterlichen;1;178159;300000
-24296;Muster: Armschienen des Unerschütterlichen;1;151600;189500
 28595;Heller Blutgranat;1;59999;69999
 28595;Heller Blutgranat;1;59999;69999
 19282;Portal 6;1;238750;250000
@@ -538,17 +518,10 @@
 24719;Lumpenpackbrustharnisch;1;50000;60000
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;2;9000;10598
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4500;5299
-24276;Goldener Zauberfaden;1;1664999;1679999
-24276;Goldener Zauberfaden;1;1659999;1669999
-24276;Goldener Zauberfaden;1;1624999;1659999
-24276;Goldener Zauberfaden;1;1624999;1659999
 24276;Goldener Zauberfaden;1;1624999;1659999
 24276;Goldener Zauberfaden;1;1624999;1659999
 24276;Goldener Zauberfaden;1;1659999;1669999
 24276;Goldener Zauberfaden;1;1664999;1679999
-24276;Goldener Zauberfaden;1;1619999;1649999
-24276;Goldener Zauberfaden;1;1619999;1649999
-24276;Goldener Zauberfaden;1;1619999;1649999
 23625;Pläne: Helm der Eidestreue;1;180000;220000
 23625;Pläne: Helm der Eidestreue;1;180000;190000
 23625;Pläne: Helm der Eidestreue;1;199999;229999
@@ -579,9 +552,6 @@
 27501;Rolle der Willenskraft V;5;249995;299995
 27501;Rolle der Willenskraft V;5;199999;229999
 24588;Scherbenweltarmschienen;1;70700;80800
-22853;Fläschchen der mächtigen Wiederherstellung;1;154900;158900
-22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;154900;158900
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
@@ -590,14 +560,6 @@
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
 22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;153000;154000
-22853;Fläschchen der mächtigen Wiederherstellung;1;154900;158900
-22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
-22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
-22853;Fläschchen der mächtigen Wiederherstellung;1;147373;152637
 24693;Knochenmalmerpelzgurt;1;37454;41616
 22789;Terozapfen;20;239999;249999
 22789;Terozapfen;20;239999;249999
@@ -619,8 +581,6 @@
 24691;Elementaristenmantel;1;2453494;2490000
 24691;Elementaristenmantel;1;2453494;2490000
 24691;Elementaristenmantel;1;1805241;2000000
-24291;Sumpflordranke;68;283468;299336
-24291;Sumpflordranke;32;154000;160000
 24291;Sumpflordranke;68;283468;299336
 24291;Sumpflordranke;32;154000;160000
 24610;Schädelhose;1;50000;60000
@@ -689,14 +649,6 @@
 22790;Urflechte;20;41100;41111
 22790;Urflechte;20;41100;41111
 22790;Urflechte;12;28800;36000
-22790;Urflechte;20;41100;41111
-22790;Urflechte;20;41100;41111
-22790;Urflechte;20;41100;41111
-22790;Urflechte;20;41100;41111
-22790;Urflechte;20;41100;41111
-22790;Urflechte;12;28800;36000
-22790;Urflechte;20;37320;39480
-22790;Urflechte;20;38900;40200
 24934;Dunkelkammgürtel;1;30639;35000
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;595000;690000
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;799999;999999

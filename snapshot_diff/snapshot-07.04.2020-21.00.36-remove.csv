@@ -1,6 +1,5 @@
 14265;Blutgewebte Wickeltücher;1;14779;20000
 10316;Muster: Bunter Kilt;1;9000;10000
-10316;Muster: Bunter Kilt;1;9000;10000
 14303;Knochenwerfers Tuch;1;30000;40000
 13465;Bergsilbersalbei;20;154500;175622
 13465;Bergsilbersalbei;20;154500;175622
@@ -369,12 +368,6 @@
 8170;Unverwüstliches Leder;20;135000;150000
 8170;Unverwüstliches Leder;20;135000;150000
 8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
 31308;Der Überbringer des Todes;1;129900;155000
 7068;Elementarfeuer;3;17831;19812
 6406;Nachthauchstiefel;1;20000;30000
@@ -463,11 +456,6 @@
 1708;Süßer Nektar;3;1764;1960
 14467;Muster: Froststoffrobe;1;30109;41233
 8169;Dicker Balg;2;963;1204
-8169;Dicker Balg;10;3990;4990
-8169;Dicker Balg;10;3990;4990
-8169;Dicker Balg;4;1596;1996
-8169;Dicker Balg;2;963;1204
-8169;Dicker Balg;3;1444;1806
 32897;Mal der Illidari;250;1880100;1990000
 32897;Mal der Illidari;10;65000;70000
 32897;Mal der Illidari;10;65000;70000
@@ -497,7 +485,6 @@
 13492;Rezept: Läuterungstrank;1;90235;94706
 2565;Rute des flüssigen Feuers;1;6993;7770
 31272;Krone des unendlichen Wissens;1;36049;650000
-6433;Imperialer Lederhelm;1;22746;28433
 6433;Imperialer Lederhelm;1;22746;28433
 22153;Foliant der arkanen Brillanz 2;1;187086;197874
 22153;Foliant der arkanen Brillanz 2;1;195188;243986
@@ -539,9 +526,6 @@
 22457;Urmana;1;181000;195000
 22457;Urmana;1;181000;195000
 22457;Urmana;1;181000;195000
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
 6662;Elixier des Riesenwuchses;5;49999;59999
 21887;Knotenhautleder;20;269980;269980
 21887;Knotenhautleder;20;269980;269980
@@ -625,8 +609,6 @@
 22790;Urflechte;20;35999;37999
 11176;Traumstaub;9;49900;49999
 11176;Traumstaub;20;109999;179999
-10561;Mithrilgehäuse;1;41800;52250
-10561;Mithrilgehäuse;1;40001;50001
 10561;Mithrilgehäuse;1;40001;50001
 10561;Mithrilgehäuse;1;40001;50001
 14478;Muster: Hellstoffrobe;1;5250;10000

@@ -1,6 +1,4 @@
 10184;Schwadroneursarmschienen;1;30000;40000
-10184;Schwadroneursarmschienen;1;30000;40000
-10256;Abenteurerarmschienen;1;15463;30000
 10256;Abenteurerarmschienen;1;15463;30000
 2878;Hakenknochenaxt;1;88396;101644
 10940;Seltsamer Staub;17;49300;50048
@@ -27,7 +25,6 @@
 24057;Königliches Nachtauge;1;155000;157500
 24961;Khan'aishhandschuhe;1;31857;40000
 22907;Rezept: Erstklassiger Manatrank;1;228000;285000
-10191;Kreuzfahrerarmschützer;1;27997;31108
 10191;Kreuzfahrerarmschützer;1;27997;31108
 7909;Aquamarin;1;1500;16600
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;23900;70000
@@ -89,7 +86,6 @@
 24870;Eisenrückengürtel;1;79641;90000
 25901;Bemerkenswerter Erdsturmdiamant;1;608958;615210
 10203;Oberherrenbrustplatte;1;27292;34565
-10203;Oberherrenbrustplatte;1;27292;34565
 24062;Robuster Talasit;1;58000;58000
 24062;Robuster Talasit;1;58000;58000
 24062;Robuster Talasit;1;58000;58000
@@ -103,13 +99,11 @@
 8183;Präzisionsbogen;1;3639;7000
 10174;Mystisches Cape;1;12181;24000
 10281;Smaragdschulterstücke;1;29533;40000
-10281;Smaragdschulterstücke;1;29533;40000
 31677;Teufelsmanatrank;5;279999;299999
 31677;Teufelsmanatrank;5;279999;299999
 31677;Teufelsmanatrank;5;279999;299999
 31677;Teufelsmanatrank;5;279999;299999
 7971;Schwarze Perle;1;161500;170000
-10190;Schwadroneursgürtel;1;10003;15000
 10190;Schwadroneursgürtel;1;10003;15000
 23623;Pläne: Helm des Sturms;1;130000;150000
 31884;Segen 5;1;999799;999899
@@ -168,7 +162,6 @@
 25135;Grollhufstreitkolben;1;119851;180000
 10167;Templerstiefel;1;16470;40000
 10258;Abenteurercape;1;29000;29000
-10258;Abenteurercape;1;29000;29000
 6395;Silberfadenamicia;1;4044;5056
 7081;Odem des Windes;1;30600;31000
 7081;Odem des Windes;1;30600;31000
@@ -219,7 +212,6 @@
 1210;Schattenedelstein;7;2625;8000
 1210;Schattenedelstein;3;3192;3990
 11098;Formel: Umhang - Geringer Schattenwiderstand;1;4950;7900
-11098;Formel: Umhang - Geringer Schattenwiderstand;1;4950;7900
 19227;Bestien Ass;1;11999999;14999999
 29547;Windschuppen;20;899999;999899
 29547;Windschuppen;4;167500;176500
@@ -234,7 +226,6 @@
 9036;Magiewiderstandstrank;5;474999;499999
 9036;Magiewiderstandstrank;5;238799;238799
 9036;Magiewiderstandstrank;5;238799;238799
-10195;Kreuzfahrerschild;1;59071;73839
 10195;Kreuzfahrerschild;1;59071;73839
 11225;Formel: Armschiene - Große Ausdauer;1;52325;53000
 11225;Formel: Armschiene - Große Ausdauer;1;79309;88121
@@ -255,16 +246,6 @@
 25896;Mächtiger Erdsturmdiamant;1;840000;840000
 25896;Mächtiger Erdsturmdiamant;1;799905;839900
 4304;Dickes Leder;2;3000;6000
-11135;Große Mystikeressenz;10;185000;190000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;3;54000;60000
-11135;Große Mystikeressenz;9;180000;185000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;3;54000;60000
-11135;Große Mystikeressenz;10;180000;200000
-11135;Große Mystikeressenz;10;180000;200000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;1;15000;20000
 11135;Große Mystikeressenz;3;54000;60000
 11135;Große Mystikeressenz;9;180000;185000
 11135;Große Mystikeressenz;10;185000;190000
@@ -279,7 +260,6 @@
 24053;Mystischer Dämmerstein;1;93999;94999
 24053;Mystischer Dämmerstein;1;93999;94999
 24053;Mystischer Dämmerstein;1;93999;94999
-10199;Kreuzfahrergamaschen;1;30000;40000
 10199;Kreuzfahrergamaschen;1;30000;40000
 6603;Derwischtunika;1;4472;5540
 24056;Leuchtendes Nachtauge;1;117966;118499
@@ -305,18 +285,8 @@
 12424;Imperialer Plattengürtel;1;14607;58000
 10231;Graviertes Cape;1;31411;39264
 10231;Graviertes Cape;1;29570;37838
-10231;Graviertes Cape;1;31411;39264
-10231;Graviertes Cape;1;29570;37838
 6408;Insignienhandschuhe;1;5892;7365
 19262;Kriegsfürst 5;1;189541;189560
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32245;35830
-11134;Geringe Mystikeressenz;5;32245;35830
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
 11134;Geringe Mystikeressenz;5;32180;35755
 11134;Geringe Mystikeressenz;5;32245;35830
 11134;Geringe Mystikeressenz;5;32245;35830
@@ -341,21 +311,6 @@
 24033;Gediegener Stern der Elune;1;105000;107500
 24033;Gediegener Stern der Elune;1;105000;107500
 24033;Gediegener Stern der Elune;1;105000;107500
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;1500;1800
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;7;52500;56000
-10285;Schattenseide;1;7328;8142
-10285;Schattenseide;1;1500;1750
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
 10285;Schattenseide;1;3708;4120
 10285;Schattenseide;1;3708;4120
 10285;Schattenseide;1;3708;4120

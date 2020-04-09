@@ -12,20 +12,6 @@
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;100000;120000
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;115000;115000
 32411;Vorlage: Donnernder Himmelsfeuerdiamant;1;100000;110000
-31917;Delirium 3;1;161041;178934
-32227;Purpurspinell;1;2815000;2820000
-32227;Purpurspinell;1;2815000;2820000
-32227;Purpurspinell;1;2815000;2820000
-32227;Purpurspinell;1;2830000;2849900
-32227;Purpurspinell;1;2750000;2850000
-32227;Purpurspinell;1;2750000;2850000
-32227;Purpurspinell;1;2750000;2850000
-32227;Purpurspinell;1;2791956;2892185
-32227;Purpurspinell;1;2927200;2931500
-32227;Purpurspinell;1;3120000;3750000
-32227;Purpurspinell;1;3120000;3750000
-31918;Delirium 2;1;47500;50000
-31918;Delirium 2;1;47500;50000
 32068;Elixier der Eisenhaut;20;749999;799999
 32068;Elixier der Eisenhaut;20;749999;799999
 32068;Elixier der Eisenhaut;20;749999;799999
@@ -43,7 +29,6 @@
 31876;Vorlage: Ausbalanciertes Nachtauge;1;135679;169599
 32201;Funkelnder Engelssaphir;1;999900;999900
 32201;Funkelnder Engelssaphir;1;999900;999900
-31896;Sturm 7;1;193500;600000
 25650;Knotenhautrüstungsset;1;43327;56659
 25650;Knotenhautrüstungsset;1;43327;56659
 25650;Knotenhautrüstungsset;1;43327;56659
@@ -136,10 +121,6 @@
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;210000;220000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
-31884;Segen 5;1;727500;730000
-31884;Segen 5;1;849552;993440
-31884;Segen 5;1;740000;1200000
-31884;Segen 5;1;1309672;1309803
 34105;Köcher der tausend Federn;1;1886000;1973000
 32409;Unerbittlicher Erdsturmdiamant;1;1399900;1399900
 32409;Unerbittlicher Erdsturmdiamant;1;1385645;1399883
@@ -251,36 +232,6 @@
 32836;Geläuterte Schattenperle;1;405000;459999
 32836;Geläuterte Schattenperle;1;405000;459999
 32836;Geläuterte Schattenperle;1;499999;519999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;305845;316800
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;235600;254500
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;3;609500;763500
-32228;Engelssaphir;1;300000;310000
-32228;Engelssaphir;3;609500;763500
-32228;Engelssaphir;1;203600;254500
-32228;Engelssaphir;1;290000;309999
-32228;Engelssaphir;2;580000;619998
-32228;Engelssaphir;1;203600;254500
-32063;Erdelixier;5;89995;99995
-32063;Erdelixier;10;72500;99900
 33053;Heiße Forelle in Butter;4;4000;4000
 33053;Heiße Forelle in Butter;5;5000;5000
 33052;Fischerschmaus;5;25000;37500
@@ -338,8 +289,6 @@
 32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;180000;259000
 32249;Gischtsmaragd;1;320000;327500
-31888;Segen 3;1;129960;162450
-31888;Segen 3;1;136800;171000
 31882;Segen Ass;1;29715;37144
 31882;Segen Ass;1;29800;30000
 31882;Segen Ass;1;25116;31396
@@ -356,7 +305,6 @@
 32215;Leuchtender Schattensangamethyst;1;879900;879900
 32215;Leuchtender Schattensangamethyst;1;710000;880000
 31899;Sturm 3;1;474020;592526
-32225;Schillernder Gischtsmaragd;1;579999;589999
 32586;Armschienen des flinken Gedankens;1;4800000;5439900
 32586;Armschienen des flinken Gedankens;1;5419600;5419900
 32586;Armschienen des flinken Gedankens;1;4800000;5439900
@@ -369,32 +317,17 @@
 34622;Wirbelschnitter;1;2220000;2350000
 34622;Wirbelschnitter;1;2351960;2939951
 34622;Wirbelschnitter;1;1999999;1999999
-32216;Königlicher Schattensangamethyst;1;889557;889646
 31892;Sturm Ass;1;199900;199900
-25649;Knotenhautlederfetzen;20;17500;22000
-25649;Knotenhautlederfetzen;20;23850;26500
-25649;Knotenhautlederfetzen;20;23850;26500
-25649;Knotenhautlederfetzen;20;23850;26500
 32755;Muster: Mantelung des flinken Gedankens;1;7999900;7999900
 34827;Adligenmonokel;1;444444;499999
 34827;Adligenmonokel;1;444443;499998
 34827;Adligenmonokel;1;781269;976587
-31889;Segen 2;1;3000000;6000000
 32388;Schattenstaub;3;47325;52584
 32196;Runenverzierter Purpurspinell;1;2800000;2850000
 32196;Runenverzierter Purpurspinell;1;2800000;2850000
 32392;Armschienen der Seelenwache;1;2008148;2100000
-32067;Elixier der draenischen Weisheit;15;263750;269900
 32067;Elixier der draenischen Weisheit;10;199990;199990
 32067;Elixier der draenischen Weisheit;10;199990;199990
-32067;Elixier der draenischen Weisheit;20;260000;280000
-32067;Elixier der draenischen Weisheit;20;260000;280000
-32067;Elixier der draenischen Weisheit;20;292100;293500
-32067;Elixier der draenischen Weisheit;20;295000;295000
-32067;Elixier der draenischen Weisheit;10;182500;189999
-32067;Elixier der draenischen Weisheit;10;182500;189999
-32067;Elixier der draenischen Weisheit;20;282544;353180
-32067;Elixier der draenischen Weisheit;5;274035;280035
 34060;Steuerung für eine Flugmaschine;1;490100;500000
 34207;Handschuhverstärkung;1;391250;400000
 32833;Geläuterte Jaggalperle;1;22639;36599
@@ -422,14 +355,6 @@
 32833;Geläuterte Jaggalperle;1;27500;29000
 32833;Geläuterte Jaggalperle;1;27500;29000
 32833;Geläuterte Jaggalperle;1;21127;26409
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
-32833;Geläuterte Jaggalperle;1;25946;26309
 32833;Geläuterte Jaggalperle;1;23500;38000
 32833;Geläuterte Jaggalperle;1;21127;26409
 32833;Geläuterte Jaggalperle;1;21127;26409
@@ -437,7 +362,6 @@
 32833;Geläuterte Jaggalperle;1;33356;46696
 32833;Geläuterte Jaggalperle;1;21127;26409
 32833;Geläuterte Jaggalperle;1;17799;27799
-32833;Geläuterte Jaggalperle;1;25946;26309
 32833;Geläuterte Jaggalperle;1;23500;38000
 32833;Geläuterte Jaggalperle;1;33356;46696
 32833;Geläuterte Jaggalperle;1;17876;28900
@@ -452,7 +376,6 @@
 32833;Geläuterte Jaggalperle;1;17876;28900
 32833;Geläuterte Jaggalperle;1;17876;28900
 32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;25946;26309
 32833;Geläuterte Jaggalperle;1;23500;38000
 32833;Geläuterte Jaggalperle;1;23500;38000
 32833;Geläuterte Jaggalperle;1;27500;28800
@@ -465,34 +388,13 @@
 33122;Umhang der Dunkelheit;1;4497600;4509500
 33122;Umhang der Dunkelheit;1;4497600;4509500
 33122;Umhang der Dunkelheit;1;4609599;4995999
-32226;Gezackter Gischtsmaragd;1;689999;699999
 33093;Manatrankeinspritzung;20;599900;599900
 33093;Manatrankeinspritzung;20;599900;599900
 34826;Goldener Trauring;1;200000;250000
 32582;Armschienen des erneuerten Lebens;1;3551331;3799164
 31879;Vorlage: Tückischer Edeltopas;1;999999;999999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;20;319984;399980
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;18;83750;100000
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;564400;705580
-32062;Elixier der erheblichen Seelenstärke;9;253980;317511
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;37500;125000
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;1;1875;9000
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
@@ -526,16 +428,6 @@
 31901;Furien Ass;1;115475;144344
 31901;Furien Ass;1;170000;184500
 31901;Furien Ass;1;89488;105380
-33872;Feuriger Würztalbuk;20;122000;129000
-33872;Feuriger Würztalbuk;20;122000;129000
-33872;Feuriger Würztalbuk;20;119632;129940
-33872;Feuriger Würztalbuk;20;59864;60000
-33872;Feuriger Würztalbuk;20;59864;60000
-33872;Feuriger Würztalbuk;20;59864;60000
-33872;Feuriger Würztalbuk;10;27750;29899
-33872;Feuriger Würztalbuk;20;122000;129000
-33872;Feuriger Würztalbuk;20;41792;52240
-33872;Feuriger Würztalbuk;20;122000;129000
 32231;Pyrostein;1;2120000;2130000
 32231;Pyrostein;1;1903470;2148300
 32231;Pyrostein;1;1618800;1993500
@@ -556,12 +448,6 @@
 32231;Pyrostein;1;2199999;2299999
 31912;Delirium 5;1;2000000;2219999
 31912;Delirium 5;1;2215000;2220000
-33874;Kiblers Häppchen;20;44444;55555
-33874;Kiblers Häppchen;5;8750;11250
-33874;Kiblers Häppchen;3;5250;6750
-33874;Kiblers Häppchen;20;44444;55555
-33874;Kiblers Häppchen;5;8750;11250
-32224;Strahlender Gischtsmaragd;1;689999;699999
 34828;Antiker Silbermanschettenknopf;1;264831;299998
 34828;Antiker Silbermanschettenknopf;1;288888;299999
 34828;Antiker Silbermanschettenknopf;1;264832;331040
@@ -569,7 +455,5 @@
 32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
 32381;Bauplan: Verschmorte Verkabelung;1;125000;150000
 32381;Bauplan: Verschmorte Verkabelung;1;125000;150000
-32223;Robuster Gischtsmaragd;1;689999;699999
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
-31887;Segen 6;1;10000000;15000000

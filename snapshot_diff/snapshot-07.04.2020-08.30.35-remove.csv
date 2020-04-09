@@ -38,7 +38,6 @@
 2450;Wilddornrose;20;49925;55472
 24805;Drachenfalkenbänder;1;2450000;2490000
 31501;Foliant des Essenherbeizauberns VIII;1;199588;200000
-31501;Foliant des Essenherbeizauberns VIII;1;199588;200000
 30810;Siegel des Sonnenzorns;5;28724;38955
 30810;Siegel des Sonnenzorns;5;28724;38955
 30810;Siegel des Sonnenzorns;5;28724;38955
@@ -51,7 +50,6 @@
 3356;Königsblut;20;7741;8601
 3356;Königsblut;20;7741;8601
 3356;Königsblut;10;3870;4300
-31335;Hose des lebendigen Wachstums;1;3999999;3999999
 31335;Hose des lebendigen Wachstums;1;3999999;3999999
 22797;Alptraumsaat;20;146000;155000
 30420;Schwerer Jadering;1;4647;5809
@@ -73,7 +71,6 @@
 23620;Pläne: Teufelszornstulpen;1;240000;245000
 23620;Pläne: Teufelszornstulpen;1;180000;230000
 30040;Gürtel der tiefen Schatten;1;9500000;9750000
-31338;Charlottes Efeu;1;2775340;3142613
 31338;Charlottes Efeu;1;2775340;3142613
 13023;Adlerhornlangbogen;1;73937;92422
 30283;Muster: Stiefel des langen Weges;1;355000;400000
@@ -99,11 +96,9 @@
 24114;Geflochtene Eterniumkette;1;399999;499999
 24990;Totschlägergürtel;1;499999;499999
 31367;Gamaschen der Wildwacht;1;2754828;3330000
-31367;Gamaschen der Wildwacht;1;2754828;3330000
 24937;Dunkelkammstulpen;1;30970;40000
 12731;Makelloser Balg der Bestie;1;999999;1299999
 12731;Makelloser Balg der Bestie;1;999999;1299999
-24075;Golddraenitring;1;78371;97964
 24075;Golddraenitring;1;78371;97964
 24801;Drachenfalkenhandschuhe;1;80000;90000
 6393;Silberfadenhandschuhe;1;1140;2500
@@ -181,22 +176,12 @@
 24907;Talbalggamaschen;1;140000;150000
 27425;Tüpfelteufelsfinne;6;4000;6000
 31333;Der Nachtwächter;1;3638983;3998729
-31333;Der Nachtwächter;1;3638983;3998729
-31333;Der Nachtwächter;1;2316395;2374827
-22793;Manadistel;20;92299;93333
 22793;Manadistel;20;92299;93333
 22793;Manadistel;20;92299;93333
 27498;Rolle der Beweglichkeit V;1;65800;112900
 23118;Gediegener Azurmondstein;1;7600;9500
 23118;Gediegener Azurmondstein;1;7600;9500
-30422;Diamantener Fokusring;1;41400;54250
 30422;Diamantener Fokusring;1;16538;17075
-30422;Diamantener Fokusring;1;16538;17075
-30422;Diamantener Fokusring;1;16538;17075
-30422;Diamantener Fokusring;1;16538;17075
-30422;Diamantener Fokusring;1;16538;17075
-30422;Diamantener Fokusring;1;41400;54250
-31368;Helm der Wildwacht;1;2753775;3330000
 31368;Helm der Wildwacht;1;2753775;3330000
 25649;Knotenhautlederfetzen;20;36500;37000
 25649;Knotenhautlederfetzen;20;36500;37000
@@ -318,8 +303,6 @@
 16203;Große ewige Essenz;1;77900;82929
 16203;Große ewige Essenz;1;77900;82929
 31670;Raptorrippchen;20;14220;17280
-31670;Raptorrippchen;20;14220;17280
-31339;Lolas Abend;1;4509864;4752330
 31339;Lolas Abend;1;4509864;4752330
 24078;Schwerer Adamantitring;1;122475;143094
 24078;Schwerer Adamantitring;1;122475;143094
@@ -419,17 +402,6 @@
 14344;Großer glänzender Splitter;1;85555;88888
 14344;Großer glänzender Splitter;1;85555;88888
 29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;2;193750;228900
-29539;Kobraschuppen;1;113240;141550
-29539;Kobraschuppen;1;113240;141550
-29539;Kobraschuppen;1;113240;141550
 23077;Blutgranat;20;217744;222180
 24840;Zornflossenrüstung;1;55198;99900
 22866;Fläschchen des reinen Todes;1;202020;202020
@@ -454,13 +426,6 @@
 30323;Pläne: Stiefel des Beschützers;1;160000;180000
 30323;Pläne: Stiefel des Beschützers;1;150000;170000
 23424;Teufelseisenerz;5;47500;50000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000
 24067;Gezackter Talasit;1;80000;90000

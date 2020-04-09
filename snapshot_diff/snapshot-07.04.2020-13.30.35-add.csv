@@ -344,15 +344,6 @@
 18658;Bauplan: Ultrablendender Schattenreflektor;1;448828;561035
 13042;Schwert des Magistraten;1;22045;27557
 13042;Schwert des Magistraten;1;45357;59286
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;500000;500000
 24479;Schattenperle;1;541500;590000
 24479;Schattenperle;1;500185;535761
 24479;Schattenperle;1;541500;590000
@@ -363,7 +354,6 @@
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
-8485;Katzentransportkorb (Bombay);1;91500;99000
 13051;Hexenfuror;1;31296;39900
 13051;Hexenfuror;1;31920;39900
 25845;Eterniumrute;1;350000;500000
@@ -403,20 +393,6 @@
 24029;Tränenförmiger lebendiger Rubin;1;252000;292000
 24029;Tränenförmiger lebendiger Rubin;1;259999;299999
 24029;Tränenförmiger lebendiger Rubin;1;189500;237500
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
 15613;Knochenverbundgürtel;1;11801;14752
 13030;Basiliskknochen;1;19506;25633
 15647;Eisenhautschulterstücke;1;43216;48018
@@ -426,8 +402,6 @@
 22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
 22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
 14580;Dokebiarmschienen;1;10000;30000
-5765;Schwarzes Seidenpack;1;6000;10000
-5765;Schwarzes Seidenpack;1;6000;8000
 7989;Pläne: Mithrilsporen;1;121323;151654
 7989;Pläne: Mithrilsporen;1;114366;127074
 7989;Pläne: Mithrilsporen;1;121323;151654
@@ -479,7 +453,6 @@
 27422;Stachelkiemenforelle;18;35982;35982
 14552;Palisadenschulterstücke;1;35590;37000
 14552;Palisadenschulterstücke;1;40290;60000
-8489;Katzentransportkorb (Weißes Kätzchen);1;92250;99000
 14553;Schärpe der Gnade;1;189999;199999
 15742;Muster: Kriegsbärenharnisch;1;89999;99999
 19231;Bestien 3;1;69059;86324
@@ -495,7 +468,6 @@
 2589;Leinenstoff;5;49995;49995
 2589;Leinenstoff;3;736;921
 2589;Leinenstoff;20;4500;4560
-8487;Katzentransportkorb (Orangefarbene Tigerkatze);1;91500;99000
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;9016;11270
 13057;Blutpike;1;24074;24915
@@ -504,21 +476,6 @@
 23441;Nachtauge;1;109999;128899
 23441;Nachtauge;20;900000;1000000
 23441;Nachtauge;1;109999;128899
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;220000;260000
-24059;Mächtiger Edeltopas;1;165000;199900
-24059;Mächtiger Edeltopas;1;249999;256699
-24059;Mächtiger Edeltopas;1;220000;260000
-24059;Mächtiger Edeltopas;1;220000;260000
-24059;Mächtiger Edeltopas;1;289999;299999
 5766;Geringe Hexerrobe;1;6000;7000
 20424;Sandwurmfleisch;20;334039;371154
 20424;Sandwurmfleisch;1;15019;16687
@@ -616,24 +573,6 @@
 17057;Glänzende Fischschuppen;20;1360;1700
 17057;Glänzende Fischschuppen;20;1040;1240
 7975;Pläne: Schwere Mithrilhose;1;25292;28102
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;6;479900;479900
-12360;Arkanitbarren;6;479900;479900
-12360;Arkanitbarren;3;158735;176373
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
-12360;Arkanitbarren;1;52500;58500
 13020;Bogen des Himmelsstürmers;1;24952;27999
 2772;Eisenerz;3;5570;6638
 2772;Eisenerz;5;7925;7999
@@ -673,48 +612,6 @@
 21882;Seelenessenz;1;23009;23010
 21882;Seelenessenz;9;131748;146386
 13025;Vorschlaghammer der Totenwaldfelle;1;25696;30000
-22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
-22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
-22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
-22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
-22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
-22854;Fläschchen des unerbittlichen Angriffs;1;182500;185000
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;180320;190120
-22854;Fläschchen des unerbittlichen Angriffs;1;182000;184000
-22854;Fläschchen des unerbittlichen Angriffs;1;182000;184000
-22854;Fläschchen des unerbittlichen Angriffs;1;182000;184000
-19261;Kriegsfürst 4;1;21000;27000
-19261;Kriegsfürst 4;1;21021;26730
-19261;Kriegsfürst 4;1;19514;25393
 5770;Roben von Arcana;1;200000;250000
 19227;Bestien Ass;1;11997999;12999999
 13046;Blanchards Schädelbrecher;1;44404;50449
@@ -781,31 +678,6 @@
 24058;Gravierter Edeltopas;1;149600;187000
 24058;Gravierter Edeltopas;1;157600;187000
 24058;Gravierter Edeltopas;1;172807;184999
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;209532;218015
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;219998;219998
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;199999;199999
-22838;Hasttrank;5;219998;219998
 23883;Bauplan: Heiltrankeinspritzung;1;459560;575701
 23883;Bauplan: Heiltrankeinspritzung;1;446250;490000
 12223;Fleischiger Fledermausflügel;1;920;1151
@@ -1051,10 +923,6 @@
 13041;Wächterklinge;1;11816;13129
 7990;Pläne: Schwerer Mithrilhelm;1;10000;50000
 14568;Borstenlederstiefel;1;2200;2300
-23108;Leuchtender Schattendraenit;1;23033;36292
-23108;Leuchtender Schattendraenit;1;14248;15831
-23108;Leuchtender Schattendraenit;1;14248;15831
-23108;Leuchtender Schattendraenit;1;14248;15831
 5764;Grünes Seidenpack;1;18888;19999
 5764;Grünes Seidenpack;1;18888;19999
 5764;Grünes Seidenpack;1;18888;19999

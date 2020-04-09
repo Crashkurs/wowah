@@ -1,5 +1,3 @@
-10184;Schwadroneursarmschienen;1;30000;40000
-10256;Abenteurerarmschienen;1;15463;30000
 11204;Formel: Armschiene - Große Willenskraft;1;33832;41258
 17414;Kodex: Gebet der Seelenstärke II;1;36100;45125
 17414;Kodex: Gebet der Seelenstärke II;1;22125;30000
@@ -8,7 +6,6 @@
 11184;Blauer Machtkristall;1;7000;7700
 11184;Blauer Machtkristall;1;7000;7700
 11184;Blauer Machtkristall;6;42000;46200
-10191;Kreuzfahrerarmschützer;1;27997;31108
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;23900;70000
 21991;Schwerer Netherstoffverband;20;130000;150000
 21991;Schwerer Netherstoffverband;20;60000;75000
@@ -44,7 +41,6 @@
 22390;Pläne: Willensbrecher;1;3500000;4000000
 2841;Bronzebarren;1;723;724
 2841;Bronzebarren;1;723;724
-10203;Oberherrenbrustplatte;1;27292;34565
 22445;Arkaner Staub;5;51650;53520
 23113;Glänzender Golddraenit;1;25366;39208
 23113;Glänzender Golddraenit;1;25366;39208
@@ -55,10 +51,8 @@
 10074;Rechtschaffene Gamaschen;1;41264;51580
 2862;Rauer Wetzstein;20;10000;12000
 10174;Mystisches Cape;1;12181;24000
-10281;Smaragdschulterstücke;1;29533;40000
 10078;Lordwappen;1;27963;34567
 10078;Lordwappen;1;27963;30000
-10190;Schwadroneursgürtel;1;10003;15000
 10075;Rechtschaffene Schiftung;1;13980;17476
 10075;Rechtschaffene Schiftung;1;20000;30000
 22849;Eisenschildtrank;5;179999;189999
@@ -129,7 +123,6 @@
 17203;Sulfuronblock;1;3339999;3339999
 17203;Sulfuronblock;1;3339999;3339999
 10167;Templerstiefel;1;16470;40000
-10258;Abenteurercape;1;29000;29000
 10086;Gotische Plattenrüstung;1;47200;59000
 10098;Ratsherrenumhang;1;30000;40000
 22446;Große Planaressenz;1;110500;117499
@@ -184,7 +177,6 @@
 22793;Manadistel;4;31600;39500
 22793;Manadistel;1;4588;5005
 22793;Manadistel;20;91760;100100
-11098;Formel: Umhang - Geringer Schattenwiderstand;1;4950;7900
 22825;Elixier der Heilkraft;10;426000;449000
 22825;Elixier der Heilkraft;20;852000;898000
 22825;Elixier der Heilkraft;20;852000;898000
@@ -195,7 +187,6 @@
 22825;Elixier der Heilkraft;10;426000;449000
 22825;Elixier der Heilkraft;10;426000;449000
 22825;Elixier der Heilkraft;10;426000;449000
-10195;Kreuzfahrerschild;1;59071;73839
 22452;Urerde;1;54412;54912
 22452;Urerde;1;54412;54912
 22452;Urerde;1;54412;54912
@@ -254,17 +245,6 @@
 21886;Urleben;1;113000;119500
 21886;Urleben;1;113000;119500
 11128;Goldrute;1;34339;38154
-11135;Große Mystikeressenz;10;180000;200000
-11135;Große Mystikeressenz;10;180000;200000
-11135;Große Mystikeressenz;10;185000;190000
-11135;Große Mystikeressenz;9;180000;185000
-11135;Große Mystikeressenz;3;54000;60000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;1;15000;20000
-11135;Große Mystikeressenz;3;54000;60000
-10199;Kreuzfahrergamaschen;1;30000;40000
 11186;Roter Machtkristall;5;19000;34495
 11186;Roter Machtkristall;1;3800;6899
 11083;Seelenstaub;20;99700;99999
@@ -279,33 +259,8 @@
 11083;Seelenstaub;20;99700;99999
 10095;Ratsherrenstiefel;1;40000;50000
 10103;Ratsherrenschärpe;1;5687;20000
-10231;Graviertes Cape;1;29570;37838
-10231;Graviertes Cape;1;31411;39264
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32245;35830
-11134;Geringe Mystikeressenz;5;32245;35830
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
-11134;Geringe Mystikeressenz;5;32180;35755
 22794;Teufelslotus;20;650000;750000
 22794;Teufelslotus;20;650000;750000
 22794;Teufelslotus;20;650000;750000
 22251;Cenarische Kräutertasche;1;350000;350000
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;1500;1800
-10285;Schattenseide;7;52500;56000
-10285;Schattenseide;1;7328;8142
-10285;Schattenseide;1;1500;1750
-10285;Schattenseide;1;3670;4078
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
-10285;Schattenseide;1;3708;4120
 10176;Mystische Handschuhe;1;5689;20000

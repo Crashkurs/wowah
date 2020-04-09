@@ -16,8 +16,6 @@
 23114;Schimmernder Golddraenit;1;21560;26950
 20750;Zauberöl;1;29999;39999
 20750;Zauberöl;1;29999;39999
-20750;Zauberöl;1;29999;39999
-20750;Zauberöl;1;29999;39999
 21877;Netherstoff;8;11520;14400
 21877;Netherstoff;8;11520;14400
 21877;Netherstoff;20;32500;35000
@@ -203,8 +201,6 @@
 13893;Großer roher Machtfisch;5;10240;20300
 6394;Silberfadenstiefel;1;2532;3166
 7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
-7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
-7360;Muster: Dunkle Lederhandschuhe;1;4000;4900
 9784;Räuberstiefel;1;799;1600
 13890;Panzerfisch;2;702;780
 13890;Panzerfisch;20;7023;7804
@@ -287,8 +283,6 @@
 31294;Schulterstücke der Manawoge;1;175063;196000
 19265;Kriegsfürst 8;1;44800;44808
 24670;Eldr'naanstiefel;1;150000;200000
-20827;Ring der Silbermacht;1;42964;53705
-20827;Ring der Silbermacht;1;5600;7000
 20827;Ring der Silbermacht;1;5600;7000
 20827;Ring der Silbermacht;1;42964;53705
 6381;Heller Umhang;1;4000;5000
@@ -317,7 +311,6 @@
 31882;Segen Ass;1;32000;34600
 31882;Segen Ass;1;32000;34600
 31882;Segen Ass;1;32000;34600
-20758;Formel: Schwaches Zauberöl;1;269999;289999
 20758;Formel: Schwaches Zauberöl;1;269999;289999
 929;Heiltrank;1;200;200
 22577;Schattenpartikel;5;27692;34615
@@ -421,12 +414,6 @@
 6326;Rezept: Glitschhautmakrele;1;44270;49189
 6326;Rezept: Glitschhautmakrele;1;44270;49189
 6338;Silberrute;1;4400;4500
-6338;Silberrute;1;187;0
-6338;Silberrute;1;4400;4500
-6338;Silberrute;1;4400;4500
-6338;Silberrute;1;4115;4652
-6338;Silberrute;1;4115;4652
-6338;Silberrute;1;187;0
 27657;Schwarzgebratener Basilisk;20;375168;379999
 27657;Schwarzgebratener Basilisk;20;375168;379999
 27657;Schwarzgebratener Basilisk;20;375168;379999
@@ -438,11 +425,9 @@
 27657;Schwarzgebratener Basilisk;20;273999;279499
 14445;Giftschleierseidenroben;1;18529;30000
 20816;Feiner Kupferdraht;1;1716;2146
-20816;Feiner Kupferdraht;1;1716;2146
 31287;Ehrenwachenschild der Draenei;1;151515;161616
 25055;Alexandritring;1;916377;1145472
 7447;Schildwachenarmschienen;1;6617;8272
-19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
@@ -573,8 +558,6 @@
 6037;Echtsilberbarren;20;48900;49000
 6037;Echtsilberbarren;20;48900;49000
 6037;Echtsilberbarren;20;48900;49000
-20752;Formel: Schwaches Manaöl;1;184123;205079
-20752;Formel: Schwaches Manaöl;1;269999;289999
 20752;Formel: Schwaches Manaöl;1;184123;205079
 20752;Formel: Schwaches Manaöl;1;269999;289999
 4337;Dicke Spinnenseide;5;7212;9015

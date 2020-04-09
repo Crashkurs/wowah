@@ -113,7 +113,6 @@
 21885;Urwasser;1;109577;109588
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;140000;150000
 31159;Teufelssteinschulterstücke;1;1193605;1355677
-31159;Teufelssteinschulterstücke;1;1193605;1355677
 32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;226952;230000
 32665;Kristallgewebter Umhang;1;226952;230000
@@ -232,9 +231,6 @@
 25901;Bemerkenswerter Erdsturmdiamant;1;674419;676699
 32420;Nachtend;1;1980517;1990000
 32420;Nachtend;1;1700345;1989500
-31883;Segen 8;1;7135184;8918980
-31883;Segen 8;1;6000000;8900000
-31883;Segen 8;1;6000000;8900000
 31883;Segen 8;1;6000000;8900000
 31883;Segen 8;1;6000000;8900000
 31883;Segen 8;1;7135184;8918980
@@ -273,8 +269,6 @@
 23620;Pläne: Teufelszornstulpen;1;240000;245000
 23620;Pläne: Teufelszornstulpen;1;212130;246511
 32737;Pläne: Flinkstahlschultern;1;449999;449999
-32737;Pläne: Flinkstahlschultern;1;449999;449999
-32737;Pläne: Flinkstahlschultern;1;449999;449999
 34440;Trank des verrückten Alchemisten;1;37999;39999
 34440;Trank des verrückten Alchemisten;5;189999;199999
 34440;Trank des verrückten Alchemisten;5;189999;199999
@@ -284,7 +278,6 @@
 31131;Schärpe der lautlosen Klingen;1;70000;80000
 31131;Schärpe der lautlosen Klingen;1;70000;80000
 31877;Vorlage: Energieerfülltes Nachtauge;1;154187;192734
-31154;Bronzehalsring;1;1125;4500
 31154;Bronzehalsring;1;1125;4500
 23537;Schwarze Teufelsstahlarmschienen;1;2006691;2508364
 27662;Teufelsfinne Supreme;2;1050;2000
@@ -350,9 +343,6 @@
 23623;Pläne: Helm des Sturms;1;121440;151800
 23623;Pläne: Helm des Sturms;1;120000;150000
 31884;Segen 5;1;1309672;1309803
-31884;Segen 5;1;1309672;1309803
-31884;Segen 5;1;1227500;1230000
-31884;Segen 5;1;740000;1200000
 32409;Unerbittlicher Erdsturmdiamant;1;829900;829900
 32409;Unerbittlicher Erdsturmdiamant;1;950000;1000000
 32409;Unerbittlicher Erdsturmdiamant;1;950000;1000000
@@ -635,19 +625,9 @@
 23572;Urnether;1;30000;38000
 23572;Urnether;3;93440;93450
 5788;Muster: Dicke Murlocrüstung;1;2000;2000
-31882;Segen Ass;1;45000;50000
-31882;Segen Ass;1;29715;37144
-31882;Segen Ass;1;39520;46430
 31882;Segen Ass;1;29715;37144
 31882;Segen Ass;1;45000;50000
 31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;39520;46430
-31882;Segen Ass;1;25116;31396
 31137;Stulpen der Läuterung;1;56496;80000
 24271;Zauberstoff;1;549000;579000
 24271;Zauberstoff;1;549000;579000
@@ -972,12 +952,6 @@
 31079;Quecksilberadamantit;1;111600;149500
 31079;Quecksilberadamantit;1;111600;149500
 31079;Quecksilberadamantit;1;111600;149500
-15994;Thoriumapparat;3;56997;59997
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
 15994;Thoriumapparat;10;189990;199990
 23154;Vorlage: Stürmischer Azurmondstein;1;42500;49900
 23154;Vorlage: Stürmischer Azurmondstein;1;42500;50000
@@ -1037,20 +1011,11 @@
 31148;Dämonenbalgschiftung;1;27782;80000
 31148;Dämonenbalgschiftung;1;82032;102541
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
-31153;Axt der Legion;1;429799;429799
-31153;Axt der Legion;1;429800;429800
-31153;Axt der Legion;1;418304;429900
-31153;Axt der Legion;1;649903;799900
-31153;Axt der Legion;1;208304;499998
 31153;Axt der Legion;1;208304;499998
 31153;Axt der Legion;1;429799;429799
 31153;Axt der Legion;1;429800;429800
 31153;Axt der Legion;1;418304;429900
 31153;Axt der Legion;1;649903;799900
-31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;600000;650000
 25896;Mächtiger Erdsturmdiamant;1;979900;979900
 25896;Mächtiger Erdsturmdiamant;1;970000;979500
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
@@ -1180,7 +1145,6 @@
 14198;Distelfellumhang;1;10000;20000
 24304;Muster: Schwarzer Gürtel des Wissens;1;110000;120000
 15768;Muster: Tückischer Ledergürtel;1;89999;99999
-31175;Handgelenksschützer des Klingentänzers;1;74541;93177
 31175;Handgelenksschützer des Klingentänzers;1;74541;93177
 15744;Muster: Tückisches Lederstirnband;1;346272;457840
 15765;Muster: Runenverzierte Lederhose;1;9498;9499
@@ -1341,10 +1305,6 @@
 24052;Kompakter Dämmerstein;1;109944;115999
 24052;Kompakter Dämmerstein;1;115000;120000
 24052;Kompakter Dämmerstein;1;115000;120000
-19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
-19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
-19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
-19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000

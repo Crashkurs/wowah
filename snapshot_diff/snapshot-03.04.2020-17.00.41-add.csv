@@ -1,27 +1,10 @@
 13082;Berghangbeschützer;1;19852;30000
-22541;Formel: Schild - Widerstand;1;149999;149999
-22541;Formel: Schild - Widerstand;1;250000;250000
-22541;Formel: Schild - Widerstand;1;197173;232414
 15420;Eisenfeder;14;1926;2408
 2291;Kang der Köpfer;1;114580;144000
 14048;Runenstoffballen;10;74000;78500
 14048;Runenstoffballen;10;74000;78500
 14048;Runenstoffballen;10;74000;78500
 14048;Runenstoffballen;10;74000;78500
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;334444;339999
-22791;Netherblüte;20;340000;350000
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;324999;349999
-22791;Netherblüte;20;334444;339999
-8399;Muster: Feste Skorpidstiefel;1;1875;3300
-8399;Muster: Feste Skorpidstiefel;1;3275;3299
 10601;Bauplan: Hellaugenschutzbrille;1;20000;30000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
@@ -87,7 +70,6 @@
 16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;33750;50000
 31131;Schärpe der lautlosen Klingen;1;194007;199900
 3345;Hexerseidenhut;1;4080;4900
-7191;Verschmorte Verkabelung;1;11000;13500
 5772;Muster: Rote Wolltasche;1;2400;3000
 12404;Verdichteter Wetzstein;20;20000;30000
 12404;Verdichteter Wetzstein;20;20000;30000
@@ -99,7 +81,6 @@
 12404;Verdichteter Wetzstein;20;19508;25260
 22452;Urerde;10;440000;450000
 22452;Urerde;10;440000;450000
-22539;Formel: Schild - Intelligenz;1;62500;76600
 4464;Züchtigungsstiefel;1;9513;13517
 21877;Netherstoff;20;24000;30000
 21877;Netherstoff;20;24000;30000
@@ -109,25 +90,16 @@
 27498;Rolle der Beweglichkeit V;1;46987;46999
 27498;Rolle der Beweglichkeit V;1;46987;46999
 27498;Rolle der Beweglichkeit V;5;199937;199999
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;2999;4999
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;7412;8235
 2835;Rauer Stein;9;3686;4608
 24066;Strahlender Talasit;1;45000;50000
 24066;Strahlender Talasit;1;45000;50000
-7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
-8392;Feuerverbrannte Eberlunge;4;18934;23668
 24273;Mystischer Zauberfaden;1;1444500;1469500
-8400;Muster: Feste Skorpidschulterstücke;1;10000;10000
-8400;Muster: Feste Skorpidschulterstücke;1;10000;10000
-8400;Muster: Feste Skorpidschulterstücke;1;9999;9999
 2319;Mittleres Leder;20;51500;70000
 2319;Mittleres Leder;20;51500;70000
 2319;Mittleres Leder;20;51500;70000
 2319;Mittleres Leder;20;51500;70000
 3576;Zinnbarren;2;1171;1464
 24478;Jaggalperle;2;11360;14200
-8391;Kicherfangunterkiefer;8;6272;7840
-8391;Kicherfangunterkiefer;6;1000;3100
 10312;Muster: Rote Magiestoffhandschuhe;1;3724;4655
 24207;Vorlage: Kompakter Dämmerstein;1;105000;110000
 24477;Jaggalmuschelfleisch;10;1824;2280
@@ -174,16 +146,6 @@
 22526;Knochenfragmente;15;50000;75000
 22526;Knochenfragmente;15;50000;75000
 31288;Des Meisters Treter;1;119999;122500
-5637;Großer Fangzahn;2;2441;2713
-5637;Großer Fangzahn;5;6104;6782
-5637;Großer Fangzahn;2;825;1000
-5637;Großer Fangzahn;1;460;490
-5637;Großer Fangzahn;1;460;490
-5637;Großer Fangzahn;5;2062;2500
-5637;Großer Fangzahn;5;2062;2500
-5637;Großer Fangzahn;1;500;500
-5637;Großer Fangzahn;2;900;1590
-5637;Großer Fangzahn;1;450;795
 4245;Kleines Seidenpack;1;7000;11000
 4245;Kleines Seidenpack;1;7500;11111
 4245;Kleines Seidenpack;1;7500;11111
@@ -204,7 +166,6 @@
 4234;Schweres Leder;20;104599;108999
 4234;Schweres Leder;20;104599;108999
 7085;Muster: Azurblaue Schultern;1;525;999
-7091;Muster: Handschuhe des wahren Glaubens;1;4000;6500
 9808;Überragende Gamaschen;1;5913;7392
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 4247;Lederhandschuhe des Hügelwächters;1;1573;3000
@@ -236,8 +197,6 @@
 23437;Talasit;1;44999;49899
 23437;Talasit;1;44999;49899
 23437;Talasit;3;235000;240000
-7081;Odem des Windes;1;43500;45000
-7081;Odem des Windes;1;30600;31000
 21885;Urwasser;1;123000;123000
 10310;Rolle der Stärke IV;1;13856;17320
 10310;Rolle der Stärke IV;5;88808;90010
@@ -250,8 +209,6 @@
 24065;Schillernder Talasit;1;54000;57500
 24065;Schillernder Talasit;1;54000;57500
 13131;Spiegelpanzermantel;1;5674;7093
-8350;Der Eine Ring;1;200000;250000
-8350;Der Eine Ring;1;486272;540302
 2842;Silberbarren;20;113000;120000
 2842;Silberbarren;20;83000;120000
 2842;Silberbarren;15;62250;100000
@@ -293,7 +250,6 @@
 24039;Stürmischer Stern der Elune;1;45000;60000
 7086;Muster: Irdener Seidengürtel;1;7554;8393
 2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;3520;4400
-21901;Muster: Magieerfüllte Netherstofftunika;1;114000;142500
 23438;Stern der Elune;1;31579;49005
 23438;Stern der Elune;1;31579;49005
 24050;Schimmernder Dämmerstein;1;120000;169999
@@ -335,32 +291,6 @@
 8304;Heldencape;1;15769;32000
 11137;Visionenstaub;4;21644;27056
 11407;Zerrissener Bärenpelz;1;224;320
-24047;Brillanter Dämmerstein;1;40000;49000
-24047;Brillanter Dämmerstein;1;42999;49999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;95000;99999
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;42999;49999
-24047;Brillanter Dämmerstein;1;42999;49999
-24047;Brillanter Dämmerstein;1;40000;49000
-24047;Brillanter Dämmerstein;1;42999;49999
-24047;Brillanter Dämmerstein;1;89267;94084
-24047;Brillanter Dämmerstein;1;75267;94084
-24047;Brillanter Dämmerstein;1;75267;94084
-24047;Brillanter Dämmerstein;1;75267;94084
-24047;Brillanter Dämmerstein;1;75267;94084
-24047;Brillanter Dämmerstein;1;40000;49000
-24047;Brillanter Dämmerstein;1;40000;49000
-24047;Brillanter Dämmerstein;1;40000;49000
-24047;Brillanter Dämmerstein;1;40000;49000
 8255;Schlangenhautgurt;1;9015;18000
 23113;Glänzender Golddraenit;1;6000;7500
 6037;Echtsilberbarren;16;39508;51136
@@ -397,15 +327,7 @@
 10281;Smaragdschulterstücke;1;29533;40000
 10301;Muster: Weiße Banditenmaske;1;10000;10000
 1714;Caliseas Halskette;1;29500;38000
-8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
-8395;Muster: Feste Skorpidbrustplatte;1;5627;7034
-8395;Muster: Feste Skorpidbrustplatte;1;6900;6999
-8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
-8395;Muster: Feste Skorpidbrustplatte;1;7034;8793
 31673;Knusperschlange;20;284500;290000
-8386;Muster: Große Voodoorobe;1;1500;3300
-8386;Muster: Große Voodoorobe;1;7000;9000
-8386;Muster: Große Voodoorobe;1;7618;9523
 29727;Muster: Handschuhe der lebendigen Berührung;1;164904;206131
 29727;Muster: Handschuhe der lebendigen Berührung;1;193953;215503
 24037;Irisierender Stern der Elune;1;92198;115248
@@ -421,8 +343,6 @@
 30810;Siegel des Sonnenzorns;5;27500;38500
 21929;Flammenspessarit;1;6100;6500
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;9999;9999
-8397;Muster: Feste Skorpidarmschienen;1;13072;13841
-8397;Muster: Feste Skorpidarmschienen;1;1500;4400
 21887;Knotenhautleder;10;98750;99900
 21887;Knotenhautleder;7;47611;59514
 10305;Rolle des Schutzes IV;5;21320;26650
@@ -433,8 +353,6 @@
 3358;Khadgars Schnurrbart;12;2412;2664
 3358;Khadgars Schnurrbart;1;290;320
 3358;Khadgars Schnurrbart;15;3615;3630
-8387;Muster: Große Voodoomaske;1;1500;2200
-8387;Muster: Große Voodoomaske;1;5000;5500
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
@@ -458,9 +376,7 @@
 7909;Aquamarin;1;17269;19087
 7909;Aquamarin;8;79360;99200
 4709;Waldledermantel;1;3142;3928
-8393;Skorpokzange;6;12000;30000
 4235;Schwerer Balg;3;149525;188157
-7279;Kleiner Ledermunitionsbeutel;1;2000;5500
 10364;Templerschild;1;37407;40000
 5578;Pläne: Bronzene Brustplatte mit Versilberung;1;15017;16272
 13942;Rezept: Gegrillter Kalmar;1;84000;90000
@@ -491,7 +407,6 @@
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 3210;Brutale Kriegsaxt;1;18006;22508
 7369;Ältestenrobe;1;4432;4900
-8396;Geiermuskelmagen;1;5000;8000
 23447;Eterniumbarren;10;447500;450000
 23447;Eterniumbarren;10;447500;450000
 13124;Ravasaurusschuppenstiefel;1;3996;0
@@ -523,14 +438,7 @@
 22451;Urluft;20;3790000;3800000
 22451;Urluft;1;198500;209999
 28596;Vorlage: Heller Blutgranat;1;198750;200000
-8270;Ebenholzhelm;1;24999;29999
 10593;Unvollständiges Draenethystfragment;1;5036;6062
-8398;Muster: Feste Skorpidhandschuhe;1;7500;8000
-8398;Muster: Feste Skorpidhandschuhe;1;7500;8000
-8398;Muster: Feste Skorpidhandschuhe;1;24147;25184
-8398;Muster: Feste Skorpidhandschuhe;1;25088;31360
-8398;Muster: Feste Skorpidhandschuhe;1;7987;7999
-8398;Muster: Feste Skorpidhandschuhe;1;23606;29508
 12799;Großer Opal;1;23902;29878
 1529;Jade;1;19200;24000
 8269;Ebenholzstiefel;1;21543;43000
@@ -558,8 +466,6 @@
 3685;Raptorei;10;91060;100000
 3685;Raptorei;8;72848;80000
 11135;Große Mystikeressenz;8;41472;51840
-7286;Schwarzwelpenschuppe;10;34440;43050
-7286;Schwarzwelpenschuppe;7;22898;28623
 11737;Buchband der Gier;1;999900;999900
 23574;Rezept: Urmacht transmutieren;1;99900;109900
 29157;Goldring der Macht;1;46002;51113
@@ -577,7 +483,6 @@
 29158;Echtsilberring des Kommandanten;1;71360;89200
 29158;Echtsilberring des Kommandanten;1;31360;36600
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;92600;102800
-8315;Alabasterplattengurt;1;25000;25000
 13038;Windhauch;1;17365;21707
 3206;Chevalierszweihänder;1;6873;9000
 29726;Muster: Kapuze des Urlebens;1;187478;208309
@@ -588,15 +493,12 @@
 22789;Terozapfen;3;19368;24210
 11177;Kleiner strahlender Splitter;7;5376;6720
 7421;Phalanxhandschuhe;1;20000;30000
-7285;Behände Lederhandschuhe;1;4000;5000
-7285;Behände Lederhandschuhe;1;4000;5000
 24274;Runenverzierter Zauberfaden;1;2699500;2849500
 16072;Expertenkochbuch;1;33750;50000
 16072;Expertenkochbuch;1;33750;50000
 16072;Expertenkochbuch;1;33750;50000
 2836;Grober Stein;20;7232;9040
 2836;Grober Stein;7;2531;3164
-22542;Formel: Stiefel - Vitalität;1;607600;759500
 7517;Hauchzarte Tunika;1;40000;50000
 29725;Muster: Windschuppenkapuze;1;90000;100000
 29725;Muster: Windschuppenkapuze;1;119999;119999
@@ -643,11 +545,6 @@
 12364;Gewaltiger Smaragd;3;55000;59900
 23445;Teufelseisenbarren;20;175000;189000
 23445;Teufelseisenbarren;17;141000;146000
-7373;Schwärzliche Ledergamaschen;1;4645;6000
-7373;Schwärzliche Ledergamaschen;1;4645;6000
-7373;Schwärzliche Ledergamaschen;1;4645;6000
-7373;Schwärzliche Ledergamaschen;1;4645;6000
-7373;Schwärzliche Ledergamaschen;1;4645;6000
 3864;Citrin;5;12692;15865
 3864;Citrin;1;2672;3340
 8153;Wildranke;11;23716;29645
@@ -679,7 +576,6 @@
 31879;Vorlage: Tückischer Edeltopas;1;205000;500000
 7453;Muster: Hurtige Stiefel;1;30000;60000
 25002;Blutfausthelm;1;105615;132019
-8390;Muster: Großer Voodooumhang;1;7500;7500
 6369;Rezept: Steinschuppenkabeljau;1;60550;70000
 4348;Muster: Phönixhandschuhe;1;4000;5000
 10620;Thoriumerz;20;58720;73400
@@ -762,14 +658,7 @@
 27500;Rolle des Schutzes V;1;20150;25000
 27500;Rolle des Schutzes V;1;46907;52118
 27500;Rolle des Schutzes V;1;20150;25000
-8287;Arkane Handschuhe;1;12999;14999
 11754;Schwarzer Diamant;9;7034;8793
-8394;Basiliskengehirn;3;7500;10000
-7428;Schattenkatzenbalg;3;2188;2736
-7428;Schattenkatzenbalg;3;5788;6431
-7428;Schattenkatzenbalg;4;7717;8574
-7428;Schattenkatzenbalg;1;930;990
-7428;Schattenkatzenbalg;1;575;1000
 1973;Täuschungskugel;1;86927;89900
 24214;Vorlage: Mächtiger Edeltopas;1;290000;320000
 1708;Süßer Nektar;3;540;600
@@ -791,8 +680,6 @@
 29724;Muster: Kobraschuppenhandschuhe;1;299999;300000
 1722;Dornsteinvorschlaghammer;1;33888;42361
 23440;Dämmerstein;6;370000;380000
-7451;Muster: Grünwelpenarmschienen;1;37635;47044
-8257;Schlangenhautarmschienen;1;19369;24212
 23114;Schimmernder Golddraenit;1;27048;33810
 23114;Schimmernder Golddraenit;1;27048;33810
 10560;Instabiler Auslöser;1;55820;55821

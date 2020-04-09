@@ -159,23 +159,6 @@
 11184;Blauer Machtkristall;2;100;0
 11184;Blauer Machtkristall;3;20413;22681
 19715;Goldenes Schmuckstück der Hakkari;1;199840;249800
-8831;Lila Lotus;10;249990;249990
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;12;79999;79999
-8831;Lila Lotus;1;6000;7000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;1;4432;5541
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;1;5650;6500
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;5;30000;35000
-8831;Lila Lotus;1;5400;5400
-8831;Lila Lotus;8;60072;66746
-8831;Lila Lotus;5;30000;35000
 28103;Elixier des Adepten;5;84000;84000
 28103;Elixier des Adepten;4;50000;68000
 28103;Elixier des Adepten;5;62500;85000
@@ -230,8 +213,6 @@
 24650;Astralanische Hose;1;86227;107784
 4361;Kupferrohr;1;190;300
 4361;Kupferrohr;5;950;1500
-14479;Muster: Hellstoffhandschuhe;1;6272;7840
-14479;Muster: Hellstoffhandschuhe;1;5620;7025
 21842;Magieerfüllter Netherstoffballen;5;468120;499995
 21842;Magieerfüllter Netherstoffballen;2;187248;199998
 21842;Magieerfüllter Netherstoffballen;1;93624;99999
@@ -356,24 +337,6 @@
 16245;Formel: Stiefel - Große Beweglichkeit;1;54720;68400
 16245;Formel: Stiefel - Große Beweglichkeit;1;258113;302642
 16245;Formel: Stiefel - Große Beweglichkeit;1;185000;225500
-7910;Sternrubin;14;207480;259350
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;1;7500;0
-7910;Sternrubin;2;25000;30000
-7910;Sternrubin;1;7500;14900
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;2;15000;30000
-7910;Sternrubin;1;39705;62142
-7910;Sternrubin;2;37000;37600
 6263;Blauer Overall;1;2983;4900
 11185;Grüner Machtkristall;13;81317;101647
 11185;Grüner Machtkristall;6;37531;46914
@@ -420,12 +383,6 @@
 22153;Foliant der arkanen Brillanz 2;1;100000;150000
 22153;Foliant der arkanen Brillanz 2;1;100000;150000
 22153;Foliant der arkanen Brillanz 2;1;114000;149999
-11188;Gelber Machtkristall;3;100;0
-11188;Gelber Machtkristall;3;13500;14999
-11188;Gelber Machtkristall;3;13500;14999
-11188;Gelber Machtkristall;5;22500;24900
-11188;Gelber Machtkristall;16;59556;75696
-11188;Gelber Machtkristall;4;15139;18924
 4625;Feuerblüte;3;19500;29000
 11135;Große Mystikeressenz;2;10335;10998
 11135;Große Mystikeressenz;1;7400;7900
@@ -458,7 +415,6 @@
 9719;Zerbrochene Klinge der Helden;1;9375;10000
 9719;Zerbrochene Klinge der Helden;1;9374;9999
 6272;Muster: Blaue Leinenrobe;1;132125;165157
-21840;Netherstoffballen;10;179999;299999
 27682;Talbukwildbret;20;86000;90000
 27682;Talbukwildbret;5;1916;2395
 27682;Talbukwildbret;10;4688;5860
@@ -485,9 +441,6 @@
 24036;Scheinender lebendiger Rubin;1;298899;299899
 9382;Stürmende Minenarbeiterstiefel;1;5412;19900
 22251;Cenarische Kräutertasche;1;350000;350000
-9262;Schwarzes Vitriol;2;3328;4160
-9262;Schwarzes Vitriol;12;15673;19592
-9262;Schwarzes Vitriol;1;1500;2600
 4359;Eine Hand voll Kupferbolzen;4;1881;2352
 25649;Knotenhautlederfetzen;20;90000;95000
 11202;Formel: Schild - Ausdauer;1;30000;70000
@@ -495,16 +448,6 @@
 9294;Rezept: Wildrankentrank;1;14000;17000
 9294;Rezept: Wildrankentrank;1;100000;150000
 9294;Rezept: Wildrankentrank;1;8830;11038
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
 23572;Urnether;1;17860;22325
 14466;Muster: Froststofftunika;1;7509;9387
 14466;Muster: Froststofftunika;1;9990;12488

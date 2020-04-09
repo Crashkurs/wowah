@@ -11,8 +11,6 @@
 7279;Kleiner Ledermunitionsbeutel;1;200;4500
 2409;Muster: Dunkle Ledertunika;1;2400;3000
 2409;Muster: Dunkle Ledertunika;1;1999;2999
-7909;Aquamarin;3;59513;69392
-7909;Aquamarin;1;8000;8500
 7909;Aquamarin;1;10010;11123
 7909;Aquamarin;1;10010;11123
 2450;Wilddornrose;20;50750;70000
@@ -28,14 +26,6 @@
 7734;Sechsdämonentasche;1;200000;300000
 7453;Muster: Hurtige Stiefel;1;27735;30817
 7453;Muster: Hurtige Stiefel;1;44727;55909
-2841;Bronzebarren;20;48900;48900
-2841;Bronzebarren;1;2443;2444
-2841;Bronzebarren;1;2443;2444
-2841;Bronzebarren;6;3000;3000
-2841;Bronzebarren;20;1500;44444
-2841;Bronzebarren;20;1500;44444
-2841;Bronzebarren;20;48900;48900
-2841;Bronzebarren;20;48900;48900
 7613;Muster: Grüne Lederrüstung;1;16902;21128
 7613;Muster: Grüne Lederrüstung;1;16902;21128
 7613;Muster: Grüne Lederrüstung;1;16902;21128
@@ -43,14 +33,9 @@
 7286;Schwarzwelpenschuppe;7;25468;31836
 5634;Trank der freien Aktion;3;290337;300000
 5637;Großer Fangzahn;2;1130;1990
-5637;Großer Fangzahn;5;1200;1500
-5637;Großer Fangzahn;1;565;995
 5637;Großer Fangzahn;1;565;995
 3173;Bärenfleisch;4;3000;3800
 7371;Schwerer Köcher;1;179999;199999
-7971;Schwarze Perle;1;231620;249525
-7971;Schwarze Perle;1;201500;250000
-7971;Schwarze Perle;1;201500;250000
 7971;Schwarze Perle;1;81500;129900
 7971;Schwarze Perle;1;200000;200000
 7971;Schwarze Perle;1;200000;200000
@@ -60,21 +45,13 @@
 5342;Raptorpunsch;4;12000;23750
 5342;Raptorpunsch;8;24000;47500
 5342;Raptorpunsch;5;19108;23885
-2840;Kupferbarren;20;40000;55555
 2840;Kupferbarren;10;7500;10000
 2840;Kupferbarren;10;7500;10000
-2840;Kupferbarren;20;30000;39500
-2840;Kupferbarren;20;30000;39500
 2840;Kupferbarren;10;7500;10000
 2840;Kupferbarren;10;7500;10000
 2840;Kupferbarren;10;7500;10000
 2840;Kupferbarren;10;7500;10000
 2840;Kupferbarren;14;10210;17500
-2840;Kupferbarren;20;30300;36666
-2840;Kupferbarren;5;7500;9875
-2840;Kupferbarren;20;30300;36666
-2840;Kupferbarren;20;30000;39500
-2840;Kupferbarren;20;30000;39500
 5974;Muster: Wächterumhang;1;525;5999
 5765;Schwarzes Seidenpack;1;6000;9000
 5765;Schwarzes Seidenpack;1;6000;9000
@@ -88,20 +65,9 @@
 4233;Geschmeidiger mittlerer Balg;5;28500;30000
 4233;Geschmeidiger mittlerer Balg;5;23632;29540
 7910;Sternrubin;1;17500;20000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
 7910;Sternrubin;1;17500;20000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
-7910;Sternrubin;1;19900;23000
 7910;Sternrubin;2;43000;44000
 7910;Sternrubin;1;17500;20000
-7910;Sternrubin;1;19900;23000
 5266;Auge von Adaegus;1;56735;60000
 5266;Auge von Adaegus;1;49999;59999
 5266;Auge von Adaegus;1;49999;59999
@@ -114,44 +80,15 @@
 7912;Robuster Stein;20;10000;15000
 7912;Robuster Stein;20;10000;15000
 5787;Muster: Murlocschuppenbrustplatte;1;29999;39999
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;54500;59000
-4234;Schweres Leder;20;90000;90000
-4234;Schweres Leder;20;66666;66666
-4234;Schweres Leder;20;66666;66666
-4234;Schweres Leder;20;66666;66666
-4234;Schweres Leder;20;66666;66666
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;54500;59000
-4234;Schweres Leder;20;86634;96260
-4234;Schweres Leder;20;54500;59000
-4234;Schweres Leder;20;64500;79999
-4234;Schweres Leder;20;54500;59000
-4234;Schweres Leder;20;64500;79999
-4234;Schweres Leder;20;64500;79999
-4234;Schweres Leder;20;64500;79999
-4234;Schweres Leder;20;64500;69999
-4234;Schweres Leder;20;64500;69999
-4234;Schweres Leder;20;64500;69999
-4234;Schweres Leder;2;10000;10000
-4234;Schweres Leder;20;80000;80000
 5134;Kleine pelzige Tatze;5;8888;9999
 2877;Mitstreiterclaymore;1;10047;11119
 2555;Rezept: Hurtigkeitstrank;1;43936;47020
-7969;Mithrilsporen;1;15643;17381
-7969;Mithrilsporen;1;15643;17381
-7969;Mithrilsporen;1;9592;10658
-7969;Mithrilsporen;1;9843;9946
 4091;Witwenmacher;1;22800;28500
 4091;Witwenmacher;1;22800;28500
 7463;Schildwachenrundschild;1;9303;19000
 2452;Flitzdistel;20;3450;10000
 2452;Flitzdistel;20;3450;10000
 2452;Flitzdistel;20;3450;10000
-5785;Dicke Murlocschuppe;1;2999;3950
 5786;Muster: Murlocschuppengürtel;1;5005;8000
 4232;Mittlerer Balg;1;27992;31102
 4232;Mittlerer Balg;1;27992;31102
@@ -171,14 +108,7 @@
 5773;Muster: Roben von Arcana;1;2000000;2500000
 5773;Muster: Roben von Arcana;1;2134838;2475000
 4077;Gepanzerter Gefechtskopfschutz;1;10000;30000
-4096;Grobes Gorillahaar;8;6464;6800
-4096;Grobes Gorillahaar;10;8080;8500
 7378;Schwärzliche Armschienen;1;23219;24900
-5576;Großer brauner Sack;1;7000;19000
-5576;Großer brauner Sack;1;9999;18899
-5576;Großer brauner Sack;1;9999;18899
-5576;Großer brauner Sack;1;14363;17954
-5576;Großer brauner Sack;1;14363;17954
 5642;Rezept: Trank der freien Aktion;1;330675;353535
 5997;Elixier der schwachen Verteidigung;10;3837;4264
 5997;Elixier der schwachen Verteidigung;5;112;145
@@ -208,7 +138,6 @@
 7754;Heroldstiefel;1;19538;23900
 5964;Barbarische Schultern;1;3913;5900
 2576;Weißes Leinenhemd;1;80000;100000
-5500;Schillernde Perle;1;49000;69000
 5216;Umbralzauberstab;1;37827;47284
 5470;Donnerechsenschwanz;5;8835;9905
 5181;Farbenprächtiges Seidencape;1;5689;7112

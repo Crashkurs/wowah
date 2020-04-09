@@ -320,7 +320,6 @@
 11971;Amethystband;1;12800;16000
 3840;Grüne Eisenschultern;1;19272;24090
 3840;Grüne Eisenschultern;1;19272;24090
-3840;Grüne Eisenschultern;1;19272;24090
 19269;Elementar 2;1;99999;100000
 16052;Bauplan: Modularer Stimmenverstärker;1;1600000;1700000
 20725;Nexuskristall;1;40100;49000
@@ -509,16 +508,6 @@
 21841;Netherstofftasche;1;55000;56000
 21841;Netherstofftasche;1;55000;56000
 21841;Netherstofftasche;1;55000;56000
-13512;Fläschchen der obersten Macht;1;199999;249999
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
-13512;Fläschchen der obersten Macht;1;129900;169900
 13512;Fläschchen der obersten Macht;1;129900;169900
 13042;Schwert des Magistraten;1;26394;40000
 13042;Schwert des Magistraten;1;45357;59286
@@ -603,13 +592,8 @@
 13047;Zweig des Weltenbaums;1;130354;144838
 24116;Auge der Nacht;1;639727;755000
 30324;Pläne: Rote Stiefel der Verwüstung;1;200000;200000
-30324;Pläne: Rote Stiefel der Verwüstung;1;200000;200000
-30324;Pläne: Rote Stiefel der Verwüstung;1;196924;218805
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;905000;920000
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;596264;662516
 24036;Scheinender lebendiger Rubin;1;259999;299999
 24036;Scheinender lebendiger Rubin;1;259999;299999
 21767;Einfacher Opalring;1;13365;14850
@@ -666,10 +650,6 @@
 32229;Löwenauge;1;1785000;1790000
 32229;Löwenauge;1;1785000;1790000
 23573;Gehärteter Adamantitbarren;1;95000;98000
-23573;Gehärteter Adamantitbarren;1;95000;98000
-23573;Gehärteter Adamantitbarren;1;95000;98000
-23573;Gehärteter Adamantitbarren;10;950000;980000
-23573;Gehärteter Adamantitbarren;5;389520;488525
 32836;Geläuterte Schattenperle;1;555000;590000
 19441;Riesiger Giftbeutel;1;2355;2617
 15772;Muster: Teufelssauriergamaschen;1;45599;56699
@@ -697,21 +677,7 @@
 15975;Regenmacherszepter;1;7747;9684
 15975;Regenmacherszepter;1;7747;9684
 7730;Kobaltzermalmer;1;15219;24999
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
-11288;Großer Magiezauberstab;1;9120;11400
 11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;10000;11399
-11288;Großer Magiezauberstab;1;10000;11399
-11288;Großer Magiezauberstab;1;10000;11399
-11288;Großer Magiezauberstab;1;10000;11399
 13060;Der Nadler;1;99999;109999
 21902;Muster: Seelenstoffhandschuhe;1;389999;399999
 23120;Stürmischer Azurmondstein;1;15599;16699
@@ -896,14 +862,6 @@
 9293;Rezept: Magiewiderstandstrank;1;18600;33999
 16051;Bauplan: Thoriumpatronen;1;11517;14397
 16051;Bauplan: Thoriumpatronen;1;7500;11111
-25653;Reitgerte;1;700000;750000
-25653;Reitgerte;1;700000;750000
-25653;Reitgerte;1;700000;750000
-25653;Reitgerte;1;700000;750000
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
 25653;Reitgerte;1;700000;750000
 4051;Geschmückte Stiefel;1;9900;9900
 21752;Thoriumfassung;20;57500;60000
@@ -1199,20 +1157,7 @@
 14856;Gurt des Vorposten;1;16252;22222
 11225;Formel: Armschiene - Große Ausdauer;1;52325;53000
 11225;Formel: Armschiene - Große Ausdauer;1;79309;88121
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
 31861;Großer Dämmerstein;1;171548;179949
-31861;Großer Dämmerstein;1;171548;179949
-31861;Großer Dämmerstein;1;171548;179949
-31861;Großer Dämmerstein;1;171548;179949
-31861;Großer Dämmerstein;1;171548;179949
-31861;Großer Dämmerstein;1;150000;180000
 13518;Rezept: Fläschchen der Versteinerung;1;445000;550000
 13518;Rezept: Fläschchen der Versteinerung;1;550000;600000
 13758;Roher Rotkiemen;6;5000;6000
@@ -1278,8 +1223,6 @@
 24171;Vorlage: Kette der Nebeleule;1;115000;120000
 8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
 8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
-8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
-8494;Papageienkäfig (Hyazinthara);1;6499900;6499900
 7742;Bauplan: Gnomische Tarnvorrichtung;1;200000;250000
 4412;Bauplan: Mondsichtgewehr;1;10000;15000
 19282;Portal 6;1;238750;250000
@@ -1600,7 +1543,6 @@
 4737;Imperiale Lederschiftung;1;23520;29400
 11982;Viridiumband;1;99900;99900
 7517;Hauchzarte Tunika;1;30000;40000
-11287;Geringer Magiezauberstab;1;2000;4000
 11287;Geringer Magiezauberstab;1;2000;4000
 22866;Fläschchen des reinen Todes;5;319600;399500
 22866;Fläschchen des reinen Todes;3;191760;239700

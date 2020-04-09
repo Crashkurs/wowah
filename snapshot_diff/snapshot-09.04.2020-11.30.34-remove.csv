@@ -16,44 +16,6 @@
 8171;Unverwüstlicher Balg;2;4788;5668
 8218;Dicker Ledermunitionsbeutel;1;45000;49000
 8218;Dicker Ledermunitionsbeutel;1;45000;49000
-8218;Dicker Ledermunitionsbeutel;1;45000;49000
-8218;Dicker Ledermunitionsbeutel;1;45000;49000
-8218;Dicker Ledermunitionsbeutel;1;45000;49000
-4338;Magiestoff;7;30000;35000
-4338;Magiestoff;14;84560;96250
-4338;Magiestoff;8;32000;36000
-4338;Magiestoff;3;26775;27000
-4338;Magiestoff;20;178500;180000
-4338;Magiestoff;12;61500;65500
-4338;Magiestoff;10;43750;51000
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;125984;129980
-4338;Magiestoff;20;127984;159980
-4338;Magiestoff;20;113904;142380
 3478;Grober Schleifstein;1;36100;45125
 3478;Grober Schleifstein;1;36100;45125
 8180;Jagdbogen;1;20360;40000
@@ -65,8 +27,6 @@
 6574;Verteidigungsstarke Armschienen;1;79900;79900
 3577;Goldbarren;20;156677;234455
 3577;Goldbarren;16;108876;136096
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
 34068;Gewichtige Kürbislaterne;20;3300000;3800000
 34068;Gewichtige Kürbislaterne;20;3300000;3800000
 6407;Nachthauchgelenkbänder;1;1797;3500
@@ -162,18 +122,6 @@
 33052;Fischerschmaus;5;25000;37500
 33052;Fischerschmaus;5;25000;37500
 6399;Geschmückte Schultern;1;2458;3000
-4234;Schweres Leder;20;44500;56500
-4234;Schweres Leder;20;44500;56500
-4234;Schweres Leder;20;44500;56500
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;131600;139999
-4234;Schweres Leder;20;50000;50000
 8184;Feuerteufel;1;8036;10893
 6470;Deviatschuppe;2;100;200
 3685;Raptorei;10;18370;25740
@@ -181,8 +129,6 @@
 3685;Raptorei;2;1513;1800
 6468;Deviatschuppengürtel;1;499900;499900
 6578;Verteidigungsstarke Gamaschen;1;24000;60000
-6391;Muster: Modisches grünes Hemd;1;2400;3000
-6391;Muster: Modisches grünes Hemd;1;2400;3000
 6391;Muster: Modisches grünes Hemd;1;2400;3000
 6391;Muster: Modisches grünes Hemd;1;2400;3000
 6661;Rezept: Pikantes Deviat Supreme;1;100000;500000
@@ -194,14 +140,6 @@
 4235;Schwerer Balg;2;138999;139999
 4235;Schwerer Balg;2;138999;139999
 4235;Schwerer Balg;2;138999;139999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
-6401;Muster: Dunkles Seidenhemd;1;6999;9999
 6401;Muster: Dunkles Seidenhemd;1;6999;9999
 6401;Muster: Dunkles Seidenhemd;1;6999;9999
 6401;Muster: Dunkles Seidenhemd;1;6999;9999
@@ -240,21 +178,8 @@
 33093;Manatrankeinspritzung;20;599900;599900
 33093;Manatrankeinspritzung;20;599900;599900
 3466;Starker Fluxus;2;2913;3642
-2592;Wollstoff;20;29560;38700
-2592;Wollstoff;2;3887;4318
 2592;Wollstoff;10;19435;21594
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;20;90990;95000
 2592;Wollstoff;20;40990;44444
-2592;Wollstoff;20;89980;99980
-2592;Wollstoff;20;90990;95000
-2592;Wollstoff;15;20742;30000
 3576;Zinnbarren;20;12160;15200
 3576;Zinnbarren;20;9050;9500
 3576;Zinnbarren;20;9050;9500
@@ -262,7 +187,6 @@
 3576;Zinnbarren;20;49980;59980
 3576;Zinnbarren;20;49980;59980
 6419;Glyphenverzierte Fäustlinge;1;3448;5900
-8176;Stirnband des Nachtschleichers;1;6742;9900
 8176;Stirnband des Nachtschleichers;1;6742;9900
 6583;Späherarmschienen;1;19999;29999
 4347;Muster: Verstärkte Wollschultern;1;2634;3293

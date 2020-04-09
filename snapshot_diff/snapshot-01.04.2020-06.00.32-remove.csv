@@ -1,30 +1,8 @@
 23766;Geeichtes Eterniumzielfernrohr;1;2067099;2395099
 23766;Geeichtes Eterniumzielfernrohr;1;2100021;2990000
 23766;Geeichtes Eterniumzielfernrohr;1;2070000;2406200
-2771;Zinnerz;20;9999;12550
 2771;Zinnerz;20;15360;19200
 2771;Zinnerz;20;15360;19200
-2771;Zinnerz;20;15360;19200
-2771;Zinnerz;20;15360;19200
-2771;Zinnerz;20;15360;19200
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;20;13480;13500
-2771;Zinnerz;1;524;583
-2771;Zinnerz;2;1081;1352
-2771;Zinnerz;20;9999;13333
-2771;Zinnerz;20;11050;12000
-2771;Zinnerz;20;11050;12000
-2771;Zinnerz;20;11050;12000
-2771;Zinnerz;20;10750;10900
-2771;Zinnerz;20;10750;10900
-2771;Zinnerz;20;10750;10900
-2771;Zinnerz;1;834;927
 13890;Panzerfisch;20;2300;6000
 13890;Panzerfisch;20;2300;6000
 13890;Panzerfisch;1;310;385
@@ -101,9 +79,6 @@
 18334;Buchband des Schutzes;1;640366;711517
 18334;Buchband des Schutzes;1;642366;713740
 18334;Buchband des Schutzes;1;441585;551982
-13759;Roher Nachtflossenschnapper;20;99980;99980
-13759;Roher Nachtflossenschnapper;14;139930;139930
-13759;Roher Nachtflossenschnapper;20;199900;199900
 13759;Roher Nachtflossenschnapper;20;99980;99980
 13759;Roher Nachtflossenschnapper;20;99980;99980
 2770;Kupfererz;20;38050;39900
@@ -251,13 +226,6 @@
 15323;Zündschrotflinte;1;26686;50000
 15323;Zündschrotflinte;1;26686;30000
 12202;Tigerfleisch;10;3952;4940
-12202;Tigerfleisch;10;3952;4940
-12202;Tigerfleisch;10;3091;3434
-12202;Tigerfleisch;10;3160;3950
-12202;Tigerfleisch;2;618;686
-12202;Tigerfleisch;4;1236;1373
-12202;Tigerfleisch;6;1896;2370
-12202;Tigerfleisch;10;2600;3250
 17724;Muster: Grünes Festtagshemd;1;120000;350000
 17724;Muster: Grünes Festtagshemd;1;120000;350000
 17724;Muster: Grünes Festtagshemd;1;120000;350000
@@ -418,9 +386,6 @@
 17683;Buch: Gabe der Wildnis II;1;32056;35618
 17683;Buch: Gabe der Wildnis II;1;17822;22278
 17683;Buch: Gabe der Wildnis II;1;39999;49999
-12360;Arkanitbarren;1;67500;68500
-12360;Arkanitbarren;1;67500;68500
-12360;Arkanitbarren;1;67500;68500
 12360;Arkanitbarren;1;67500;68500
 12360;Arkanitbarren;1;67500;68500
 12360;Arkanitbarren;1;67500;68500
@@ -612,27 +577,8 @@
 23635;Pläne: Runenverzierte Eterniumklinge;1;389999;399999
 23635;Pläne: Runenverzierte Eterniumklinge;1;180000;240000
 23635;Pläne: Runenverzierte Eterniumklinge;1;2207697;2502996
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;20;89580;113600
-12359;Thoriumbarren;20;89580;113600
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;20;65216;111520
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;5;18048;22560
-12359;Thoriumbarren;3;9528;13536
 12359;Thoriumbarren;20;89999;99999
 12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;89999;99999
-12359;Thoriumbarren;20;68576;85720
-12359;Thoriumbarren;20;68000;81000
-12359;Thoriumbarren;20;68000;81000
-12359;Thoriumbarren;15;53500;65000
 13877;47-pfündiger Zackenbarsch;1;109527;138659
 15538;Tückische Kettenstulpen;1;63614;79518
 23765;Khoriumzielfernrohr;1;483875;587999
@@ -794,21 +740,8 @@
 20749;Hervorragendes Zauberöl;1;126500;134000
 13071;Plattenfaust von Hakoo;1;32547;36163
 22557;Formel: Waffe - Meister des Kampfes;1;449900;499900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;35000;39900
 21877;Netherstoff;20;35000;39900
 21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;20;44900;48900
-21877;Netherstoff;11;28160;35200
-21877;Netherstoff;20;51200;64000
-21877;Netherstoff;20;51200;64000
-21877;Netherstoff;20;51200;64000
-21877;Netherstoff;20;51200;64000
 18333;Buchband des Fokus;1;880000;880000
 23623;Pläne: Helm des Sturms;1;180000;250000
 18662;Schwerer Lederball;1;2250;4500
@@ -848,18 +781,6 @@
 15230;Kammspaltbeil;1;30000;40000
 15113;Starrer Rundschild;1;49900;49900
 13856;Runenstoffgürtel;1;20000;30000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;20000;30000
-13856;Runenstoffgürtel;1;20000;30000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
-13856;Runenstoffgürtel;1;25068;29000
 22853;Fläschchen der mächtigen Wiederherstellung;1;178900;179900
 22853;Fläschchen der mächtigen Wiederherstellung;1;187999;187999
 22853;Fläschchen der mächtigen Wiederherstellung;1;178900;179900

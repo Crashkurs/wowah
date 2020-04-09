@@ -150,30 +150,6 @@
 15522;Stachelkettenschild;1;20000;40000
 15187;Prätorianerschulterstücke;1;16377;20000
 24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;165000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;135000;143000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;165000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;130000;135000
-24051;Massiver Dämmerstein;1;135000;140000
-24051;Massiver Dämmerstein;1;130000;165000
 15369;Wolfreitergürtel;1;4645;10000
 19183;Stundenglassand;4;180000;200000
 30839;Flammenherzweste;1;272900;299990
@@ -1100,7 +1076,6 @@
 11737;Buchband der Gier;1;789999;799999
 13856;Runenstoffgürtel;1;20000;30000
 13856;Runenstoffgürtel;1;20000;30000
-13856;Runenstoffgürtel;1;20000;30000
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 20960;Gravierter Echtsilberring;1;10080;11208
@@ -1142,8 +1117,6 @@
 17058;Fischöl;20;184202;184202
 17058;Fischöl;20;184202;184202
 1979;Mauer der Toten;1;134911;152311
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
@@ -1151,28 +1124,6 @@
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
 27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;3;141300;142500
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;3;121163;134626
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;199999;229999
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;235500;237500
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;249995;299995
-27501;Rolle der Willenskraft V;5;249995;299995
 15379;Zornprankenstiefel;1;11481;17777
 24588;Scherbenweltarmschienen;1;70700;80800
 13757;Zitteraal;20;10300;15505
@@ -1234,7 +1185,6 @@
 21114;Dunkler Rumsey Rum;3;5280;6600
 15248;Gleißendes Claymore;1;2686;5555
 24658;Konsortiumhose;1;84518;105648
-29506;Handschuhe der lebendigen Berührung;1;3991041;4000000
 29506;Handschuhe der lebendigen Berührung;1;3991041;4000000
 25894;Flüchtiger Himmelsfeuerdiamant;1;1115000;1120000
 34828;Antiker Silbermanschettenknopf;1;269536;337796

@@ -158,9 +158,6 @@
 4582;Weicher buschiger Schwanz;1;1603;1990
 13464;Goldener Sansam;20;443000;499999
 13464;Goldener Sansam;20;443000;499999
-13464;Goldener Sansam;20;443000;499999
-13464;Goldener Sansam;1;22499;24999
-13464;Goldener Sansam;8;151200;170000
 27651;Bussardbissen;20;18776;19887
 27651;Bussardbissen;20;18776;19887
 27651;Bussardbissen;2;1809;2010
@@ -441,24 +438,6 @@
 23425;Adamantiterz;20;190000;200000
 23425;Adamantiterz;20;190000;200000
 27658;Gerösteter Grollhuf;20;110960;128300
-27658;Gerösteter Grollhuf;20;110960;128300
-27658;Gerösteter Grollhuf;20;114500;126000
-27658;Gerösteter Grollhuf;12;68814;76460
-27658;Gerösteter Grollhuf;20;118500;125500
-27658;Gerösteter Grollhuf;20;145000;150000
-27658;Gerösteter Grollhuf;20;118500;125500
-27658;Gerösteter Grollhuf;20;118500;125500
-27658;Gerösteter Grollhuf;20;117999;124999
-27658;Gerösteter Grollhuf;20;81000;100000
-27658;Gerösteter Grollhuf;20;81000;100000
-27658;Gerösteter Grollhuf;20;81000;100000
-27658;Gerösteter Grollhuf;20;81000;100000
-27658;Gerösteter Grollhuf;20;81000;100000
-27658;Gerösteter Grollhuf;20;64500;70000
-27658;Gerösteter Grollhuf;20;64500;70000
-27658;Gerösteter Grollhuf;20;64500;70000
-27658;Gerösteter Grollhuf;20;117999;124999
-27658;Gerösteter Grollhuf;20;117999;124999
 13146;Kugelspeiende Schrotflinte;1;71052;98816
 13146;Kugelspeiende Schrotflinte;1;49796;62245
 23427;Eterniumerz;5;329375;400000
@@ -515,7 +494,6 @@
 19699;Münze der Razzashi;5;318992;398740
 21071;Roher Weisenfisch;10;5000;8000
 25843;Teufelseisenrute;1;299900;299900
-25843;Teufelseisenrute;1;299900;299900
 13446;Erheblicher Heiltrank;1;2587;3234
 13446;Erheblicher Heiltrank;5;19000;25000
 13446;Erheblicher Heiltrank;5;19000;25000
@@ -538,8 +516,6 @@
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48000;48000
 8396;Geiermuskelmagen;1;5000;8000
 24243;Adamantitpulver;20;80000;99999
 19271;Elementar 4;1;18750;30000
@@ -568,8 +544,6 @@
 6889;Kleines Ei;1;7999;8999
 6889;Kleines Ei;1;7999;8999
 15747;Muster: Frostsäblergamaschen;1;9000;16000
-27660;Talbuksteak;20;94720;108400
-27660;Talbuksteak;20;94720;108400
 27660;Talbuksteak;20;94720;108400
 27660;Talbuksteak;20;94720;108400
 19272;Elementar 5;1;199900;199900

@@ -72,7 +72,6 @@
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;2980000;2990000
-32227;Purpurspinell;1;2980000;2990000
 15589;Beständige Stampfer;1;20000;30000
 15522;Stachelkettenschild;1;20000;40000
 24209;Vorlage: Stattliches Nachtauge;1;287566;359458
@@ -110,14 +109,9 @@
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
-32068;Elixier der Eisenhaut;20;399999;449999
 32068;Elixier der Eisenhaut;5;199999;249999
 32068;Elixier der Eisenhaut;5;199999;249999
 32068;Elixier der Eisenhaut;5;199999;249999
-32068;Elixier der Eisenhaut;5;199999;249999
-32068;Elixier der Eisenhaut;5;199999;249999
-32068;Elixier der Eisenhaut;20;399999;449999
-32068;Elixier der Eisenhaut;20;399999;449999
 32068;Elixier der Eisenhaut;5;199999;249999
 24054;Stattliches Nachtauge;1;146221;152499
 24054;Stattliches Nachtauge;1;146221;152499
@@ -257,39 +251,8 @@
 27662;Teufelsfinne Supreme;2;1050;2000
 27662;Teufelsfinne Supreme;10;5000;8000
 16202;Geringe ewige Essenz;2;58699;73374
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;20;600000;600000
-25708;Dickes Grollhufleder;3;73375;75000
-25708;Dickes Grollhufleder;9;190125;200000
 25708;Dickes Grollhufleder;3;73375;75000
 25708;Dickes Grollhufleder;3;73375;75000
-25708;Dickes Grollhufleder;3;73375;75000
-25708;Dickes Grollhufleder;5;105625;110000
-25708;Dickes Grollhufleder;5;105625;110000
-25708;Dickes Grollhufleder;5;105625;110000
-25708;Dickes Grollhufleder;5;105625;110000
-25708;Dickes Grollhufleder;10;393650;399999
-25708;Dickes Grollhufleder;10;393650;399999
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;4;83200;83600
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;590000;595000
-25708;Dickes Grollhufleder;20;500000;500000
 7971;Schwarze Perle;1;82000;147500
 7971;Schwarze Perle;1;82000;147500
 7971;Schwarze Perle;1;82000;147500
@@ -381,8 +344,6 @@
 5765;Schwarzes Seidenpack;1;6000;10000
 5765;Schwarzes Seidenpack;1;6000;8000
 7989;Pläne: Mithrilsporen;1;121323;151654
-7989;Pläne: Mithrilsporen;1;114366;127074
-7989;Pläne: Mithrilsporen;1;121323;151654
 14215;Vitale Tunika;1;11223;14029
 24303;Muster: Gurt der Zerstörung;1;337509;395010
 24303;Muster: Gurt der Zerstörung;1;55000;250000
@@ -428,13 +389,8 @@
 27658;Gerösteter Grollhuf;20;98400;99000
 27658;Gerösteter Grollhuf;20;98400;99000
 27658;Gerösteter Grollhuf;20;98400;99000
-12799;Großer Opal;1;40500;45000
 12799;Großer Opal;1;42999;46999
 12799;Großer Opal;1;42999;46999
-12799;Großer Opal;1;46900;46998
-12799;Großer Opal;1;40500;45000
-12799;Großer Opal;1;42999;46999
-12799;Großer Opal;1;40500;45000
 25720;Muster: Schweres Knotenhautleder;1;275000;300000
 29534;Grollbalgbeinrüstung;1;849800;849850
 12644;Verdichteter Schleifstein;1;18917;23647
@@ -500,7 +456,6 @@
 32200;Gediegener Engelssaphir;1;950000;1100000
 32200;Gediegener Engelssaphir;1;950000;1100000
 5266;Auge von Adaegus;1;49999;99999
-5266;Auge von Adaegus;1;49999;99999
 22446;Große Planaressenz;10;869792;1092240
 22446;Große Planaressenz;10;869792;1092240
 22446;Große Planaressenz;10;869792;1092240
@@ -546,16 +501,6 @@
 8146;Tückische Klaue;5;12610;15455
 8146;Tückische Klaue;5;12610;15455
 7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;20;13000;20000
-7912;Robuster Stein;14;22100;25000
-7912;Robuster Stein;13;10400;12987
-7912;Robuster Stein;20;16000;19980
-7912;Robuster Stein;20;16000;19980
-7912;Robuster Stein;20;16000;19980
 24302;Muster: Gurt des Unerschütterlichen;1;93743;117179
 24302;Muster: Gurt des Unerschütterlichen;1;134115;167644
 15731;Muster: Runenverzierte Lederstulpen;1;4332;5415
@@ -580,7 +525,6 @@
 2772;Eisenerz;1;568;711
 31333;Der Nachtwächter;1;2316395;2374827
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
-27651;Bussardbissen;20;15584;29480
 27651;Bussardbissen;20;15584;29480
 16710;Armschienen der Schattenkunst;1;65669;80000
 4321;Spinnenseidenslipper;1;5000;7000
@@ -699,12 +643,7 @@
 14047;Runenstoff;1;1564;1956
 14047;Runenstoff;20;20000;29000
 14047;Runenstoff;20;42000;46000
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2862;2899
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2918;3648
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2918;3648
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;8645;9606
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;1546;2084
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;1546;2084
 31292;Pulsierender Kristallschild;1;448645;479000
 31292;Pulsierender Kristallschild;1;444444;466666
 31292;Pulsierender Kristallschild;1;438645;450000
@@ -867,8 +806,6 @@
 24276;Goldener Zauberfaden;1;1624999;1639999
 24276;Goldener Zauberfaden;1;1619999;1629999
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4600;4900
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4600;4900
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;11155;12395
 32897;Mal der Illidari;250;1880100;1990000
 32897;Mal der Illidari;10;65000;70000
 32897;Mal der Illidari;10;65000;70000
@@ -886,11 +823,6 @@
 32897;Mal der Illidari;10;65000;70000
 32897;Mal der Illidari;10;65000;70000
 5500;Schillernde Perle;1;49000;49000
-5500;Schillernde Perle;1;49000;49000
-5500;Schillernde Perle;1;49000;49000
-5500;Schillernde Perle;1;49000;49000
-5500;Schillernde Perle;1;49999;50000
-5500;Schillernde Perle;1;49999;50000
 14165;Heidenkniehosen;1;26623;30274
 25682;Schicker Dschungelhut;1;507308;600000
 25682;Schicker Dschungelhut;1;507308;600000
@@ -1013,20 +945,5 @@
 25707;Teufelsbalg;20;357500;395000
 25707;Teufelsbalg;5;76875;95000
 31223;Illidarihandgelenksschützer;1;272786;290000
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
 24052;Kompakter Dämmerstein;1;87600;97099
-24052;Kompakter Dämmerstein;1;87600;97099
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;94000;96000
-24052;Kompakter Dämmerstein;1;94000;96000
 5571;Kleiner schwarzer Beutel;1;784;980

@@ -13,9 +13,6 @@
 13465;Bergsilbersalbei;20;93600;117000
 31343;Kamaeis himmelblauer Rock;1;6501969;7500000
 3712;Schildkrötenfleisch;10;3305;3900
-3712;Schildkrötenfleisch;7;2213;2300
-3712;Schildkrötenfleisch;9;4377;5472
-3712;Schildkrötenfleisch;10;3305;3900
 3712;Schildkrötenfleisch;9;4377;5472
 3712;Schildkrötenfleisch;7;2213;2300
 10940;Seltsamer Staub;9;37242;42327
@@ -26,9 +23,6 @@
 29724;Muster: Kobraschuppenhandschuhe;1;358400;448000
 29724;Muster: Kobraschuppenhandschuhe;1;346236;357796
 29292;Hölleneberspeck;5;21520;23911
-3369;Grabmoos;5;2940;3675
-3369;Grabmoos;20;35488;46860
-3369;Grabmoos;5;2848;3560
 3382;Schwaches Trollblutelixier;10;198;200
 3388;Starkes Trollblutelixier;1;9408;11760
 3388;Starkes Trollblutelixier;7;12467;14042
@@ -48,47 +42,11 @@
 3478;Grober Schleifstein;1;36100;45125
 3478;Grober Schleifstein;1;36100;45125
 31501;Foliant des Essenherbeizauberns VIII;1;799900;799900
-29739;Arkaner Foliant;1;139900;149900
-29739;Arkaner Foliant;1;102400;128000
 29739;Arkaner Foliant;1;124900;129900
 29739;Arkaner Foliant;1;124900;129900
-29739;Arkaner Foliant;1;82840;103550
-29739;Arkaner Foliant;10;1412660;1699660
-29739;Arkaner Foliant;1;139900;149900
-29739;Arkaner Foliant;1;139900;149900
-29739;Arkaner Foliant;1;139900;149900
-29739;Arkaner Foliant;1;100100;109000
-29739;Arkaner Foliant;1;102400;128000
-29739;Arkaner Foliant;1;99900;99999
-29739;Arkaner Foliant;1;99900;99999
-29739;Arkaner Foliant;1;99900;99999
-29739;Arkaner Foliant;1;99900;99999
-29739;Arkaner Foliant;1;99900;99999
 31334;Stab des Naturzorns;1;20001510;22000000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;438999;438999
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;439999;439999
-29529;Trommeln der Schlacht;1;439999;439999
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
 29529;Trommeln der Schlacht;1;405000;450000
 29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;437500;460000
-29529;Trommeln der Schlacht;1;437500;460000
-29529;Trommeln der Schlacht;1;437500;460000
-29529;Trommeln der Schlacht;1;437500;460000
-29529;Trommeln der Schlacht;1;457500;477800
-29529;Trommeln der Schlacht;1;478999;478999
-29529;Trommeln der Schlacht;1;464030;489020
-29529;Trommeln der Schlacht;1;464030;489020
-29529;Trommeln der Schlacht;1;464030;489020
-29529;Trommeln der Schlacht;1;464030;489020
 29529;Trommeln der Schlacht;1;405000;450000
 14241;Graunebelhandschützer;1;7395;9244
 11971;Amethystband;1;12800;16000
@@ -177,7 +135,6 @@
 13446;Erheblicher Heiltrank;1;10999;19899
 13446;Erheblicher Heiltrank;1;10999;19899
 13446;Erheblicher Heiltrank;1;10999;19899
-11733;Buchband der Konstitution;1;182711;228389
 11733;Buchband der Konstitution;1;182711;228389
 29731;Muster: Windstoßhandschuhe;1;196020;207800
 29731;Muster: Windstoßhandschuhe;1;185000;200000
@@ -271,7 +228,6 @@
 22845;Erheblicher Arkanschutztrank;2;79288;99110
 1121;Füße des Luchses;1;959900;959900
 11734;Buchband der Hartnäckigkeit;1;50100;100000
-11734;Buchband der Hartnäckigkeit;1;50100;100000
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;17999;39999
 29734;Muster: Dicke Netherschuppenbrustplatte;1;100000;350000
 29734;Muster: Dicke Netherschuppenbrustplatte;1;131040;163800
@@ -280,7 +236,6 @@
 12184;Raptorfleisch;6;3618;4368
 1981;Eispanzerwams;1;20000;30000
 3212;Züngelnde Schuppenarmschienen;1;3270;4088
-3212;Züngelnde Schuppenarmschienen;1;3300;4400
 29740;Teuflische Waffen;1;169500;179000
 29740;Teuflische Waffen;1;184000;192500
 29740;Teuflische Waffen;1;184000;192500
@@ -298,10 +253,6 @@
 28538;Zickzackshuriken;1;40000;50000
 1168;Schädelflammenschild;1;133444;171100
 3282;Kampfkettenhose;1;3999;7999
-14256;Teufelsstoff;1;79999;89999
-14256;Teufelsstoff;1;79999;89999
-14256;Teufelsstoff;1;79999;89999
-14256;Teufelsstoff;1;79999;89999
 14256;Teufelsstoff;1;79999;89999
 14256;Teufelsstoff;20;1000000;1050000
 14256;Teufelsstoff;1;70000;80000
@@ -324,10 +275,6 @@
 14271;Gaeas Reif;1;9548;15310
 14271;Gaeas Reif;1;21200;26500
 38225;Mycahs Botanikerbeutel;1;1900000;2100000
-3355;Wildstahlblume;7;11144;12376
-3355;Wildstahlblume;20;26864;33580
-3355;Wildstahlblume;9;19591;24489
-3355;Wildstahlblume;7;7201;9002
 10978;Kleiner gleißender Splitter;1;50;52
 10978;Kleiner gleißender Splitter;20;1072;1340
 10978;Kleiner gleißender Splitter;20;1072;1340
@@ -365,8 +312,6 @@
 3197;Steinfräserclaymore;1;23600;29500
 13146;Kugelspeiende Schrotflinte;1;57543;71929
 3685;Raptorei;10;18370;25740
-3685;Raptorei;10;18370;25740
-3685;Raptorei;10;18370;25740
 6468;Deviatschuppengürtel;1;499900;499900
 6580;Verteidigungsstarke Tunika;1;4198;8848
 34622;Wirbelschnitter;1;2220000;2350000
@@ -379,13 +324,11 @@
 13443;Überragender Manatrank;1;2786;3483
 13443;Überragender Manatrank;1;3800;4200
 13443;Überragender Manatrank;1;3800;4200
-13443;Überragender Manatrank;1;3800;4200
 13443;Überragender Manatrank;5;13932;17415
 34827;Adligenmonokel;1;781269;976587
 34827;Adligenmonokel;1;444444;499999
 34827;Adligenmonokel;1;444443;499998
 3735;Rezept: Scharfe Löwenkoteletts;1;23481;29352
-22846;Erheblicher Schattenschutztrank;5;71636;89545
 22846;Erheblicher Schattenschutztrank;5;68052;85065
 22846;Erheblicher Schattenschutztrank;2;27220;34026
 11993;Tonring;1;79900;79900
@@ -415,20 +358,11 @@
 3199;Kampfschlächter;1;7238;9048
 29726;Muster: Kapuze des Urlebens;1;143679;179599
 29726;Muster: Kapuze des Urlebens;1;151515;161616
-11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;779;866
-11754;Schwarzer Diamant;20;54528;68160
-11754;Schwarzer Diamant;10;17040;28800
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;779;866
 11754;Schwarzer Diamant;1;779;866
 11754;Schwarzer Diamant;20;14000;17500
 11754;Schwarzer Diamant;20;14000;17500
-11754;Schwarzer Diamant;2;17054;18426
-11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;779;866
 11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;104900;109226
@@ -517,7 +451,6 @@
 3819;Winterbiss;2;4000;5000
 34826;Goldener Trauring;1;200000;250000
 11737;Buchband der Gier;1;399800;399800
-11737;Buchband der Gier;1;399800;399800
 12014;Arktischer Ring;1;19524;25156
 12014;Arktischer Ring;1;19524;25156
 3576;Zinnbarren;20;9050;9500
@@ -545,10 +478,6 @@
 13463;Traumblatt;20;183000;190000
 13463;Traumblatt;20;183000;190000
 13463;Traumblatt;8;60416;68072
-3821;Golddorn;20;18912;23640
-3821;Golddorn;20;18912;23640
-3821;Golddorn;20;18912;23640
-3821;Golddorn;3;2836;3546
 3821;Golddorn;20;19300;23400
 3821;Golddorn;14;13510;16380
 3821;Golddorn;1;1134;1260

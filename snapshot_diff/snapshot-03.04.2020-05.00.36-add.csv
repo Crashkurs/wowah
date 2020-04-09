@@ -64,10 +64,6 @@
 15761;Muster: Frostsäblerhandschuhe;1;29999;39999
 3357;Lebenswurz;20;12250;16600
 16051;Bauplan: Thoriumpatronen;1;207500;250000
-19705;Münze der Schädelspalter;1;73873;82082
-19700;Münze der Hakkari;5;241540;268377
-19702;Münze der Blutfratzen;1;30000;40000
-19702;Münze der Blutfratzen;1;35305;44132
 20725;Nexuskristall;1;50000;53000
 20725;Nexuskristall;1;50000;53000
 20725;Nexuskristall;1;50000;53000
@@ -125,8 +121,6 @@
 14048;Runenstoffballen;10;114872;143590
 14048;Runenstoffballen;10;114872;143590
 15846;Salzstreuer;1;391250;400000
-19706;Münze der Blutskalpe;2;98966;109963
-19706;Münze der Blutskalpe;4;143660;179576
 21877;Netherstoff;20;35980;35980
 21877;Netherstoff;20;35980;35980
 21877;Netherstoff;20;35980;35980
@@ -165,18 +159,6 @@
 12425;Imperiale Plattenarmschienen;1;34041;42552
 21099;Rezept: Geräucherter Weisenfisch;1;18807;23509
 20424;Sandwurmfleisch;5;83509;92788
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;34444;39999
-21151;Schwarzer Rumsey Rum;10;35000;35000
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;48990;49990
-21151;Schwarzer Rumsey Rum;10;26600;33250
-21151;Schwarzer Rumsey Rum;7;18620;23275
 15772;Muster: Teufelssauriergamaschen;1;50000;60000
 15772;Muster: Teufelssauriergamaschen;1;44392;52658
 15772;Muster: Teufelssauriergamaschen;1;69999;79999
@@ -195,46 +177,6 @@
 11040;Morgenkorn;20;55555;66666
 11040;Morgenkorn;20;55555;66666
 11040;Morgenkorn;2;5065;6332
-11176;Traumstaub;12;33999;37999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;99999;139980
-11176;Traumstaub;20;59999;63999
-11176;Traumstaub;20;59999;63999
-11176;Traumstaub;20;40000;49000
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;40100;49900
-11176;Traumstaub;5;14000;15500
-11176;Traumstaub;5;14000;15500
-11176;Traumstaub;5;14000;15500
-11176;Traumstaub;20;30100;79999
-11176;Traumstaub;20;190100;199000
-11176;Traumstaub;20;67984;79980
-11176;Traumstaub;5;9995;12200
-11176;Traumstaub;20;85000;89900
-11176;Traumstaub;20;85000;89900
-11176;Traumstaub;20;85000;89900
-11176;Traumstaub;20;85000;89900
-11176;Traumstaub;5;9995;12200
-11176;Traumstaub;5;9995;12200
-11176;Traumstaub;5;9995;12200
-11176;Traumstaub;5;9995;12200
-11176;Traumstaub;17;100186;105983
-11176;Traumstaub;20;125225;139139
-11176;Traumstaub;20;125225;139139
-11176;Traumstaub;20;125225;139139
-11176;Traumstaub;20;125225;139139
-11176;Traumstaub;20;190100;199000
-11176;Traumstaub;20;190100;199000
-11176;Traumstaub;5;14000;15500
-11176;Traumstaub;20;190100;199000
-11176;Traumstaub;5;14000;15500
 13476;Rezept: Mächtiger Wuttrank;1;8245;20600
 13476;Rezept: Mächtiger Wuttrank;1;14500;20600
 13476;Rezept: Mächtiger Wuttrank;1;12548;20394
@@ -432,16 +374,12 @@
 35759;Kraftvoller Gischtsmaragd;1;529999;659999
 21071;Roher Weisenfisch;1;80;500
 21547;Rezept: Elixier der großen Feuermacht;1;119676;149596
-19704;Münze der Sandwüter;1;54854;68568
-19704;Münze der Sandwüter;1;31360;39200
 13465;Bergsilbersalbei;20;120000;180000
 13465;Bergsilbersalbei;20;120000;180000
 13465;Bergsilbersalbei;20;120000;180000
 13465;Bergsilbersalbei;20;196660;198680
 13465;Bergsilbersalbei;6;51350;60000
 13465;Bergsilbersalbei;20;120000;180000
-19701;Münze der Gurubashi;1;37908;47385
-19701;Münze der Gurubashi;1;74780;83089
 21154;Festtagskleid;1;299999;499999
 21114;Dunkler Rumsey Rum;10;11600;22000
 21114;Dunkler Rumsey Rum;3;5280;6600

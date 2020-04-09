@@ -247,7 +247,6 @@
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;59252;65835
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;20375;30000
 23736;Teufelseisenbombe;10;120069;133410
-23736;Teufelseisenbombe;10;120069;133410
 29534;Grollbalgbeinrüstung;1;900000;970000
 29534;Grollbalgbeinrüstung;1;900000;969000
 29534;Grollbalgbeinrüstung;1;990000;999999
@@ -313,8 +312,6 @@
 24302;Muster: Gurt des Unerschütterlichen;1;209978;219098
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
-5788;Muster: Dicke Murlocrüstung;1;2161;2702
-5788;Muster: Dicke Murlocrüstung;1;2561;2845
 5788;Muster: Dicke Murlocrüstung;1;2561;2845
 31137;Stulpen der Läuterung;1;156782;174202
 24271;Zauberstoff;1;356000;399900
@@ -541,11 +538,6 @@
 23117;Azurmondstein;8;27000;29000
 23117;Azurmondstein;1;3192;3990
 23117;Azurmondstein;5;18750;21000
-23784;Adamantitrahmen;1;89999;99999
-23784;Adamantitrahmen;1;89500;99500
-23784;Adamantitrahmen;1;89999;99999
-23784;Adamantitrahmen;1;89999;99999
-23784;Adamantitrahmen;1;89500;99500
 23784;Adamantitrahmen;1;89500;99500
 23784;Adamantitrahmen;1;89500;99500
 9210;Geisterfarbstoff;10;136000;155000

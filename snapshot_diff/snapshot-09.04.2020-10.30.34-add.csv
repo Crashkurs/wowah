@@ -1,7 +1,4 @@
 24700;Knochenmalmerbänder;1;32874;40000
-23438;Stern der Elune;1;75000;80000
-23438;Stern der Elune;20;600000;0
-23438;Stern der Elune;20;600000;0
 14976;Erhabene Stulpen;1;21286;42500
 29532;Trommeln der Panik;1;57500;90000
 29532;Trommeln der Panik;1;57500;90000
@@ -35,10 +32,6 @@
 21884;Urfeuer;1;233900;234500
 21884;Urfeuer;1;233900;234500
 21884;Urfeuer;1;233900;234500
-21884;Urfeuer;1;234498;234999
-21884;Urfeuer;20;6656565;6666666
-21884;Urfeuer;20;6582000;6895000
-21884;Urfeuer;20;6582000;6895000
 13009;Balg des Kuhkönigs;1;30000;50000
 4625;Feuerblüte;20;47500;59900
 4625;Feuerblüte;20;47500;59900
@@ -47,15 +40,8 @@
 24048;Glatter Dämmerstein;1;125978;139975
 24048;Glatter Dämmerstein;1;125978;139975
 21876;Urmondstofftasche;1;2735000;2750000
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;4175000;4259500
-21876;Urmondstofftasche;1;4175000;4259500
 21876;Urmondstofftasche;1;2500000;2700000
 29530;Trommeln des Tempos;1;192267;244741
-23100;Glitzernder Flammenspessarit;1;9700;9800
-23100;Glitzernder Flammenspessarit;1;12299;15599
-23100;Glitzernder Flammenspessarit;1;12299;15599
-23100;Glitzernder Flammenspessarit;1;13399;16699
 31878;Vorlage: Verschleierter Edeltopas;1;372399;465499
 31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
 31878;Vorlage: Verschleierter Edeltopas;1;425000;450000
@@ -72,7 +58,6 @@
 25187;Shekkethkrallen;1;116971;130000
 25033;Aasfresserumhang;1;49999;149999
 25242;Telaarilangbogen;1;73830;89788
-18653;Bauplan: Goblinüberbrückungskabel XL;1;1699720;1797620
 18653;Bauplan: Goblinüberbrückungskabel XL;1;391664;489580
 24783;Finsterblutstiefel;1;1790810;1990000
 12703;Pläne: Sturmstulpen;1;39999;74999
@@ -93,12 +78,7 @@
 22785;Teufelsgras;20;36600;37500
 22785;Teufelsgras;20;36600;37500
 14923;Festliche Armschützer;1;26400;33000
-25868;Himmelsfeuerdiamant;1;960400;970200
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;960400;970200
 25868;Himmelsfeuerdiamant;1;999950;1059950
-25868;Himmelsfeuerdiamant;1;855000;950000
 23098;Gravierter Flammenspessarit;1;26699;27799
 23098;Gravierter Flammenspessarit;1;26699;27799
 23098;Gravierter Flammenspessarit;1;29999;39999
@@ -123,16 +103,7 @@
 2835;Rauer Stein;20;10100;14444
 2835;Rauer Stein;20;10100;14444
 11971;Amethystband;1;12800;16000
-20725;Nexuskristall;1;79999;89999
 20725;Nexuskristall;1;70100;80000
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;79999;89999
-20725;Nexuskristall;1;90000;90000
 29533;Kobrahautbeinrüstung;1;1414999;1429999
 29533;Kobrahautbeinrüstung;1;1383398;1383398
 29533;Kobrahautbeinrüstung;1;1414999;1429999
@@ -146,10 +117,7 @@
 29533;Kobrahautbeinrüstung;1;1383399;1383399
 29533;Kobrahautbeinrüstung;1;1383398;1383398
 29533;Kobrahautbeinrüstung;1;1381000;1382000
-18335;Makelloser schwarzer Diamant;1;599999;599999
 18335;Makelloser schwarzer Diamant;1;550000;590000
-18335;Makelloser schwarzer Diamant;1;599999;599999
-18335;Makelloser schwarzer Diamant;1;599999;599999
 18335;Makelloser schwarzer Diamant;1;550000;590000
 25890;Zerstörerischer Himmelsfeuerdiamant;1;795000;899999
 32230;Schattensangamethyst;1;380000;390000
@@ -187,39 +155,11 @@
 2841;Bronzebarren;20;41500;43333
 14842;Schild des Tyrannen;1;39920;49900
 25901;Bemerkenswerter Erdsturmdiamant;1;640163;667476
-25901;Bemerkenswerter Erdsturmdiamant;1;668051;674900
-25901;Bemerkenswerter Erdsturmdiamant;1;670000;675000
-25901;Bemerkenswerter Erdsturmdiamant;1;674419;676699
-25901;Bemerkenswerter Erdsturmdiamant;1;674419;676699
-25901;Bemerkenswerter Erdsturmdiamant;1;782000;795000
 16220;Formel: Stiefel - Willenskraft;1;74000;90000
 24164;Vorlage: Feiner Eterniumring;1;189532;195665
 13054;Gevatter Tod;1;21660;27075
 13054;Gevatter Tod;1;25163;31454
 24858;Marschenkrabblerhelm;1;85112;106391
-22445;Arkaner Staub;10;125000;150000
-22445;Arkaner Staub;10;125000;150000
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;10;125000;150000
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;10;125000;150000
-22445;Arkaner Staub;20;320100;340000
-22445;Arkaner Staub;20;320100;340000
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;20;320100;340000
-22445;Arkaner Staub;20;320100;340000
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
 22445;Arkaner Staub;20;280000;280000
 22445;Arkaner Staub;20;280000;280000
 22445;Arkaner Staub;20;280000;280000
@@ -249,30 +189,6 @@
 23793;Schweres Knotenhautleder;4;167500;169999
 23793;Schweres Knotenhautleder;4;167500;169999
 25026;Kriegsherreneisenhelm;1;299436;301796
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;55000;55000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
-24062;Robuster Talasit;1;49000;56000
 18600;Foliant der arkanen Brillanz;1;30000;39000
 18600;Foliant der arkanen Brillanz;1;30000;39000
 18600;Foliant der arkanen Brillanz;1;29999;39999
@@ -300,29 +216,6 @@
 3173;Bärenfleisch;2;1902;2114
 31877;Vorlage: Energieerfülltes Nachtauge;1;154187;192734
 31877;Vorlage: Energieerfülltes Nachtauge;1;146477;183097
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;45000;55000
-24039;Stürmischer Stern der Elune;1;45000;55000
-24039;Stürmischer Stern der Elune;1;45000;59900
-24039;Stürmischer Stern der Elune;1;45524;56905
-24039;Stürmischer Stern der Elune;1;90000;110000
 9197;Elixier der Traumvision;1;727;935
 24927;Ango'roshsabatons;1;39494;41868
 13051;Hexenfuror;1;29900;37500
@@ -399,8 +292,6 @@
 31142;Klinge des gefangenen Wissens;1;189998;237498
 31142;Klinge des gefangenen Wissens;1;237497;237497
 24723;Lumpenpackschulterstücke;1;50022;60000
-31134;Klinge des Unglücks;1;169015;169400
-31134;Klinge des Unglücks;1;147600;169500
 23097;Feingeschliffener Blutgranat;1;59999;69999
 31336;Klinge der Zauberei;1;23999999;27599999
 7079;Kugel des Wassers;1;5195;6883
@@ -430,15 +321,7 @@
 31863;Ausbalanciertes Nachtauge;1;65000;69900
 31863;Ausbalanciertes Nachtauge;1;65000;69900
 25040;Finsterblutcape;1;270000;330000
-29535;Netherkobrabeinrüstung;1;2800000;3226000
 29535;Netherkobrabeinrüstung;1;2895000;2915000
-29535;Netherkobrabeinrüstung;1;2899419;2899709
-29535;Netherkobrabeinrüstung;1;2513323;2794499
-29535;Netherkobrabeinrüstung;1;2779999;2789999
-29535;Netherkobrabeinrüstung;1;2770000;2787900
-29535;Netherkobrabeinrüstung;1;2513323;2774499
-29535;Netherkobrabeinrüstung;1;2899999;2899999
-29535;Netherkobrabeinrüstung;1;2909417;2909708
 25335;Wildwarpstab;1;156800;196000
 4500;Reiserucksack;1;92597;99947
 4500;Reiserucksack;1;118750;120000
@@ -468,8 +351,6 @@
 23436;Lebendiger Rubin;1;145000;150000
 23436;Lebendiger Rubin;1;145000;150000
 24801;Drachenfalkenhandschuhe;1;80000;90000
-25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;198307;247884
-25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;235000;250000
 1121;Füße des Luchses;1;500000;960000
 21860;Magieerfüllte Netherstoffstiefel;1;329924;340000
 21860;Magieerfüllte Netherstoffstiefel;1;329924;340000
@@ -489,15 +370,7 @@
 27422;Stachelkiemenforelle;20;35999;39899
 27422;Stachelkiemenforelle;20;35999;39899
 10083;Adelskrone;1;23600;29500
-14916;Jadedeflektor;1;27254;35000
 7431;Zwielichthose;1;12476;15596
-27658;Gerösteter Grollhuf;20;284500;290000
-27658;Gerösteter Grollhuf;20;283999;289499
-27658;Gerösteter Grollhuf;20;284500;290000
-27658;Gerösteter Grollhuf;20;284500;290000
-27658;Gerösteter Grollhuf;20;284500;290000
-27658;Gerösteter Grollhuf;20;283999;289499
-27658;Gerösteter Grollhuf;20;283999;289499
 24786;Finsterblutbedeckung;1;130000;140000
 23099;Glänzender Flammenspessarit;1;19987;22208
 23099;Glänzender Flammenspessarit;1;6050;8000
@@ -531,14 +404,6 @@
 31143;Tuch der Raserei;1;87838;97598
 31143;Tuch der Raserei;1;106400;133000
 24797;Expeditionsarmschienen;1;1958160;1990000
-27659;Doppelwarper;20;283696;299920
-27659;Doppelwarper;20;214500;220000
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;5;42500;50000
-27659;Doppelwarper;5;42500;50000
-27659;Doppelwarper;20;283696;299920
 25110;Scharfes Bowiemesser;1;198168;247710
 32200;Gediegener Engelssaphir;1;500000;600000
 32200;Gediegener Engelssaphir;1;500000;600000
@@ -574,31 +439,14 @@
 22446;Große Planaressenz;1;120000;120000
 22446;Große Planaressenz;1;120000;120000
 22446;Große Planaressenz;1;120000;120000
-25906;Vorlage: Brutaler Erdsturmdiamant;1;156800;196000
 25034;Elementaristenumhang;1;59504;75756
 31151;Gurt der Belagerung;1;63640;79550
 31151;Gurt der Belagerung;1;60000;60000
 25416;Kristallfragment von Oshu'gun;2;19506;25758
 13138;Der Verstummer;1;26999;33999
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;204900;205000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;180000;185000
-24061;Glitzernder Edeltopas;1;182500;182500
-24061;Glitzernder Edeltopas;1;182500;182500
 24860;Marschenkrabblermantelung;1;89936;112421
 14271;Gaeas Reif;1;21200;26500
 4234;Schweres Leder;20;50000;50000
-21861;Magieerfüllte Netherstoffrobe;1;288947;321052
-21861;Magieerfüllte Netherstoffrobe;1;288947;321052
-21861;Magieerfüllte Netherstoffrobe;1;288947;321052
 2877;Mitstreiterclaymore;1;12199;12199
 8106;Rüstung des Winterschlafs;1;36000;45000
 23572;Urnether;1;29999;29999
@@ -630,23 +478,16 @@
 17725;Formel: Waffe - Wintermacht;1;3879679;4849599
 17725;Formel: Waffe - Wintermacht;1;3879679;4849599
 6347;Formel: Armschiene - Schwache Stärke;1;4500;6000
-22793;Manadistel;20;199999;199999
-22793;Manadistel;20;199999;199999
 22793;Manadistel;20;147700;148500
 22793;Manadistel;20;147700;148500
 22793;Manadistel;20;147700;148500
 22793;Manadistel;20;145000;147800
-22793;Manadistel;20;185000;189999
-22793;Manadistel;20;185000;189999
 22793;Manadistel;20;120000;149999
-22793;Manadistel;20;199999;199999
-22793;Manadistel;20;185000;189999
 22793;Manadistel;20;145000;147900
 22793;Manadistel;20;145000;147800
 22793;Manadistel;20;120000;149999
 22793;Manadistel;20;120000;149999
 22793;Manadistel;20;120000;149999
-22793;Manadistel;20;199999;199999
 3197;Steinfräserclaymore;1;23600;29500
 3197;Steinfräserclaymore;1;29500;37500
 32215;Leuchtender Schattensangamethyst;1;879899;879899
@@ -658,14 +499,6 @@
 32216;Königlicher Schattensangamethyst;1;889645;889645
 32216;Königlicher Schattensangamethyst;1;889645;889645
 14959;Oberhäuptlingsstulpen;1;30000;40000
-25649;Knotenhautlederfetzen;20;22736;28420
-25649;Knotenhautlederfetzen;5;8888;10000
-25649;Knotenhautlederfetzen;6;8888;10000
-25649;Knotenhautlederfetzen;20;23992;24999
-25649;Knotenhautlederfetzen;20;20000;25000
-25649;Knotenhautlederfetzen;20;27500;27900
-25649;Knotenhautlederfetzen;20;22736;28420
-25649;Knotenhautlederfetzen;1;1196;1496
 31139;Faust der Abrechnung;1;114442;120000
 31139;Faust der Abrechnung;1;84442;100000
 7753;Blutvergießer;1;39999;39999
@@ -688,66 +521,11 @@
 24947;Blutschuppenbeinschützer;1;91191;120000
 24993;Totschlägerhandschuhe;1;37017;49999
 24993;Totschlägerhandschuhe;1;32200;42300
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;4;1800;2200
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
-27660;Talbuksteak;5;2250;2750
 22452;Urerde;3;111200;124000
 22452;Urerde;5;185300;206600
 22452;Urerde;20;730000;750000
-20520;Dunkelrune;10;1877500;1980000
-20520;Dunkelrune;10;1877500;1980000
-20520;Dunkelrune;10;1877500;1980000
-20520;Dunkelrune;20;3750000;3960000
-20520;Dunkelrune;20;3750000;3960000
-20520;Dunkelrune;1;187500;198000
-20520;Dunkelrune;1;187500;198000
-20520;Dunkelrune;1;187500;198000
-20520;Dunkelrune;1;187500;198000
-20520;Dunkelrune;1;187500;198000
-20520;Dunkelrune;10;1877500;1980000
 24845;Zornflossenbindungen;1;94233;99000
 24037;Irisierender Stern der Elune;1;80000;120000
-24037;Irisierender Stern der Elune;1;87200;92900
-24037;Irisierender Stern der Elune;1;87200;92900
-24037;Irisierender Stern der Elune;1;87200;92900
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
@@ -801,10 +579,6 @@
 31079;Quecksilberadamantit;1;111600;149500
 31079;Quecksilberadamantit;1;111600;149500
 31079;Quecksilberadamantit;1;111600;149500
-25905;Vorlage: Harter Erdsturmdiamant;1;60006;65000
-25905;Vorlage: Harter Erdsturmdiamant;1;60000;65000
-25905;Vorlage: Harter Erdsturmdiamant;1;119644;129556
-25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
 8134;Myrmidonenverteidiger;1;52000;65000
 25032;Umhang des Höllenfeuers;1;53492;66865
 25893;Mystischer Himmelsfeuerdiamant;1;1100000;1100000
@@ -821,35 +595,16 @@
 20746;Geringes Zauberöl;1;49576;62720
 20746;Geringes Zauberöl;1;49576;62720
 31125;Stiefel des Dezimierers;1;69148;86436
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;98799;99500
-24047;Brillanter Dämmerstein;1;98799;99500
-24047;Brillanter Dämmerstein;1;73761;92202
-24047;Brillanter Dämmerstein;1;115000;130000
-24047;Brillanter Dämmerstein;1;98799;99500
-31148;Dämonenbalgschiftung;1;82032;102541
-31148;Dämonenbalgschiftung;1;132882;147647
 31153;Axt der Legion;1;600000;650000
 31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;649903;799900
-31153;Axt der Legion;1;429800;429800
-31153;Axt der Legion;1;258304;350000
-31153;Axt der Legion;1;248304;320000
 31153;Axt der Legion;1;600000;650000
 31153;Axt der Legion;1;600000;650000
 21886;Urleben;20;2429900;2439999
-25896;Mächtiger Erdsturmdiamant;1;970000;978000
-25896;Mächtiger Erdsturmdiamant;1;969900;969900
-25896;Mächtiger Erdsturmdiamant;1;923619;969800
 25896;Mächtiger Erdsturmdiamant;1;946261;959132
 25896;Mächtiger Erdsturmdiamant;1;959131;959131
 24875;Eisenrückenbeinschützer;1;100000;110000
 24943;Blutschuppensabatons;1;48529;120000
 24838;Zornflossengürtelbund;1;24451;33064
-14771;Verheererumhang;1;9696;9920
 23103;Strahlender Tiefenperidot;1;16043;17554
 23103;Strahlender Tiefenperidot;1;4900;5405
 23103;Strahlender Tiefenperidot;1;4900;5405
@@ -866,8 +621,6 @@
 9187;Elixier der großen Beweglichkeit;6;22386;22572
 31138;Gurt des Sturmfürsten;1;59703;63500
 24717;Lumpenpackgürtel;1;49100;59000
-24065;Schillernder Talasit;1;69999;89999
-24065;Schillernder Talasit;1;84000;89000
 4498;Brauner Lederranzen;1;1960;2450
 20960;Gravierter Echtsilberring;1;9500;13000
 20960;Gravierter Echtsilberring;1;9500;13000
@@ -930,14 +683,6 @@
 4306;Seidenstoff;13;15025;20500
 4306;Seidenstoff;20;23968;29960
 25897;Starker Erdsturmdiamant;1;953376;973670
-25897;Starker Erdsturmdiamant;1;792980;991225
-25897;Starker Erdsturmdiamant;1;792980;991225
-25897;Starker Erdsturmdiamant;1;792980;991225
-25897;Starker Erdsturmdiamant;1;792980;991225
-25897;Starker Erdsturmdiamant;1;970000;1100000
-25897;Starker Erdsturmdiamant;1;980000;984500
-25897;Starker Erdsturmdiamant;1;989900;989900
-25897;Starker Erdsturmdiamant;1;792980;991225
 25897;Starker Erdsturmdiamant;1;953376;973670
 13103;Polster der Giftspinne;1;7999;8899
 29539;Kobraschuppen;1;133324;135075
@@ -951,15 +696,6 @@
 9172;Unsichtbarkeitstrank;1;49998;49998
 9172;Unsichtbarkeitstrank;1;49998;49998
 9172;Unsichtbarkeitstrank;1;49998;49998
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;20;749580;749580
-22794;Teufelslotus;5;131100;173875
-22794;Teufelslotus;20;800000;866000
 24840;Zornflossenrüstung;1;75198;95000
 31868;Tückischer Edeltopas;1;274000;289000
 31868;Tückischer Edeltopas;1;274000;289000
@@ -983,37 +719,16 @@
 17723;Grünes Festtagshemd;1;39999;49999
 31152;Brustschutz der Illumination;1;98318;122898
 24711;Vergeltungsbrustharnisch;1;40000;60000
-29531;Trommeln der Wiederherstellung;1;422625;463319
-29531;Trommeln der Wiederherstellung;1;422625;463319
-29531;Trommeln der Wiederherstellung;1;449998;449998
-29531;Trommeln der Wiederherstellung;1;422625;463319
-29531;Trommeln der Wiederherstellung;1;422625;463319
-29531;Trommeln der Wiederherstellung;1;422625;463319
-29531;Trommeln der Wiederherstellung;1;457500;460000
-29531;Trommeln der Wiederherstellung;1;457500;460000
-29531;Trommeln der Wiederherstellung;1;435500;459000
-29531;Trommeln der Wiederherstellung;1;435500;459000
-29531;Trommeln der Wiederherstellung;1;435500;459000
-29531;Trommeln der Wiederherstellung;1;409999;449999
-29531;Trommeln der Wiederherstellung;1;409999;449999
-29531;Trommeln der Wiederherstellung;1;409999;449999
-29531;Trommeln der Wiederherstellung;1;409999;449999
-29531;Trommeln der Wiederherstellung;1;409999;449999
-29531;Trommeln der Wiederherstellung;1;409999;449999
 29531;Trommeln der Wiederherstellung;1;449998;449998
 29531;Trommeln der Wiederherstellung;1;449998;449998
 29531;Trommeln der Wiederherstellung;1;449998;449998
-29531;Trommeln der Wiederherstellung;1;409999;449999
+29531;Trommeln der Wiederherstellung;1;449998;449998
 22790;Urflechte;20;123500;124600
 22790;Urflechte;20;123500;124600
 22790;Urflechte;20;123500;124600
 22790;Urflechte;20;122500;124500
 25201;Häschersichel;1;89984;99980
 24771;Grollhufschulterschutz;1;1874761;1880000
-21845;Urmondstoff;1;589999;599999
-21845;Urmondstoff;1;589999;599999
-21845;Urmondstoff;1;589999;599999
-21845;Urmondstoff;1;589999;599999
 24934;Dunkelkammgürtel;1;21363;31704
 25899;Grober Erdsturmdiamant;1;945000;999000
 25899;Grober Erdsturmdiamant;1;945000;999000

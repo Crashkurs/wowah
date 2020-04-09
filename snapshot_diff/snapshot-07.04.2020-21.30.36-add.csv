@@ -16,7 +16,6 @@
 25057;Bernsteinband;1;238105;250000
 27429;Zangarischer Sporenfisch;20;65000;85000
 23438;Stern der Elune;1;69999;89999
-10316;Muster: Bunter Kilt;1;9000;10000
 24605;Schädeltaillenschutz;1;16821;39900
 23629;Pläne: Teufelsstahllangschwert;1;140000;150000
 23629;Pläne: Teufelsstahllangschwert;1;140000;150000
@@ -900,12 +899,6 @@
 29547;Windschuppen;20;697840;792000
 24591;Feuerherzbrustharnisch;1;30000;40000
 31889;Segen 2;1;3000000;6000000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
-8170;Unverwüstliches Leder;20;135000;150000
 3655;Brünierter Schild;1;20000;40000
 6406;Nachthauchstiefel;1;31027;35785
 22851;Fläschchen der Stärkung;1;109000;110000
@@ -1152,11 +1145,6 @@
 24719;Lumpenpackbrustharnisch;1;578674;723343
 24078;Schwerer Adamantitring;1;82475;103094
 24965;Khan'aisharmschienen;1;119662;149578
-8169;Dicker Balg;3;1444;1806
-8169;Dicker Balg;10;3990;4990
-8169;Dicker Balg;2;963;1204
-8169;Dicker Balg;4;1596;1996
-8169;Dicker Balg;10;3990;4990
 24639;Nebelschilftunika;1;950689;990000
 32897;Mal der Illidari;10;65000;70000
 32897;Mal der Illidari;10;65000;70000
@@ -1278,7 +1266,6 @@
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
 22853;Fläschchen der mächtigen Wiederherstellung;5;739800;749000
-6433;Imperialer Lederhelm;1;22746;28433
 27664;Gegrillter Matschflosser;10;100000;125000
 27664;Gegrillter Matschflosser;20;214500;220000
 27664;Gegrillter Matschflosser;10;100000;125000
@@ -1316,9 +1303,6 @@
 22457;Urmana;1;197800;197800
 22457;Urmana;1;197800;197800
 22457;Urmana;1;197800;197800
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
 21887;Knotenhautleder;20;269980;269980
 21887;Knotenhautleder;20;167500;189999
 21887;Knotenhautleder;20;269980;269980
@@ -1524,8 +1508,6 @@
 22790;Urflechte;20;22500;35000
 11176;Traumstaub;9;49900;49999
 11176;Traumstaub;20;109999;179999
-10561;Mithrilgehäuse;1;41800;52250
-10561;Mithrilgehäuse;1;40001;50001
 24771;Grollhufschulterschutz;1;1874761;1880000
 10315;Muster: Rote Magiestoffschultern;1;22625;45000
 21845;Urmondstoff;1;346000;374999

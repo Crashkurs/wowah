@@ -3,16 +3,9 @@
 10184;Schwadroneursarmschienen;1;30000;40000
 2878;Hakenknochenaxt;1;90000;110000
 13076;Riesentöterarmschienen;1;26028;32536
-16254;Formel: Waffe - Lebensdiebstahl;1;74999;99999
-16254;Formel: Waffe - Lebensdiebstahl;1;799900;799900
-16254;Formel: Waffe - Lebensdiebstahl;1;401250;450000
 16254;Formel: Waffe - Lebensdiebstahl;1;799900;799900
 16254;Formel: Waffe - Lebensdiebstahl;1;401250;450000
 16254;Formel: Waffe - Lebensdiebstahl;1;74999;99999
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 14902;Salzsteinschild;1;8823;9900
 10940;Seltsamer Staub;1;3833;4792
 10940;Seltsamer Staub;1;3833;4792
@@ -46,7 +39,6 @@
 8167;Schildkrötenschuppe;10;67250;74720
 8167;Schildkrötenschuppe;9;29560;37701
 14204;Distelfellrobe;1;9731;12164
-14204;Distelfellrobe;1;9731;12164
 2453;Beulengras;20;4742;5269
 2453;Beulengras;20;4742;5269
 2453;Beulengras;20;4743;5270
@@ -58,18 +50,10 @@
 10191;Kreuzfahrerarmschützer;1;27997;31108
 16647;Schredderanleitung - Seite 3;1;7000;7500
 14172;Bukaniersroben;1;99900;99900
-14172;Bukaniersroben;1;99900;99900
 14661;Bewahrerkordel;1;10991;15999
 3039;Kurzer Eschenbogen;1;6915;8900
 3039;Kurzer Eschenbogen;1;7220;9025
 16244;Formel: Handschuhe - Große Stärke;1;350000;400000
-16244;Formel: Handschuhe - Große Stärke;1;350000;400000
-14048;Runenstoffballen;9;57000;60000
-14048;Runenstoffballen;1;3000;5000
-14048;Runenstoffballen;1;3000;4000
-14048;Runenstoffballen;1;3000;5000
-14048;Runenstoffballen;10;129564;143330
-14048;Runenstoffballen;10;129564;143330
 14048;Runenstoffballen;10;129564;143330
 14048;Runenstoffballen;10;129564;143330
 14048;Runenstoffballen;9;57000;60000
@@ -128,13 +112,11 @@
 16723;Gürtel des Lichts;1;32770;50000
 16723;Gürtel des Lichts;1;42770;50000
 16220;Formel: Stiefel - Willenskraft;1;996000;1000000
-16220;Formel: Stiefel - Willenskraft;1;996000;1000000
 10203;Oberherrenbrustplatte;1;27292;34565
 3075;Flammenauge;1;22609;30000
 3075;Flammenauge;1;205073;209500
 3075;Flammenauge;1;22500;22500
 14746;Titanischer Gürtel;1;10000;25000
-14214;Vitale Stiefel;1;30000;40000
 14214;Vitale Stiefel;1;30000;40000
 14762;Ausdauernde Stiefel;1;6111;6600
 13089;Skibis Anhänger;1;37200;46501
@@ -158,13 +140,9 @@
 10078;Lordwappen;1;27963;34567
 10078;Lordwappen;1;27963;30000
 10190;Schwadroneursgürtel;1;10003;15000
-16206;Arkanitrute;1;300000;345000
-16206;Arkanitrute;1;349900;350000
-16206;Arkanitrute;1;251500;300000
 16206;Arkanitrute;1;349900;350000
 16206;Arkanitrute;1;251500;300000
 16206;Arkanitrute;1;300000;345000
-16206;Arkanitrute;1;359500;399900
 10075;Rechtschaffene Schiftung;1;13980;17476
 10075;Rechtschaffene Schiftung;1;20000;30000
 13096;Hierophantenband;1;31869;50000
@@ -172,14 +150,12 @@
 2879;Antipodenrute;1;10000;15000
 2879;Antipodenrute;1;7500;14999
 14190;Regenmacherweste;1;20000;30000
-14190;Regenmacherweste;1;20000;30000
 35761;Spiegelndes Löwenauge;1;3575649;4469562
 35761;Spiegelndes Löwenauge;1;3575649;4469562
 3020;Ausdauernde Kappe;1;29568;38710
 3020;Ausdauernde Kappe;1;17500;30000
 14580;Dokebiarmschienen;1;20000;40000
 37915;Muster: Ausgehschuhe;1;1875;10000
-14215;Vitale Tunika;1;11452;14316
 14215;Vitale Tunika;1;11452;14316
 14506;Muster: Teufelsstoffrobe;1;30000;40000
 22451;Urluft;1;216540;219940
@@ -200,7 +176,6 @@
 22451;Urluft;1;184185;185099
 22451;Urluft;1;184185;185099
 22451;Urluft;1;184185;185099
-16246;Formel: Armschiene - Überragende Stärke;1;7000000;7500000
 16246;Formel: Armschiene - Überragende Stärke;1;7000000;7500000
 10083;Adelskrone;1;23600;29500
 14916;Jadedeflektor;1;17254;30000
@@ -268,7 +243,6 @@
 12363;Arkankristall;1;13000;14900
 14551;Handschützer des Klingenmeisters;1;468908;521009
 14203;Distelfellhose;1;4131;8000
-14203;Distelfellhose;1;4131;8000
 4091;Witwenmacher;1;13718;20000
 1607;Seelenbewahrer;1;203420;224500
 13074;Golemsplittergamaschen;1;21064;48000
@@ -283,7 +257,6 @@
 2915;Taraneisbrecher;1;49540;63175
 2915;Taraneisbrecher;1;102840;113550
 14744;Titanischer Brustschutz;1;7392;9240
-16243;Formel: Runenverzierte Arkanitrute;1;239999;289999
 16243;Formel: Runenverzierte Arkanitrute;1;239999;289999
 13091;Medaillon von Großmarschall Morris;1;62300;77876
 14725;Kriegsbemalungsgürtelbund;1;19900;19900
@@ -306,8 +279,6 @@
 13071;Plattenfaust von Hakoo;1;32829;36477
 10195;Kreuzfahrerschild;1;59071;73839
 16252;Formel: Waffe - Kreuzfahrer;1;1800000;2000000
-16252;Formel: Waffe - Kreuzfahrer;1;1800000;2000000
-16251;Formel: Armschiene - Überragende Ausdauer;1;201761;252202
 16251;Formel: Armschiene - Überragende Ausdauer;1;201761;252202
 16722;Armschienen des Lichts;1;101399;150000
 13094;Das Juwel der Königin;1;17377;26722
@@ -326,8 +297,6 @@
 14831;Symbolkrone;1;10795;15000
 3012;Rolle der Beweglichkeit;1;5000;7500
 16247;Formel: Zweihandwaffe - Überragender Einschlag;1;309200;504000
-16247;Formel: Zweihandwaffe - Überragender Einschlag;1;309200;504000
-14197;Distelfellbänder;1;4000;5000
 14197;Distelfellbänder;1;4000;5000
 13095;Angriffsband;1;30916;34351
 13095;Angriffsband;1;51267;66584
@@ -349,25 +318,8 @@
 21886;Urleben;1;129999;139999
 21886;Urleben;1;129999;139999
 21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;20;2799999;2859999
-21886;Urleben;1;116000;120000
-21886;Urleben;1;116000;120000
-21886;Urleben;10;1424999;1449999
-21886;Urleben;20;2849999;2899999
 10036;Smokingjacke;1;160000;550000
 16224;Formel: Umhang - Überragende Verteidigung;1;269999;289999
-16224;Formel: Umhang - Überragende Verteidigung;1;269999;289999
-16224;Formel: Umhang - Überragende Verteidigung;1;275000;285000
 12365;Verdichteter Stein;20;6064;7580
 12365;Verdichteter Stein;20;6064;7580
 12365;Verdichteter Stein;20;6064;7580
@@ -409,14 +361,10 @@
 6309;17-pfündiger Wels;1;3400;4400
 16655;Schredderanleitung - Seite 11;1;2000;4500
 14096;Eingeborenenweste;1;20000;30000
-14096;Eingeborenenweste;1;20000;30000
 14508;Muster: Teufelsstoffschultern;1;39959;39999
 14508;Muster: Teufelsstoffschultern;1;30000;40000
 3047;Züngelnde Schuppenhandschuhe;1;1578;3300
 14165;Heidenkniehosen;1;25427;28946
-14165;Heidenkniehosen;1;25427;28946
-16215;Formel: Stiefel - Große Ausdauer;1;84500;90000
-16215;Formel: Stiefel - Große Ausdauer;1;258320;302900
 16215;Formel: Stiefel - Große Ausdauer;1;258320;302900
 16215;Formel: Stiefel - Große Ausdauer;1;84500;90000
 11083;Seelenstaub;20;140000;159400
@@ -424,7 +372,6 @@
 14549;Stiefel der Vermeidung;1;1499999;1500000
 10095;Ratsherrenstiefel;1;40000;50000
 10103;Ratsherrenschärpe;1;5687;20000
-14127;Ritualtuch;1;99900;99900
 14127;Ritualtuch;1;99900;99900
 10231;Graviertes Cape;1;29570;37838
 13102;Cassandras Anmut;1;35433;38258
@@ -434,7 +381,6 @@
 10051;Rote Magiestofftasche;1;11865;14850
 10051;Rote Magiestofftasche;1;13398;14887
 13087;Halsreif des Flussgeists;1;38867;43584
-16218;Formel: Armschiene - Überragende Willenskraft;1;15250;30000
 16218;Formel: Armschiene - Überragende Willenskraft;1;15250;30000
 10998;Geringe Astralessenz;1;2033;2233
 10998;Geringe Astralessenz;1;2033;2233

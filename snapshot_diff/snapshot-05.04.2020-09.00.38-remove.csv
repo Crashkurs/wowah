@@ -2,7 +2,6 @@
 25057;Bernsteinband;1;81936;92420
 24659;Konsortiummantelung;1;199886;249500
 7369;Ältestenrobe;1;9456;11820
-7369;Ältestenrobe;1;9456;11820
 11174;Geringe Netheressenz;1;19569;24462
 11174;Geringe Netheressenz;5;142585;158430
 11174;Geringe Netheressenz;5;142585;158430
@@ -39,14 +38,9 @@
 19268;Elementar Ass;1;1500000;1900000
 19268;Elementar Ass;1;1500000;1900000
 7415;Derwischschiftung;1;20000;30000
-7415;Derwischschiftung;1;20000;30000
 7428;Schattenkatzenbalg;1;1275;1500
 7428;Schattenkatzenbalg;5;9550;10610
 7428;Schattenkatzenbalg;3;2210;2763
-7428;Schattenkatzenbalg;1;1275;1500
-7428;Schattenkatzenbalg;5;9550;10610
-7428;Schattenkatzenbalg;3;2210;2763
-8266;Ebenholzumhang;1;25774;28638
 8266;Ebenholzumhang;1;25774;28638
 14499;Muster: Mondstofftasche;1;35999;39999
 19267;Elementarkartenset;1;2999993;2999999
@@ -86,7 +80,6 @@
 32420;Nachtend;1;1909545;2100000
 23148;Vorlage: Glänzender Golddraenit;1;195000;200000
 14474;Muster: Froststoffhandschuhe;1;4800;8095
-8244;Fehlerlose Draenethystsphäre;1;217152;271440
 8244;Fehlerlose Draenethystsphäre;1;217152;271440
 22445;Arkaner Staub;20;202800;215080
 22445;Arkaner Staub;20;202800;215080
@@ -129,8 +122,6 @@
 31154;Bronzehalsring;1;5600;7000
 7421;Phalanxhandschuhe;1;2667;5555
 7421;Phalanxhandschuhe;1;20000;30000
-7421;Phalanxhandschuhe;1;2667;5555
-7421;Phalanxhandschuhe;1;20000;30000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
 33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;175000
@@ -151,7 +142,6 @@
 8249;Imperiale rote Handschuhe;1;8004;16000
 8249;Imperiale rote Handschuhe;1;8004;16000
 8249;Imperiale rote Handschuhe;1;8004;16000
-8255;Schlangenhautgurt;1;9015;18000
 8255;Schlangenhautgurt;1;9015;18000
 13890;Panzerfisch;6;1860;2532
 22795;Teufelsblüte;10;355;500
@@ -180,18 +170,6 @@
 29535;Netherkobrabeinrüstung;1;2800000;3226000
 23151;Vorlage: Massiver Golddraenit;1;192500;200000
 34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;8;290000;350000
-34330;Schweres Knotenhautrüstungsset;8;290000;349500
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;2;72500;89900
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 7786;Kopfspalter;1;48407;49999
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
@@ -221,7 +199,6 @@
 14453;Hochgeborenenroben;1;15677;28000
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
 11973;Hämatitverbindung;1;173971;219500
-8269;Ebenholzstiefel;1;21543;43000
 8269;Ebenholzstiefel;1;21543;43000
 15638;Formidable Schulterpolster;1;14422;20000
 23137;Vorlage: Glitzernder Flammenspessarit;1;192500;200000
@@ -350,7 +327,6 @@
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 19221;Dunkelmond-Spezialmischung;6;480072;597000
 19221;Dunkelmond-Spezialmischung;10;800120;995000
-8257;Schlangenhautarmschienen;1;19369;24212
 8257;Schlangenhautarmschienen;1;19369;24212
 9847;Beschwörerumhang;1;2668;5065
 14412;Steinstoffschulterklappen;1;7353;9192

@@ -9,13 +9,6 @@
 2878;Hakenknochenaxt;1;90000;110000
 8152;Fläschchen großes Mojo;5;6892;7658
 13076;Riesentöterarmschienen;1;26028;32536
-16254;Formel: Waffe - Lebensdiebstahl;1;799900;799900
-16254;Formel: Waffe - Lebensdiebstahl;1;401250;450000
-16254;Formel: Waffe - Lebensdiebstahl;1;74999;99999
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
-16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 14902;Salzsteinschild;1;8823;9900
 10940;Seltsamer Staub;6;17400;17664
 10940;Seltsamer Staub;1;3833;4792
@@ -49,7 +42,6 @@
 8167;Schildkrötenschuppe;9;29560;37701
 8167;Schildkrötenschuppe;5;25280;31600
 8167;Schildkrötenschuppe;11;26400;27500
-14204;Distelfellrobe;1;9731;12164
 21884;Urfeuer;1;196000;199900
 9262;Schwarzes Vitriol;3;4500;0
 14929;Festliche Schulterpolster;1;15719;30000
@@ -67,20 +59,12 @@
 24048;Glatter Dämmerstein;1;45000;90000
 24048;Glatter Dämmerstein;1;45000;90000
 23112;Golddraenit;20;371600;389500
-14172;Bukaniersroben;1;99900;99900
 14661;Bewahrerkordel;1;10991;15999
 870;Feurige Kriegsaxt;1;193171;241464
 3039;Kurzer Eschenbogen;1;7220;9025
 3039;Kurzer Eschenbogen;1;6915;8900
-16244;Formel: Handschuhe - Große Stärke;1;350000;400000
 24077;Dicke Adamantithalskette;1;71082;111111
 31875;Vorlage: Großer Dämmerstein;1;155600;179500
-14048;Runenstoffballen;10;129564;143330
-14048;Runenstoffballen;1;3000;4000
-14048;Runenstoffballen;1;3000;5000
-14048;Runenstoffballen;1;3000;5000
-14048;Runenstoffballen;9;57000;60000
-14048;Runenstoffballen;10;129564;143330
 25719;Arakkoafeder;24;301248;350000
 10068;Rechtschaffene Stiefel;1;13692;21100
 14791;Beschützercape;1;38910;39900
@@ -126,7 +110,6 @@
 15084;Tückische Lederarmschienen;1;47774;59749
 16723;Gürtel des Lichts;1;42770;50000
 16723;Gürtel des Lichts;1;32770;50000
-16220;Formel: Stiefel - Willenskraft;1;996000;1000000
 13054;Gevatter Tod;1;29523;37654
 10203;Oberherrenbrustplatte;1;27292;34565
 3075;Flammenauge;1;22609;30000
@@ -134,7 +117,6 @@
 3075;Flammenauge;1;205073;209500
 24027;Klobiger lebendiger Rubin;1;245000;250000
 14746;Titanischer Gürtel;1;10000;25000
-14214;Vitale Stiefel;1;30000;40000
 14762;Ausdauernde Stiefel;1;6111;6600
 23446;Adamantitbarren;3;22740;28425
 23446;Adamantitbarren;20;190000;199500
@@ -179,10 +161,6 @@
 10078;Lordwappen;1;27963;30000
 15115;Starre Handschuhe;1;99900;99900
 10190;Schwadroneursgürtel;1;10003;15000
-16206;Arkanitrute;1;251500;300000
-16206;Arkanitrute;1;359500;399900
-16206;Arkanitrute;1;349900;350000
-16206;Arkanitrute;1;300000;345000
 29731;Muster: Windstoßhandschuhe;1;187030;233788
 10075;Rechtschaffene Schiftung;1;20000;30000
 10075;Rechtschaffene Schiftung;1;13980;17476
@@ -195,7 +173,6 @@
 2879;Antipodenrute;1;7500;14999
 25438;Malachitanhänger;1;1125;3500
 25438;Malachitanhänger;1;1125;3500
-14190;Regenmacherweste;1;20000;30000
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
 24775;Knochenfresserwams;1;89968;97460
 22575;Lebenspartikel;7;54200;56600
@@ -206,9 +183,7 @@
 14921;Jadeschulterklappen;1;11191;30000
 22576;Manapartikel;8;54800;100000
 10071;Rechtschaffener Umhang;1;19822;24778
-14215;Vitale Tunika;1;11452;14316
 14506;Muster: Teufelsstoffrobe;1;30000;40000
-16246;Formel: Armschiene - Überragende Stärke;1;7000000;7500000
 23783;Eine Hand voll Teufelseisenbolzen;10;118736;125920
 23783;Eine Hand voll Teufelseisenbolzen;10;118736;125920
 14552;Palisadenschulterstücke;1;38000;47500
@@ -278,7 +253,6 @@
 23572;Urnether;1;24000;25500
 22522;Überragendes Zauberöl;1;72250;78800
 22522;Überragendes Zauberöl;1;72250;78800
-14203;Distelfellhose;1;4131;8000
 25802;Schreckensgiftbeutel;1;10043;11792
 22577;Schattenpartikel;3;11800;15000
 22577;Schattenpartikel;4;2400;10000
@@ -316,7 +290,6 @@
 21882;Seelenessenz;2;27500;39900
 21882;Seelenessenz;20;299900;309500
 14744;Titanischer Brustschutz;1;7392;9240
-16243;Formel: Runenverzierte Arkanitrute;1;239999;289999
 13091;Medaillon von Großmarschall Morris;1;62300;77876
 31331;Die Nachtklinge;1;1959501;1980000
 25649;Knotenhautlederfetzen;20;27500;37000
@@ -339,8 +312,6 @@
 13071;Plattenfaust von Hakoo;1;33295;36995
 10195;Kreuzfahrerschild;1;59071;73839
 14047;Runenstoff;6;3600;4000
-16252;Formel: Waffe - Kreuzfahrer;1;1800000;2000000
-16251;Formel: Armschiene - Überragende Ausdauer;1;201761;252202
 16722;Armschienen des Lichts;1;101399;150000
 13094;Das Juwel der Königin;1;9900;14900
 13094;Das Juwel der Königin;1;17377;26722
@@ -370,8 +341,6 @@
 14955;Blutgeschmiedete Schulterpolster;1;9463;20000
 31201;Illidariumhang;1;3000155;3209061
 3012;Rolle der Beweglichkeit;1;5000;7500
-16247;Formel: Zweihandwaffe - Überragender Einschlag;1;309200;504000
-14197;Distelfellbänder;1;4000;5000
 13095;Angriffsband;1;23668;29585
 13095;Angriffsband;1;28691;31879
 13095;Angriffsband;1;30916;34351
@@ -387,8 +356,6 @@
 10168;Templerkrone;1;17523;40000
 14963;Oberhäuptlingsschulterstücke;1;49038;54487
 10036;Smokingjacke;1;160000;550000
-16224;Formel: Umhang - Überragende Verteidigung;1;269999;289999
-16224;Formel: Umhang - Überragende Verteidigung;1;275000;285000
 23117;Azurmondstein;4;14304;14400
 23117;Azurmondstein;4;14304;14400
 23117;Azurmondstein;4;14304;14400
@@ -445,7 +412,6 @@
 27666;Goldfischstäbchen;15;330630;334035
 15113;Starrer Rundschild;1;99900;99900
 16655;Schredderanleitung - Seite 11;1;2000;4500
-14096;Eingeborenenweste;1;20000;30000
 20960;Gravierter Echtsilberring;1;25320;26650
 20960;Gravierter Echtsilberring;1;25320;26650
 20960;Gravierter Echtsilberring;1;25320;26650
@@ -481,9 +447,6 @@
 32897;Mal der Illidari;10;70000;85000
 32897;Mal der Illidari;10;70000;85000
 24199;Vorlage: Gediegener Stern der Elune;1;607543;707270
-14165;Heidenkniehosen;1;25427;28946
-16215;Formel: Stiefel - Große Ausdauer;1;258320;302900
-16215;Formel: Stiefel - Große Ausdauer;1;84500;90000
 20955;Goldener Drachenring;1;4514;5643
 20955;Goldener Drachenring;1;4514;5643
 27501;Rolle der Willenskraft V;1;20150;30000
@@ -497,7 +460,6 @@
 24066;Strahlender Talasit;1;105000;110000
 10103;Ratsherrenschärpe;1;5687;20000
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
-14127;Ritualtuch;1;99900;99900
 10231;Graviertes Cape;1;29570;37838
 13102;Cassandras Anmut;1;99900;99900
 13102;Cassandras Anmut;1;35433;38258
@@ -513,7 +475,6 @@
 21887;Knotenhautleder;20;197500;199500
 21887;Knotenhautleder;20;197500;199500
 22573;Erdpartikel;5;3000;4000
-16218;Formel: Armschiene - Überragende Willenskraft;1;15250;30000
 12203;Rotes Wolfsfleisch;10;1960;2450
 10998;Geringe Astralessenz;8;23366;25963
 12404;Verdichteter Wetzstein;20;19508;25260

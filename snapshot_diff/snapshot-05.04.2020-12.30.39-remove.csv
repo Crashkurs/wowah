@@ -10,34 +10,6 @@
 17414;Kodex: Gebet der Seelenstärke II;1;22125;30000
 17414;Kodex: Gebet der Seelenstärke II;1;44799;55999
 15185;Prätorianerhelmkappe;1;46461;51624
-22832;Erstklassiger Manatrank;5;127500;135000
-22832;Erstklassiger Manatrank;5;127500;135000
-22832;Erstklassiger Manatrank;5;104900;140700
-22832;Erstklassiger Manatrank;3;62940;84420
-22832;Erstklassiger Manatrank;5;104900;140700
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;109999;119999
-22832;Erstklassiger Manatrank;5;114444;116666
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
-22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
@@ -58,7 +30,6 @@
 14292;Arachnidisches Cape;1;19554;26193
 15419;Kriegsbärenleder;14;21705;27132
 15419;Kriegsbärenleder;6;11022;12246
-5469;Schreiterfleisch;2;7638;8486
 5469;Schreiterfleisch;2;7638;8486
 15366;Schwindlergamaschen;1;10000;20000
 24057;Königliches Nachtauge;1;119700;149625
@@ -91,7 +62,6 @@
 21885;Urwasser;1;109865;109875
 21885;Urwasser;1;109865;109875
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;127354;141505
-5214;Zauberstab der Abendzeit;1;11400;14250
 5214;Zauberstab der Abendzeit;1;11400;14250
 17056;Leichte Feder;20;68098;68118
 17056;Leichte Feder;20;66666;77777
@@ -137,15 +107,11 @@
 13093;Rotglutring;1;15071;17500
 15349;Kopfjägergürtel;1;6625;7900
 10305;Rolle des Schutzes IV;1;9900;9900
-10305;Rolle des Schutzes IV;1;9900;9900
 21854;Netherstoffrobe;1;143900;150000
 24212;Vorlage: Königliches Nachtauge;1;284491;316101
 943;Stab des Aufsehers;1;392447;433059
 5256;Kovorks Rassel;1;20719;23021
-5256;Kovorks Rassel;1;20719;23021
 21842;Magieerfüllter Netherstoffballen;20;1975984;2469980
-21842;Magieerfüllter Netherstoffballen;20;1975984;2469980
-21842;Magieerfüllter Netherstoffballen;3;76800;96000
 15422;Frostsäblerleder;4;14006;17508
 23197;Götze des Mondes;1;180000;200000
 3075;Flammenauge;1;22500;22500
@@ -162,8 +128,6 @@
 20748;Hervorragendes Manaöl;1;184500;195000
 20748;Hervorragendes Manaöl;1;184500;195000
 20748;Hervorragendes Manaöl;1;184500;195000
-5471;Hirschfleisch;1;96;120
-5471;Hirschfleisch;10;960;1200
 5471;Hirschfleisch;10;960;1200
 5471;Hirschfleisch;1;96;120
 23768;Weißes Rauchsignal;20;86500;93000
@@ -222,9 +186,6 @@
 10365;Smaragdschild;1;26276;300000
 24197;Vorlage: Fragiler lebendiger Rubin;1;151999;189999
 9260;Flüchtiger Rum;2;1813;2015
-5342;Raptorpunsch;4;12000;23750
-5342;Raptorpunsch;8;24000;47500
-5342;Raptorpunsch;4;12000;24500
 5342;Raptorpunsch;4;12000;24500
 5342;Raptorpunsch;8;24000;47500
 5342;Raptorpunsch;4;12000;23750
@@ -526,23 +487,9 @@
 21886;Urleben;1;116000;120000
 935;Kurzschwert der Nachtwache;1;22613;45000
 14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;400;675
 14343;Kleiner glänzender Splitter;2;698;776
 14343;Kleiner glänzender Splitter;2;698;776
 14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;400;675
-14343;Kleiner glänzender Splitter;4;1024;1280
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;698;776
-14343;Kleiner glänzender Splitter;2;627;784
 31226;Gamaschen des Durchtriebenen;1;148599;185749
 12365;Verdichteter Stein;20;6352;7940
 12365;Verdichteter Stein;20;4752;5940
@@ -555,10 +502,7 @@
 11979;Peridotreif;1;7471;30000
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;5000;5000
 15409;Raffiniertes Tiefsteinsalz;1;90000;90000
-15409;Raffiniertes Tiefsteinsalz;20;1450000;1550000
 15409;Raffiniertes Tiefsteinsalz;1;90000;90000
-15409;Raffiniertes Tiefsteinsalz;1;90000;90000
-15409;Raffiniertes Tiefsteinsalz;3;270000;270000
 3576;Zinnbarren;17;11043;13804
 25062;Zirkonamulett;1;21200;32300
 20960;Gravierter Echtsilberring;1;4080;7000
@@ -619,15 +563,9 @@
 4603;Roher Tüpfelgelbschwanz;1;1645;1828
 13102;Cassandras Anmut;1;127247;141559
 22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;90000;90500
 22829;Erstklassiger Heiltrank;5;91000;91000
 22829;Erstklassiger Heiltrank;5;91000;91000
 22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;91000;91000
-22829;Erstklassiger Heiltrank;5;97500;99999
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;12716;14676
 24307;Muster: Managewirkter Umhang;1;155176;193971
 23144;Vorlage: Leuchtender Schattendraenit;1;195000;200000
@@ -637,22 +575,6 @@
 15352;Kopfjägerrundschild;1;13123;16404
 7990;Pläne: Schwerer Mithrilhelm;1;10000;50000
 14311;Himmlische Bindungen;1;33486;36096
-5498;Kleine irisierende Perle;2;600;1500
-5498;Kleine irisierende Perle;6;4260;6000
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;2;3138;3487
-5498;Kleine irisierende Perle;1;1362;1703
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;3;2467;3084
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;3;2130;3000
-5498;Kleine irisierende Perle;1;710;1000
-5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;1;1362;1703
 5498;Kleine irisierende Perle;1;1362;1703
 5498;Kleine irisierende Perle;1;710;1000
 5498;Kleine irisierende Perle;2;3138;3487
@@ -669,8 +591,6 @@
 5498;Kleine irisierende Perle;1;1803;2003
 5498;Kleine irisierende Perle;1;1803;2003
 5498;Kleine irisierende Perle;1;1803;2003
-5498;Kleine irisierende Perle;8;34400;38848
-5498;Kleine irisierende Perle;7;13300;14168
 13103;Polster der Giftspinne;1;7288;9110
 13103;Polster der Giftspinne;1;7672;9590
 12404;Verdichteter Wetzstein;20;18000;20000
@@ -700,7 +620,6 @@
 23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
 15213;Söldnerklinge;1;9928;12660
 31673;Knusperschlange;20;320000;339000
-5183;Pulsierendes Hydraherz;1;79900;79900
 5183;Pulsierendes Hydraherz;1;79900;79900
 13108;Tigerfellmantel;1;40620;45134
 13108;Tigerfellmantel;1;26198;32748

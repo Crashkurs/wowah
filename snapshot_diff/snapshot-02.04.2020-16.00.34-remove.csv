@@ -2,9 +2,6 @@
 22450;Kristall der Leere;1;44073;49999
 22450;Kristall der Leere;1;44073;49999
 10561;Mithrilgehäuse;1;51500;60000
-10561;Mithrilgehäuse;1;51500;60000
-10561;Mithrilgehäuse;1;76901;79001
-10561;Mithrilgehäuse;1;76901;79001
 19711;Grünes Schmuckstück der Hakkari;1;350000;400000
 12029;Grünsteintalisman;1;17264;21580
 6211;Rezept: Elixier der Ogerstärke;1;139528;175910
@@ -135,8 +132,6 @@
 24967;Krallenwachenschienbeinschützer;1;150000;200000
 19232;Bestien 4;1;149999;150000
 6410;Insignienarmschienen;1;11806;14758
-4233;Geschmeidiger mittlerer Balg;8;25000;25300
-4233;Geschmeidiger mittlerer Balg;6;18800;19000
 4233;Geschmeidiger mittlerer Balg;6;18800;19000
 21765;Echtsilberring der Heilung;1;19600;24500
 21765;Echtsilberring der Heilung;1;19600;24500
@@ -353,29 +348,6 @@
 12360;Arkanitbarren;1;57500;59000
 12360;Arkanitbarren;1;57500;59000
 12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;57500;59000
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;58900;58900
-12360;Arkanitbarren;1;47500;49900
-12360;Arkanitbarren;1;47500;49900
-12360;Arkanitbarren;1;47500;49900
-12360;Arkanitbarren;1;47500;49900
-12360;Arkanitbarren;1;47500;49900
-12360;Arkanitbarren;1;47500;49900
 12360;Arkanitbarren;1;47500;49900
 12360;Arkanitbarren;1;47500;49900
 12360;Arkanitbarren;1;47500;49900
@@ -396,21 +368,11 @@
 10940;Seltsamer Staub;1;4794;5327
 10940;Seltsamer Staub;1;4794;5327
 8159;Tjostergurt;1;5925;10800
-27500;Rolle des Schutzes V;2;59280;74100
-27500;Rolle des Schutzes V;1;35000;39000
 27500;Rolle des Schutzes V;5;249995;299995
 27500;Rolle des Schutzes V;5;249995;299995
 27500;Rolle des Schutzes V;5;249995;299995
 27500;Rolle des Schutzes V;5;249995;299995
 27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;1;51969;60041
-27500;Rolle des Schutzes V;1;51969;60041
-27500;Rolle des Schutzes V;1;38399;47999
-27500;Rolle des Schutzes V;5;270750;280000
-27500;Rolle des Schutzes V;1;20150;30000
 22577;Schattenpartikel;8;38553;48192
 3914;Gesellenrucksack;1;44900;49900
 3914;Gesellenrucksack;1;44900;49900
@@ -606,54 +568,6 @@
 22445;Arkaner Staub;1;16641;16999
 22445;Arkaner Staub;1;16641;16999
 22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;4;40100;50000
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;200000;248000
-22445;Arkaner Staub;20;200000;248000
-22445;Arkaner Staub;20;200000;248000
-22445;Arkaner Staub;20;200000;248000
-22445;Arkaner Staub;20;200000;248000
-22445;Arkaner Staub;20;249999;249999
-22445;Arkaner Staub;20;249999;249999
-22445;Arkaner Staub;20;249999;249999
-22445;Arkaner Staub;1;11521;12312
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;235136;243920
-22445;Arkaner Staub;20;237136;243920
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
-22445;Arkaner Staub;20;359998;379998
 21881;Netherweberseide;4;61600;62000
 21881;Netherweberseide;4;61600;62000
 21881;Netherweberseide;4;61600;62000
@@ -801,15 +715,7 @@
 25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
 4562;Abspalteraxt;1;33191;41489
-6289;Roher langzahniger Matschschnapper;3;5484;6093
 6289;Roher langzahniger Matschschnapper;20;36563;40625
-6289;Roher langzahniger Matschschnapper;20;36563;40625
-6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;99980;99980
-6289;Roher langzahniger Matschschnapper;20;99980;99980
 6433;Imperialer Lederhelm;1;22746;28433
 6391;Muster: Modisches grünes Hemd;1;2000;5000
 10560;Instabiler Auslöser;1;52805;52806
@@ -837,33 +743,6 @@
 27498;Rolle der Beweglichkeit V;5;190200;200000
 27498;Rolle der Beweglichkeit V;2;99800;99960
 27498;Rolle der Beweglichkeit V;5;190200;200000
-25650;Knotenhautrüstungsset;4;59000;79500
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;10;142500;165000
-25650;Knotenhautrüstungsset;4;59000;79500
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
 25650;Knotenhautrüstungsset;1;16999;16999
 25650;Knotenhautrüstungsset;1;16999;16999
 25650;Knotenhautrüstungsset;1;16999;16999
@@ -953,8 +832,6 @@
 10938;Geringe Magieessenz;1;100;6900
 10938;Geringe Magieessenz;1;100;6900
 4369;Tödliche Donnerbüchse;1;29536;38545
-11176;Traumstaub;3;9450;10500
-11176;Traumstaub;20;58749;65276
 11176;Traumstaub;20;58749;65276
 16203;Große ewige Essenz;1;80000;85000
 16203;Große ewige Essenz;1;80000;85000

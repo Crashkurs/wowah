@@ -74,8 +74,6 @@
 17011;Lavakern;1;335159;418949
 17011;Lavakern;2;705598;881998
 23151;Vorlage: Massiver Golddraenit;1;192500;200000
-23151;Vorlage: Massiver Golddraenit;1;192500;200000
-23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
 23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
 16254;Formel: Waffe - Lebensdiebstahl;1;90000;100000
 16206;Arkanitrute;1;301500;310000
@@ -273,35 +271,12 @@
 21991;Schwerer Netherstoffverband;20;57760;72200
 21991;Schwerer Netherstoffverband;20;50000;60000
 21991;Schwerer Netherstoffverband;20;60000;88000
-23425;Adamantiterz;20;89564;111980
-23425;Adamantiterz;20;99900;112000
 23425;Adamantiterz;20;199860;249880
 23425;Adamantiterz;20;199860;249880
 23425;Adamantiterz;20;199860;249880
-23425;Adamantiterz;20;99900;112000
-23425;Adamantiterz;20;99900;112000
-23425;Adamantiterz;20;99900;112000
-23425;Adamantiterz;20;105000;111100
-23425;Adamantiterz;20;199860;249880
-23425;Adamantiterz;19;79548;101061
-23425;Adamantiterz;20;99900;112000
-23425;Adamantiterz;20;89564;111980
 23425;Adamantiterz;20;85000;100000
 23425;Adamantiterz;20;85000;100000
 23425;Adamantiterz;20;85000;100000
-23425;Adamantiterz;20;85000;100000
-23425;Adamantiterz;20;85000;100000
-23425;Adamantiterz;20;85000;100000
-23425;Adamantiterz;1;3800;4750
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;5;27495;27995
-23425;Adamantiterz;11;82500;110000
 22913;Rezept: Hasttrank;1;479999;489999
 22913;Rezept: Hasttrank;1;452419;565524
 22913;Rezept: Hasttrank;1;480000;489800
@@ -347,16 +322,10 @@
 3864;Citrin;1;1600;2000
 3864;Citrin;1;1190;1190
 23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
-4338;Magiestoff;20;127500;150000
 4338;Magiestoff;20;84000;105000
 4338;Magiestoff;20;84000;105000
 4338;Magiestoff;20;84000;105000
 4338;Magiestoff;20;84000;105000
-4338;Magiestoff;20;84000;105000
-4338;Magiestoff;20;84000;105000
-4338;Magiestoff;20;84000;105000
-4338;Magiestoff;8;42163;42704
-4338;Magiestoff;12;62436;71772
 19700;Münze der Hakkari;5;241668;268520
 19700;Münze der Hakkari;5;148960;186200
 19709;Gelbes Schmuckstück der Hakkari;1;109999;150000
@@ -385,7 +354,6 @@
 19708;Blaues Schmuckstück der Hakkari;1;109999;150000
 22527;Kern der Elemente;1;300;3000
 13479;Rezept: Elixier der Weisen;1;9840;12300
-13479;Rezept: Elixier der Weisen;1;9840;12300
 19704;Münze der Sandwüter;3;161636;189545
 19704;Münze der Sandwüter;7;338352;422940
 19704;Münze der Sandwüter;1;55620;69526
@@ -409,36 +377,6 @@
 3866;Pläne: Jadeschlangenklinge;1;3724;4655
 16244;Formel: Handschuhe - Große Stärke;1;373467;466834
 16244;Formel: Handschuhe - Große Stärke;1;373467;466834
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;5;989999;997999
-22866;Fläschchen des reinen Todes;5;989999;997999
-22866;Fläschchen des reinen Todes;5;989999;997999
-22866;Fläschchen des reinen Todes;5;989999;997999
-22866;Fläschchen des reinen Todes;5;989999;997999
-22866;Fläschchen des reinen Todes;1;190000;196019
-22866;Fläschchen des reinen Todes;1;190000;196019
-22866;Fläschchen des reinen Todes;1;190000;196019
-22866;Fläschchen des reinen Todes;1;190000;196019
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;1;219999;219999
-22866;Fläschchen des reinen Todes;5;970200;975100
 22866;Fläschchen des reinen Todes;5;970200;975100
 22793;Manadistel;20;85840;93820
 22793;Manadistel;20;85840;93820
@@ -560,36 +498,6 @@
 4233;Geschmeidiger mittlerer Balg;9;45000;45000
 2841;Bronzebarren;16;7680;9600
 17007;Steinreißerstulpen;1;11697;80000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;190000;249900
-22791;Netherblüte;10;144490;144490
-22791;Netherblüte;10;144490;144490
-22791;Netherblüte;20;250000;300000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;248000;259000
-22791;Netherblüte;20;189900;200000
-22791;Netherblüte;20;189900;200000
-22791;Netherblüte;20;189900;200000
 22791;Netherblüte;20;189900;200000
 22791;Netherblüte;20;189900;200000
 22791;Netherblüte;20;189900;200000
@@ -633,15 +541,6 @@
 13487;Rezept: Wasser zu Untod transmutieren;1;119628;149535
 3056;Waldlederhose;1;30000;30000
 21864;Seelenstoffschultern;1;555676;669595
-21864;Seelenstoffschultern;1;555676;669595
-21864;Seelenstoffschultern;1;555676;669595
-21864;Seelenstoffschultern;1;555676;669595
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
-21841;Netherstofftasche;1;65500;70000
 21841;Netherstofftasche;1;65500;70000
 21841;Netherstofftasche;1;65500;70000
 21841;Netherstofftasche;1;65500;70000

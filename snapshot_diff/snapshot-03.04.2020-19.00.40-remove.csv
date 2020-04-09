@@ -49,8 +49,6 @@
 10027;Schwarze Magiestoffschultern;1;40000;60000
 9882;Zauberersphäre;1;19276;24095
 4251;Schultern des Hügelwächters;1;1800;5000
-4251;Schultern des Hügelwächters;1;6000;7600
-4251;Schultern des Hügelwächters;1;1800;5000
 7554;Weidenzweig;1;5000;6000
 9832;Lederschuppenhandschuhe;1;47840;59800
 13145;Riesiger Ogergürtel;1;7140;20000
@@ -217,8 +215,6 @@
 7561;Bauplan: Goblinüberbrückungskabel;1;20750;30000
 21949;Vorlage: Rubinschlange;1;2903750;4000000
 9898;Jazeraintumhang;1;20000;30000
-7734;Sechsdämonentasche;1;44209;49121
-7734;Sechsdämonentasche;1;35082;38980
 7734;Sechsdämonentasche;1;44209;49121
 7734;Sechsdämonentasche;1;35082;38980
 14757;Töterhose;1;9553;13192
@@ -389,13 +385,6 @@
 6661;Rezept: Pikantes Deviat Supreme;1;353025;392326
 17203;Sulfuronblock;1;3339999;3339999
 17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
-17203;Sulfuronblock;1;3339999;3339999
 9838;Bebänderter Umhang;1;6561;7500
 19279;Portal 3;1;13299;50000
 19279;Portal 3;1;13299;50000
@@ -429,27 +418,7 @@
 11018;Erde von Un'Goro;39;25990;28878
 9895;Jazeraintstiefel;1;19000;19000
 2770;Kupfererz;3;1732;2166
-2770;Kupfererz;3;1732;2166
-2770;Kupfererz;10;5000;8000
-2770;Kupfererz;16;10620;20000
 2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;13000;14000
-2770;Kupfererz;20;10150;10900
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;20;9540;13300
-2770;Kupfererz;5;2660;3325
 9878;Zaubererhut;1;43425;50000
 14857;Sabatons des Vorposten;1;51792;64740
 9396;Beinschützer des Gewölbes;1;63420;79276
@@ -474,10 +443,6 @@
 21151;Schwarzer Rumsey Rum;10;35000;35000
 15159;Nächtliche Tunika;1;6743;20000
 20258;Zulianischer Zeremonienstab;1;339999;439999
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
-13513;Fläschchen des chromatischen Widerstands;1;147500;150000
 13513;Fläschchen des chromatischen Widerstands;1;147500;150000
 22446;Große Planaressenz;1;120049;137610
 22446;Große Planaressenz;1;120049;137610
@@ -592,16 +557,6 @@
 9358;Ein Kopftuch;1;400000;1200000
 9358;Ein Kopftuch;1;400000;1200000
 7613;Muster: Grüne Lederrüstung;1;15200;19000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15600;20000
-7613;Muster: Grüne Lederrüstung;1;15200;19000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
-7613;Muster: Grüne Lederrüstung;1;15048;20000
 1713;Ankh des Lebens;1;8700;13500
 20963;Filigranarbeit aus Mithril;1;2880;3600
 4278;Geringes Blutsteinerz;11;84084;105105

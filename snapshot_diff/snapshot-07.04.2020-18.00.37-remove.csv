@@ -102,7 +102,6 @@
 5543;Pläne: Schillernder Hammer;1;3000;3500
 5543;Pläne: Schillernder Hammer;1;5285;5872
 13045;Zäher Hammer;1;39200;49000
-13045;Zäher Hammer;1;39200;49000
 9224;Elixier des Dämonentötens;20;660000;696000
 9224;Elixier des Dämonentötens;20;660000;696000
 9224;Elixier des Dämonentötens;20;660000;696000
@@ -160,18 +159,6 @@
 14470;Muster: Runenstofftunika;1;5000;6000
 8297;Umhang des Reisenden;1;13669;19999
 14492;Muster: Teufelsstoffstiefel;1;7500;10000
-7071;Eiserne Gürtelschnalle;1;1800;1800
-7071;Eiserne Gürtelschnalle;1;1800;1800
-7071;Eiserne Gürtelschnalle;1;1800;1800
-7071;Eiserne Gürtelschnalle;5;7500;7500
-7071;Eiserne Gürtelschnalle;5;5700;7125
-7071;Eiserne Gürtelschnalle;5;5700;7125
-7071;Eiserne Gürtelschnalle;5;5700;7125
-7071;Eiserne Gürtelschnalle;5;4050;6000
-7071;Eiserne Gürtelschnalle;5;4050;6000
-7071;Eiserne Gürtelschnalle;5;4050;6000
-7071;Eiserne Gürtelschnalle;5;4050;6000
-7071;Eiserne Gürtelschnalle;5;4050;6000
 7071;Eiserne Gürtelschnalle;5;4050;6000
 5637;Großer Fangzahn;5;1200;1500
 14850;Sonnenschuppenbeinplatten;1;36504;39449
@@ -181,27 +168,6 @@
 8364;Mithrilkopfforelle;4;10100;11000
 5750;Kriegshäuptlingsgurt;1;11307;12564
 21371;Muster: Kernteufelsstofftasche;1;4440000;4440000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;60000;70000
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;68899;69999
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
@@ -210,36 +176,13 @@
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;68899;69999
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;68899;69999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
 21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
-21841;Netherstofftasche;1;54999;59999
+21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;54999;59999
 14484;Muster: Hellstoffumhang;1;8800;18800
 14484;Muster: Hellstoffumhang;1;16751;18612
@@ -516,8 +459,6 @@
 13085;Halsreif des Horizonts;1;21971;27464
 13085;Halsreif des Horizonts;1;24470;27189
 13072;Stulpen des steinernen Griffs;1;70000;80000
-13072;Stulpen des steinernen Griffs;1;70000;80000
-13072;Stulpen des steinernen Griffs;1;70000;80000
 21768;Saphirsiegel;1;39600;49500
 19704;Münze der Sandwüter;1;46491;58114
 14555;Alcors Sonnenschneide;1;303345;350383
@@ -687,11 +628,7 @@
 13066;Wyrmtöterschiftung;1;28302;35378
 13066;Wyrmtöterschiftung;1;55792;61991
 13066;Wyrmtöterschiftung;1;23514;28349
-5500;Schillernde Perle;1;49000;49000
-5500;Schillernde Perle;1;49000;49000
 5500;Schillernde Perle;1;49999;50000
-5500;Schillernde Perle;1;49999;50000
-5500;Schillernde Perle;1;49000;49000
 7069;Elementarluft;2;20000;23000
 7069;Elementarluft;2;20000;23000
 7069;Elementarluft;2;20000;23000

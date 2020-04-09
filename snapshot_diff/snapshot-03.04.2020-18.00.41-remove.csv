@@ -44,8 +44,6 @@
 24271;Zauberstoff;1;400000;410000
 24271;Zauberstoff;1;400000;410000
 28595;Heller Blutgranat;1;59999;69999
-28595;Heller Blutgranat;1;59999;69999
-28595;Heller Blutgranat;1;8050;10000
 23793;Schweres Knotenhautleder;4;151000;159800
 23793;Schweres Knotenhautleder;4;151000;159800
 23793;Schweres Knotenhautleder;4;151000;159800
@@ -236,7 +234,6 @@
 22578;Wasserpartikel;1;13510;13963
 22578;Wasserpartikel;3;31833;39792
 14230;Glutseidentunika;1;15644;19556
-31254;Schreiterbalgumhang;1;241000;243500
 31254;Schreiterbalgumhang;1;241000;243500
 32205;Glattes Löwenauge;1;3007600;3759500
 32205;Glattes Löwenauge;1;3007600;3759500
@@ -476,19 +473,6 @@
 14047;Runenstoff;3;2726;3408
 32228;Engelssaphir;1;280000;290000
 32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
 21991;Schwerer Netherstoffverband;20;60000;80000
 21991;Schwerer Netherstoffverband;20;60000;80000
 21991;Schwerer Netherstoffverband;20;60000;80000
@@ -551,40 +535,6 @@
 23784;Adamantitrahmen;1;70000;70000
 24051;Massiver Dämmerstein;1;149475;154999
 24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;149475;154999
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;140000;155000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;133988;207485
-24051;Massiver Dämmerstein;1;133988;207485
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
 22854;Fläschchen des unerbittlichen Angriffs;1;277489;277489
 22854;Fläschchen des unerbittlichen Angriffs;1;277489;277489
 22854;Fläschchen des unerbittlichen Angriffs;1;277489;277489
@@ -781,42 +731,8 @@
 16671;Bindungen der Elemente;1;39635;49544
 23632;Pläne: Teufelsstahlschneide;1;180000;220000
 23632;Pläne: Teufelsstahlschneide;1;154500;217500
-27503;Rolle der Stärke V;1;187;0
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;1;187;0
-27503;Rolle der Stärke V;1;187;0
 27503;Rolle der Stärke V;5;449999;499999
 27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;449999;499999
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;5;200625;237500
-27503;Rolle der Stärke V;2;90010;98000
-27503;Rolle der Stärke V;1;60682;70462
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;4;180020;196000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
-27503;Rolle der Stärke V;5;224500;237000
 22450;Kristall der Leere;10;970100;980000
 22450;Kristall der Leere;10;970100;980000
 32226;Gezackter Gischtsmaragd;1;650000;700000
@@ -948,41 +864,6 @@
 29460;Gefängnisschlüssel des Astraleums;1;135887;151999
 29460;Gefängnisschlüssel des Astraleums;1;135887;151999
 29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29739;Arkaner Foliant;1;121266;139966
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;2;280000;300000
-29739;Arkaner Foliant;1;100100;110000
-29739;Arkaner Foliant;1;100100;110000
-29739;Arkaner Foliant;1;100100;110000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;1;90000;100000
-29739;Arkaner Foliant;1;90000;100000
-29739;Arkaner Foliant;1;121266;139966
-29739;Arkaner Foliant;1;98900;99000
-29739;Arkaner Foliant;1;102400;128000
-29739;Arkaner Foliant;1;121266;139966
-29739;Arkaner Foliant;1;121266;139966
-29739;Arkaner Foliant;1;69999;99999
-29739;Arkaner Foliant;1;121266;139966
-29739;Arkaner Foliant;1;90000;100000
-29739;Arkaner Foliant;1;89999;97999
-29739;Arkaner Foliant;1;89999;97999
-29739;Arkaner Foliant;1;89999;97999
-29739;Arkaner Foliant;1;89999;97999
-29739;Arkaner Foliant;1;89999;97999
 29739;Arkaner Foliant;1;89999;97999
 29739;Arkaner Foliant;1;89999;97999
 32201;Funkelnder Engelssaphir;1;950000;1100000

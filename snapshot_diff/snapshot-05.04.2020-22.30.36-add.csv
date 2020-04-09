@@ -100,16 +100,6 @@
 23112;Golddraenit;1;37000;39500
 24209;Vorlage: Stattliches Nachtauge;1;302701;378377
 24209;Vorlage: Stattliches Nachtauge;1;287566;359458
-32068;Elixier der Eisenhaut;5;199999;249999
-32068;Elixier der Eisenhaut;20;399999;449999
-32068;Elixier der Eisenhaut;20;399999;449999
-32068;Elixier der Eisenhaut;20;399999;449999
-32068;Elixier der Eisenhaut;5;199999;249999
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;400000;500000
-32068;Elixier der Eisenhaut;20;399999;449999
 27676;Seltsame Sporen;20;47500;59500
 27676;Seltsame Sporen;3;6782;8478
 27676;Seltsame Sporen;3;10408;11565
@@ -295,15 +285,6 @@
 24968;Krallenwachenrüstung;1;234566;339500
 13455;Großer Steinschildtrank;1;30000;40000
 13455;Großer Steinschildtrank;1;30000;40000
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;219940;226123
 13454;Großes Arkanelixier;7;39075;41000
 25179;Ngunistecken;1;121494;170000
 32747;Muster: Flinkschlagschultern;1;1758750;1950000
@@ -536,25 +517,6 @@
 16243;Formel: Runenverzierte Arkanitrute;1;239999;289999
 16243;Formel: Runenverzierte Arkanitrute;1;228250;289090
 13025;Vorschlaghammer der Totenwaldfelle;1;25696;29099
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;178999;178999
-22854;Fläschchen des unerbittlichen Angriffs;1;178999;178999
-22854;Fläschchen des unerbittlichen Angriffs;1;160000;160000
-22854;Fläschchen des unerbittlichen Angriffs;1;158000;159000
-22854;Fläschchen des unerbittlichen Angriffs;2;310000;310000
-22854;Fläschchen des unerbittlichen Angriffs;2;310000;310000
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;150000;157000
-22854;Fläschchen des unerbittlichen Angriffs;1;152500;155000
-22854;Fläschchen des unerbittlichen Angriffs;1;152500;155000
-22854;Fläschchen des unerbittlichen Angriffs;5;770000;770000
-22854;Fläschchen des unerbittlichen Angriffs;5;740000;750000
-22854;Fläschchen des unerbittlichen Angriffs;5;740000;750000
-22854;Fläschchen des unerbittlichen Angriffs;1;178999;178999
-22854;Fläschchen des unerbittlichen Angriffs;5;899999;924999
 23118;Gediegener Azurmondstein;1;11761;13068
 13091;Medaillon von Großmarschall Morris;1;15955;30000
 13117;Ogrons Schärpe;1;15745;20000
@@ -782,20 +744,6 @@
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
 19710;Orangefarbenes Schmuckstück der Hakkari;1;130000;140000
-23117;Azurmondstein;20;93500;99000
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;1;3987;3988
-23117;Azurmondstein;1;3192;3990
-23117;Azurmondstein;20;75000;99900
-23117;Azurmondstein;20;189900;199900
-23117;Azurmondstein;1;3750;3987
-23117;Azurmondstein;20;93500;99000
-23117;Azurmondstein;17;63000;67000
-23117;Azurmondstein;1;2754;3443
-23117;Azurmondstein;1;7600;9500
-23117;Azurmondstein;6;15696;19620
-23117;Azurmondstein;2;6060;7576
 24192;Vorlage: Heller lebendiger Rubin;1;230000;250000
 24192;Vorlage: Heller lebendiger Rubin;1;319600;399500
 27665;Gedünstete Blauflosse;20;444440;444440
@@ -872,8 +820,6 @@
 20823;Band der Schwermut;1;5000;10000
 23536;Helm der Eidestreue;1;5503452;6000000
 13044;Dämonentöter;1;84419;93799
-27664;Gegrillter Matschflosser;10;142252;149739
-27664;Gegrillter Matschflosser;20;299136;303920
 24924;Grimmschuppenschulterstücke;1;37696;47120
 25269;Büchsflinte;1;62733;83417
 25148;Knochensammlerschwert;1;110000;150097
