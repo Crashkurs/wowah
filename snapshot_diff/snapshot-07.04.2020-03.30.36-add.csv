@@ -118,12 +118,6 @@
 30810;Siegel des Sonnenzorns;50;435000;455000
 31876;Vorlage: Ausbalanciertes Nachtauge;1;200000;240000
 8266;Ebenholzumhang;1;25774;28638
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;905000;949999
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;1000000;1020000
-25868;Himmelsfeuerdiamant;1;999950;1059950
 23771;Grünes Rauchsignal;5;91875;99500
 23771;Grünes Rauchsignal;5;91875;99500
 23771;Grünes Rauchsignal;5;91875;99500
@@ -155,8 +149,6 @@
 24401;Unbekannte Pflanzenteile;10;54864;66330
 24401;Unbekannte Pflanzenteile;10;54864;66330
 24401;Unbekannte Pflanzenteile;39;193875;199900
-24401;Unbekannte Pflanzenteile;20;142500;150000
-24401;Unbekannte Pflanzenteile;6;53572;59524
 24401;Unbekannte Pflanzenteile;2;900;3266
 23781;Elementarsprengpulver;1;18629;19588
 23781;Elementarsprengpulver;1;1600;2000
@@ -224,12 +216,7 @@
 21854;Netherstoffrobe;1;143900;150000
 21863;Seelenstoffhandschuhe;1;2990711;4990000
 5256;Kovorks Rassel;1;20719;23021
-25901;Bemerkenswerter Erdsturmdiamant;1;909999;955599
 25901;Bemerkenswerter Erdsturmdiamant;1;930125;954900
-25901;Bemerkenswerter Erdsturmdiamant;1;950000;955000
-25901;Bemerkenswerter Erdsturmdiamant;1;955300;955300
-25901;Bemerkenswerter Erdsturmdiamant;1;955000;955400
-25901;Bemerkenswerter Erdsturmdiamant;1;931781;956600
 22824;Elixier der erheblichen Stärke;7;96250;99999
 32420;Nachtend;1;1980517;1990000
 32420;Nachtend;1;1700345;1999500
@@ -479,11 +466,6 @@
 24201;Vorlage: Irisierender Stern der Elune;1;121600;152000
 24201;Vorlage: Irisierender Stern der Elune;1;155000;160000
 25867;Erdsturmdiamant;1;795623;819849
-25867;Erdsturmdiamant;1;799902;819903
-25867;Erdsturmdiamant;1;799902;819903
-25867;Erdsturmdiamant;1;799902;819903
-25867;Erdsturmdiamant;1;799902;819903
-25867;Erdsturmdiamant;1;799902;819903
 24741;Waldläufergürtel;1;30000;70000
 8317;Alabasterplattenhelm;1;22519;29999
 20406;Mantel eines Schattenhammerkultisten;1;2893;3000
@@ -557,7 +539,6 @@
 4234;Schweres Leder;20;54500;60000
 4234;Schweres Leder;20;54500;60000
 4234;Schweres Leder;20;54500;60000
-13466;Pestblüte;9;14947;18684
 2555;Rezept: Hurtigkeitstrank;1;75247;83607
 2555;Rezept: Hurtigkeitstrank;1;43600;49500
 31882;Segen Ass;1;29579;37724
@@ -604,7 +585,6 @@
 17057;Glänzende Fischschuppen;20;1040;1240
 17057;Glänzende Fischschuppen;20;1360;1700
 17057;Glänzende Fischschuppen;20;1360;1700
-34861;Geschärfter Angelhaken;20;19136;23920
 12811;Rechtschaffene Kugel;1;390000;390000
 12811;Rechtschaffene Kugel;1;370000;390000
 12811;Rechtschaffene Kugel;1;499999;499999
@@ -758,10 +738,6 @@
 31079;Quecksilberadamantit;1;90000;100000
 31079;Quecksilberadamantit;1;90000;100000
 31079;Quecksilberadamantit;1;90000;100000
-25905;Vorlage: Harter Erdsturmdiamant;1;221509;276887
-25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
-25905;Vorlage: Harter Erdsturmdiamant;1;151924;189905
-25905;Vorlage: Harter Erdsturmdiamant;1;45000;70000
 23427;Eterniumerz;5;359375;400000
 23427;Eterniumerz;1;31190;34655
 23427;Eterniumerz;10;342584;383230
@@ -798,11 +774,7 @@
 21886;Urleben;20;2678800;2679999
 21886;Urleben;20;2699999;2699999
 22710;Blutdistel;9;225000;261000
-25896;Mächtiger Erdsturmdiamant;1;942476;989600
-25896;Mächtiger Erdsturmdiamant;1;989599;989599
-25896;Mächtiger Erdsturmdiamant;1;979900;979900
 25896;Mächtiger Erdsturmdiamant;1;932952;979600
-25896;Mächtiger Erdsturmdiamant;1;970000;979700
 25848;Formel: Runenverzierte Adamantitrute;1;375000;400000
 14373;Blutroter Gürtel;1;9999;9999
 22911;Rezept: Erheblicher Trank des traumlosen Schlafs;1;275000;300000
@@ -901,25 +873,7 @@
 5498;Kleine irisierende Perle;1;799;800
 5498;Kleine irisierende Perle;8;7576;8096
 34828;Antiker Silbermanschettenknopf;1;269536;337796
-25897;Starker Erdsturmdiamant;1;1042388;1137151
-25897;Starker Erdsturmdiamant;1;1040325;1134900
-25897;Starker Erdsturmdiamant;1;1100000;1134500
 25897;Starker Erdsturmdiamant;1;1039867;1134400
-24478;Jaggalperle;1;6506;8133
-24478;Jaggalperle;10;81928;97410
-24478;Jaggalperle;5;39145;46830
-24478;Jaggalperle;1;7199;8299
-24478;Jaggalperle;1;7199;8299
-24478;Jaggalperle;1;14144;15715
-24478;Jaggalperle;1;14144;15715
-24478;Jaggalperle;1;11500;20000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;2;3000;10600
-24478;Jaggalperle;1;11500;15000
-24478;Jaggalperle;5;48932;54369
-24478;Jaggalperle;1;14144;15715
 14344;Großer glänzender Splitter;2;197622;199822
 14344;Großer glänzender Splitter;4;351633;355548
 14344;Großer glänzender Splitter;2;197622;199822
@@ -985,23 +939,6 @@
 20407;Robe eines Schattenhammerkultisten;1;3871;4000
 24602;Sternenfeuerbeinkleider;1;56153;65192
 24711;Vergeltungsbrustharnisch;1;40000;60000
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;10;1000;2330
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;10;4231;4702
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;1;100;233
-24477;Jaggalmuschelfleisch;10;99;232
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;4;400;800
-24477;Jaggalmuschelfleisch;10;2770;3078
-24477;Jaggalmuschelfleisch;1;277;307
-24477;Jaggalmuschelfleisch;2;300;400
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;4;1252;1391
-24477;Jaggalmuschelfleisch;10;3131;3479
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
 29531;Trommeln der Wiederherstellung;1;445000;469000
@@ -1009,7 +946,6 @@
 29531;Trommeln der Wiederherstellung;1;445000;469000
 29531;Trommeln der Wiederherstellung;1;468999;468999
 29531;Trommeln der Wiederherstellung;1;468999;468999
-24771;Grollhufschulterschutz;1;1874761;1880000
 14478;Muster: Hellstoffrobe;1;5250;10000
 21845;Urmondstoff;1;339999;379999
 21845;Urmondstoff;1;339999;379999
@@ -1020,14 +956,3 @@
 21845;Urmondstoff;1;356000;399999
 25899;Grober Erdsturmdiamant;1;945000;999900
 25899;Grober Erdsturmdiamant;1;945000;999900
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;1;5455;6061
-25744;Auge eines Dunstschuppenbasilisken;10;80760;95000
-25744;Auge eines Dunstschuppenbasilisken;2;6546;6916
-25744;Auge eines Dunstschuppenbasilisken;153;491401;596752
-25744;Auge eines Dunstschuppenbasilisken;2;7644;9556
-25744;Auge eines Dunstschuppenbasilisken;14;58553;73192
-25744;Auge eines Dunstschuppenbasilisken;1;3173;3258
-25744;Auge eines Dunstschuppenbasilisken;7;28504;35630

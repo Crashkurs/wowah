@@ -1,53 +1,12 @@
 24165;Vorlage: Eterniumband der Loderflamme;1;75999;79999
 24165;Vorlage: Eterniumband der Loderflamme;1;59599;75999
-23438;Stern der Elune;5;225000;350000
-23438;Stern der Elune;1;32527;32917
-23438;Stern der Elune;1;27881;28215
-23438;Stern der Elune;1;27881;28215
-23438;Stern der Elune;1;27881;28215
-23438;Stern der Elune;1;26600;33250
-23438;Stern der Elune;20;686868;698989
 31318;Singende Kristallaxt;1;5000000;10000000
 31318;Singende Kristallaxt;1;2899500;3626000
 31343;Kamaeis himmelblauer Rock;1;6501969;7500000
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;20;121600;172000
-23425;Adamantiterz;20;178800;179200
 23425;Adamantiterz;14;73496;81663
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;3;18240;22800
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
 23425;Adamantiterz;20;145000;160000
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;20;171717;179999
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;99930;99940
-23425;Adamantiterz;10;79000;90910
-23425;Adamantiterz;10;79000;90910
-23425;Adamantiterz;20;178999;181819
-23425;Adamantiterz;20;189999;190000
-23425;Adamantiterz;20;189999;190000
-23425;Adamantiterz;20;189999;190000
-23425;Adamantiterz;20;121600;172000
 23425;Adamantiterz;20;145000;160000
-23425;Adamantiterz;20;171717;179999
 23425;Adamantiterz;20;145000;160000
-23425;Adamantiterz;20;189999;190000
-23425;Adamantiterz;20;145000;160000
-24243;Adamantitpulver;20;101010;111111
-24243;Adamantitpulver;20;101010;111111
-22832;Erstklassiger Manatrank;5;117500;0
-22832;Erstklassiger Manatrank;5;117500;0
 22450;Kristall der Leere;12;920100;929900
 29724;Muster: Kobraschuppenhandschuhe;1;358400;448000
 29724;Muster: Kobraschuppenhandschuhe;1;346236;357796
@@ -99,7 +58,6 @@
 24051;Massiver D‰mmerstein;1;120000;169999
 3719;Umhang des H¸gelw‰chters;1;94000;99999
 3719;Umhang des H¸gelw‰chters;1;79999;99999
-24077;Dicke Adamantithalskette;1;49900;99900
 24077;Dicke Adamantithalskette;1;71082;111000
 3730;Groﬂb‰renfleisch;4;1280;2200
 3730;Groﬂb‰renfleisch;10;3200;5500
@@ -148,7 +106,6 @@
 24164;Vorlage: Feiner Eterniumring;1;39900;60000
 22532;Formel: Armschiene - Mana wiederherstellen;1;182400;228000
 22900;Rezept: Elixier der Tarnung;1;275000;300000
-22445;Arkaner Staub;20;310100;320000
 22445;Arkaner Staub;20;203104;253880
 24027;Klobiger lebendiger Rubin;1;275000;279900
 23793;Schweres Knotenhautleder;10;383750;390000
@@ -180,9 +137,6 @@
 31304;Essenzfokussierer;1;149520;188400
 31304;Essenzfokussierer;1;140000;150000
 13512;Fl‰schchen der obersten Macht;1;129900;159900
-24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
-24197;Vorlage: Fragiler lebendiger Rubin;1;279557;351072
-24197;Vorlage: Fragiler lebendiger Rubin;1;151600;189500
 24116;Auge der Nacht;1;356304;427880
 24116;Auge der Nacht;1;356304;407880
 24116;Auge der Nacht;1;356304;387880
@@ -193,7 +147,6 @@
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
 23786;Khoriumkraftkern;1;338000;340000
 23786;Khoriumkraftkern;1;338000;340000
-24220;Vorlage: Gezackter Talasit;1;200000;229999
 31336;Klinge der Zauberei;1;23999999;35999999
 31336;Klinge der Zauberei;1;24999999;27689899
 22909;Rezept: Elixier der erheblichen Verteidigung;1;275000;300000
@@ -235,9 +188,6 @@
 22447;Geringe Planaressenz;1;29551;37564
 22447;Geringe Planaressenz;1;37577;39542
 24075;Golddraenitring;1;47500;50000
-23436;Lebendiger Rubin;20;3444444;3555555
-23436;Lebendiger Rubin;9;1507600;1709500
-23436;Lebendiger Rubin;2;280000;320000
 23783;Eine Hand voll Teufelseisenbolzen;2;16000;20000
 23783;Eine Hand voll Teufelseisenbolzen;10;98888;100000
 24207;Vorlage: Kompakter D‰mmerstein;1;201096;251370
@@ -272,25 +222,7 @@
 23426;Khoriumerz;11;163306;164582
 23426;Khoriumerz;2;107500;110000
 23426;Khoriumerz;3;215660;269575
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
 22446;Groﬂe Planaressenz;10;1000000;1000000
-22446;Groﬂe Planaressenz;10;1000000;1000000
-22446;Groﬂe Planaressenz;10;1000000;1000000
-22446;Groﬂe Planaressenz;10;1000000;1000000
-22446;Groﬂe Planaressenz;10;1000000;1000000
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;1;120500;127500
-22446;Groﬂe Planaressenz;10;1028404;1142671
-22446;Groﬂe Planaressenz;2;247998;249998
-22446;Groﬂe Planaressenz;2;247998;249998
 29732;Muster: Netherdrachenhelm;1;114517;167241
 29732;Muster: Netherdrachenhelm;1;150000;150000
 24167;Vorlage: Lebendiger Rubinanh‰nger;1;93033;116292
@@ -327,22 +259,9 @@
 16735;Armschienen der Ehre;1;62720;78400
 22459;Sph‰re der Leere;1;1499;2660
 22459;Sph‰re der Leere;1;1499;2660
-27498;Rolle der Beweglichkeit V;5;450625;491500
-27498;Rolle der Beweglichkeit V;5;251996;269995
-27498;Rolle der Beweglichkeit V;5;247500;249500
-27498;Rolle der Beweglichkeit V;5;450625;491500
-27498;Rolle der Beweglichkeit V;1;20187;30000
-27498;Rolle der Beweglichkeit V;5;450625;491500
 27498;Rolle der Beweglichkeit V;5;236000;249000
 27498;Rolle der Beweglichkeit V;5;236000;249000
 27498;Rolle der Beweglichkeit V;5;236000;249000
-23437;Talasit;5;225000;350000
-23437;Talasit;1;30658;31680
-23437;Talasit;2;61316;63360
-23437;Talasit;20;656565;666666
-23437;Talasit;2;47673;59592
-23437;Talasit;5;177158;196842
-23437;Talasit;1;23836;29796
 24211;Vorlage: Leuchtendes Nachtauge;1;552182;613536
 24211;Vorlage: Leuchtendes Nachtauge;1;375605;469507
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;179781;224727
@@ -475,7 +394,6 @@
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;69900;89900
 24066;Strahlender Talasit;1;69900;89900
-24066;Strahlender Talasit;1;59999;88899
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;45000;89900
@@ -485,10 +403,6 @@
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;45000;89900
 24066;Strahlender Talasit;1;45000;89900
-24066;Strahlender Talasit;1;59800;88700
-24066;Strahlender Talasit;1;59800;88700
-24066;Strahlender Talasit;1;59800;88700
-24066;Strahlender Talasit;1;59800;88700
 31322;Der Hammer des Schicksals;1;2743600;2999500
 24168;Vorlage: Geflochtene Eterniumkette;1;71640;89550
 24168;Vorlage: Geflochtene Eterniumkette;1;110000;110000

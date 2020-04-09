@@ -11,13 +11,9 @@
 13004;Fackel von Austen;1;80386;90000
 13004;Fackel von Austen;1;80190;89100
 20404;Verschlüsselter Schattenhammertext;6;66515;73905
-20404;Verschlüsselter Schattenhammertext;8;79904;99880
 25699;Kristalldurchdrungenes Leder;12;37700;38999
 16651;Schredderanleitung - Seite 7;1;7000;7500
 23447;Eterniumbarren;10;507500;590000
-21877;Netherstoff;20;34000;41999
-21877;Netherstoff;20;34000;41999
-21877;Netherstoff;20;34000;41999
 21877;Netherstoff;20;24000;26900
 21877;Netherstoff;20;24000;26900
 21877;Netherstoff;20;30000;32500
@@ -30,7 +26,6 @@
 29292;Hölleneberspeck;5;21789;24210
 15366;Schwindlergamaschen;1;10000;20000
 31917;Delirium 3;1;161306;179229
-31917;Delirium 3;1;99900;99900
 14554;Beinplatten des Wolkenbehüters;1;193180;200000
 30809;Mal des Sargeras;22;226600;228800
 30809;Mal des Sargeras;7;65000;70000
@@ -43,11 +38,6 @@
 21876;Urmondstofftasche;1;4175000;4259500
 23112;Golddraenit;20;336800;396000
 23112;Golddraenit;20;336800;396000
-32068;Elixier der Eisenhaut;5;199999;299999
-32068;Elixier der Eisenhaut;5;199999;299999
-32068;Elixier der Eisenhaut;5;199999;299999
-32068;Elixier der Eisenhaut;5;199999;299999
-32068;Elixier der Eisenhaut;5;199999;299999
 27676;Seltsame Sporen;5;13456;14951
 21885;Urwasser;1;100000;115000
 31288;Des Meisters Treter;1;104962;150000
@@ -140,7 +130,6 @@
 14790;Beschützerrundschild;1;28171;30000
 29534;Grollbalgbeinrüstung;1;900000;970000
 29534;Grollbalgbeinrüstung;1;900000;970000
-32063;Erdelixier;10;59900;210000
 32063;Erdelixier;5;71250;99900
 32063;Erdelixier;5;71250;99900
 31143;Tuch der Raserei;1;129055;143394
@@ -290,28 +279,12 @@
 31138;Gurt des Sturmfürsten;1;59252;65835
 15216;Runenschwert;1;38898;45500
 25062;Zirkonamulett;1;21200;32300
-32062;Elixier der erheblichen Seelenstärke;5;179375;179999
-32062;Elixier der erheblichen Seelenstärke;5;179375;179999
-32062;Elixier der erheblichen Seelenstärke;5;179375;179999
-32062;Elixier der erheblichen Seelenstärke;5;179375;179999
-32062;Elixier der erheblichen Seelenstärke;5;179375;179999
-32062;Elixier der erheblichen Seelenstärke;5;189375;189999
 32062;Elixier der erheblichen Seelenstärke;5;99375;149900
 32062;Elixier der erheblichen Seelenstärke;5;99375;149900
 32062;Elixier der erheblichen Seelenstärke;6;111250;159900
 32062;Elixier der erheblichen Seelenstärke;5;99375;149900
 32062;Elixier der erheblichen Seelenstärke;5;99375;149900
 32062;Elixier der erheblichen Seelenstärke;5;99375;149900
-32062;Elixier der erheblichen Seelenstärke;5;189375;189999
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
-32062;Elixier der erheblichen Seelenstärke;17;508300;653480
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
-32062;Elixier der erheblichen Seelenstärke;4;187500;200000
-32062;Elixier der erheblichen Seelenstärke;10;408750;500000
-32062;Elixier der erheblichen Seelenstärke;5;149999;199999
 13444;Erheblicher Manatrank;1;18833;19934
 16215;Formel: Stiefel - Große Ausdauer;1;84500;90000
 27501;Rolle der Willenskraft V;1;35805;39783

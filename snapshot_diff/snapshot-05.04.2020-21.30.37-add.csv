@@ -150,39 +150,6 @@
 14499;Muster: Mondstofftasche;1;12318;25909
 14499;Muster: Mondstofftasche;1;11000;11000
 11207;Formel: Waffe - Feurige Waffe;1;500000;850000
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16950;16975
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;4;59996;79996
-25650;Knotenhautrüstungsset;1;16999;16999
-25650;Knotenhautrüstungsset;1;16999;16999
 29529;Trommeln der Schlacht;1;319999;319999
 29529;Trommeln der Schlacht;1;319999;319999
 9891;Jägersmanngürtel;1;7635;9544
@@ -235,9 +202,6 @@
 24306;Muster: Wickeltuch der Vergeltung;1;176948;221186
 8153;Wildranke;1;6000;8000
 8153;Wildranke;2;12000;16000
-28270;Formel: Brust - Erhebliche Abhärtung;1;2989700;2989700
-28270;Formel: Brust - Erhebliche Abhärtung;1;2982500;2985000
-28270;Formel: Brust - Erhebliche Abhärtung;1;595839;744799
 28270;Formel: Brust - Erhebliche Abhärtung;1;702500;750000
 29157;Goldring der Macht;1;22250;30000
 29157;Goldring der Macht;1;40986;45540
@@ -314,15 +278,6 @@
 23079;Tiefenperidot;20;75000;300000
 23079;Tiefenperidot;8;113500;120000
 23079;Tiefenperidot;1;7600;9500
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;1;39999;45599
-25708;Dickes Grollhufleder;20;500000;500000
 28103;Elixier des Adepten;5;99995;129995
 28103;Elixier des Adepten;5;99995;129995
 28103;Elixier des Adepten;5;99995;129995
@@ -479,10 +434,6 @@
 12830;Pläne: Verderbnis;1;89999;99999
 31320;Brustschutz der Verbannung;1;4500000;5509900
 10084;Adelsbeinschützer;1;47600;59500
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
-25653;Reitgerte;1;649999;699999
 28498;Rabenwächterbandelier;1;77351;85946
 8146;Tückische Klaue;1;689;862
 8146;Tückische Klaue;3;1650;2100
@@ -531,11 +482,6 @@
 12811;Rechtschaffene Kugel;1;370000;390000
 2452;Flitzdistel;18;18414;20610
 27682;Talbukwildbret;20;26000;30000
-27682;Talbukwildbret;20;75000;85000
-27682;Talbukwildbret;20;75000;85000
-27682;Talbukwildbret;20;30000;35000
-27682;Talbukwildbret;20;30000;35000
-27682;Talbukwildbret;20;30000;35000
 27682;Talbukwildbret;20;30000;35000
 27682;Talbukwildbret;20;30000;35000
 27682;Talbukwildbret;20;30000;35000
@@ -571,10 +517,7 @@
 9902;Jazerainthelm;1;8035;30000
 31323;Don Santos' berühmtes Jagdgewehr;1;7500000;7900000
 3914;Gesellenrucksack;1;29375;30000
-28421;Adamantitgewichtsstein;5;157500;160000
 28421;Adamantitgewichtsstein;2;52258;59398
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;157500;160000
 24298;Muster: Schwarzgestreifte Armschienen;1;699999;699999
 24298;Muster: Schwarzgestreifte Armschienen;1;245000;250000
 24298;Muster: Schwarzgestreifte Armschienen;1;175812;219765
@@ -603,25 +546,8 @@
 24272;Schattenstoff;1;306000;309900
 24272;Schattenstoff;1;306000;310000
 24272;Schattenstoff;1;346000;369900
-27502;Rolle der Ausdauer V;1;300;701
-27502;Rolle der Ausdauer V;1;300;701
-27502;Rolle der Ausdauer V;2;3255;3257
-27502;Rolle der Ausdauer V;1;541;602
 27502;Rolle der Ausdauer V;1;1688;1947
-27502;Rolle der Ausdauer V;1;1573;1967
 9941;Bannzauberermantel;1;19573;26092
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;1;51817;60038
-27500;Rolle des Schutzes V;1;51817;60038
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;5;249995;299995
-27500;Rolle des Schutzes V;1;46500;50000
-27500;Rolle des Schutzes V;1;44490;49500
 27500;Rolle des Schutzes V;1;30150;40000
 27500;Rolle des Schutzes V;1;44045;49005
 11225;Formel: Armschiene - Große Ausdauer;1;52325;53000
@@ -680,18 +606,6 @@
 12974;Der schwarze Ritter;1;19157;29700
 12974;Der schwarze Ritter;1;23723;26359
 12974;Der schwarze Ritter;1;19049;23812
-27499;Rolle der Intelligenz V;5;15804;19755
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;3;12300;13666
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
-27499;Rolle der Intelligenz V;5;24995;24995
 8150;Tiefsteinsalz;1;12764;13056
 8150;Tiefsteinsalz;3;32603;36225
 21881;Netherweberseide;1;16614;17577
@@ -884,8 +798,6 @@
 21887;Knotenhautleder;20;190000;195000
 29506;Handschuhe der lebendigen Berührung;1;3991041;4000000
 13021;Einfädler;1;45041;60000
-25689;Schwere Grollhufweste;1;1397999;1699999
-25689;Schwere Grollhufweste;1;1397999;1699999
 25689;Schwere Grollhufweste;1;1397515;1650000
 24478;Jaggalperle;5;39145;46830
 10024;Schwarzes Magiestoffstirnband;1;40000;50000
@@ -905,26 +817,10 @@
 1206;Moosachat;1;6000;6100
 1206;Moosachat;1;6000;6100
 17723;Grünes Festtagshemd;1;39999;49999
-25707;Teufelsbalg;4;47996;63996
 25707;Teufelsbalg;20;387500;398000
 25707;Teufelsbalg;5;86875;99500
-25707;Teufelsbalg;20;200000;200000
-25707;Teufelsbalg;20;200000;200000
-25707;Teufelsbalg;20;200000;200000
-25707;Teufelsbalg;20;147440;174300
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;9375;16000
-25707;Teufelsbalg;2;19998;20000
-25707;Teufelsbalg;4;47996;63996
-25707;Teufelsbalg;4;47996;63996
-25707;Teufelsbalg;4;47996;63996
-25707;Teufelsbalg;4;47996;63996
 25707;Teufelsbalg;2;39600;49500
 22891;Zauberfoliant des Schattenzauberschutzes IV;1;124940;138676
-28279;Formel: Stiefel - Schnelligkeit der Katze;1;799999;999999
 28279;Formel: Stiefel - Schnelligkeit der Katze;1;595000;690000
 13476;Rezept: Mächtiger Wuttrank;1;12365;20097
 13476;Rezept: Mächtiger Wuttrank;1;12400;20300

@@ -155,26 +155,6 @@
 17720;Bauplan: Schneemeister 9000;1;110000;240000
 21864;Seelenstoffschultern;1;789805;987257
 21864;Seelenstoffschultern;1;789805;987257
-24048;Glatter Dämmerstein;1;119999;138899
-24048;Glatter Dämmerstein;1;85000;90000
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;128058;138059
-24048;Glatter Dämmerstein;1;84500;89500
-24048;Glatter Dämmerstein;1;84500;89500
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;84500;89500
 21876;Urmondstofftasche;1;4175000;4259500
 21876;Urmondstofftasche;1;4175000;4259500
 21876;Urmondstofftasche;1;3100000;3100000
@@ -589,11 +569,6 @@
 23765;Khoriumzielfernrohr;1;227999;284999
 23765;Khoriumzielfernrohr;1;227999;284999
 23765;Khoriumzielfernrohr;1;227999;284999
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;645000;650000
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;799999;999999
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;490000;500000
-24194;Vorlage: Feingeschliffener lebendiger Rubin;1;990071;993856
 17200;Rezept: Lebkuchen;1;140100;150000
 32905;Flasche mit Nethergondampf;5;16585;22485
 32905;Flasche mit Nethergondampf;5;16585;22485
@@ -626,18 +601,11 @@
 23095;Klobiger Blutgranat;1;18899;23399
 28291;Vorlage: Glatter Golddraenit;1;192500;200000
 13756;Roher Sommerbarsch;10;31328;39160
-32229;Löwenauge;2;2867400;2879998
-32229;Löwenauge;1;1405000;1410000
-32229;Löwenauge;1;1405000;1410000
-32229;Löwenauge;1;1405000;1410000
-32229;Löwenauge;1;1433700;1439999
-32229;Löwenauge;1;1433700;1439999
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
-32229;Löwenauge;1;1841100;2079000
 14506;Muster: Teufelsstoffrobe;1;19500;24000
 29158;Echtsilberring des Kommandanten;1;60000;65000
 29158;Echtsilberring des Kommandanten;1;60000;65000
@@ -727,8 +695,6 @@
 32249;Gischtsmaragd;1;309999;329999
 32249;Gischtsmaragd;1;309999;329999
 32249;Gischtsmaragd;1;309999;329999
-30282;Muster: Stiefel der Zauberwucht;1;1695000;1790000
-30282;Muster: Stiefel der Zauberwucht;1;1117001;1121252
 24167;Vorlage: Lebendiger Rubinanhänger;1;201839;212044
 19265;Kriegsfürst 8;1;42090;42095
 19265;Kriegsfürst 8;1;33816;42270
@@ -887,7 +853,6 @@
 24202;Vorlage: Stürmischer Stern der Elune;1;181365;196707
 24202;Vorlage: Stürmischer Stern der Elune;1;110000;110000
 4715;Geschmückter Umhang;1;3216;4021
-22825;Elixier der Heilkraft;20;547999;577999
 18265;Muster: Flimmerkernwickeltücher;1;4449999;4449999
 25270;Gnomisches Sturmgewehr;1;50000;63000
 22452;Urerde;20;777777;888888
@@ -917,11 +882,6 @@
 14589;Falkenauges Schuhe;1;9540;13176
 28595;Heller Blutgranat;1;59999;69999
 28595;Heller Blutgranat;1;59999;69999
-24171;Vorlage: Kette der Nebeleule;1;91124;113905
-24171;Vorlage: Kette der Nebeleule;1;112500;119900
-24171;Vorlage: Kette der Nebeleule;1;115000;120000
-24171;Vorlage: Kette der Nebeleule;1;92500;99900
-24171;Vorlage: Kette der Nebeleule;1;86567;108209
 21881;Netherweberseide;1;16614;17577
 21881;Netherweberseide;1;16614;17577
 21881;Netherweberseide;1;16614;17577
@@ -997,8 +957,6 @@
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 14771;Verheererumhang;1;9696;9920
-24192;Vorlage: Heller lebendiger Rubin;1;211160;217200
-24192;Vorlage: Heller lebendiger Rubin;1;230000;250000
 23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;4324;5406
 23103;Strahlender Tiefenperidot;1;16043;17554
@@ -1156,9 +1114,6 @@
 31673;Knusperschlange;5;62500;75000
 31673;Knusperschlange;5;62500;75000
 31673;Knusperschlange;5;62500;75000
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
 31673;Knusperschlange;5;62500;75000
 24205;Vorlage: Massiver Dämmerstein;1;585000;650000
 20752;Formel: Schwaches Manaöl;1;179999;199999

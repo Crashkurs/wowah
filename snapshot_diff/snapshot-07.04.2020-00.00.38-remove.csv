@@ -1,5 +1,3 @@
-31910;Delirium Ass;1;35000;40000
-31910;Delirium Ass;1;34251;38057
 2277;Totenbeschwörergamaschen;1;125430;140000
 25699;Kristalldurchdrungenes Leder;11;22077;33671
 1195;Bergbauschaufel eines Kobolds;1;5000;10000
@@ -21,11 +19,9 @@
 31140;Umhang der Entropie;1;251447;400000
 13093;Rotglutring;1;25480;28312
 27655;Heißer Hetzer;8;26836;33545
-24212;Vorlage: Königliches Nachtauge;1;245000;250000
 25901;Bemerkenswerter Erdsturmdiamant;1;956700;956700
 25901;Bemerkenswerter Erdsturmdiamant;1;950000;957500
 25104;Paradedolch;1;62787;83484
-2319;Mittleres Leder;18;40338;49950
 34440;Trank des verrückten Alchemisten;5;138580;153980
 34440;Trank des verrückten Alchemisten;5;138580;153980
 34440;Trank des verrückten Alchemisten;5;138580;153980
@@ -87,7 +83,6 @@
 34330;Schweres Knotenhautrüstungsset;1;150000;179500
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1120000
 34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
 34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
 34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
@@ -116,7 +111,6 @@
 29425;Mal von Kil'jaeden;2;10600;20000
 27425;Tüpfelteufelsfinne;2;2440;2711
 27498;Rolle der Beweglichkeit V;1;55008;59700
-24211;Vorlage: Leuchtendes Nachtauge;1;215000;219900
 24211;Vorlage: Leuchtendes Nachtauge;1;189500;237500
 24211;Vorlage: Leuchtendes Nachtauge;1;230000;250000
 25649;Knotenhautlederfetzen;16;16000;20000
@@ -135,8 +129,6 @@
 29536;Netherkluftbeinrüstung;1;1750000;1789900
 25332;Spiegelungsstab;1;279600;349500
 29726;Muster: Kapuze des Urlebens;1;490000;500000
-24050;Schimmernder Dämmerstein;1;140000;145000
-24050;Schimmernder Dämmerstein;1;140000;145000
 24050;Schimmernder Dämmerstein;1;140000;145000
 24050;Schimmernder Dämmerstein;1;140000;145000
 24050;Schimmernder Dämmerstein;1;140000;145000
@@ -165,43 +157,6 @@
 31153;Axt der Legion;1;498304;500000
 25896;Mächtiger Erdsturmdiamant;1;980000;989700
 29505;Kapuze des Urlebens;1;4201339;4500000
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;20;564464;705580
-32062;Elixier der erheblichen Seelenstärke;9;254008;317511
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;5;140075;144999
-32062;Elixier der erheblichen Seelenstärke;17;314500;452880
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-32062;Elixier der erheblichen Seelenstärke;20;379984;474980
-32062;Elixier der erheblichen Seelenstärke;20;489999;499999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;199999;249999
-32062;Elixier der erheblichen Seelenstärke;5;143975;144900
-32062;Elixier der erheblichen Seelenstärke;5;143975;144900
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 29714;Muster: Trommeln der Wiederherstellung;1;200000;300000
 27501;Rolle der Willenskraft V;5;147400;164110
 27501;Rolle der Willenskraft V;5;147400;164110

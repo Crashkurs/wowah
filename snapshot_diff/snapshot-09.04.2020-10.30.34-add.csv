@@ -65,7 +65,6 @@
 4338;Magiestoff;20;113904;142380
 15251;Treffsicheres Schwert;1;55600;69500
 30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;57448;77910
 30810;Siegel des Sonnenzorns;10;79990;99990
 30810;Siegel des Sonnenzorns;10;79990;99990
 30810;Siegel des Sonnenzorns;10;79990;99990
@@ -78,24 +77,12 @@
 22785;Teufelsgras;20;36600;37500
 22785;Teufelsgras;20;36600;37500
 14923;Festliche Armschützer;1;26400;33000
-25868;Himmelsfeuerdiamant;1;999950;1059950
 23098;Gravierter Flammenspessarit;1;26699;27799
 23098;Gravierter Flammenspessarit;1;26699;27799
 23098;Gravierter Flammenspessarit;1;29999;39999
 23098;Gravierter Flammenspessarit;1;29999;39999
 1529;Jade;2;28582;31758
 1529;Jade;1;1050;6666
-29529;Trommeln der Schlacht;1;415500;438000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;415500;438000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;415500;438000
-29529;Trommeln der Schlacht;1;415500;438000
 29529;Trommeln der Schlacht;1;437999;437999
 29529;Trommeln der Schlacht;1;437999;437999
 10127;Klagegeistarmschienen;1;23600;29500
@@ -210,7 +197,6 @@
 23439;Edeltopas;5;805000;1000000
 20748;Hervorragendes Manaöl;1;231500;249900
 14778;Khans Binden;1;15785;19732
-13017;Streitaxt des Höllenschlächters;1;30000;40000
 13017;Streitaxt des Höllenschlächters;1;27931;27931
 31131;Schärpe der lautlosen Klingen;1;90000;100000
 3173;Bärenfleisch;2;1902;2114
@@ -272,18 +258,7 @@
 22849;Eisenschildtrank;5;207500;219000
 2840;Kupferbarren;20;30300;36666
 2840;Kupferbarren;20;30300;36666
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;289999;299999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
 31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
-31867;Verschleierter Edeltopas;1;249999;289999
 31867;Verschleierter Edeltopas;1;130000;189999
 31867;Verschleierter Edeltopas;1;130000;189999
 25439;Tigeraugenband;1;7761;9702
@@ -297,29 +272,6 @@
 7079;Kugel des Wassers;1;5195;6883
 23766;Geeichtes Eterniumzielfernrohr;1;1930000;1946200
 8143;Chromitbeinplatten;1;39600;49500
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;63644;79555
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;90000;97900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
-31863;Ausbalanciertes Nachtauge;1;65000;69900
 25040;Finsterblutcape;1;270000;330000
 29535;Netherkobrabeinrüstung;1;2895000;2915000
 25335;Wildwarpstab;1;156800;196000
@@ -416,7 +368,6 @@
 32200;Gediegener Engelssaphir;1;500000;600000
 5266;Auge von Adaegus;1;49999;59999
 5266;Auge von Adaegus;1;49999;59999
-32249;Gischtsmaragd;1;320000;327500
 10098;Ratsherrenumhang;1;28000;35000
 25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
@@ -534,14 +485,7 @@
 31861;Großer Dämmerstein;1;150000;180000
 31861;Großer Dämmerstein;1;150000;180000
 31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;124500;124500
-31861;Großer Dämmerstein;1;124500;124500
 31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;124500;124500
-31861;Großer Dämmerstein;1;120000;124400
-31861;Großer Dämmerstein;1;120000;124400
-31861;Großer Dämmerstein;1;120000;124400
-31861;Großer Dämmerstein;1;124500;124500
 29536;Netherkluftbeinrüstung;1;1750000;1980000
 22792;Alptraumranke;20;270000;300000
 22792;Alptraumranke;20;270000;300000

@@ -50,8 +50,6 @@
 22450;Kristall der Leere;1;19999;29999
 22450;Kristall der Leere;1;19999;29999
 31918;Delirium 2;1;37821;42023
-31918;Delirium 2;1;47500;50000
-31918;Delirium 2;1;47500;50000
 21876;Urmondstofftasche;1;3999999;4050000
 31876;Vorlage: Ausbalanciertes Nachtauge;1;135679;169599
 22791;Netherblüte;20;366500;366600
@@ -129,9 +127,6 @@
 24057;Königliches Nachtauge;1;94913;95000
 24057;Königliches Nachtauge;1;94913;95000
 24057;Königliches Nachtauge;1;94913;95000
-31878;Vorlage: Verschleierter Edeltopas;1;425000;450000
-31878;Vorlage: Verschleierter Edeltopas;1;372399;465499
-31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
 31878;Vorlage: Verschleierter Edeltopas;1;434845;483162
 31878;Vorlage: Verschleierter Edeltopas;1;399999;399999
 10593;Unvollständiges Draenethystfragment;1;4932;6166
@@ -149,21 +144,9 @@
 23436;Lebendiger Rubin;1;167500;177000
 23436;Lebendiger Rubin;1;167500;177000
 31884;Segen 5;1;837500;840000
-31884;Segen 5;1;1002997;1003098
-31884;Segen 5;1;849552;993440
-31884;Segen 5;1;740000;1200000
-27659;Doppelwarper;5;42500;50000
-27659;Doppelwarper;5;42500;50000
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;20;179980;199980
-27659;Doppelwarper;20;283696;299920
 27659;Doppelwarper;20;151984;189980
 27659;Doppelwarper;20;151984;189980
 13036;Auftragsmordklinge;1;64500;80000
-31913;Delirium 4;1;385107;427584
-31913;Delirium 4;1;95000;100000
-31913;Delirium 4;1;99900;99900
 31913;Delirium 4;1;97500;98800
 30810;Siegel des Sonnenzorns;51;400000;425000
 13758;Roher Rotkiemen;20;86080;91100
@@ -194,9 +177,6 @@
 24056;Leuchtendes Nachtauge;1;104031;105000
 24056;Leuchtendes Nachtauge;1;104031;105000
 24056;Leuchtendes Nachtauge;1;104031;105000
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;20;29998;29998
 25115;Wildsangstreitkolben;1;53793;100000
 15370;Wolfreiterstiefel;1;19999;29999
 31879;Vorlage: Tückischer Edeltopas;1;999999;999999
@@ -214,17 +194,6 @@
 24029;Tränenförmiger lebendiger Rubin;1;224900;225000
 24029;Tränenförmiger lebendiger Rubin;1;224900;225000
 23525;Khoriumstiefel;1;149878;187348
-31901;Furien Ass;1;145739;172970
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;170000;184500
-31901;Furien Ass;1;89488;105380
-31901;Furien Ass;1;115475;144344
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;145739;172970
-31901;Furien Ass;1;145739;172970
-31901;Furien Ass;1;145739;172970
-31901;Furien Ass;1;145739;172970
-31901;Furien Ass;1;125000;130000
 31901;Furien Ass;1;139953;155504
 31899;Sturm 3;1;474020;592526
 31909;Furien 2;1;1771492;2214365
@@ -241,23 +210,6 @@
 24050;Schimmernder Dämmerstein;1;109270;119999
 24050;Schimmernder Dämmerstein;1;109270;119999
 24050;Schimmernder Dämmerstein;1;109270;119999
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;319984;399980
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;20;37500;125000
-32062;Elixier der erheblichen Seelenstärke;1;1875;9000
-32062;Elixier der erheblichen Seelenstärke;20;394999;398999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
-32062;Elixier der erheblichen Seelenstärke;20;194999;194999
 23425;Adamantiterz;20;199860;199880
 23425;Adamantiterz;20;199860;199880
 23425;Adamantiterz;20;199860;199880
@@ -265,8 +217,6 @@
 23425;Adamantiterz;20;199860;199880
 31916;Delirium 6;1;1750000;2250000
 31905;Furien 7;1;887500;890000
-31905;Furien 7;1;1200000;1200000
-31905;Furien 7;1;893368;1116710
 10606;Bauplan: Fallschirmumhang;1;3333;6969
 24055;Unbeständiges Nachtauge;1;185932;199899
 22457;Urmana;1;221128;234779
@@ -274,7 +224,6 @@
 23427;Eterniumerz;20;755960;797980
 3665;Seltsam schmeckendes Omelett;11;9999;11000
 31892;Sturm Ass;1;124004;137782
-31892;Sturm Ass;1;199900;199900
 22446;Große Planaressenz;1;79500;84500
 22446;Große Planaressenz;1;79500;84500
 22446;Große Planaressenz;1;79500;84500

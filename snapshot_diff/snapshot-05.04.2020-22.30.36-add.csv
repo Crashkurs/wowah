@@ -79,9 +79,6 @@
 23571;Urmacht;1;904000;910000
 23571;Urmacht;1;904000;910000
 23571;Urmacht;1;904000;910000
-16245;Formel: Stiefel - Große Beweglichkeit;1;216000;220000
-16245;Formel: Stiefel - Große Beweglichkeit;1;97455;121819
-16245;Formel: Stiefel - Große Beweglichkeit;1;59999;79999
 25071;Tansanitanhänger;1;57157;100000
 21884;Urfeuer;1;226000;231000
 21884;Urfeuer;1;226000;231000
@@ -95,24 +92,10 @@
 24206;Vorlage: Schimmernder Dämmerstein;1;30000;0
 24206;Vorlage: Schimmernder Dämmerstein;1;186871;207635
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;9218;10242
-8190;Hanzos Schwert;1;47286;55000
-8190;Hanzos Schwert;1;71148;79054
 23112;Golddraenit;1;37000;39500
 24209;Vorlage: Stattliches Nachtauge;1;302701;378377
 24209;Vorlage: Stattliches Nachtauge;1;287566;359458
-27676;Seltsame Sporen;20;47500;59500
-27676;Seltsame Sporen;3;6782;8478
-27676;Seltsame Sporen;3;10408;11565
-27676;Seltsame Sporen;10;23750;29750
-27676;Seltsame Sporen;2;7500;10000
 25301;Zerschmetternder Dolch;1;100000;118168
-8171;Unverwüstlicher Balg;2;5166;6124
-8171;Unverwüstlicher Balg;8;15336;17048
-8171;Unverwüstlicher Balg;10;27500;30000
-8171;Unverwüstlicher Balg;1;1400;1600
-8171;Unverwüstlicher Balg;7;9538;13048
-8171;Unverwüstlicher Balg;2;3993;4437
-8171;Unverwüstlicher Balg;9;17971;19968
 11138;Kleiner leuchtender Splitter;1;1210;1344
 31288;Des Meisters Treter;1;652407;724897
 31288;Des Meisters Treter;1;652407;724897
@@ -202,7 +185,6 @@
 14474;Muster: Froststoffhandschuhe;1;4800;8095
 8244;Fehlerlose Draenethystsphäre;1;217152;271440
 16717;Handschuhe des Wildherzens;1;170474;189416
-22445;Arkaner Staub;20;243184;303980
 24105;Geröstete Mondweidenlenden;12;1308;1500
 25104;Paradedolch;1;62787;83484
 24170;Vorlage: Zärtliche Morgenröte;1;100000;120000
@@ -230,19 +212,9 @@
 31298;Beinschützer der Zerschmetterten Hand;1;154478;193098
 31298;Beinschützer der Zerschmetterten Hand;1;188152;210000
 31298;Beinschützer der Zerschmetterten Hand;1;188152;210000
-12717;Pläne: Löwenherzhelm;1;3499999;3999999
-8173;Dickes Rüstungsset;10;55000;59500
-8173;Dickes Rüstungsset;7;370384;442652
-8173;Dickes Rüstungsset;10;529120;632360
-8173;Dickes Rüstungsset;6;6561;8202
 13110;Schreckenswolfharnisch;1;52500;53000
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;499999;799999
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;724999;749999
-31304;Essenzfokussierer;1;198836;215500
-31304;Essenzfokussierer;1;215891;220000
-31304;Essenzfokussierer;1;128836;150000
-31304;Essenzfokussierer;1;148836;150000
-31304;Essenzfokussierer;1;200000;215000
 23537;Schwarze Teufelsstahlarmschienen;1;2229644;2559556
 10364;Templerschild;1;37407;40000
 25708;Dickes Grollhufleder;3;43375;50000
@@ -259,10 +231,6 @@
 23503;Adamantitbeil;1;140000;160000
 23503;Adamantitbeil;1;140000;160000
 25257;Zitadellenarmbrust;1;85596;101996
-13446;Erheblicher Heiltrank;5;20150;27170
-13446;Erheblicher Heiltrank;5;20150;27170
-13446;Erheblicher Heiltrank;5;20150;27170
-13446;Erheblicher Heiltrank;1;10999;19899
 15536;Tückischer Kettenbrustharnisch;1;13142;16428
 22795;Teufelsblüte;20;100;0
 24032;Fragiler lebendiger Rubin;1;125000;155500
@@ -292,8 +260,6 @@
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
-8172;Geschmeidiger dicker Balg;7;70000;123900
-8172;Geschmeidiger dicker Balg;1;10000;17700
 25040;Finsterblutcape;1;270000;347500
 24210;Vorlage: Unbeständiges Nachtauge;1;385188;427987
 24210;Vorlage: Unbeständiges Nachtauge;1;295600;369500
@@ -358,10 +324,7 @@
 10309;Rolle der Beweglichkeit IV;2;69000;69400
 10309;Rolle der Beweglichkeit IV;1;32134;34774
 31178;Amulett der unbeständigen Macht;1;299900;299900
-12799;Großer Opal;1;10500;29800
 12799;Großer Opal;1;27777;27777
-12799;Großer Opal;1;10500;29800
-12799;Großer Opal;1;10500;29800
 31303;Valanos' Langbogen;1;206270;239999
 31303;Valanos' Langbogen;1;151600;189500
 31303;Valanos' Langbogen;1;182399;227999
@@ -424,11 +387,6 @@
 31289;Stab der göttlichen Eingebung;1;239949;249999
 31289;Stab der göttlichen Eingebung;1;239874;250000
 31289;Stab der göttlichen Eingebung;1;250000;279999
-31299;Der Schwurbewahrer;1;158026;175000
-31299;Der Schwurbewahrer;1;199800;199800
-31299;Der Schwurbewahrer;1;161271;179190
-31299;Der Schwurbewahrer;1;158026;183344
-31299;Der Schwurbewahrer;1;171000;181000
 13112;Geflügelter Helm;1;24486;27206
 22146;Buch: Gabe der Wildnis III;1;163932;182146
 10978;Kleiner gleißender Splitter;3;182;228
@@ -438,7 +396,6 @@
 27678;Grollhuffleisch;20;69500;85000
 27678;Grollhuffleisch;20;69500;85000
 27678;Grollhuffleisch;17;121907;159902
-27678;Grollhuffleisch;20;143420;188120
 8184;Feuerteufel;1;3300;3400
 21151;Schwarzer Rumsey Rum;10;40000;40000
 27439;Grimmiger Flusskrebs;4;29500;38000
@@ -549,9 +506,6 @@
 8170;Unverwüstliches Leder;20;145000;150000
 8170;Unverwüstliches Leder;20;145000;150000
 8170;Unverwüstliches Leder;20;145000;150000
-31308;Der Überbringer des Todes;1;244889;250000
-31308;Der Überbringer des Todes;1;185069;193200
-31308;Der Überbringer des Todes;1;207333;273344
 24202;Vorlage: Stürmischer Stern der Elune;1;95000;100000
 24202;Vorlage: Stürmischer Stern der Elune;1;95000;99000
 24202;Vorlage: Stürmischer Stern der Elune;1;118869;148587
@@ -632,21 +586,13 @@
 10413;Handschuhe des Giftzahns;1;125553;139999
 25332;Spiegelungsstab;1;279600;349500
 24970;Krallenwachenhelm;1;60000;90000
-31297;Robe des Purpurordens;1;149153;149900
-31297;Robe des Purpurordens;1;272769;290000
 31297;Robe des Purpurordens;1;109153;145000
-31297;Robe des Purpurordens;1;197018;199023
-31297;Robe des Purpurordens;1;225000;250000
-31297;Robe des Purpurordens;1;249153;300000
 29726;Muster: Kapuze des Urlebens;1;190384;211537
 25272;Schrotflinte PC-54;1;143624;179531
 19711;Grünes Schmuckstück der Hakkari;1;186328;207031
 31284;Armschienen der Tollkühnheit;1;143408;179260
 31284;Armschienen der Tollkühnheit;1;123209;175000
 11754;Schwarzer Diamant;2;1650;1833
-8197;Stiefel des Nachtschleichers;1;46633;58481
-8197;Stiefel des Nachtschleichers;1;46633;58481
-8197;Stiefel des Nachtschleichers;1;25000;25000
 12655;Verzauberter Thoriumbarren;2;25000;50000
 22840;Elixier des erheblichen Magierbluts;20;429999;430000
 22840;Elixier des erheblichen Magierbluts;20;429999;430000
@@ -659,14 +605,6 @@
 32067;Elixier der draenischen Weisheit;13;153140;191425
 32067;Elixier der draenischen Weisheit;20;235600;294500
 32067;Elixier der draenischen Weisheit;20;235600;294500
-31306;Gamaschen des heiligen Wappens;1;181500;183200
-31306;Gamaschen des heiligen Wappens;1;129200;161500
-31306;Gamaschen des heiligen Wappens;1;180064;183200
-31306;Gamaschen des heiligen Wappens;1;181500;183200
-31306;Gamaschen des heiligen Wappens;1;180346;198900
-31306;Gamaschen des heiligen Wappens;1;120346;150000
-31306;Gamaschen des heiligen Wappens;1;180346;198900
-31306;Gamaschen des heiligen Wappens;1;181500;183200
 24050;Schimmernder Dämmerstein;1;115000;145500
 19708;Blaues Schmuckstück der Hakkari;2;237361;263734
 31258;Band des Kummers;1;192552;199999
@@ -686,26 +624,7 @@
 27499;Rolle der Intelligenz V;1;2471;3089
 23427;Eterniumerz;17;361760;452200
 11630;Felssplitterkügelchen;200;1500;10000
-10286;Herz der Wildnis;3;13000;14500
-10286;Herz der Wildnis;8;85648;99560
 25168;Langschwert der Sha'tari;1;150000;179202
-32833;Geläuterte Jaggalperle;1;21512;22980
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;17000;18600
-32833;Geläuterte Jaggalperle;1;17000;18600
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;23356;36696
 24959;Khan'aishschienbeinschützer;1;50671;69000
 22539;Formel: Schild - Intelligenz;1;174999;199999
 22539;Formel: Schild - Intelligenz;1;46648;58310
@@ -773,24 +692,7 @@
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 27515;Große Tüpfelteufelsfinne;1;30414;33793
 27515;Große Tüpfelteufelsfinne;1;30414;33793
-31305;Ceds Schnitzer;1;129324;150000
-31305;Ceds Schnitzer;1;214500;220000
-31305;Ceds Schnitzer;1;121600;152000
-31305;Ceds Schnitzer;1;159324;160000
-8169;Dicker Balg;1;456;570
 8169;Dicker Balg;1;481;602
-8169;Dicker Balg;3;1732;2166
-8169;Dicker Balg;5;2888;3610
-8169;Dicker Balg;10;4328;5410
-8169;Dicker Balg;1;410;513
-8169;Dicker Balg;7;6144;6827
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
-8169;Dicker Balg;1;602;753
 8169;Dicker Balg;2;963;1204
 23490;Teufelseisenkettentunika;1;85000;100000
 24089;Eterniumband der Loderflamme;1;499900;555555
@@ -824,7 +726,6 @@
 25269;Büchsflinte;1;62733;83417
 25148;Knochensammlerschwert;1;110000;150097
 12683;Pläne: Thoriumgürtel;1;259384;324231
-8193;Hose des Nachtschleichers;1;25000;25000
 24168;Vorlage: Geflochtene Eterniumkette;1;105000;109999
 24168;Vorlage: Geflochtene Eterniumkette;1;110000;110000
 31149;Handschuhe des Tumults;1;399900;399900

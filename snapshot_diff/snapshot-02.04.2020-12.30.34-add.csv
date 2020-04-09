@@ -69,10 +69,6 @@
 23766;Geeichtes Eterniumzielfernrohr;1;2100000;2200000
 23766;Geeichtes Eterniumzielfernrohr;1;2057099;2185099
 23766;Geeichtes Eterniumzielfernrohr;1;2070000;2406200
-23786;Khoriumkraftkern;1;306000;307500
-23786;Khoriumkraftkern;1;297400;298499
-23786;Khoriumkraftkern;1;306000;307500
-23786;Khoriumkraftkern;1;309999;309999
 23786;Khoriumkraftkern;1;298498;298498
 13032;Schwert der Verderbnis;1;14999;14999
 32655;Kristallgewebte Armschienen;1;1800699;1990000
@@ -204,7 +200,6 @@
 3820;Würgetang;20;9540;13300
 8152;Fläschchen großes Mojo;5;7047;7831
 31899;Sturm 3;1;478375;597969
-7079;Kugel des Wassers;1;5195;6883
 885;Schwarzmetallaxt;1;10000;15000
 4500;Reiserucksack;1;118750;120000
 4500;Reiserucksack;1;63125;70000
@@ -302,9 +297,6 @@
 32464;Netheriterz;20;60200;80680
 32464;Netheriterz;5;15050;20170
 14256;Teufelsstoff;2;33744;42180
-7078;Essenz des Feuers;1;9769;9966
-7078;Essenz des Feuers;1;9769;9966
-7078;Essenz des Feuers;1;9769;9966
 7078;Essenz des Feuers;1;23603;26226
 22797;Alptraumsaat;20;179999;189999
 22797;Alptraumsaat;20;179999;189999
@@ -425,13 +417,7 @@
 24060;Glänzender Edeltopas;1;121220;151525
 24060;Glänzender Edeltopas;1;150000;159500
 7086;Muster: Irdener Seidengürtel;1;7554;8393
-23438;Stern der Elune;1;69999;89999
-23438;Stern der Elune;1;45000;89900
-23438;Stern der Elune;1;36237;60263
-23438;Stern der Elune;1;36237;60263
-23438;Stern der Elune;1;36237;60263
 23438;Stern der Elune;10;250000;300000
-23438;Stern der Elune;1;36237;60263
 24272;Schattenstoff;1;359500;379000
 24272;Schattenstoff;1;366000;375000
 24272;Schattenstoff;1;366000;375000
@@ -477,7 +463,6 @@
 27657;Schwarzgebratener Basilisk;20;349999;369999
 6391;Muster: Modisches grünes Hemd;1;2000;5000
 31201;Illidariumhang;1;454836;500000
-31201;Illidariumhang;1;3000155;3209061
 4603;Roher Tüpfelgelbschwanz;20;24800;36000
 4603;Roher Tüpfelgelbschwanz;20;24800;36000
 23079;Tiefenperidot;20;75000;95000
@@ -497,8 +482,6 @@
 23111;Stattlicher Schattendraenit;1;25232;39040
 23111;Stattlicher Schattendraenit;1;25232;39040
 23111;Stattlicher Schattendraenit;1;25232;39040
-30810;Siegel des Sonnenzorns;5;41500;50000
-30810;Siegel des Sonnenzorns;5;40000;45000
 22153;Foliant der arkanen Brillanz 2;1;150000;200000
 22153;Foliant der arkanen Brillanz 2;1;150000;200000
 25897;Starker Erdsturmdiamant;1;803535;876584
@@ -525,9 +508,6 @@
 23113;Glänzender Golddraenit;1;6497;8122
 23099;Glänzender Flammenspessarit;1;15199;18999
 25893;Mystischer Himmelsfeuerdiamant;1;1250000;1350000
-31079;Quecksilberadamantit;1;175000;200000
-31079;Quecksilberadamantit;1;175000;200000
-31079;Quecksilberadamantit;1;170000;195000
 23100;Glitzernder Flammenspessarit;1;19999;24499
 23100;Glitzernder Flammenspessarit;1;19999;24499
 10286;Herz der Wildnis;2;17233;21542

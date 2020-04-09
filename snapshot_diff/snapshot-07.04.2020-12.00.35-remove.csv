@@ -38,7 +38,6 @@
 14775;Verheererwollwäsche;1;12550;25000
 25302;Seelentöterdolch;1;50000;100000
 7086;Muster: Irdener Seidengürtel;1;3662;7900
-7086;Muster: Irdener Seidengürtel;1;4649;5812
 8272;Ebenholzschulterpolster;1;20545;41000
 22450;Kristall der Leere;1;92233;99998
 22450;Kristall der Leere;1;92233;99998
@@ -81,14 +80,6 @@
 31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
 25301;Zerschmetternder Dolch;1;100000;118182
 25334;Einschüchterungsgroßstab;1;297104;371380
-23636;Pläne: Todeslied;1;269999;299999
-23636;Pläne: Todeslied;1;310000;320000
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;258039;285154
-23636;Pläne: Todeslied;1;180000;250000
-23636;Pläne: Todeslied;1;178800;199999
 31875;Vorlage: Großer Dämmerstein;1;189528;195910
 14791;Beschützercape;1;38910;39900
 31876;Vorlage: Ausbalanciertes Nachtauge;1;200000;240000
@@ -138,7 +129,6 @@
 14669;Bewahrermantel;1;19622;27028
 11972;Karneolschleife;1;6973;14000
 14581;Dokebibrustschutz;1;7004;8755
-14581;Dokebibrustschutz;1;6653;8317
 783;Leichter Balg;2;3050;3900
 7453;Muster: Hurtige Stiefel;1;39200;49000
 7453;Muster: Hurtige Stiefel;1;45600;57000
@@ -390,12 +380,7 @@
 14759;Ausdauernde Armschienen;1;3015;5000
 14790;Beschützerrundschild;1;28171;32200
 20498;Silithidenchitin;7;37204;41338
-2589;Leinenstoff;20;3648;4560
-2589;Leinenstoff;3;736;921
-2589;Leinenstoff;5;49995;49995
-2589;Leinenstoff;20;4000;5000
 2589;Leinenstoff;20;1390;2500
-2589;Leinenstoff;20;3648;4560
 2589;Leinenstoff;20;3648;4560
 2589;Leinenstoff;12;1572;1884
 2589;Leinenstoff;20;1390;2500
@@ -474,8 +459,6 @@
 21882;Seelenessenz;20;255000;309000
 23118;Gediegener Azurmondstein;1;7600;9500
 23118;Gediegener Azurmondstein;1;7600;9500
-24211;Vorlage: Leuchtendes Nachtauge;1;189500;237500
-24211;Vorlage: Leuchtendes Nachtauge;1;230000;250000
 31892;Sturm Ass;1;58356;64840
 31892;Sturm Ass;1;47723;59654
 31892;Sturm Ass;1;46999;68999
@@ -750,26 +733,7 @@
 22829;Erstklassiger Heiltrank;5;49000;78400
 6362;Roher Steinschuppenkabeljau;20;63984;79980
 19813;Durchstochene Voodoopuppe;1;90999;99999
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;69000;79000
-7080;Essenz des Wassers;1;69000;79000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 7080;Essenz des Wassers;1;70000;80000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;6;465696;582120
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;59540;75050
-7080;Essenz des Wassers;3;233542;259491
 19933;Leuchtendes Skorpidblut;4;14552;16169
 19933;Leuchtendes Skorpidblut;10;27154;30171
 19933;Leuchtendes Skorpidblut;7;18958;21065
@@ -861,21 +825,8 @@
 11290;Großer Mystikerzauberstab;1;25478;31848
 8318;Alabasterplattengamaschen;1;33933;68000
 11176;Traumstaub;20;152666;169628
-11176;Traumstaub;20;99999;99999
-11176;Traumstaub;20;99999;99999
 11176;Traumstaub;12;91599;101777
 11176;Traumstaub;20;152666;169628
 11176;Traumstaub;20;152666;169628
 11176;Traumstaub;20;152666;169628
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;3;5852;7300
-11176;Traumstaub;20;140000;150000
-11176;Traumstaub;20;90000;95000
-11176;Traumstaub;20;95000;99000
 13132;Skelettschultern;1;11010;30000

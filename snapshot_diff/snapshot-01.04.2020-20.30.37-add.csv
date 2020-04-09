@@ -74,15 +74,7 @@
 29158;Echtsilberring des Kommandanten;1;33857;37619
 13052;Kriegstreiber;1;62515;79000
 15757;Muster: Tückische Lederhose;1;12510;15638
-30810;Siegel des Sonnenzorns;20;176000;184000
 30810;Siegel des Sonnenzorns;13;89980;112476
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
 25708;Dickes Grollhufleder;20;652500;700000
 27500;Rolle des Schutzes V;1;51969;60041
 27500;Rolle des Schutzes V;1;51969;60041
@@ -122,7 +114,6 @@
 4306;Seidenstoff;20;18000;19500
 9842;Bebänderte Schulterstücke;1;9000;10000
 10231;Graviertes Cape;1;29574;38093
-10231;Graviertes Cape;1;31411;39264
 11144;Echtsilberrute;1;1500;89900
 11144;Echtsilberrute;1;1500;89900
 11144;Echtsilberrute;1;1500;89900
@@ -163,22 +154,6 @@
 29531;Trommeln der Wiederherstellung;1;379000;399500
 29531;Trommeln der Wiederherstellung;1;378000;398500
 31200;Schild des unberechenbaren Fußsoldaten;1;295696;328551
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
 1979;Mauer der Toten;1;182239;199965
 3914;Gesellenrucksack;1;37438;41597
 2815;Bogenklingenreißer;1;34770;38633
@@ -432,7 +407,6 @@
 22456;Urschatten;1;39578;43975
 21151;Schwarzer Rumsey Rum;10;48000;48000
 19232;Bestien 4;1;101472;102191
-22828;Trank der Wahnsinnsstärke;5;236500;249999
 22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;239999;249999
@@ -554,8 +528,6 @@
 23793;Schweres Knotenhautleder;4;168000;177799
 2450;Wilddornrose;2;1795;2244
 16251;Formel: Armschiene - Überragende Ausdauer;1;201250;250000
-31865;Energieerfülltes Nachtauge;1;65691;82114
-31865;Energieerfülltes Nachtauge;1;65691;82114
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
@@ -579,34 +551,10 @@
 31672;Rippchen der Mok'Nathal;20;11260;14280
 31672;Rippchen der Mok'Nathal;20;11260;14280
 9719;Zerbrochene Klinge der Helden;1;100000;150000
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;2;89798;89798
 27503;Rolle der Stärke V;5;224495;224495
 27503;Rolle der Stärke V;5;224495;224495
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;214500;226500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;214500;226500
 27503;Rolle der Stärke V;5;214500;226500
 27503;Rolle der Stärke V;5;214500;226500
@@ -703,10 +651,6 @@
 6291;Roher glänzender Kleinfisch;7;6465;7183
 31295;Brustschutz des Dunkelpirschers;1;165107;191599
 14280;Opulentes Cape;1;18376;22970
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
@@ -854,8 +798,6 @@
 22861;Fläschchen des blendenden Lichts;5;875400;896500
 22861;Fläschchen des blendenden Lichts;5;875400;896500
 24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
 2589;Leinenstoff;20;6018;6686
 2589;Leinenstoff;5;1052;1315
 2589;Leinenstoff;14;4212;4680
@@ -879,8 +821,6 @@
 6359;Feuerflossenschnapper;20;8000;10000
 6359;Feuerflossenschnapper;20;8050;10000
 25868;Himmelsfeuerdiamant;1;950000;950000
-23529;Adamantitwetzstein;1;164998;164998
-23529;Adamantitwetzstein;1;164998;164998
 23529;Adamantitwetzstein;1;164998;164998
 23094;Tränenförmiger Blutgranat;1;9000;12000
 23094;Tränenförmiger Blutgranat;1;9000;12000
@@ -951,7 +891,6 @@
 8951;Elixier der großen Verteidigung;1;2083;2604
 8951;Elixier der großen Verteidigung;1;2083;2604
 8951;Elixier der großen Verteidigung;10;21368;26710
-24067;Gezackter Talasit;1;38760;48450
 24067;Gezackter Talasit;1;38760;48450
 24067;Gezackter Talasit;1;38760;48450
 13017;Streitaxt des Höllenschlächters;1;19637;21819
@@ -1086,34 +1025,10 @@
 31225;Illidaribindungen;1;228190;285238
 6271;Muster: Rote Leinenweste;1;8911;9902
 1529;Jade;1;78568;87298
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;228495;228495
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;2;91398;91398
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;216500;228500
 27498;Rolle der Beweglichkeit V;5;216500;228500
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;216500;228500
 27498;Rolle der Beweglichkeit V;5;216500;228500
 27498;Rolle der Beweglichkeit V;5;216500;228500
@@ -1165,8 +1080,6 @@
 29548;Netherdrachenschuppe;6;142488;142488
 29548;Netherdrachenschuppe;20;379984;474980
 12987;Dunkelgewirkte Bundhosen;1;270687;300763
-24039;Stürmischer Stern der Elune;1;45600;57000
-24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000

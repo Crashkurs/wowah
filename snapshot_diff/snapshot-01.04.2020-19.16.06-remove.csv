@@ -646,8 +646,6 @@
 24047;Brillanter Dämmerstein;1;60000;60000
 24047;Brillanter Dämmerstein;1;60000;60000
 24047;Brillanter Dämmerstein;1;60000;60000
-24047;Brillanter Dämmerstein;1;57452;71816
-24047;Brillanter Dämmerstein;1;57452;71816
 24047;Brillanter Dämmerstein;1;49560;62700
 2798;Rethbanerz;7;14243;15825
 8949;Elixier der Beweglichkeit;19;49000;49000
@@ -751,7 +749,6 @@
 27678;Grollhuffleisch;20;85904;107380
 27678;Grollhuffleisch;20;85904;107380
 24067;Gezackter Talasit;1;48760;58450
-24067;Gezackter Talasit;1;38760;48450
 3482;Bronzene Stiefel mit Versilberung;1;6975;8900
 3482;Bronzene Stiefel mit Versilberung;1;6975;8900
 3482;Bronzene Stiefel mit Versilberung;1;6975;8900
@@ -785,8 +782,6 @@
 24864;Blutritterbrustplatte;1;120000;132162
 31287;Ehrenwachenschild der Draenei;1;96735;120000
 31287;Ehrenwachenschild der Draenei;1;156735;168900
-24039;Stürmischer Stern der Elune;1;45600;57000
-24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;63679;79599
 24039;Stürmischer Stern der Elune;1;63359;79199
 1728;Teebus Langschwert der Loderflammen;1;3669404;3990000
@@ -1440,34 +1435,10 @@
 27503;Rolle der Stärke V;5;242000;255500
 27503;Rolle der Stärke V;5;242000;255500
 27503;Rolle der Stärke V;5;302000;312500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;302000;312500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;310000;318499
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;310000;318499
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;310000;318499
-27503;Rolle der Stärke V;5;309600;359500
 27503;Rolle der Stärke V;5;310000;318499
 27503;Rolle der Stärke V;5;310000;318499
 27503;Rolle der Stärke V;4;219907;244341
@@ -1670,7 +1641,6 @@
 19708;Blaues Schmuckstück der Hakkari;1;109999;150000
 19708;Blaues Schmuckstück der Hakkari;1;109999;150000
 19708;Blaues Schmuckstück der Hakkari;1;109999;150000
-10231;Graviertes Cape;1;31411;39264
 32068;Elixier der Eisenhaut;5;199999;299999
 32068;Elixier der Eisenhaut;5;199999;299999
 32068;Elixier der Eisenhaut;5;199999;299999
@@ -1758,8 +1728,6 @@
 11175;Große Netheressenz;3;189999;199999
 11175;Große Netheressenz;1;73400;73500
 11175;Große Netheressenz;4;259999;269999
-23529;Adamantitwetzstein;1;164998;164998
-23529;Adamantitwetzstein;1;164998;164998
 23529;Adamantitwetzstein;5;350000;400000
 23529;Adamantitwetzstein;5;350000;400000
 8169;Dicker Balg;1;500;600
@@ -1909,8 +1877,6 @@
 31865;Energieerfülltes Nachtauge;1;65691;82114
 31865;Energieerfülltes Nachtauge;1;65691;82114
 31865;Energieerfülltes Nachtauge;1;65691;82114
-31865;Energieerfülltes Nachtauge;1;65691;82114
-31865;Energieerfülltes Nachtauge;1;65691;82114
 24027;Klobiger lebendiger Rubin;1;289916;299978
 24027;Klobiger lebendiger Rubin;1;270000;277500
 22828;Trank der Wahnsinnsstärke;5;209999;219999
@@ -1923,7 +1889,6 @@
 22828;Trank der Wahnsinnsstärke;5;209999;219999
 22828;Trank der Wahnsinnsstärke;5;209999;219999
 22828;Trank der Wahnsinnsstärke;5;209999;219999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
 22866;Fläschchen des reinen Todes;1;185520;190000
 22866;Fläschchen des reinen Todes;1;185520;190000
 22866;Fläschchen des reinen Todes;1;185520;190000
@@ -1932,24 +1897,10 @@
 22866;Fläschchen des reinen Todes;1;185520;190000
 22866;Fläschchen des reinen Todes;2;373200;379999
 29739;Arkaner Foliant;1;106000;109000
-29739;Arkaner Foliant;5;750000;800000
 29739;Arkaner Foliant;1;90100;110000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;20;3979980;3979980
 29739;Arkaner Foliant;20;3979980;3979980
 29739;Arkaner Foliant;15;2330100;2400000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
 29739;Arkaner Foliant;20;3979980;3979980
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
 29739;Arkaner Foliant;1;106000;109000
 29739;Arkaner Foliant;1;106000;109000
 29739;Arkaner Foliant;1;106000;109000
@@ -1961,8 +1912,6 @@
 29739;Arkaner Foliant;1;106000;109000
 29739;Arkaner Foliant;1;106000;109000
 29739;Arkaner Foliant;1;106000;109000
-29739;Arkaner Foliant;5;750000;800000
-29739;Arkaner Foliant;5;750000;800000
 29739;Arkaner Foliant;20;3979980;3979980
 29739;Arkaner Foliant;1;100000;100000
 29739;Arkaner Foliant;1;90100;95500
@@ -2320,17 +2269,12 @@
 23636;Pläne: Todeslied;1;310000;320000
 23636;Pläne: Todeslied;1;179999;249999
 7439;Schildwachenbrustplatte;1;29900;29900
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
@@ -2342,35 +2286,16 @@
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;217500;229999
 27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;404300;467875
 27498;Rolle der Beweglichkeit V;5;319500;330000
 27498;Rolle der Beweglichkeit V;5;319500;330000
 27498;Rolle der Beweglichkeit V;5;319500;330000
 27498;Rolle der Beweglichkeit V;5;319500;330000
 27498;Rolle der Beweglichkeit V;5;319500;330000
 27498;Rolle der Beweglichkeit V;5;319500;330000
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
-27498;Rolle der Beweglichkeit V;5;404300;467875
+27498;Rolle der Beweglichkeit V;5;319500;330000
+27498;Rolle der Beweglichkeit V;5;319500;330000
+27498;Rolle der Beweglichkeit V;5;319500;330000
+27498;Rolle der Beweglichkeit V;5;319500;330000
 27499;Rolle der Intelligenz V;1;335;900
 27499;Rolle der Intelligenz V;1;2306;2307
 27499;Rolle der Intelligenz V;4;1340;3600
@@ -2452,17 +2377,9 @@
 2455;Schwacher Manatrank;2;500;800
 11178;Großer strahlender Splitter;1;21000;26500
 24202;Vorlage: Stürmischer Stern der Elune;1;180000;190000
-30810;Siegel des Sonnenzorns;20;176000;184000
 30810;Siegel des Sonnenzorns;3;11942;14928
 30810;Siegel des Sonnenzorns;6;101800;110000
 30810;Siegel des Sonnenzorns;20;266000;289500
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
-30810;Siegel des Sonnenzorns;20;176000;184000
 30810;Siegel des Sonnenzorns;20;176000;184000
 30810;Siegel des Sonnenzorns;20;176000;184000
 30810;Siegel des Sonnenzorns;20;176000;184000
@@ -2776,10 +2693,6 @@
 16206;Arkanitrute;1;401500;450000
 3864;Citrin;20;104000;200000
 3864;Citrin;1;2900;3500
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
-24037;Irisierender Stern der Elune;1;92198;115248
 6657;Pikantes Deviat Supreme;20;199868;391960
 11971;Amethystband;1;12800;16000
 3819;Winterbiss;1;1195;1494

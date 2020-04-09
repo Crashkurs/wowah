@@ -91,7 +91,6 @@
 22557;Formel: Waffe - Meister des Kampfes;1;299836;374795
 3577;Goldbarren;20;138000;160000
 3577;Goldbarren;20;138000;160000
-6211;Rezept: Elixier der Ogerstärke;1;40000;50000
 24300;Muster: Umhang der Ewigkeit;1;209513;262892
 25691;Schwere Grollhufstiefel;1;129900;199900
 14941;Kriegshetzerarmsplinte;1;6640;19900
@@ -145,7 +144,6 @@
 24204;Vorlage: Glatter Dämmerstein;1;350000;490000
 24210;Vorlage: Unbeständiges Nachtauge;1;266778;333473
 34330;Schweres Knotenhautrüstungsset;1;139999;159999
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;1;139999;159999
 34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;4;195000;235000
@@ -159,23 +157,7 @@
 34330;Schweres Knotenhautrüstungsset;1;139999;159999
 34330;Schweres Knotenhautrüstungsset;1;139999;159999
 34330;Schweres Knotenhautrüstungsset;1;151250;160000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;972220;1097725
-34220;Wechselhafter Himmelsfeuerdiamant;1;972220;1097725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1059924;1096598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1059924;1096598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1059924;1096598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1059924;1096598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1085000;1090000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1084900;1090000
-34220;Wechselhafter Himmelsfeuerdiamant;1;871600;1089500
-34220;Wechselhafter Himmelsfeuerdiamant;1;871600;1089500
 34220;Wechselhafter Himmelsfeuerdiamant;1;972220;1077725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1059924;1096598
 24303;Muster: Gurt der Zerstörung;1;379544;475055
 3383;Elixier der Weisheit;5;2750;4999
 24055;Unbeständiges Nachtauge;1;92512;96740
@@ -206,10 +188,6 @@
 24302;Muster: Gurt des Unerschütterlichen;1;89530;112538
 38225;Mycahs Botanikerbeutel;1;1900000;2100000
 4234;Schweres Leder;11;27500;27500
-4234;Schweres Leder;20;85000;95000
-4234;Schweres Leder;20;85000;95000
-4234;Schweres Leder;19;44275;50000
-4234;Schweres Leder;20;85000;95000
 10606;Bauplan: Fallschirmumhang;1;1312;7999
 24195;Vorlage: Tränenförmiger lebendiger Rubin;1;375644;469555
 34482;Ranzen des Lederers;1;650000;650000
@@ -299,10 +277,6 @@
 21881;Netherweberseide;3;42000;42000
 23154;Vorlage: Stürmischer Azurmondstein;1;22500;30000
 34207;Handschuhverstärkung;1;391250;400000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
 9809;Überragende Tunika;1;2782;9000
 31153;Axt der Legion;1;299999;299999
 4304;Dickes Leder;4;15600;15600

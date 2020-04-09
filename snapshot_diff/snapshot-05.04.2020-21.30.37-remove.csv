@@ -144,10 +144,6 @@
 25174;Hanbo;1;112906;150000
 22824;Elixier der erheblichen Stärke;1;11132;13916
 22824;Elixier der erheblichen Stärke;1;11132;13916
-7078;Essenz des Feuers;1;23603;26226
-7078;Essenz des Feuers;5;23000;29990
-7078;Essenz des Feuers;2;11912;14890
-7078;Essenz des Feuers;3;29307;29898
 22532;Formel: Armschiene - Mana wiederherstellen;1;249633;312042
 24105;Geröstete Mondweidenlenden;12;1308;1500
 25104;Paradedolch;1;62787;83484
@@ -208,7 +204,6 @@
 7079;Kugel des Wassers;1;9500;11500
 7079;Kugel des Wassers;1;71600;89500
 25179;Ngunistecken;1;121494;170000
-7077;Herz des Feuers;2;53256;59174
 25040;Finsterblutcape;1;270000;347500
 24204;Vorlage: Glatter Dämmerstein;1;95600;119500
 2080;Hügelkämpferaxt;1;9988;16360
@@ -330,8 +325,6 @@
 8838;Sonnengras;2;7580;9000
 23532;Stulpen des eisernen Turms;1;1955227;1990000
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;4062;5000
-22572;Luftpartikel;3;49560;62700
-22572;Luftpartikel;5;130000;135000
 10573;Knochenschlitzer;1;40000;47000
 10560;Instabiler Auslöser;8;350000;400000
 10560;Instabiler Auslöser;1;49998;49999
@@ -396,17 +389,10 @@
 24202;Vorlage: Stürmischer Stern der Elune;1;118869;148587
 24202;Vorlage: Stürmischer Stern der Elune;1;95000;99000
 25282;Mahagonizauberstab;1;50000;100000
-22825;Elixier der Heilkraft;1;30000;35000
 22825;Elixier der Heilkraft;5;149895;149895
 22825;Elixier der Heilkraft;5;149895;149895
 22825;Elixier der Heilkraft;5;149895;149895
-22825;Elixier der Heilkraft;1;30000;35000
 22825;Elixier der Heilkraft;5;149895;149895
-22825;Elixier der Heilkraft;2;67500;69900
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;5;148900;149900
-22825;Elixier der Heilkraft;10;299900;349900
 22825;Elixier der Heilkraft;5;149995;149995
 22825;Elixier der Heilkraft;5;149995;149995
 22825;Elixier der Heilkraft;5;149995;149995
@@ -596,11 +582,7 @@
 23519;Teufelsstahlhelm;1;666666;799999
 23519;Teufelsstahlhelm;1;666666;799999
 23519;Teufelsstahlhelm;1;607000;658000
-22573;Erdpartikel;1;5700;7125
-22573;Erdpartikel;5;27072;33840
-22573;Erdpartikel;10;57000;71250
 22573;Erdpartikel;1;6673;7499
-22573;Erdpartikel;10;55608;69510
 22573;Erdpartikel;10;55608;69510
 22573;Erdpartikel;5;15000;18000
 22573;Erdpartikel;8;104800;108000

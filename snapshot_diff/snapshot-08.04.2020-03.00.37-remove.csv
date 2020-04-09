@@ -12,7 +12,6 @@
 28495;Windspäherschärpe;1;19887;24400
 10940;Seltsamer Staub;20;49999;99999
 24243;Adamantitpulver;5;16500;18000
-24243;Adamantitpulver;5;16500;18000
 25302;Seelentöterdolch;1;50000;100000
 24215;Vorlage: Glänzender Edeltopas;1;259999;289999
 22450;Kristall der Leere;1;63191;63198
@@ -35,8 +34,6 @@
 24048;Glatter Dämmerstein;1;84500;89500
 24048;Glatter Dämmerstein;1;128058;138059
 24048;Glatter Dämmerstein;1;128058;138059
-24051;Massiver Dämmerstein;1;133988;207485
-24051;Massiver Dämmerstein;1;133988;207485
 24051;Massiver Dämmerstein;1;133988;207485
 24051;Massiver Dämmerstein;1;133988;207485
 29530;Trommeln des Tempos;1;322267;374741
@@ -119,11 +116,8 @@
 29529;Trommeln der Schlacht;1;479899;479899
 29529;Trommeln der Schlacht;1;479899;479899
 29529;Trommeln der Schlacht;1;479899;479899
-29529;Trommeln der Schlacht;1;478999;478999
 29529;Trommeln der Schlacht;1;477999;477999
 29529;Trommeln der Schlacht;1;477999;477999
-29529;Trommeln der Schlacht;1;453500;478000
-29529;Trommeln der Schlacht;1;453500;478000
 29529;Trommeln der Schlacht;1;453500;478000
 29529;Trommeln der Schlacht;1;477999;477999
 29529;Trommeln der Schlacht;1;479899;479899
@@ -293,14 +287,6 @@
 2589;Leinenstoff;20;3990;4000
 2589;Leinenstoff;20;3990;4000
 23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;5;305000;600000
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
 23441;Nachtauge;5;305000;600000
 23441;Nachtauge;1;114900;149900
 23441;Nachtauge;1;114900;149900
@@ -372,8 +358,6 @@
 24272;Schattenstoff;1;366000;367900
 20749;Hervorragendes Zauberöl;1;237600;239999
 20749;Hervorragendes Zauberöl;1;239800;239800
-23445;Teufelseisenbarren;3;22344;27930
-23445;Teufelseisenbarren;20;228899;228999
 23445;Teufelseisenbarren;20;228899;228999
 23445;Teufelseisenbarren;3;22344;27930
 16204;Illusionsstaub;2;18000;20000
@@ -478,9 +462,6 @@
 22866;Fläschchen des reinen Todes;1;190000;200000
 22866;Fläschchen des reinen Todes;1;190000;200000
 22866;Fläschchen des reinen Todes;1;190000;200000
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
 31673;Knusperschlange;20;349980;379980
 24205;Vorlage: Massiver Dämmerstein;1;585000;650000
 22790;Urflechte;10;19090;19090

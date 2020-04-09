@@ -49,7 +49,6 @@
 30036;Gürtel des langen Weges;1;6879999;8599999
 31878;Vorlage: Verschleierter Edeltopas;1;347939;386599
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
-25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;140000;150000
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;114339;127044
 24829;Netherpirscherarmschienen;1;41318;51648
 30839;Flammenherzweste;1;272900;299990
@@ -107,7 +106,6 @@
 24858;Marschenkrabblerhelm;1;85471;106839
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
-22527;Kern der Elemente;51;180789;200877
 22527;Kern der Elemente;2;9160;10177
 28270;Formel: Brust - Erhebliche Abhärtung;1;595839;744799
 23493;Teufelseisenkettenhelmkappe;1;41524;99900
@@ -116,7 +114,6 @@
 23493;Teufelseisenkettenhelmkappe;1;41524;99900
 23493;Teufelseisenkettenhelmkappe;1;41524;99900
 23493;Teufelseisenkettenhelmkappe;1;41524;99900
-23768;Weißes Rauchsignal;10;203750;220000
 23768;Weißes Rauchsignal;1;11436;12707
 24776;Knochenfresserhandschuhe;1;2499999;2999999
 27661;Schwarzgebratene Forelle;20;6768;8460
@@ -267,17 +264,6 @@
 23517;Teufelsstahlhandschuhe;1;334324;417905
 24675;Eldr'naanschulterpolster;1;71664;89580
 22793;Manadistel;20;127984;159980
-22793;Manadistel;20;93333;93333
-22793;Manadistel;20;93333;93333
-22793;Manadistel;4;15596;21996
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
 22793;Manadistel;4;10096;15096
 22793;Manadistel;20;85000;86900
 22793;Manadistel;20;127984;159980
@@ -289,40 +275,15 @@
 32586;Armschienen des flinken Gedankens;1;4501514;5289982
 32586;Armschienen des flinken Gedankens;1;4501514;5289982
 32586;Armschienen des flinken Gedankens;1;4501514;5289982
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
-24030;Runenverzierter lebendiger Rubin;1;198209;205524
 22854;Fläschchen des unerbittlichen Angriffs;1;152500;155000
 22854;Fläschchen des unerbittlichen Angriffs;1;152500;155000
 22854;Fläschchen des unerbittlichen Angriffs;1;152500;155000
 22854;Fläschchen des unerbittlichen Angriffs;3;440000;450000
 22854;Fläschchen des unerbittlichen Angriffs;5;770000;770000
-23118;Gediegener Azurmondstein;1;9504;13131
-23118;Gediegener Azurmondstein;1;9504;13131
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;9999;12299
 24732;Deliriumsarmschützer;1;25000;50000
 31892;Sturm Ass;1;62873;69859
 24663;Schattenrattunika;1;50000;68274
 25649;Knotenhautlederfetzen;20;26592;33240
-22861;Fläschchen des blendenden Lichts;5;1050000;1050000
-22861;Fläschchen des blendenden Lichts;5;1050000;1050000
-22861;Fläschchen des blendenden Lichts;5;1050000;1050000
 22861;Fläschchen des blendenden Lichts;5;990000;990000
 22861;Fläschchen des blendenden Lichts;5;989995;989995
 22861;Fläschchen des blendenden Lichts;5;990000;990000
@@ -417,10 +378,6 @@
 24875;Eisenrückenbeinschützer;1;100000;150000
 23117;Azurmondstein;1;2754;3443
 23117;Azurmondstein;1;7600;9500
-23117;Azurmondstein;1;3750;3987
-23117;Azurmondstein;20;93500;99000
-23117;Azurmondstein;20;93500;99000
-23117;Azurmondstein;17;63000;67000
 23103;Strahlender Tiefenperidot;1;3800;4750
 24778;Knochenfresserkniehosen;1;111228;139036
 27666;Goldfischstäbchen;20;395000;395000
@@ -494,14 +451,6 @@
 31868;Tückischer Edeltopas;1;155000;164000
 31868;Tückischer Edeltopas;1;155000;164000
 31868;Tückischer Edeltopas;1;155000;164000
-24031;Heller lebendiger Rubin;1;259999;299999
-24031;Heller lebendiger Rubin;1;225525;281907
-24031;Heller lebendiger Rubin;1;225525;281907
-24031;Heller lebendiger Rubin;1;225525;281907
-24031;Heller lebendiger Rubin;1;279525;281907
-24031;Heller lebendiger Rubin;1;225525;281907
-24031;Heller lebendiger Rubin;1;258899;281199
-24031;Heller lebendiger Rubin;1;225525;281907
 24792;Expeditionstunika;1;114028;142536
 24640;Nebelschilfhandschuhe;1;30000;33792
 24640;Nebelschilfhandschuhe;1;18963;30000
@@ -511,36 +460,6 @@
 24742;Waldläuferstiefel;1;499999;549999
 24711;Vergeltungsbrustharnisch;1;70000;90000
 24477;Jaggalmuschelfleisch;4;1252;1391
-24033;Gediegener Stern der Elune;1;99999;109999
-24033;Gediegener Stern der Elune;1;99999;109999
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;100000;110000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
 24771;Grollhufschulterschutz;1;1874761;1880000
 25899;Grober Erdsturmdiamant;1;945000;990000
 25899;Grober Erdsturmdiamant;1;945000;990000

@@ -1,18 +1,9 @@
-33782;Beständiger Talasit;1;45000;80000
 7736;Gefechtskeule;1;37956;39999
 3419;Rote Rose;1;16225;18028
 3419;Rote Rose;1;16225;18028
 3419;Rote Rose;1;16225;18028
 8152;Fläschchen großes Mojo;8;16803;18670
-21929;Flammenspessarit;1;7600;9500
-21929;Flammenspessarit;20;139980;155980
-21929;Flammenspessarit;20;134480;149900
-21929;Flammenspessarit;1;3750;5000
 14902;Salzsteinschild;1;8823;9900
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;20;38000;40000
-21877;Netherstoff;10;15968;19960
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;24000;29900
@@ -20,10 +11,6 @@
 21877;Netherstoff;20;21648;27060
 21877;Netherstoff;20;21648;27060
 21877;Netherstoff;19;22800;28000
-33208;Fläschchen des chromatischen Wunders;1;147500;150000
-33208;Fläschchen des chromatischen Wunders;1;147500;150000
-33208;Fläschchen des chromatischen Wunders;1;179919;182132
-33208;Fläschchen des chromatischen Wunders;1;179919;182132
 22850;Erstklassiger Verjüngungstrank;5;122500;150000
 21884;Urfeuer;1;208000;219999
 21884;Urfeuer;1;208000;219999
@@ -53,7 +40,6 @@
 7909;Aquamarin;2;3000;0
 30036;Gürtel des langen Weges;1;7359999;9199999
 15992;Dichtes Sprengpulver;20;74500;75000
-15992;Dichtes Sprengpulver;20;74500;75000
 31288;Des Meisters Treter;1;44962;100000
 21991;Schwerer Netherstoffverband;20;130000;132000
 21991;Schwerer Netherstoffverband;20;130000;132000
@@ -80,7 +66,6 @@
 2934;Verdorbene Lederfetzen;20;4510;5000
 16052;Bauplan: Modularer Stimmenverstärker;1;1600000;1700000
 16052;Bauplan: Modularer Stimmenverstärker;1;1600000;1700000
-16052;Bauplan: Modularer Stimmenverstärker;1;1600000;1700000
 20725;Nexuskristall;1;29570;38463
 31277;Band des Pfadfinders;1;175836;219795
 13093;Rotglutring;1;24158;26842
@@ -95,14 +80,6 @@
 22445;Arkaner Staub;20;219980;219980
 22445;Arkaner Staub;20;200100;250000
 22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
 14762;Ausdauernde Stiefel;1;6111;6600
 23446;Adamantitbarren;5;39896;49870
 23446;Adamantitbarren;3;22740;28425
@@ -112,7 +89,6 @@
 2319;Mittleres Leder;20;24220;29860
 2319;Mittleres Leder;8;4479;6624
 2319;Mittleres Leder;20;19900;22000
-16043;Bauplan: Thoriumgewehr;1;25932;36591
 16043;Bauplan: Thoriumgewehr;1;25932;36591
 23768;Weißes Rauchsignal;20;154960;193700
 23768;Weißes Rauchsignal;20;86704;93380
@@ -193,26 +169,16 @@
 23119;Funkelnder Azurmondstein;1;7056;8820
 23119;Funkelnder Azurmondstein;1;7056;8820
 14603;Aufsehermantel;1;6574;7700
-13057;Blutpike;1;24074;24915
-13057;Blutpike;1;24074;24915
-13057;Blutpike;1;9536;11270
 2566;Opferroben;1;3383;4400
 33052;Fischerschmaus;20;199900;199900
 33052;Fischerschmaus;5;49900;49900
 14114;Ureinwohnerfußlappen;1;363;750
 24167;Vorlage: Lebendiger Rubinanhänger;1;186800;196000
 16049;Bauplan: Dunkeleisenbombe;1;500000;600000
-16049;Bauplan: Dunkeleisenbombe;1;500000;600000
 16051;Bauplan: Thoriumpatronen;1;7500;11111
 16051;Bauplan: Thoriumpatronen;1;11517;14397
 16051;Bauplan: Thoriumpatronen;1;7500;11111
-16051;Bauplan: Thoriumpatronen;1;11517;14397
-16051;Bauplan: Thoriumpatronen;1;7500;11111
-22146;Buch: Gabe der Wildnis III;1;319600;399500
 22146;Buch: Gabe der Wildnis III;1;124999;139999
-22146;Buch: Gabe der Wildnis III;1;114000;142500
-19702;Münze der Blutfratzen;1;30000;40000
-19702;Münze der Blutfratzen;1;29500;38000
 19702;Münze der Blutfratzen;1;30000;40000
 19702;Münze der Blutfratzen;1;29500;38000
 7912;Robuster Stein;20;3000;0
@@ -221,34 +187,15 @@
 22393;Kodex: Gebet des Schattenschutzes;1;91219;103408
 22393;Kodex: Gebet des Schattenschutzes;1;39999;49999
 15982;Blutgewebte Rute;1;30000;40000
-15982;Blutgewebte Rute;1;30000;40000
 14551;Handschützer des Klingenmeisters;1;110000;115000
 14551;Handschützer des Klingenmeisters;1;92808;105342
 14551;Handschützer des Klingenmeisters;1;114500;115500
-8402;Muster: Fester Skorpidhelm;1;5079;5643
 22572;Luftpartikel;5;33000;40000
 2318;Leichtes Leder;20;17550;19500
 2318;Leichtes Leder;20;17550;19500
-27498;Rolle der Beweglichkeit V;1;65800;112900
 27498;Rolle der Beweglichkeit V;3;149700;149940
 27498;Rolle der Beweglichkeit V;1;30187;40000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12591;13990
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9504;13131
-23118;Gediegener Azurmondstein;1;9504;13131
 23118;Gediegener Azurmondstein;1;10050;15000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
 25649;Knotenhautlederfetzen;20;36000;37000
 25649;Knotenhautlederfetzen;20;36000;37000
 25649;Knotenhautlederfetzen;20;36000;37000
@@ -260,7 +207,6 @@
 13046;Blanchards Schädelbrecher;1;32563;35000
 16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
 16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
-19704;Münze der Sandwüter;1;39949;49937
 19704;Münze der Sandwüter;1;39949;49937
 14555;Alcors Sonnenschneide;1;316350;320000
 31196;Amulett der Weihung;1;82937;98010
@@ -287,8 +233,6 @@
 7676;Disteltee;10;300450;350000
 29536;Netherkluftbeinrüstung;1;1690000;1700000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
-32196;Runenverzierter Purpurspinell;1;2900000;2950000
-32196;Runenverzierter Purpurspinell;1;2900000;2950000
 23624;Pläne: Helm des tapferen Verteidigers;1;218420;256982
 22578;Wasserpartikel;3;11800;20000
 14831;Symbolkrone;1;10795;15000
@@ -307,7 +251,6 @@
 15994;Thoriumapparat;10;189990;199990
 15994;Thoriumapparat;10;189990;199990
 19706;Münze der Blutskalpe;4;143660;179576
-19706;Münze der Blutskalpe;4;143660;179576
 4037;Silberfadenhose;1;29317;31566
 2447;Friedensblume;16;5440;5500
 22388;Pläne: Gamaschen der Titanen;1;650000;700000
@@ -315,19 +258,7 @@
 31148;Dämonenbalgschiftung;1;41673;52000
 25896;Mächtiger Erdsturmdiamant;1;818857;859800
 31287;Ehrenwachenschild der Draenei;1;126735;130000
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;1;3987;3988
-23117;Azurmondstein;3;9091;11364
 23117;Azurmondstein;8;27000;29000
-23117;Azurmondstein;5;18750;21000
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
 2721;Heiliges Tuch;1;2973;6000
 2911;Kellers Gurt;1;116787;130110
 33093;Manatrankeinspritzung;20;580000;599980
@@ -359,7 +290,6 @@
 14549;Stiefel der Vermeidung;1;1499999;1500000
 8401;Muster: Feste Skorpidgamaschen;1;2062;4000
 19701;Münze der Gurubashi;1;37908;47385
-19701;Münze der Gurubashi;1;37908;47385
 32231;Pyrostein;1;2400000;2500000
 32231;Pyrostein;1;2400000;2500000
 32231;Pyrostein;1;2400000;2500000
@@ -367,8 +297,6 @@
 32231;Pyrostein;1;2400000;2500000
 24291;Sumpflordranke;2;8600;11982
 24291;Sumpflordranke;5;21644;29955
-16039;Ta'Kierthan Arkanklinge;1;149999;159999
-16039;Ta'Kierthan Arkanklinge;1;153598;169500
 16039;Ta'Kierthan Arkanklinge;1;149999;159999
 16039;Ta'Kierthan Arkanklinge;1;153598;169500
 22457;Urmana;1;156000;190000

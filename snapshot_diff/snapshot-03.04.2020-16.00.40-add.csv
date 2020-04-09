@@ -107,7 +107,6 @@
 15427;Unvergleichlicher Umhang;1;12804;26000
 2698;Rezept: Gekochte Krebsschere;1;30100;40000
 13037;Kristallfichtenstecher;1;28914;37000
-31896;Sturm 7;1;217500;220000
 31896;Sturm 7;1;230000;600000
 31292;Pulsierender Kristallschild;1;458645;495000
 12363;Arkankristall;1;20000;21500
@@ -167,12 +166,8 @@
 21877;Netherstoff;20;34999;49999
 21877;Netherstoff;20;34999;49999
 4611;Blaue Perle;1;1824;2280
-4611;Blaue Perle;1;700;2000
-4611;Blaue Perle;1;9856;10951
 4611;Blaue Perle;1;9856;10951
 4611;Blaue Perle;3;18137;20152
-4611;Blaue Perle;1;600;1600
-4611;Blaue Perle;1;700;2000
 24273;Mystischer Zauberfaden;1;1444999;1479999
 24273;Mystischer Zauberfaden;1;1444999;1469999
 24273;Mystischer Zauberfaden;1;1444500;1479500
@@ -274,9 +269,6 @@
 13046;Blanchards Schädelbrecher;1;44404;50449
 2674;Kriecherfleisch;10;400120;500000
 4625;Feuerblüte;20;29900;49900
-4625;Feuerblüte;20;87500;0
-4625;Feuerblüte;1;3780;4726
-4625;Feuerblüte;20;87500;0
 4625;Feuerblüte;9;3375;30000
 4625;Feuerblüte;20;87500;0
 4625;Feuerblüte;20;87500;0
@@ -414,8 +406,6 @@
 31888;Segen 3;1;195999;244999
 13945;Rezept: Nachtflossensuppe;1;95000;100000
 25802;Schreckensgiftbeutel;1;10043;11792
-22451;Urluft;5;901000;926250
-22451;Urluft;5;901000;926250
 13045;Zäher Hammer;1;55268;61409
 15745;Muster: Runenverzierter Ledergürtel;1;14800;14900
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10168;19600
@@ -439,7 +429,6 @@
 25708;Dickes Grollhufleder;20;500000;550000
 25708;Dickes Grollhufleder;20;500000;550000
 25708;Dickes Grollhufleder;20;500000;550000
-8172;Geschmeidiger dicker Balg;5;50000;92500
 31133;Gamaschen der undurchdringlichen Dunkelheit;1;195999;195999
 19283;Portal 7;1;358750;360000
 13040;Herzsuchende Armbrust;1;49999;59124
@@ -562,7 +551,6 @@
 16203;Große ewige Essenz;10;777770;777770
 5117;Farbenprächtiger Federbusch;2;2505;2783
 31234;Kristallklinge der Draenei;1;324994;361105
-31234;Kristallklinge der Draenei;1;351075;390000
 13039;Schädelspalterarmbrust;1;21432;26790
 13039;Schädelspalterarmbrust;1;25700;28200
 13039;Schädelspalterarmbrust;1;22641;28302

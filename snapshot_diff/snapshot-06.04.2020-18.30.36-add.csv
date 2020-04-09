@@ -4,8 +4,6 @@
 13076;Riesentöterarmschienen;1;32300;59000
 9490;Gizmotronisches Megahackbeil;1;15083;25000
 11177;Kleiner strahlender Splitter;3;1144;3331
-11177;Kleiner strahlender Splitter;13;11065;13832
-11177;Kleiner strahlender Splitter;2;2665;3332
 24597;Sternenfeuerschärpe;1;27408;36760
 24597;Sternenfeuerschärpe;1;37408;46760
 22644;Knuspriges Spinnenbein;3;1690;1877
@@ -54,12 +52,6 @@
 22785;Teufelsgras;20;55000;56600
 22785;Teufelsgras;20;55000;56600
 22785;Teufelsgras;20;55000;56600
-22785;Teufelsgras;20;79999;99999
-22785;Teufelsgras;20;79999;99999
-22785;Teufelsgras;20;79999;99999
-22785;Teufelsgras;3;9120;11400
-22785;Teufelsgras;20;15000;0
-22785;Teufelsgras;19;54250;70000
 25650;Knotenhautrüstungsset;10;162500;165000
 29529;Trommeln der Schlacht;1;474000;499999
 29529;Trommeln der Schlacht;1;474000;499999
@@ -160,7 +152,6 @@
 20748;Hervorragendes Manaöl;1;163500;173000
 20748;Hervorragendes Manaöl;1;163500;173000
 20748;Hervorragendes Manaöl;1;163500;173000
-31298;Beinschützer der Zerschmetterten Hand;1;188152;210000
 13110;Schreckenswolfharnisch;1;30000;40000
 13110;Schreckenswolfharnisch;1;30000;40000
 24245;Glühkappe;31;71668;89585
@@ -232,7 +223,6 @@
 24207;Vorlage: Kompakter Dämmerstein;1;356811;446014
 24207;Vorlage: Kompakter Dämmerstein;1;211680;264600
 11734;Buchband der Hartnäckigkeit;1;440100;880000
-11178;Großer strahlender Splitter;10;291200;306500
 13099;Mokassins des Weißen Hasen;1;19000;39000
 31178;Amulett der unbeständigen Macht;1;58162;80000
 31178;Amulett der unbeständigen Macht;1;58162;80000
@@ -365,10 +355,6 @@
 13758;Roher Rotkiemen;6;5000;8000
 29536;Netherkluftbeinrüstung;1;1750000;1789900
 6266;Jüngerweste;1;3300;4400
-31297;Robe des Purpurordens;1;272769;290000
-31297;Robe des Purpurordens;1;149153;149900
-31297;Robe des Purpurordens;1;225000;250000
-31297;Robe des Purpurordens;1;109153;145000
 22578;Wasserpartikel;3;57000;60000
 22578;Wasserpartikel;1;26871;27772
 22578;Wasserpartikel;3;50952;56613
@@ -488,8 +474,6 @@
 29539;Kobraschuppen;2;306000;323000
 29539;Kobraschuppen;2;306000;323000
 29539;Kobraschuppen;2;306000;323000
-13119;Verzauberte Kodoarmschienen;1;7305;10039
-13119;Verzauberte Kodoarmschienen;1;7305;10039
 27681;Phasenverschobenes Fleisch;5;16500;22000
 22794;Teufelslotus;20;600000;690000
 24368;Waffen des Echsenkessels;1;110000;120000

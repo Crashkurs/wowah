@@ -16,60 +16,21 @@
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;189000;215000
 24275;Silberner Zauberfaden;1;1110000;1150000
 24275;Silberner Zauberfaden;1;1199999;1249999
-25719;Arakkoafeder;250;5000000;5000000
-25719;Arakkoafeder;250;5000000;5000000
-25719;Arakkoafeder;240;4800000;4800000
-25719;Arakkoafeder;241;4820000;4820000
-25719;Arakkoafeder;10;199740;199750
 25719;Arakkoafeder;50;985100;989999
-25719;Arakkoafeder;10;199740;199750
 25719;Arakkoafeder;50;985100;989999
-25719;Arakkoafeder;3;47865;53183
-25719;Arakkoafeder;70;1111111;1131313
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;5;89653;99614
-25719;Arakkoafeder;10;199740;199750
 25719;Arakkoafeder;50;985100;989900
 25719;Arakkoafeder;50;985100;989999
 25719;Arakkoafeder;50;985100;989999
 25719;Arakkoafeder;50;985100;989999
-25719;Arakkoafeder;10;199740;199750
 25719;Arakkoafeder;50;985100;989999
 25719;Arakkoafeder;50;985100;989999
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
-25719;Arakkoafeder;10;199740;199750
 3730;Großbärenfleisch;10;3200;5500
 3730;Großbärenfleisch;4;1280;2200
 17056;Leichte Feder;1;1600;1980
 17056;Leichte Feder;5;8000;9900
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;459999;459999
 29529;Trommeln der Schlacht;1;416500;439000
 29529;Trommeln der Schlacht;1;416500;439000
 29529;Trommeln der Schlacht;1;416500;439000
-29529;Trommeln der Schlacht;1;439999;439999
-29529;Trommeln der Schlacht;1;439999;439999
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;397500;440000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;405000;450000
-29529;Trommeln der Schlacht;1;459999;459999
-29529;Trommeln der Schlacht;1;459999;459999
 29529;Trommeln der Schlacht;1;416500;439000
 29529;Trommeln der Schlacht;1;416500;439000
 22839;Zerstörungstrank;5;192999;193999
@@ -133,7 +94,6 @@
 35562;Bärenflanke;4;107999;119999
 34105;Köcher der tausend Federn;1;1886000;1973000
 17200;Rezept: Lebkuchen;1;140100;150000
-24029;Tränenförmiger lebendiger Rubin;1;224900;225000
 6522;Deviatfisch;1;16500;17200
 31863;Ausbalanciertes Nachtauge;1;90000;97900
 31863;Ausbalanciertes Nachtauge;1;90000;97900
@@ -192,44 +152,9 @@
 17725;Formel: Waffe - Wintermacht;1;4000000;4980000
 34861;Geschärfter Angelhaken;20;100000;150000
 34861;Geschärfter Angelhaken;20;100000;150000
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;234000;234500
-24030;Runenverzierter lebendiger Rubin;1;234000;234500
-24030;Runenverzierter lebendiger Rubin;1;234000;234500
-24030;Runenverzierter lebendiger Rubin;1;234000;234500
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;274999;280000
-24030;Runenverzierter lebendiger Rubin;1;257500;279500
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;249999;286699
-24030;Runenverzierter lebendiger Rubin;1;284424;285000
-24030;Runenverzierter lebendiger Rubin;1;284424;285000
-24030;Runenverzierter lebendiger Rubin;1;284424;285000
-24030;Runenverzierter lebendiger Rubin;1;284424;285000
-24030;Runenverzierter lebendiger Rubin;1;274999;280000
-24030;Runenverzierter lebendiger Rubin;1;274999;280000
-24030;Runenverzierter lebendiger Rubin;1;274999;280000
-24030;Runenverzierter lebendiger Rubin;1;265000;279500
-24030;Runenverzierter lebendiger Rubin;1;265000;279500
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;230000;235000
-24030;Runenverzierter lebendiger Rubin;1;230000;235000
-24030;Runenverzierter lebendiger Rubin;1;230000;235000
-24030;Runenverzierter lebendiger Rubin;1;230000;235000
-24030;Runenverzierter lebendiger Rubin;1;230000;235000
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
-24030;Runenverzierter lebendiger Rubin;1;214092;234999
 23437;Talasit;5;177158;196842
 34622;Wirbelschnitter;1;2220000;2350000
 34622;Wirbelschnitter;1;1999999;1999999
-34622;Wirbelschnitter;1;2351960;2939951
 24211;Vorlage: Leuchtendes Nachtauge;1;552182;613536
 28421;Adamantitgewichtsstein;10;227992;284990
 28421;Adamantitgewichtsstein;10;227992;284990

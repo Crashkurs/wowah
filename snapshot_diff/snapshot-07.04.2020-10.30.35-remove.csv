@@ -6,9 +6,6 @@
 27429;Zangarischer Sporenfisch;20;68400;85500
 27429;Zangarischer Sporenfisch;20;65000;85000
 31910;Delirium Ass;1;37500;39900
-31910;Delirium Ass;1;29524;37905
-31910;Delirium Ass;1;29524;37905
-31910;Delirium Ass;1;35000;40000
 24605;Schädeltaillenschutz;1;16821;39900
 24659;Konsortiummantelung;1;199886;249500
 24883;Der'izubeinschützer;1;70000;83086
@@ -37,7 +34,6 @@
 22449;Großer Prismasplitter;1;198835;199935
 14447;Hochgeborenenfußpolster;1;28163;35204
 31918;Delirium 2;1;39705;44117
-7909;Aquamarin;3;59513;69392
 7909;Aquamarin;1;7295;9119
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;74891;78614
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;62891;78614
@@ -53,14 +49,7 @@
 31286;Brustplatte des raschen Angriffs;1;288888;299999
 31286;Brustplatte des raschen Angriffs;1;334400;418000
 31286;Brustplatte des raschen Angriffs;1;391940;590000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;1000000;1020000
 25868;Himmelsfeuerdiamant;1;999950;1059950
-25868;Himmelsfeuerdiamant;1;920000;930000
-25868;Himmelsfeuerdiamant;1;920000;930000
-25868;Himmelsfeuerdiamant;1;920000;930000
 31909;Furien 2;1;1783542;2229428
 24922;Grimmschuppenhelm;1;44076;58800
 4589;Lange elegante Feder;1;6568;8211
@@ -71,7 +60,6 @@
 31277;Band des Pfadfinders;1;352854;399900
 31277;Band des Pfadfinders;1;210000;250000
 24718;Lumpenpackstiefel;1;62720;78400
-24667;Schattenratmantel;1;143178;178973
 14459;Elunarischer Umhang;1;38872;43192
 34490;Tasche für alle Felle;1;1100000;1100000
 34490;Tasche für alle Felle;1;1100000;1100000
@@ -83,12 +71,8 @@
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
-25901;Bemerkenswerter Erdsturmdiamant;1;909999;955599
-25901;Bemerkenswerter Erdsturmdiamant;1;930125;954900
 25901;Bemerkenswerter Erdsturmdiamant;1;950000;955000
 25901;Bemerkenswerter Erdsturmdiamant;1;955300;955300
-25901;Bemerkenswerter Erdsturmdiamant;1;955000;955400
-25901;Bemerkenswerter Erdsturmdiamant;1;905751;944396
 4611;Blaue Perle;3;16895;18772
 31237;Elekkbalggamaschen;1;61194;100000
 24062;Robuster Talasit;1;45000;57000
@@ -117,8 +101,6 @@
 12711;Pläne: Helm der weißen Seele;1;189999;199999
 23503;Adamantitbeil;1;140000;160000
 23503;Adamantitbeil;1;140000;160000
-24032;Fragiler lebendiger Rubin;1;125000;149900
-24032;Fragiler lebendiger Rubin;1;125000;149900
 24032;Fragiler lebendiger Rubin;1;250000;299999
 24032;Fragiler lebendiger Rubin;1;250000;299999
 24032;Fragiler lebendiger Rubin;1;125000;149900
@@ -177,8 +159,6 @@
 24797;Expeditionsarmschienen;1;1958160;1990000
 31913;Delirium 4;1;95000;100000
 24674;Eldr'naanhose;1;1950219;1990000
-25906;Vorlage: Brutaler Erdsturmdiamant;1;97936;99920
-25906;Vorlage: Brutaler Erdsturmdiamant;1;309580;508225
 19259;Kriegsfürst 2;1;20000;23400
 31285;Brustschutz der Kralle;1;145520;151000
 31285;Brustschutz der Kralle;1;121600;152000
@@ -190,10 +170,6 @@
 24060;Glänzender Edeltopas;1;169999;189999
 24060;Glänzender Edeltopas;1;169999;189999
 24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;166599;184099
-24060;Glänzender Edeltopas;1;166599;184099
-24060;Glänzender Edeltopas;1;165000;185000
-24060;Glänzender Edeltopas;1;169999;189999
 24061;Glitzernder Edeltopas;1;269999;289999
 38225;Mycahs Botanikerbeutel;1;1900000;2100000
 23517;Teufelsstahlhandschuhe;1;305466;360000
@@ -204,26 +180,10 @@
 23572;Urnether;1;47900;48900
 23572;Urnether;1;47900;48900
 23572;Urnether;1;47900;48900
-23572;Urnether;20;491600;499500
-23572;Urnether;18;273585;341982
-23572;Urnether;2;102400;128000
 31882;Segen Ass;1;30000;31300
 24907;Talbalggamaschen;1;140000;150000
 31234;Kristallklinge der Draenei;1;334439;343049
 31234;Kristallklinge der Draenei;1;201075;220000
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;154999;154999
 22522;Überragendes Zauberöl;1;72250;85000
 22522;Überragendes Zauberöl;1;154999;154999
 22522;Überragendes Zauberöl;1;154999;154999
@@ -245,44 +205,8 @@
 24675;Eldr'naanschulterpolster;1;71664;89580
 23532;Stulpen des eisernen Turms;1;1111111;0
 34861;Geschärfter Angelhaken;5;24544;35680
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;127984;159980
 2318;Leichtes Leder;16;19568;45920
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
 24030;Runenverzierter lebendiger Rubin;1;285000;285500
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;249999;286699
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9999;10099
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
 23118;Gediegener Azurmondstein;1;11065;11150
 23118;Gediegener Azurmondstein;1;9900;11149
 23118;Gediegener Azurmondstein;1;11065;11150
@@ -298,9 +222,6 @@
 23118;Gediegener Azurmondstein;1;9900;11149
 23118;Gediegener Azurmondstein;1;9900;11149
 23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9525;11907
-23118;Gediegener Azurmondstein;1;9999;11199
-23118;Gediegener Azurmondstein;1;9999;11199
 23118;Gediegener Azurmondstein;1;9050;12000
 23118;Gediegener Azurmondstein;1;9050;12000
 34622;Wirbelschnitter;1;2351960;2939951
@@ -362,40 +283,19 @@
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 7742;Bauplan: Gnomische Tarnvorrichtung;1;200000;250000
-25905;Vorlage: Harter Erdsturmdiamant;1;221509;276887
-25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
-25905;Vorlage: Harter Erdsturmdiamant;1;151924;189905
-25905;Vorlage: Harter Erdsturmdiamant;1;45000;70000
-25905;Vorlage: Harter Erdsturmdiamant;1;67600;69500
-3575;Eisenbarren;14;70000;75840
 24905;Talbalghandschuhe;1;559999;559999
 25893;Mystischer Himmelsfeuerdiamant;1;1250000;1350000
 14445;Giftschleierseidenroben;1;18529;30000
-23529;Adamantitwetzstein;5;270000;300000
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;270000;300000
 31280;Stulpen des Donnerrufers;1;104825;113532
 31280;Stulpen des Donnerrufers;1;89525;113532
 24882;Der'izuhelm;1;101546;126933
 24656;Konsortiumhandschuhe;1;1654491;1660000
-25896;Mächtiger Erdsturmdiamant;1;979900;979900
-25896;Mächtiger Erdsturmdiamant;1;932952;979600
 25896;Mächtiger Erdsturmdiamant;1;970000;979700
-25896;Mächtiger Erdsturmdiamant;1;955823;968824
 31287;Ehrenwachenschild der Draenei;1;212121;222222
 31287;Ehrenwachenschild der Draenei;1;221157;230000
 31287;Ehrenwachenschild der Draenei;1;176735;199999
 31287;Ehrenwachenschild der Draenei;1;176735;199999
 31287;Ehrenwachenschild der Draenei;1;156735;180000
-31905;Furien 7;1;729280;911600
-31905;Furien 7;1;1099999;1199999
 13019;Harpyienklauenkurzbogen;1;26010;32513
 24875;Eisenrückenbeinschützer;1;100000;150000
 23117;Azurmondstein;20;75000;99900
@@ -459,7 +359,6 @@
 32062;Elixier der erheblichen Seelenstärke;5;143975;144900
 32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 32062;Elixier der erheblichen Seelenstärke;6;101250;110000
-24719;Lumpenpackbrustharnisch;1;50000;60000
 14467;Muster: Froststoffrobe;1;30109;41233
 24639;Nebelschilftunika;1;950689;990000
 35758;Beständiger Gischtsmaragd;1;650000;700000
@@ -513,7 +412,6 @@
 12808;Essenz des Untodes;1;10000;20000
 12808;Essenz des Untodes;2;27435;34294
 23536;Helm der Eidestreue;1;5503452;6000000
-31912;Delirium 5;1;2215000;2220000
 31912;Delirium 5;1;1855469;2078299
 31275;Trophäenhalskette;1;213817;237574
 31275;Trophäenhalskette;1;352854;399900
@@ -527,17 +425,7 @@
 23519;Teufelsstahlhelm;1;607000;658000
 5498;Kleine irisierende Perle;8;7576;8096
 25897;Starker Erdsturmdiamant;1;1100000;1134500
-25897;Starker Erdsturmdiamant;1;1039867;1134400
-25897;Starker Erdsturmdiamant;1;1098537;1121921
 10998;Geringe Astralessenz;8;22378;24864
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;166750;168888
-22521;Überragendes Manaöl;1;166750;168888
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
 22521;Überragendes Manaöl;1;127634;159543
 22521;Überragendes Manaöl;1;166750;168888
 22521;Überragendes Manaöl;1;166750;168888
@@ -565,29 +453,9 @@
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
 22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
 31282;Tuch der spirituellen Reinheit;1;345065;350000
 31282;Tuch der spirituellen Reinheit;1;266000;332500
 31282;Tuch der spirituellen Reinheit;1;252700;315875
-24031;Heller lebendiger Rubin;1;259999;299999
-24031;Heller lebendiger Rubin;1;258899;281199
 24031;Heller lebendiger Rubin;1;259999;299999
 24031;Heller lebendiger Rubin;1;258899;281199
 24640;Nebelschilfhandschuhe;1;20000;33792
@@ -595,17 +463,6 @@
 24711;Vergeltungsbrustharnisch;1;40000;60000
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79999;87799
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;69999;77799
 24033;Gediegener Stern der Elune;1;79164;79999
 24033;Gediegener Stern der Elune;1;69999;77799
 24033;Gediegener Stern der Elune;1;95000;99000

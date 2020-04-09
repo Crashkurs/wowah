@@ -24,13 +24,11 @@
 3182;Spinnenseide;1;1238;1548
 7331;Phalanxschild;1;43578;56973
 12820;Feuerwasser der Winterfelle;3;222800;248500
-23447;Eterniumbarren;1;31360;39200
 23447;Eterniumbarren;20;1434343;1444444
 23447;Eterniumbarren;20;1350000;1450000
 23447;Eterniumbarren;20;1350000;1450000
 23447;Eterniumbarren;15;896250;899900
 23447;Eterniumbarren;1;31360;39200
-23447;Eterniumbarren;4;119660;149576
 24243;Adamantitpulver;20;88888;99999
 24243;Adamantitpulver;20;88888;99999
 24243;Adamantitpulver;20;88888;99999
@@ -420,13 +418,6 @@
 1988;Oberbrigadierstulpen;1;49126;51408
 7191;Verschmorte Verkabelung;1;39000;39000
 7191;Verschmorte Verkabelung;1;39000;39000
-32836;Geläuterte Schattenperle;1;375439;469299
-32836;Geläuterte Schattenperle;1;395199;493999
-32836;Geläuterte Schattenperle;1;395199;493999
-32836;Geläuterte Schattenperle;1;395199;493999
-32836;Geläuterte Schattenperle;1;395199;493999
-32836;Geläuterte Schattenperle;1;499999;519999
-32836;Geläuterte Schattenperle;1;499999;519999
 15772;Muster: Teufelssauriergamaschen;1;38400;48000
 29158;Echtsilberring des Kommandanten;1;71360;86600
 28501;Felshetzeromelett;5;6888;7653
@@ -579,13 +570,7 @@
 16051;Bauplan: Thoriumpatronen;1;17959;22449
 22831;Elixier der erheblichen Beweglichkeit;3;119634;149634
 28498;Rabenwächterbandelier;1;77351;85946
-31299;Der Schwurbewahrer;1;125351;159000
 31299;Der Schwurbewahrer;1;160379;178199
-31299;Der Schwurbewahrer;1;204500;217500
-31299;Der Schwurbewahrer;1;127908;159885
-31299;Der Schwurbewahrer;1;198026;219999
-31299;Der Schwurbewahrer;1;151470;168300
-31299;Der Schwurbewahrer;1;153793;155325
 29425;Mal von Kil'jaeden;5;31500;40000
 3036;Schwerer Kurzbogen;1;1648;2060
 3036;Schwerer Kurzbogen;1;1648;2060
@@ -740,11 +725,6 @@
 28421;Adamantitgewichtsstein;10;227992;284990
 28421;Adamantitgewichtsstein;10;227992;284990
 5775;Muster: Schwarzes Seidenpack;1;33136;43920
-31308;Der Überbringer des Todes;1;244889;250000
-31308;Der Überbringer des Todes;1;169600;212000
-31308;Der Überbringer des Todes;1;239800;249999
-31308;Der Überbringer des Todes;1;274889;290000
-31308;Der Überbringer des Todes;1;149900;199900
 7456;Ritterkopfschutz;1;13244;16556
 765;Silberblatt;20;3571;3968
 765;Silberblatt;20;3571;3968
@@ -847,25 +827,7 @@
 31672;Rippchen der Mok'Nathal;20;29832;29940
 31672;Rippchen der Mok'Nathal;20;29832;29940
 31672;Rippchen der Mok'Nathal;20;29832;29940
-31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;7;3500;5250
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
-31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;10;5000;7500
@@ -899,8 +861,6 @@
 19708;Blaues Schmuckstück der Hakkari;1;110000;120000
 19708;Blaues Schmuckstück der Hakkari;1;110000;120000
 9179;Elixier der großen Intelligenz;12;47040;58800
-23448;Teufelsstahlbarren;3;301250;350000
-23448;Teufelsstahlbarren;1;101920;127400
 28595;Heller Blutgranat;1;59999;69999
 23531;Teufelszornstulpen;1;3996888;4000000
 14304;Knochenwerfers Gürtel;1;30000;40000
@@ -921,21 +881,6 @@
 24246;Bluthibiskus;1;28799;31899
 24246;Bluthibiskus;1;28799;31899
 13012;Yorgens Armschienen;1;50000;60000
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;17876;28900
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
-32833;Geläuterte Jaggalperle;1;23500;38000
 23529;Adamantitwetzstein;10;215640;269550
 23529;Adamantitwetzstein;16;166080;207600
 23529;Adamantitwetzstein;10;215640;269550
@@ -1091,8 +1036,6 @@
 23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;4123;5692
 23103;Strahlender Tiefenperidot;1;4123;5692
-33093;Manatrankeinspritzung;20;569900;569900
-33093;Manatrankeinspritzung;20;599900;599900
 33093;Manatrankeinspritzung;20;599900;599900
 33093;Manatrankeinspritzung;20;550000;569000
 33093;Manatrankeinspritzung;20;550000;569000
@@ -1153,21 +1096,6 @@
 13444;Erheblicher Manatrank;1;16699;17999
 3047;Züngelnde Schuppenhandschuhe;1;3998;4998
 31305;Ceds Schnitzer;1;115520;144400
-31305;Ceds Schnitzer;1;214500;240000
-31305;Ceds Schnitzer;1;223588;248431
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;50;428100;437650
-32897;Mal der Illidari;50;428100;437650
-32897;Mal der Illidari;250;1770100;1880000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
-32897;Mal der Illidari;20;130000;140000
 32897;Mal der Illidari;20;130000;140000
 32897;Mal der Illidari;20;130000;140000
 32897;Mal der Illidari;20;130000;140000

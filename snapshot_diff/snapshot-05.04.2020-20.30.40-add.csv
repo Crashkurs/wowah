@@ -1,7 +1,5 @@
 23494;Teufelseisenkettenarmschienen;1;40000;60000
 23494;Teufelseisenkettenarmschienen;1;40000;60000
-23438;Stern der Elune;1;39000;41500
-23438;Stern der Elune;1;95600;119500
 23438;Stern der Elune;1;26600;33250
 23438;Stern der Elune;2;80000;90000
 6557;Bardenstiefel;1;3300;3400
@@ -14,20 +12,7 @@
 22832;Erstklassiger Manatrank;5;97500;97500
 1710;Großer Heiltrank;1;487;500
 6373;Elixier der Feuermacht;9;22582;25091
-2453;Beulengras;10;1360;1900
-2453;Beulengras;20;2624;3280
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;10;1360;1900
-2453;Beulengras;6;816;1140
-2453;Beulengras;7;868;1211
-2453;Beulengras;3;393;492
 2453;Beulengras;20;3168;3520
-2453;Beulengras;7;952;1330
 24961;Khan'aishhandschuhe;1;31857;59000
 24206;Vorlage: Schimmernder Dämmerstein;1;186871;207635
 6370;Schwarzmaulöl;5;20100;69000
@@ -159,36 +144,16 @@
 31230;Stiefel des Abysswandlers;1;154858;180000
 6612;Weisenstiefel;1;4500;6000
 32409;Unerbittlicher Erdsturmdiamant;1;613989;682210
-2840;Kupferbarren;20;19000;19100
 2840;Kupferbarren;20;18208;22760
 2840;Kupferbarren;20;18208;22760
-2840;Kupferbarren;20;15000;19000
-2840;Kupferbarren;20;19000;19100
-2840;Kupferbarren;20;25088;31360
-2840;Kupferbarren;10;9532;12790
-2840;Kupferbarren;10;24600;24600
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;20300;34900
-2840;Kupferbarren;20;29500;31500
-2840;Kupferbarren;20;18000;19500
-2840;Kupferbarren;20;29500;31500
-2840;Kupferbarren;20;17700;20000
-2840;Kupferbarren;20;17700;20000
-2840;Kupferbarren;20;17700;20000
-2840;Kupferbarren;20;17700;20000
 2840;Kupferbarren;20;18000;19500
 2840;Kupferbarren;20;18000;19500
-2840;Kupferbarren;20;20300;34900
 24952;Sumpfschlägerbrustplatte;1;64162;80000
 7079;Kugel des Wassers;1;8953;9948
 7077;Herz des Feuers;2;53256;59174
 6410;Insignienarmschienen;1;11806;14758
 31911;Delirium 8;1;1887500;1890000
 22836;Erheblicher Trank des traumlosen Schlafs;2;15000;30000
-22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
-22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
 24980;Häscherschulterklappen;1;49873;55900
 6308;Roher Stoppelfühlerwels;3;460;576
 937;Schwarzer Dämmerwaldstab;1;21865;40000
@@ -297,30 +262,6 @@
 31203;Arkanschleife;1;127417;159272
 6590;Schlachtschmiedestiefel;1;5738;7173
 6406;Nachthauchstiefel;1;20000;30000
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
 6401;Muster: Dunkles Seidenhemd;1;9999;38999
 6401;Muster: Dunkles Seidenhemd;1;9999;38999
 6401;Muster: Dunkles Seidenhemd;1;9999;38999
@@ -353,8 +294,6 @@
 6657;Pikantes Deviat Supreme;10;179000;189000
 31284;Armschienen der Tollkühnheit;1;143408;179260
 31284;Armschienen der Tollkühnheit;1;123209;175000
-32067;Elixier der draenischen Weisheit;20;255000;300000
-32067;Elixier der draenischen Weisheit;20;255000;300000
 32067;Elixier der draenischen Weisheit;20;255000;300000
 32067;Elixier der draenischen Weisheit;20;255000;300000
 23448;Teufelsstahlbarren;4;355000;355000

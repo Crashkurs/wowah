@@ -25,19 +25,8 @@
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 14204;Distelfellrobe;1;9536;11920
-32227;Purpurspinell;1;2980000;2990000
 15589;Beständige Stampfer;1;20000;30000
 24048;Glatter Dämmerstein;1;85000;90000
-24048;Glatter Dämmerstein;1;119999;138899
-24048;Glatter Dämmerstein;1;125978;139975
-24048;Glatter Dämmerstein;1;125978;139975
-24048;Glatter Dämmerstein;1;85000;90000
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
 15522;Stachelkettenschild;1;20000;40000
 32068;Elixier der Eisenhaut;5;199999;249999
 32068;Elixier der Eisenhaut;5;199999;249999
@@ -45,11 +34,6 @@
 32068;Elixier der Eisenhaut;5;199999;249999
 32068;Elixier der Eisenhaut;5;199999;249999
 32068;Elixier der Eisenhaut;5;199999;249999
-23100;Glitzernder Flammenspessarit;1;13399;17799
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13527;16909
-23100;Glitzernder Flammenspessarit;1;13399;17799
 16072;Expertenkochbuch;1;33750;50000
 16072;Expertenkochbuch;1;33750;50000
 21885;Urwasser;1;101500;107500
@@ -61,12 +45,7 @@
 14090;Perlenkniehosen;1;178;10000
 15479;Stürmerrüstung;1;268;20000
 24077;Dicke Adamantithalskette;1;71082;111000
-14048;Runenstoffballen;10;50000;53500
 14048;Runenstoffballen;7;35000;37450
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;9;47000;49000
 15947;Blutroter Stern;1;20000;29900
 15566;Marodeursarmschienen;1;10000;20000
 15511;Grunzerbeinschützer;1;60000;65000
@@ -135,7 +114,6 @@
 7076;Essenz der Erde;1;95000;99000
 23440;Dämmerstein;1;95600;119500
 15183;Prätorianerumhang;1;10126;20000
-25050;Moldavitring;1;50000;70000
 15553;Dickschuppenschulterpolster;1;4591;6500
 15582;Spiegelpanzerbeinschützer;1;19540;26176
 4296;Muster: Dunkle Lederschultern;1;2987;2999
@@ -159,7 +137,6 @@
 14224;Geomantenbeinkleider;1;5851;10000
 15408;Schwere Skorpidschuppe;20;56584;62872
 15408;Schwere Skorpidschuppe;20;56584;62872
-16202;Geringe ewige Essenz;1;27100;36000
 16202;Geringe ewige Essenz;2;46960;58700
 15536;Tückischer Kettenbrustharnisch;1;13142;16428
 15745;Muster: Runenverzierter Ledergürtel;1;15000;15000
@@ -193,10 +170,6 @@
 13137;Eisenwirker;1;88888;100000
 13137;Eisenwirker;1;50000;70000
 21898;Muster: Magieerfüllte Netherstoffhose;1;112500;120000
-22575;Lebenspartikel;1;21952;24453
-22575;Lebenspartikel;1;21952;24453
-22575;Lebenspartikel;1;21952;24453
-22575;Lebenspartikel;1;21952;24453
 22575;Lebenspartikel;1;21952;24453
 13135;Fürstliche Armschützer;1;70000;90000
 22576;Manapartikel;2;39998;39998
@@ -300,15 +273,9 @@
 22831;Elixier der erheblichen Beweglichkeit;5;199999;249999
 22831;Elixier der erheblichen Beweglichkeit;5;199390;249390
 22831;Elixier der erheblichen Beweglichkeit;5;199390;249390
-22831;Elixier der erheblichen Beweglichkeit;5;199390;249390
-22831;Elixier der erheblichen Beweglichkeit;5;199390;249390
-22831;Elixier der erheblichen Beweglichkeit;5;199390;249390
 22831;Elixier der erheblichen Beweglichkeit;5;199999;249999
 22831;Elixier der erheblichen Beweglichkeit;5;199999;249999
 22831;Elixier der erheblichen Beweglichkeit;5;199999;249999
-22831;Elixier der erheblichen Beweglichkeit;10;450000;450000
-22831;Elixier der erheblichen Beweglichkeit;3;119634;149634
-22831;Elixier der erheblichen Beweglichkeit;10;450000;450000
 24088;Feiner Eterniumring;1;399900;479900
 13112;Geflügelter Helm;1;27700;33051
 13112;Geflügelter Helm;1;25118;31398
@@ -357,7 +324,6 @@
 32225;Schillernder Gischtsmaragd;1;599998;599998
 32225;Schillernder Gischtsmaragd;1;599999;609999
 32225;Schillernder Gischtsmaragd;1;650000;700000
-16113;Handbuch: Magiestoffverband;1;31875;50000
 7072;Nagaschuppe;1;2162;2703
 13091;Medaillon von Großmarschall Morris;1;45000;65000
 13117;Ogrons Schärpe;1;25745;30000
@@ -388,16 +354,6 @@
 4235;Schwerer Balg;2;130600;139999
 4235;Schwerer Balg;2;130600;139999
 4235;Schwerer Balg;2;130600;139999
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
-22851;Fläschchen der Stärkung;1;109741;110950
 1713;Ankh des Lebens;1;29999;39999
 20520;Dunkelrune;1;188500;199000
 20520;Dunkelrune;1;199998;199998
@@ -422,40 +378,14 @@
 20520;Dunkelrune;1;188500;199000
 20520;Dunkelrune;1;199998;199998
 20520;Dunkelrune;1;188500;199000
-14047;Runenstoff;20;48900;48900
-14047;Runenstoff;20;42781;47534
-14047;Runenstoff;20;42781;47534
-14047;Runenstoff;20;48900;48900
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;43980;43980
 14047;Runenstoff;20;29000;29900
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
 14047;Runenstoff;20;29000;29900
-14047;Runenstoff;1;1564;1956
 14047;Runenstoff;20;29000;29900
 14047;Runenstoff;20;22000;28800
 14047;Runenstoff;20;22000;28800
 14047;Runenstoff;20;22000;28800
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
 14047;Runenstoff;20;20000;29000
 14047;Runenstoff;20;20000;29000
-14047;Runenstoff;20;42000;46000
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
 13094;Das Juwel der Königin;1;17377;26722
 13094;Das Juwel der Königin;1;8336;17920
 13094;Das Juwel der Königin;1;22590;27322
@@ -468,18 +398,6 @@
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
 11754;Schwarzer Diamant;2;620;1336
-11754;Schwarzer Diamant;9;6638;8298
-11754;Schwarzer Diamant;20;70100;80000
-11754;Schwarzer Diamant;20;54528;68160
-11754;Schwarzer Diamant;10;17040;28800
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-22578;Wasserpartikel;1;16871;17999
-22578;Wasserpartikel;1;16871;17999
 15592;Beständiger Rundschild;1;10000;20000
 32067;Elixier der draenischen Weisheit;10;199990;199990
 32067;Elixier der draenischen Weisheit;20;235600;294500
@@ -489,7 +407,6 @@
 32067;Elixier der draenischen Weisheit;5;274035;280035
 31306;Gamaschen des heiligen Wappens;1;100346;150000
 13095;Angriffsband;1;32553;36170
-13095;Angriffsband;1;27668;34585
 21881;Netherweberseide;1;17500;19000
 21881;Netherweberseide;1;17500;19000
 21881;Netherweberseide;2;35000;38000
@@ -508,32 +425,9 @@
 4293;Muster: Lederweste des Hügelwächters;1;3804;4756
 15518;Stachelkettenbrustplatte;1;10000;30000
 15518;Stachelkettenbrustplatte;1;20000;30000
-24047;Brillanter Dämmerstein;1;98799;99500
-24047;Brillanter Dämmerstein;1;98799;99500
-24047;Brillanter Dämmerstein;1;98799;99500
-21886;Urleben;1;129999;139999
-21886;Urleben;2;277178;299140
-21886;Urleben;1;129999;139999
-21886;Urleben;12;1369188;1379856
-21886;Urleben;2;224200;234000
-21886;Urleben;10;1140990;1178880
-21886;Urleben;5;600000;750000
 21886;Urleben;1;116000;124800
-21886;Urleben;20;2678800;2679999
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
 21886;Urleben;1;129999;139999
 21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
 21886;Urleben;2;259998;279998
@@ -578,8 +472,6 @@
 24987;Felsfaustbeinplatten;1;90999;90999
 15976;Distelfellzweig;1;13001;16252
 16203;Große ewige Essenz;1;80100;82000
-16203;Große ewige Essenz;10;799999;799999
-16203;Große ewige Essenz;10;799999;799999
 16203;Große ewige Essenz;1;79900;79900
 13856;Runenstoffgürtel;1;20000;30000
 13856;Runenstoffgürtel;1;20000;30000
@@ -619,9 +511,6 @@
 13126;Kriegsruferstulpen;1;75561;80203
 12202;Tigerfleisch;5;1420;1500
 12202;Tigerfleisch;4;1096;1217
-12202;Tigerfleisch;8;1044;2200
-12202;Tigerfleisch;3;626;783
-12202;Tigerfleisch;10;2088;2610
 15744;Muster: Tückisches Lederstirnband;1;346272;457840
 15765;Muster: Runenverzierte Lederhose;1;9498;9499
 15765;Muster: Runenverzierte Lederhose;1;9000;9500
@@ -632,21 +521,12 @@
 12037;Eigenartiges Fleisch;10;2855;3173
 12037;Eigenartiges Fleisch;10;2578;2865
 12037;Eigenartiges Fleisch;4;1031;1146
-12037;Eigenartiges Fleisch;9;1533;1917
 12037;Eigenartiges Fleisch;10;2473;2748
 12037;Eigenartiges Fleisch;4;1142;1269
 7075;Erdenkern;1;49126;54584
 7075;Erdenkern;1;49126;54584
-22829;Erstklassiger Heiltrank;5;50000;70000
 22829;Erstklassiger Heiltrank;5;49000;78400
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
 22829;Erstklassiger Heiltrank;5;70000;80000
-22829;Erstklassiger Heiltrank;1;15402;17114
-22829;Erstklassiger Heiltrank;5;77013;85570
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
 32224;Strahlender Gischtsmaragd;1;689999;699999
 15581;Spiegelpanzerstulpen;1;4191;11500
 15577;Spiegelpanzerarmschienen;1;3475;5900
@@ -661,17 +541,11 @@
 21887;Knotenhautleder;20;147500;159000
 1717;Doppelverbundtunika;1;12865;14294
 22573;Erdpartikel;6;29505;37632
-12203;Rotes Wolfsfleisch;6;1582;1758
-12203;Rotes Wolfsfleisch;2;527;586
-12203;Rotes Wolfsfleisch;10;2720;3030
 12203;Rotes Wolfsfleisch;10;2780;3090
 12203;Rotes Wolfsfleisch;10;2780;3090
 12203;Rotes Wolfsfleisch;10;2780;3090
-12203;Rotes Wolfsfleisch;6;1632;1818
 12203;Rotes Wolfsfleisch;10;1816;2270
 12203;Rotes Wolfsfleisch;2;374;478
-12203;Rotes Wolfsfleisch;10;1870;2390
-12203;Rotes Wolfsfleisch;10;1870;2390
 12203;Rotes Wolfsfleisch;10;1870;2390
 12203;Rotes Wolfsfleisch;10;1870;2390
 12203;Rotes Wolfsfleisch;10;1870;2390
@@ -704,14 +578,4 @@
 4278;Geringes Blutsteinerz;20;100000;200000
 4278;Geringes Blutsteinerz;20;100000;200000
 4278;Geringes Blutsteinerz;20;150750;180000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
-24067;Gezackter Talasit;1;80000;90000
 14025;Mystikergürtel;1;282;20000

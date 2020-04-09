@@ -34,10 +34,6 @@
 14554;Beinplatten des Wolkenbehüters;1;182806;196008
 4625;Feuerblüte;20;50000;50000
 4625;Feuerblüte;20;50000;50000
-30809;Mal des Sargeras;5;49999;55000
-30809;Mal des Sargeras;11;93300;124900
-30809;Mal des Sargeras;65;584176;649085
-30809;Mal des Sargeras;10;70000;100000
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;10100;10199
 7070;Elementarwasser;1;4468;13072
 7070;Elementarwasser;1;11884;13205
@@ -62,33 +58,6 @@
 32749;Muster: Schultern der blitzartigen Reflexe;1;262500;274400
 32749;Muster: Schultern der blitzartigen Reflexe;1;228750;250000
 14791;Beschützercape;1;38910;39900
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;14;88838;111048
-30810;Siegel des Sonnenzorns;8;62986;69985
-30810;Siegel des Sonnenzorns;6;29588;37986
-30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;3;10900;20000
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;11;91429;101588
-30810;Siegel des Sonnenzorns;250;2105000;2150000
-30810;Siegel des Sonnenzorns;4;15000;30000
-30810;Siegel des Sonnenzorns;11;69801;87252
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;50;435000;455000
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
 14499;Muster: Mondstofftasche;1;25999;29999
 14499;Muster: Mondstofftasche;1;11250;20000
 6045;Pläne: Eisengegengewicht;1;2279;2849
@@ -110,19 +79,6 @@
 11040;Morgenkorn;20;77777;88888
 19267;Elementarkartenset;1;3670000;3770000
 4369;Tödliche Donnerbüchse;1;33772;37999
-20725;Nexuskristall;1;80000;90000
-20725;Nexuskristall;1;80000;90000
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;80000;90000
-20725;Nexuskristall;1;54879;68599
-20725;Nexuskristall;1;80000;90000
 6149;Großer Manatrank;5;10900;20000
 6149;Großer Manatrank;5;10900;20000
 6149;Großer Manatrank;3;10540;20000
@@ -255,9 +211,7 @@
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
-31142;Klinge des gefangenen Wissens;1;249913;249999
 31142;Klinge des gefangenen Wissens;1;249013;250000
-31134;Klinge des Unglücks;1;147600;169500
 31134;Klinge des Unglücks;1;147600;169500
 31134;Klinge des Unglücks;1;115830;128700
 32747;Muster: Flinkschlagschultern;1;1478750;1790000
@@ -272,11 +226,7 @@
 14580;Dokebiarmschienen;1;10000;30000
 5765;Schwarzes Seidenpack;1;6000;10000
 5765;Schwarzes Seidenpack;1;6000;8000
-19441;Riesiger Giftbeutel;1;3656;4063
 19441;Riesiger Giftbeutel;1;2355;2617
-19441;Riesiger Giftbeutel;1;2739;3043
-19441;Riesiger Giftbeutel;2;5895;6550
-19441;Riesiger Giftbeutel;1;1579;2590
 19441;Riesiger Giftbeutel;1;3656;4063
 3204;Tiefholzarmschienen;1;3300;3400
 14960;Oberhäuptlingsgürtel;1;49897;62372
@@ -305,13 +255,10 @@
 14552;Palisadenschulterstücke;1;40290;60000
 14552;Palisadenschulterstücke;1;38400;48000
 14553;Schärpe der Gnade;1;189999;199999
-14553;Schärpe der Gnade;1;125687;129900
 8317;Alabasterplattenhelm;1;22519;29999
 19279;Portal 3;1;55654;69568
 20406;Mantel eines Schattenhammerkultisten;1;2893;3000
 14759;Ausdauernde Armschienen;1;3015;5000
-21213;Konservierter Tannenzweig;10;37992;47490
-21213;Konservierter Tannenzweig;1;48500;50000
 14790;Beschützerrundschild;1;28171;32200
 1625;Exquisiter Flamberg;1;47200;59000
 1625;Exquisiter Flamberg;1;47200;59000
@@ -326,8 +273,6 @@
 21790;Saphiranhänger der Winternacht;1;50000;70900
 21790;Saphiranhänger der Winternacht;1;50000;70900
 31143;Tuch der Raserei;1;132748;140000
-31143;Tuch der Raserei;1;84740;88600
-31143;Tuch der Raserei;1;87838;97598
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;9016;11270
 13057;Blutpike;1;24074;24915
@@ -442,7 +387,6 @@
 10407;Räuberschulterpolster;1;2200;3300
 14959;Oberhäuptlingsstulpen;1;30000;40000
 31139;Faust der Abrechnung;1;184442;210000
-31139;Faust der Abrechnung;1;184442;200000
 5770;Roben von Arcana;1;200000;250000
 2456;Schwacher Verjüngungstrank;5;518;576
 19227;Bestien Ass;1;11997999;12999999
@@ -523,9 +467,7 @@
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 8494;Papageienkäfig (Hyazinthara);1;5999999;6999999
-13095;Angriffsband;1;32553;36170
 19282;Portal 6;1;221850;246500
-13065;Zauberstab von Allistarj;1;59174;63526
 4096;Grobes Gorillahaar;4;3000;3300
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
@@ -679,11 +621,6 @@
 19933;Leuchtendes Skorpidblut;10;36380;40422
 13087;Halsreif des Flussgeists;1;28844;29000
 31149;Handschuhe des Tumults;1;399900;399900
-31145;Kopfputz des Schläfers;1;38248;50000
-31145;Kopfputz des Schläfers;1;48248;50000
-31145;Kopfputz des Schläfers;1;63083;78854
-31145;Kopfputz des Schläfers;1;35000;45000
-31145;Kopfputz des Schläfers;1;198248;390000
 11134;Geringe Mystikeressenz;1;4109;4565
 11134;Geringe Mystikeressenz;4;16228;18120
 11134;Geringe Mystikeressenz;1;3645;4557
@@ -714,7 +651,6 @@
 6037;Echtsilberbarren;16;23600;29500
 20407;Robe eines Schattenhammerkultisten;1;3871;4000
 1206;Moosachat;1;6966;8708
-31152;Brustschutz der Illumination;1;98318;122898
 14478;Muster: Hellstoffrobe;1;5250;10000
 4278;Geringes Blutsteinerz;20;100000;200000
 4278;Geringes Blutsteinerz;20;100000;200000

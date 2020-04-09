@@ -41,11 +41,6 @@
 11986;Thalliumreifen;1;10000;20000
 14090;Perlenkniehosen;1;178;10000
 22739;Foliant der Verwandlung: Schildkröte;1;12999999;14999999
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;10;50000;53500
-14048;Runenstoffballen;9;47000;49000
 7415;Derwischschiftung;1;20000;30000
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;3100;3400
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;3100;3400
@@ -135,7 +130,6 @@
 16202;Geringe ewige Essenz;1;33318;35918
 16202;Geringe ewige Essenz;1;33318;35918
 16202;Geringe ewige Essenz;1;33318;35918
-16202;Geringe ewige Essenz;1;27100;36000
 25708;Dickes Grollhufleder;10;394900;394900
 25708;Dickes Grollhufleder;10;394900;394900
 25708;Dickes Grollhufleder;10;394900;394900
@@ -182,11 +176,7 @@
 22575;Lebenspartikel;1;17934;22093
 22575;Lebenspartikel;1;17934;22093
 22575;Lebenspartikel;1;17934;22093
-22575;Lebenspartikel;1;21952;24453
 22575;Lebenspartikel;1;17934;22093
-22575;Lebenspartikel;1;21952;24453
-22575;Lebenspartikel;1;21952;24453
-22575;Lebenspartikel;1;21952;24453
 22576;Manapartikel;1;10600;20000
 22576;Manapartikel;2;39998;39998
 22576;Manapartikel;2;39998;39998
@@ -316,23 +306,11 @@
 9811;Befestigte Armschienen;1;79900;79900
 867;Handschuhe der Heiligen Macht;1;199900;199900
 16113;Handbuch: Magiestoffverband;1;30000;49900
-16113;Handbuch: Magiestoffverband;1;31875;50000
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
 24030;Runenverzierter lebendiger Rubin;1;215000;230000
 1210;Schattenedelstein;1;4575;4900
 11993;Tonring;1;79900;79900
 7456;Ritterkopfschutz;1;13244;16556
 1713;Ankh des Lebens;1;18025;19900
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;1;1564;1956
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
-14047;Runenstoff;20;43980;43980
 14047;Runenstoff;20;32000;40000
 14047;Runenstoff;20;32000;40000
 14047;Runenstoff;20;32000;40000
@@ -342,24 +320,6 @@
 14047;Runenstoff;20;29728;37160
 14047;Runenstoff;12;17836;22296
 14047;Runenstoff;20;48999;48999
-14047;Runenstoff;20;42000;46000
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;48900;48900
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;48900;48900
-14047;Runenstoff;20;37920;47400
-14047;Runenstoff;20;42781;47534
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;42781;47534
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
-14047;Runenstoff;20;41160;48900
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2798;2800
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2798;2800
 3860;Mithrilbarren;20;193900;193900
@@ -390,20 +350,8 @@
 16204;Illusionsstaub;1;11143;11943
 16204;Illusionsstaub;2;22286;23886
 16204;Illusionsstaub;8;57606;72008
-11754;Schwarzer Diamant;9;6638;8298
-11754;Schwarzer Diamant;20;70100;80000
-11754;Schwarzer Diamant;20;54528;68160
-11754;Schwarzer Diamant;10;17040;28800
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
-22578;Wasserpartikel;1;16871;17999
 22578;Wasserpartikel;1;12000;15000
 22578;Wasserpartikel;1;12201;13023
-22578;Wasserpartikel;1;16871;17999
 7452;Muster: Schwärzliche Stiefel;1;1312;3000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;7562;9513
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;12800;16000
@@ -426,26 +374,6 @@
 22787;Zottelkappe;20;60000;62500
 22787;Zottelkappe;4;9497;11872
 1318;Nachthäscher;1;1999900;1999900
-21886;Urleben;2;259998;279998
-21886;Urleben;12;1369188;1379856
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
-21886;Urleben;2;259998;279998
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;1;129999;139999
-21886;Urleben;2;224200;234000
-21886;Urleben;10;1140990;1178880
-21886;Urleben;5;600000;750000
-21886;Urleben;20;2678800;2679999
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
-21886;Urleben;2;277178;299140
 22710;Blutdistel;9;225000;261000
 2256;Skelettkeule;1;99900;99900
 4304;Dickes Leder;8;48000;51000
@@ -458,8 +386,6 @@
 2592;Wollstoff;9;24200;39900
 16203;Große ewige Essenz;1;81000;81500
 16203;Große ewige Essenz;1;81000;81500
-16203;Große ewige Essenz;10;799999;799999
-16203;Große ewige Essenz;10;799999;799999
 11737;Buchband der Gier;1;389999;399999
 11737;Buchband der Gier;1;399800;399800
 12014;Arktischer Ring;1;19524;25156
@@ -472,25 +398,13 @@
 2770;Kupfererz;6;10100;10100
 7553;Band des Einhorns;1;17654;19568
 7443;Schildwachenhandschuhe;1;6916;8645
-12202;Tigerfleisch;3;626;783
 12202;Tigerfleisch;4;970;1030
 12202;Tigerfleisch;10;2300;2500
 12202;Tigerfleisch;10;2300;2500
-12202;Tigerfleisch;8;1044;2200
-12202;Tigerfleisch;10;2088;2610
-12037;Eigenartiges Fleisch;9;1533;1917
 12037;Eigenartiges Fleisch;2;390;420
 14127;Ritualtuch;1;99900;99900
 13102;Cassandras Anmut;1;79900;79900
 22789;Terozapfen;1;8050;8500
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;77013;85570
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;5;50000;70000
-22829;Erstklassiger Heiltrank;1;15402;17114
 7080;Essenz des Wassers;3;233542;259491
 7080;Essenz des Wassers;1;69000;79000
 7080;Essenz des Wassers;1;69000;79000
@@ -505,12 +419,6 @@
 7990;Pläne: Schwerer Mithrilhelm;1;13750;19900
 22573;Erdpartikel;6;29505;37632
 2633;Dschungelarznei;6;8900;9500
-12203;Rotes Wolfsfleisch;6;1582;1758
-12203;Rotes Wolfsfleisch;2;527;586
-12203;Rotes Wolfsfleisch;10;2720;3030
-12203;Rotes Wolfsfleisch;6;1632;1818
-12203;Rotes Wolfsfleisch;10;1870;2390
-12203;Rotes Wolfsfleisch;10;1870;2390
 11982;Viridiumband;1;79900;79900
 2598;Muster: Rote Leinenrobe;1;783;979
 22866;Fläschchen des reinen Todes;1;198999;198999

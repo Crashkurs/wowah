@@ -95,10 +95,6 @@
 5469;Schreiterfleisch;2;7600;9500
 5469;Schreiterfleisch;10;42750;47500
 5469;Schreiterfleisch;10;42750;47500
-23786;Khoriumkraftkern;1;306000;307500
-23786;Khoriumkraftkern;1;306000;307500
-23786;Khoriumkraftkern;1;309999;309999
-23786;Khoriumkraftkern;1;297400;298499
 21765;Echtsilberring der Heilung;1;19600;24500
 21765;Echtsilberring der Heilung;1;19600;24500
 21765;Echtsilberring der Heilung;1;19600;24500
@@ -288,7 +284,6 @@
 32068;Elixier der Eisenhaut;5;249999;299999
 24479;Schattenperle;1;551000;589000
 22903;Rezept: Trank der Wahnsinnsstärke;1;149999999;150000000
-7079;Kugel des Wassers;1;5195;6883
 7079;Kugel des Wassers;3;13500;14500
 21949;Vorlage: Rubinschlange;1;4502500;4900000
 24300;Muster: Umhang der Ewigkeit;1;531999;664999
@@ -412,9 +407,6 @@
 31910;Delirium Ass;1;47381;52645
 32747;Muster: Flinkschlagschultern;1;978750;1200000
 12833;Pläne: Hammer der Titanen;1;1699999;1899999
-7078;Essenz des Feuers;1;9769;9966
-7078;Essenz des Feuers;1;9769;9966
-7078;Essenz des Feuers;1;9769;9966
 4306;Seidenstoff;20;24500;27500
 4306;Seidenstoff;20;24500;27500
 4306;Seidenstoff;20;24500;27500
@@ -775,12 +767,6 @@
 21991;Schwerer Netherstoffverband;20;150000;180000
 24307;Muster: Managewirkter Umhang;1;135000;150000
 7086;Muster: Irdener Seidengürtel;1;2062;4000
-23438;Stern der Elune;1;69999;89999
-23438;Stern der Elune;1;45000;89900
-23438;Stern der Elune;1;36237;60263
-23438;Stern der Elune;1;36237;60263
-23438;Stern der Elune;1;36237;60263
-23438;Stern der Elune;1;36237;60263
 32737;Pläne: Flinkstahlschultern;1;667500;880000
 31152;Brustschutz der Illumination;1;102838;128548
 31152;Brustschutz der Illumination;1;75528;100000
@@ -874,13 +860,10 @@
 22456;Urschatten;1;39578;43975
 22456;Urschatten;1;39578;43975
 22456;Urschatten;1;39578;43975
-31201;Illidariumhang;1;3000155;3209061
 2881;Pläne: Runenverzierte Kupferbrustplatte;1;35000;50000
 24609;Schädelkappe;1;26319;50000
 12982;Silberverbundfußschützer;1;99900;99900
 31136;Brustplatte des Klingendrehs;1;151176;188971
-30810;Siegel des Sonnenzorns;5;40000;45000
-30810;Siegel des Sonnenzorns;5;41500;50000
 30810;Siegel des Sonnenzorns;10;79990;139990
 30810;Siegel des Sonnenzorns;10;79990;139990
 30810;Siegel des Sonnenzorns;10;79990;139990
@@ -953,9 +936,6 @@
 31079;Quecksilberadamantit;1;175000;200000
 31079;Quecksilberadamantit;1;175000;200000
 31079;Quecksilberadamantit;1;175000;200000
-31079;Quecksilberadamantit;1;175000;200000
-31079;Quecksilberadamantit;1;175000;200000
-31079;Quecksilberadamantit;1;170000;195000
 31079;Quecksilberadamantit;1;170000;195000
 31079;Quecksilberadamantit;1;170000;195000
 31079;Quecksilberadamantit;1;170000;195000

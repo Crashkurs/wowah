@@ -43,16 +43,9 @@
 12711;Pläne: Helm der weißen Seele;1;225000;330000
 12711;Pläne: Helm der weißen Seele;1;459999;569999
 12359;Thoriumbarren;20;11400;14250
-7912;Robuster Stein;10;10500;20000
 7912;Robuster Stein;20;8900;10000
-7912;Robuster Stein;8;3040;3800
 7912;Robuster Stein;20;8900;10000
-7912;Robuster Stein;20;13000;14000
-7912;Robuster Stein;20;10099;11111
-7912;Robuster Stein;20;9216;11520
 7912;Robuster Stein;20;9900;10000
-7912;Robuster Stein;20;9900;10000
-7912;Robuster Stein;10;10500;20000
 7912;Robuster Stein;20;8900;10000
 7912;Robuster Stein;20;8900;10000
 7912;Robuster Stein;10;10500;20000
@@ -199,7 +192,6 @@
 6359;Feuerflossenschnapper;10;4000;4500
 6359;Feuerflossenschnapper;20;7750;8800
 6359;Feuerflossenschnapper;2;668;836
-6359;Feuerflossenschnapper;10;89990;99990
 6359;Feuerflossenschnapper;14;2505;3000
 12425;Imperiale Plattenarmschienen;1;34041;42552
 12425;Imperiale Plattenarmschienen;1;34041;42552
@@ -249,7 +241,6 @@
 11176;Traumstaub;5;14000;15500
 11176;Traumstaub;5;14000;15500
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7875;8800
-2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7875;8800
 13476;Rezept: Mächtiger Wuttrank;1;14500;20600
 13476;Rezept: Mächtiger Wuttrank;1;12548;20394
 13476;Rezept: Mächtiger Wuttrank;1;8245;20600
@@ -261,12 +252,6 @@
 12691;Pläne: Wilddornpanzerung;1;12500;13500
 9800;Efeukugel;1;3040;9900
 11152;Formel: Handschuhe - Angeln;1;119105;132339
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;10;21500;23000
-4337;Dicke Spinnenseide;2;4300;4600
-4337;Dicke Spinnenseide;1;560;950
-4337;Dicke Spinnenseide;5;7428;9285
-4337;Dicke Spinnenseide;6;19168;21298
 4337;Dicke Spinnenseide;5;7428;9285
 4337;Dicke Spinnenseide;10;21500;23000
 4337;Dicke Spinnenseide;10;21500;23000
@@ -401,7 +386,6 @@
 16203;Große ewige Essenz;1;83333;85555
 16203;Große ewige Essenz;1;83333;85555
 16203;Große ewige Essenz;1;60100;79999
-3577;Goldbarren;13;11700;0
 3577;Goldbarren;13;11700;0
 9233;Elixier der Dämonenentdeckung;3;5973;6637
 9233;Elixier der Dämonenentdeckung;2;3800;3800

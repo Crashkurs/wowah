@@ -1,9 +1,7 @@
 33782;Beständiger Talasit;1;69999;79999
 33782;Beständiger Talasit;1;45000;80000
-23438;Stern der Elune;1;39000;41500
 23438;Stern der Elune;1;35000;42000
 23438;Stern der Elune;1;39000;41500
-23438;Stern der Elune;1;95600;119500
 23438;Stern der Elune;1;39000;41500
 24297;Muster: Armschienen der Verwüstung;1;394716;493395
 24297;Muster: Armschienen der Verwüstung;1;347596;434496
@@ -81,7 +79,6 @@
 24051;Massiver Dämmerstein;1;140000;150000
 24051;Massiver Dämmerstein;1;200000;250000
 27676;Seltsame Sporen;5;13456;14951
-27676;Seltsame Sporen;3;6782;8478
 23100;Glitzernder Flammenspessarit;1;18246;22808
 23100;Glitzernder Flammenspessarit;1;18246;22808
 23100;Glitzernder Flammenspessarit;1;18246;22808
@@ -198,8 +195,6 @@
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1799999;1999999
 32747;Muster: Flinkschlagschultern;1;1482000;1852500
-22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
-22836;Erheblicher Trank des traumlosen Schlafs;1;12544;15680
 23095;Klobiger Blutgranat;1;59999;69999
 23095;Klobiger Blutgranat;1;26699;28899
 23095;Klobiger Blutgranat;1;29568;29710
@@ -329,7 +324,6 @@
 24298;Muster: Schwarzgestreifte Armschienen;1;245000;250000
 24298;Muster: Schwarzgestreifte Armschienen;1;175812;219765
 24298;Muster: Schwarzgestreifte Armschienen;1;699999;699999
-22851;Fläschchen der Stärkung;1;126322;127699
 22851;Fläschchen der Stärkung;1;125555;128799
 22851;Fläschchen der Stärkung;1;125555;128799
 22851;Fläschchen der Stärkung;1;125555;128799
@@ -340,30 +334,7 @@
 22851;Fläschchen der Stärkung;1;119999;127799
 22851;Fläschchen der Stärkung;1;126322;127699
 22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;125000;125000
 22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;126322;127699
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;125000;125000
-22851;Fläschchen der Stärkung;5;599999;599999
-22851;Fläschchen der Stärkung;1;125000;125000
 24222;Dolch des schleichenden Todes;1;187898;208776
 24222;Dolch des schleichenden Todes;1;189999;199999
 24222;Dolch des schleichenden Todes;1;76315;88888
@@ -379,8 +350,6 @@
 22838;Hasttrank;5;239999;249999
 22838;Hasttrank;5;239999;249999
 22838;Hasttrank;5;239999;249999
-32067;Elixier der draenischen Weisheit;20;255000;300000
-32067;Elixier der draenischen Weisheit;20;255000;300000
 32067;Elixier der draenischen Weisheit;3;39984;49980
 31306;Gamaschen des heiligen Wappens;1;150346;183344
 24050;Schimmernder Dämmerstein;1;119999;168899

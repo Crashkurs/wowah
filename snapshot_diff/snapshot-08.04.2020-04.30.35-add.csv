@@ -23,7 +23,6 @@
 10940;Seltsamer Staub;20;84444;86666
 10940;Seltsamer Staub;20;84444;86666
 24243;Adamantitpulver;20;43480;49780
-24243;Adamantitpulver;5;16500;18000
 24243;Adamantitpulver;20;43480;49780
 24243;Adamantitpulver;20;43480;49780
 21877;Netherstoff;20;23900;38700
@@ -43,8 +42,6 @@
 21877;Netherstoff;20;33999;34000
 11184;Blauer Machtkristall;1;6804;7560
 7472;Majestätische Stiefel;1;10000;30000
-24051;Massiver Dämmerstein;1;133988;207485
-24051;Massiver Dämmerstein;1;133988;207485
 27676;Seltsame Sporen;20;92000;92000
 27676;Seltsame Sporen;20;92000;92000
 27676;Seltsame Sporen;20;92000;92000
@@ -54,9 +51,6 @@
 27676;Seltsame Sporen;20;92000;92000
 27676;Seltsame Sporen;8;22400;23500
 29530;Trommeln des Tempos;1;322267;374741
-29529;Trommeln der Schlacht;1;453500;478000
-29529;Trommeln der Schlacht;1;478999;478999
-29529;Trommeln der Schlacht;1;453500;478000
 32230;Schattensangamethyst;1;435600;435600
 32230;Schattensangamethyst;1;435600;435600
 32230;Schattensangamethyst;1;425000;430000
@@ -117,14 +111,6 @@
 11178;Großer strahlender Splitter;1;25000;35000
 11178;Großer strahlender Splitter;1;25000;35000
 11178;Großer strahlender Splitter;4;79040;98800
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;5;305000;600000
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
 25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
 25029;Kriegsherreneisenunterarmschienen;1;45900;47900
@@ -158,8 +144,6 @@
 7487;Hauptmannsgamaschen;1;12999;13000
 11185;Grüner Machtkristall;11;53500;71000
 11185;Grüner Machtkristall;1;4800;6400
-23445;Teufelseisenbarren;20;228899;228999
-23445;Teufelseisenbarren;3;22344;27930
 31672;Rippchen der Mok'Nathal;7;3500;5250
 31672;Rippchen der Mok'Nathal;20;29832;29940
 31672;Rippchen der Mok'Nathal;20;29832;29940
@@ -196,9 +180,6 @@
 24994;Totschlägerhelm;1;62949;65900
 13068;Obsidianschienbeinschützer;1;52537;150000
 7517;Hauchzarte Tunika;1;30000;40000
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
-31673;Knusperschlange;20;349980;379980
 6037;Echtsilberbarren;20;33000;33100
 21845;Urmondstoff;1;346000;374999
 21845;Urmondstoff;1;346000;374999

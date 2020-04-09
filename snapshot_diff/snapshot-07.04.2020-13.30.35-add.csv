@@ -30,7 +30,6 @@
 24597;Sternenfeuerschärpe;1;27408;36760
 24597;Sternenfeuerschärpe;1;37408;46760
 18665;Das Auge der Schatten;1;2220000;2220000
-7086;Muster: Irdener Seidengürtel;1;4649;5812
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
@@ -243,7 +242,6 @@
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
-14581;Dokebibrustschutz;1;6653;8317
 13040;Herzsuchende Armbrust;1;43283;88200
 15562;Plündererschulterstücke;1;30000;40000
 7976;Pläne: Mithrilschildstachel;1;100000;150000
@@ -462,11 +460,6 @@
 20498;Silithidenchitin;7;37204;41338
 1168;Schädelflammenschild;1;133444;171100
 2589;Leinenstoff;19;370;4500
-2589;Leinenstoff;20;3648;4560
-2589;Leinenstoff;20;3648;4560
-2589;Leinenstoff;20;4000;5000
-2589;Leinenstoff;5;49995;49995
-2589;Leinenstoff;3;736;921
 2589;Leinenstoff;20;4500;4560
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;9016;11270
@@ -897,25 +890,6 @@
 15581;Spiegelpanzerstulpen;1;4191;11500
 24307;Muster: Managewirkter Umhang;1;380357;442619
 15577;Spiegelpanzerarmschienen;1;3475;5900
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;59540;75050
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;69000;79000
-7080;Essenz des Wassers;1;69000;79000
-7080;Essenz des Wassers;3;233542;259491
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;6;465696;582120
-7080;Essenz des Wassers;1;95000;99000
 15650;Gnadenloser Übermantel;1;33345;40000
 13041;Wächterklinge;1;26236;38040
 13041;Wächterklinge;1;16774;21500
@@ -1049,19 +1023,6 @@
 22790;Urflechte;20;51420;58200
 23825;Gürtel der fast perfekten Unverwundbarkeit;1;300000;310000
 11176;Traumstaub;20;99999;99999
-11176;Traumstaub;20;99999;99999
-11176;Traumstaub;20;99999;99999
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;3;5852;7300
-11176;Traumstaub;20;90000;95000
-11176;Traumstaub;20;140000;150000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;20;95000;99000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
 15564;Unverwüstliches Rüstungsset;10;42198;46886
 15564;Unverwüstliches Rüstungsset;3;34500;36900
 15564;Unverwüstliches Rüstungsset;2;9065;10072

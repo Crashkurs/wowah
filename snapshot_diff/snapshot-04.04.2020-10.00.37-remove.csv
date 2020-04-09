@@ -54,7 +54,6 @@
 9262;Schwarzes Vitriol;1;3734;4668
 9262;Schwarzes Vitriol;2;3734;4668
 9262;Schwarzes Vitriol;1;3734;4668
-4625;Feuerblüte;1;6304;7004
 4625;Feuerblüte;20;87500;0
 4625;Feuerblüte;20;87500;0
 4625;Feuerblüte;20;87500;0
@@ -97,11 +96,6 @@
 9252;Unteres Kartenfragment;1;31920;39900
 4611;Blaue Perle;1;700;2000
 4611;Blaue Perle;1;700;2000
-4611;Blaue Perle;1;600;1600
-4611;Blaue Perle;1;9856;10951
-4611;Blaue Perle;1;9856;10951
-4611;Blaue Perle;1;1824;2280
-4611;Blaue Perle;3;18137;20152
 8153;Wildranke;2;9530;10589
 8153;Wildranke;5;22500;24950
 6672;Bauplan: Blitzstrahlbombe;1;1000000;1500000
@@ -149,21 +143,11 @@
 10939;Große Magieessenz;1;19000;21500
 9293;Rezept: Magiewiderstandstrank;1;18600;34999
 9293;Rezept: Magiewiderstandstrank;1;18600;34999
-8146;Tückische Klaue;1;1515;1683
 1720;Wirrholzstab;1;34656;43320
 3355;Wildstahlblume;1;5879;7349
 3355;Wildstahlblume;4;29900;29999
-4234;Schweres Leder;20;104500;108999
-4234;Schweres Leder;20;104500;108999
-4234;Schweres Leder;9;79900;79900
-4234;Schweres Leder;20;115000;127500
-4234;Schweres Leder;20;140000;140000
-4234;Schweres Leder;6;40000;40000
 4234;Schweres Leder;20;104500;109000
 4234;Schweres Leder;20;104500;109000
-4234;Schweres Leder;20;115000;127500
-4234;Schweres Leder;20;115000;127500
-4234;Schweres Leder;17;93500;102000
 10978;Kleiner gleißender Splitter;1;122;153
 10978;Kleiner gleißender Splitter;1;122;153
 10978;Kleiner gleißender Splitter;1;122;153
@@ -192,7 +176,6 @@
 10606;Bauplan: Fallschirmumhang;1;1500;2400
 9297;Rezept: Elixier der Traumvision;1;200000;220000
 3210;Brutale Kriegsaxt;1;18006;22508
-3197;Steinfräserclaymore;1;29744;37180
 3202;Waldlederarmschienen;1;200000;250000
 3202;Waldlederarmschienen;1;200000;250000
 3202;Waldlederarmschienen;1;200000;250000

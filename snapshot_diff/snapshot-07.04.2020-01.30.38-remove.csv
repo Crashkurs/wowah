@@ -18,9 +18,6 @@
 24597;Sternenfeuerschärpe;1;37408;46760
 24597;Sternenfeuerschärpe;1;27408;36760
 24597;Sternenfeuerschärpe;1;40000;80000
-23447;Eterniumbarren;20;1350000;1450000
-23447;Eterniumbarren;20;1499999;1499999
-23447;Eterniumbarren;20;1350000;1450000
 23114;Schimmernder Golddraenit;1;27756;34696
 21877;Netherstoff;20;34900;35520
 21877;Netherstoff;20;34900;35520
@@ -73,16 +70,6 @@
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;2980000;2990000
 32227;Purpurspinell;1;3699998;3899999
-23112;Golddraenit;1;22634;35793
-23112;Golddraenit;20;315000;332500
-23112;Golddraenit;20;371600;389500
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;1;37000;39500
-23112;Golddraenit;20;323232;333333
-23112;Golddraenit;20;336800;396000
-23112;Golddraenit;20;315000;332500
-23112;Golddraenit;20;336800;396000
 23112;Golddraenit;1;37000;39500
 23112;Golddraenit;20;371600;389500
 23112;Golddraenit;1;29999;39999
@@ -106,17 +93,6 @@
 13468;Schwarzer Lotus;1;35635;44544
 23518;Teufelsstahlgamaschen;1;700756;800000
 23518;Teufelsstahlgamaschen;1;700756;800000
-23107;Schattendraenit;20;291984;349980
-23107;Schattendraenit;20;291984;349980
-23107;Schattendraenit;20;150000;199999
-23107;Schattendraenit;20;150000;199999
-23107;Schattendraenit;4;28576;35720
-23107;Schattendraenit;1;7144;8930
-23107;Schattendraenit;20;150000;199999
-23107;Schattendraenit;20;188500;199000
-23107;Schattendraenit;20;188500;199000
-23107;Schattendraenit;20;242424;252525
-23107;Schattendraenit;1;12870;14300
 4338;Magiestoff;11;74125;90000
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;10562;11500
 6586;Späherhandschuhe;1;757;1500
@@ -133,8 +109,6 @@
 2835;Rauer Stein;11;3044;3806
 2835;Rauer Stein;9;2361;2952
 2835;Rauer Stein;20;4976;7000
-24401;Unbekannte Pflanzenteile;6;53572;59524
-24401;Unbekannte Pflanzenteile;20;142500;150000
 24401;Unbekannte Pflanzenteile;20;142500;150000
 24401;Unbekannte Pflanzenteile;6;53572;59524
 3840;Grüne Eisenschultern;1;19272;24090
@@ -187,15 +161,6 @@
 24062;Robuster Talasit;1;45000;57000
 24062;Robuster Talasit;1;45000;57000
 24062;Robuster Talasit;1;45000;57000
-23446;Adamantitbarren;20;174208;217760
-23446;Adamantitbarren;9;78393;97992
-23446;Adamantitbarren;6;49646;62058
-23446;Adamantitbarren;20;174207;217759
-23113;Glänzender Golddraenit;1;21760;34700
-23113;Glänzender Golddraenit;1;4855;6505
-23113;Glänzender Golddraenit;1;13798;17248
-23113;Glänzender Golddraenit;1;4855;6505
-23113;Glänzender Golddraenit;1;4855;6505
 23113;Glänzender Golddraenit;1;4855;6505
 23113;Glänzender Golddraenit;1;13798;17248
 23113;Glänzender Golddraenit;1;21760;34700
@@ -313,11 +278,6 @@
 4234;Schweres Leder;20;130000;145000
 4234;Schweres Leder;20;130000;145000
 4234;Schweres Leder;9;35500;38000
-13466;Pestblüte;9;14947;18684
-13466;Pestblüte;20;7500;25000
-13466;Pestblüte;20;7500;25000
-13466;Pestblüte;20;7500;25000
-13466;Pestblüte;20;7500;25000
 23517;Teufelsstahlhandschuhe;1;334324;417905
 23517;Teufelsstahlhandschuhe;1;305466;360000
 8951;Elixier der großen Verteidigung;20;25000;35000
@@ -364,27 +324,6 @@
 25844;Adamantitrute;1;91200;114000
 25844;Adamantitrute;1;91200;114000
 2915;Taraneisbrecher;1;102840;113550
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
-22854;Fläschchen des unerbittlichen Angriffs;1;184151;193999
 22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
 22854;Fläschchen des unerbittlichen Angriffs;2;368000;388000
 22854;Fläschchen des unerbittlichen Angriffs;1;183500;194000
@@ -465,10 +404,6 @@
 23445;Teufelseisenbarren;20;229000;229000
 23445;Teufelseisenbarren;20;229000;229000
 23445;Teufelseisenbarren;20;229000;229000
-23445;Teufelseisenbarren;20;228899;228999
-23445;Teufelseisenbarren;10;90000;125000
-23445;Teufelseisenbarren;10;90000;125000
-23445;Teufelseisenbarren;11;81928;102410
 31297;Robe des Purpurordens;1;225000;250000
 22792;Alptraumranke;20;299999;349999
 22792;Alptraumranke;20;299999;399999
@@ -491,7 +426,6 @@
 7974;Scharfes Muschelfleisch;10;30000;30000
 7974;Scharfes Muschelfleisch;10;30000;30000
 7974;Scharfes Muschelfleisch;5;15000;15000
-23448;Teufelsstahlbarren;1;101920;127400
 23448;Teufelsstahlbarren;1;222000;222000
 23448;Teufelsstahlbarren;1;222000;222000
 13490;Rezept: Großer Steinschildtrank;1;388400;422500
@@ -559,22 +493,6 @@
 24750;Dolchfennstiefel;1;40000;57572
 24717;Lumpenpackgürtel;1;89100;99000
 2243;Hand von Edward dem Seltsamen;1;98674;220000
-23111;Stattlicher Schattendraenit;1;13900;26000
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;25232;25940
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;19500;26125
-23111;Stattlicher Schattendraenit;1;13900;26000
-23111;Stattlicher Schattendraenit;1;13000;27500
-23111;Stattlicher Schattendraenit;1;25232;25940
-23111;Stattlicher Schattendraenit;1;25232;35940
-23111;Stattlicher Schattendraenit;1;24000;25939
-23111;Stattlicher Schattendraenit;1;19500;26125
 23111;Stattlicher Schattendraenit;1;13000;27500
 23111;Stattlicher Schattendraenit;1;19500;26125
 23111;Stattlicher Schattendraenit;1;19500;26125
@@ -612,14 +530,6 @@
 5500;Schillernde Perle;1;58799;58799
 5500;Schillernde Perle;1;58799;58799
 9770;Grünzwirnumhang;1;625;1312
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
 23484;Teufelseisenplattengürtel;1;31453;99900
 13486;Rezept: Untod zu Wasser transmutieren;1;76326;95408
 20955;Goldener Drachenring;1;5346;5940
@@ -662,41 +572,13 @@
 23108;Leuchtender Schattendraenit;1;23033;36292
 23519;Teufelsstahlhelm;1;607000;658000
 5498;Kleine irisierende Perle;8;34400;38848
-23449;Khoriumbarren;10;850000;900000
-23449;Khoriumbarren;5;500000;500000
-23449;Khoriumbarren;5;500000;500000
-23449;Khoriumbarren;5;500000;500000
-23449;Khoriumbarren;5;500000;500000
-23449;Khoriumbarren;5;500000;500000
-23449;Khoriumbarren;10;850000;900000
-23449;Khoriumbarren;2;200000;200000
-23449;Khoriumbarren;6;542500;600000
-23449;Khoriumbarren;10;850000;900000
-23449;Khoriumbarren;10;850000;900000
-23449;Khoriumbarren;10;850000;900000
-23449;Khoriumbarren;10;850000;900000
 3389;Elixier der Verteidigung;20;61200;66600
-24478;Jaggalperle;1;14144;15715
-24478;Jaggalperle;10;81928;97410
-24478;Jaggalperle;5;39145;46830
-24478;Jaggalperle;1;6506;8133
-24478;Jaggalperle;1;7199;8299
-24478;Jaggalperle;1;7199;8299
-24478;Jaggalperle;1;14144;15715
-24478;Jaggalperle;1;14144;15715
 24478;Jaggalperle;10;81928;97410
 24478;Jaggalperle;1;6506;8133
 24478;Jaggalperle;1;7199;8299
 24478;Jaggalperle;1;14144;15715
 24478;Jaggalperle;1;14144;15715
 24478;Jaggalperle;1;14144;15715
-24478;Jaggalperle;1;11500;20000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;1;6600;8000
-24478;Jaggalperle;2;3000;10600
-24478;Jaggalperle;1;11500;15000
-24478;Jaggalperle;5;48932;54369
 24478;Jaggalperle;1;7199;8299
 24478;Jaggalperle;5;39145;46830
 14167;Bukanierscape;1;6061;7577
@@ -719,24 +601,7 @@
 6037;Echtsilberbarren;1;1875;2500
 24602;Sternenfeuerbeinkleider;1;56153;65192
 24711;Vergeltungsbrustharnisch;1;40000;60000
-24477;Jaggalmuschelfleisch;10;2770;3078
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;4;1252;1391
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;2;300;400
-24477;Jaggalmuschelfleisch;1;900;999
-24477;Jaggalmuschelfleisch;10;4231;4702
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;1;277;307
-24477;Jaggalmuschelfleisch;4;400;800
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;1;100;233
-24477;Jaggalmuschelfleisch;10;1000;2330
 24477;Jaggalmuschelfleisch;5;1744;2180
-24477;Jaggalmuschelfleisch;10;99;232
 24477;Jaggalmuschelfleisch;1;100;233
 24477;Jaggalmuschelfleisch;1;900;999
 24477;Jaggalmuschelfleisch;1;900;999
@@ -782,7 +647,6 @@
 22790;Urflechte;20;22500;35000
 22790;Urflechte;20;41080;42720
 23825;Gürtel der fast perfekten Unverwundbarkeit;1;300000;310000
-24771;Grollhufschulterschutz;1;1874761;1880000
 24771;Grollhufschulterschutz;1;1874761;1880000
 30323;Pläne: Stiefel des Beschützers;1;172139;191265
 13476;Rezept: Mächtiger Wuttrank;1;12365;20097

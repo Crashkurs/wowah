@@ -113,13 +113,6 @@
 2579;Grünes Leinenhemd;1;30000;50000
 4382;Bronzegerüst;1;1710;1900
 19260;Kriegsfürst 3;1;17800;22250
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;1000000;1020000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;855000;950000
-25868;Himmelsfeuerdiamant;1;920000;930000
-25868;Himmelsfeuerdiamant;1;920000;930000
-25868;Himmelsfeuerdiamant;1;920000;930000
 16653;Schredderanleitung - Seite 9;1;30000;50000
 16653;Schredderanleitung - Seite 9;1;30000;50000
 6889;Kleines Ei;1;8293;9214
@@ -161,7 +154,6 @@
 24718;Lumpenpackstiefel;1;62720;78400
 2749;Die Grünen Hügel des Schlingendorntals - Seite 25;1;3222;3580
 13093;Rotglutring;1;13050;14500
-24667;Schattenratmantel;1;143178;178973
 24667;Schattenratmantel;1;140000;160000
 3827;Manatrank;3;1905;2358
 24751;Dolchfennkampfweste;1;75165;86457
@@ -187,12 +179,8 @@
 2449;Erdwurzel;10;240;570
 2449;Erdwurzel;10;240;570
 2449;Erdwurzel;10;240;570
-25901;Bemerkenswerter Erdsturmdiamant;1;909999;955599
 25901;Bemerkenswerter Erdsturmdiamant;1;782248;795310
 25901;Bemerkenswerter Erdsturmdiamant;1;782248;795310
-25901;Bemerkenswerter Erdsturmdiamant;1;905751;944396
-25901;Bemerkenswerter Erdsturmdiamant;1;930125;954900
-25901;Bemerkenswerter Erdsturmdiamant;1;955000;955400
 9252;Unteres Kartenfragment;1;29999;38899
 24062;Robuster Talasit;1;45000;57000
 24062;Robuster Talasit;1;45000;57000
@@ -281,9 +269,7 @@
 3357;Lebenswurz;6;990;1026
 22795;Teufelsblüte;18;4219;5274
 13890;Panzerfisch;2;3332;6666
-24032;Fragiler lebendiger Rubin;1;125000;149900
 24032;Fragiler lebendiger Rubin;1;138782;146424
-24032;Fragiler lebendiger Rubin;1;125000;149900
 3858;Mithrilerz;1;8495;9439
 3858;Mithrilerz;1;8495;9439
 4416;Bauplan: Goblinlandmine;1;97100;109000
@@ -379,18 +365,12 @@
 1460;Schattenfellzweihandschwert;1;38961;41134
 19265;Kriegsfürst 8;1;42090;42095
 25906;Vorlage: Brutaler Erdsturmdiamant;1;198080;247600
-25906;Vorlage: Brutaler Erdsturmdiamant;1;97936;99920
-25906;Vorlage: Brutaler Erdsturmdiamant;1;309580;508225
 20827;Ring der Silbermacht;1;2510;3900
 20827;Ring der Silbermacht;1;2510;3900
 20827;Ring der Silbermacht;1;2510;3900
 16650;Schredderanleitung - Seite 6;1;30000;50000
 10054;Lavendelfarbenes Magiestoffhemd;1;15363;19204
 15252;Hauerschwert;1;40000;80000
-24060;Glänzender Edeltopas;1;166599;184099
-24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;165000;185000
-24060;Glänzender Edeltopas;1;166599;184099
 22146;Buch: Gabe der Wildnis III;1;319600;399500
 19702;Münze der Blutfratzen;10;550000;585000
 19702;Münze der Blutfratzen;1;30000;40000
@@ -417,38 +397,15 @@
 12363;Arkankristall;6;158000;159999
 12363;Arkankristall;1;15379;20422
 23572;Urnether;3;93440;93450
-23572;Urnether;20;491600;499500
-23572;Urnether;2;102400;128000
-23572;Urnether;18;273585;341982
 5788;Muster: Dicke Murlocrüstung;1;2000;2000
 13759;Roher Nachtflossenschnapper;14;139930;139930
 15385;Zornprankengamaschen;1;17173;29999
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
 13067;Hydralickrüstung;1;66000;77000
 24675;Eldr'naanschulterpolster;1;1952745;1990000
 24675;Eldr'naanschulterpolster;1;71664;89580
 23532;Stulpen des eisernen Turms;1;1111111;0
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;4349;4832
 13020;Bogen des Himmelsstürmers;1;24952;27999
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;126560;128400
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;127984;159980
-22793;Manadistel;20;127984;159980
 22793;Manadistel;20;92299;93333
 22793;Manadistel;20;92299;93333
 3685;Raptorei;1;2487;2764
@@ -485,21 +442,6 @@
 27682;Talbukwildbret;14;20580;24010
 27682;Talbukwildbret;20;75000;85000
 8151;Fläschchen Mojo;1;80000;100000
-24030;Runenverzierter lebendiger Rubin;1;249999;286699
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;250000;299999
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
-24030;Runenverzierter lebendiger Rubin;1;261102;286599
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
@@ -512,23 +454,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
 22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
 22854;Fläschchen des unerbittlichen Angriffs;5;660000;696600
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9525;11907
-23118;Gediegener Azurmondstein;1;9999;11199
-23118;Gediegener Azurmondstein;1;9999;11199
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;11065;11150
-23118;Gediegener Azurmondstein;1;9900;11149
-23118;Gediegener Azurmondstein;1;9999;10099
-23118;Gediegener Azurmondstein;1;9900;11149
 13139;Bauchripper;1;120000;150000
 24732;Deliriumsarmschützer;1;25000;50000
 24654;Konsortiumstiefel;1;1441035;1460000
@@ -634,15 +559,9 @@
 15994;Thoriumapparat;10;189990;199990
 25905;Vorlage: Harter Erdsturmdiamant;1;174670;182966
 25905;Vorlage: Harter Erdsturmdiamant;1;151076;188845
-25905;Vorlage: Harter Erdsturmdiamant;1;67600;69500
-25905;Vorlage: Harter Erdsturmdiamant;1;45000;70000
-25905;Vorlage: Harter Erdsturmdiamant;1;151924;189905
-25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
-25905;Vorlage: Harter Erdsturmdiamant;1;221509;276887
 19706;Münze der Blutskalpe;1;55000;59500
 19706;Münze der Blutskalpe;4;139587;175984
 6572;Verteidigungsstarker Schild;1;20000;50000
-3575;Eisenbarren;14;70000;75840
 3575;Eisenbarren;20;56000;60000
 3575;Eisenbarren;20;56000;60000
 6338;Silberrute;1;368;495
@@ -652,17 +571,7 @@
 9254;Cuergos Schatzkarte;1;389999;399999
 10286;Herz der Wildnis;10;96000;99999
 15345;Pfadfinderschulterpolster;1;10000;20000
-23529;Adamantitwetzstein;5;149995;149995
 23529;Adamantitwetzstein;10;250000;285000
-23529;Adamantitwetzstein;5;270000;300000
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;270000;300000
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
-23529;Adamantitwetzstein;5;149995;149995
 23529;Adamantitwetzstein;10;250000;285000
 5997;Elixier der schwachen Verteidigung;10;3837;4264
 15347;Pfadfindergürtel;1;1432;3500
@@ -674,9 +583,6 @@
 2575;Rotes Leinenhemd;1;80000;100000
 31153;Axt der Legion;1;246692;256324
 25896;Mächtiger Erdsturmdiamant;1;968823;968823
-25896;Mächtiger Erdsturmdiamant;1;932952;979600
-25896;Mächtiger Erdsturmdiamant;1;979900;979900
-25896;Mächtiger Erdsturmdiamant;1;955823;968824
 4304;Dickes Leder;1;8262;9180
 14343;Kleiner glänzender Splitter;1;100;202
 24838;Zornflossengürtelbund;1;38451;43064
@@ -717,7 +623,6 @@
 20960;Gravierter Echtsilberring;1;9500;13000
 20960;Gravierter Echtsilberring;1;9500;13000
 24719;Lumpenpackbrustharnisch;1;578674;723343
-24719;Lumpenpackbrustharnisch;1;50000;60000
 24639;Nebelschilftunika;1;950689;990000
 2576;Weißes Leinenhemd;1;80000;100000
 9251;Oberes Kartenfragment;1;89999;99999
@@ -794,8 +699,6 @@
 3174;Spinnensekret;1;11011;12057
 3174;Spinnensekret;1;11011;12057
 6342;Formel: Brust - Schwaches Mana;1;2293;2867
-25897;Starker Erdsturmdiamant;1;1039867;1134400
-25897;Starker Erdsturmdiamant;1;1098537;1121921
 24478;Jaggalperle;1;6019;7077
 24478;Jaggalperle;1;6019;7077
 27681;Phasenverschobenes Fleisch;2;8000;9000
@@ -804,35 +707,7 @@
 27681;Phasenverschobenes Fleisch;20;85000;95000
 9172;Unsichtbarkeitstrank;2;38500;39500
 22794;Teufelslotus;3;115000;119999
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;166750;168888
-22521;Überragendes Manaöl;1;127634;159543
-22521;Überragendes Manaöl;1;166750;168888
 24694;Knochenmalmerflickenstiefel;1;50000;60000
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-22866;Fläschchen des reinen Todes;1;209999;209999
-24031;Heller lebendiger Rubin;1;259999;299999
-24031;Heller lebendiger Rubin;1;258899;281199
 24640;Nebelschilfhandschuhe;1;20000;33792
 6037;Echtsilberbarren;1;1995;2216
 6037;Echtsilberbarren;20;89980;99980
@@ -851,18 +726,7 @@
 4337;Dicke Spinnenseide;1;1047;1119
 4337;Dicke Spinnenseide;1;1047;1119
 24711;Vergeltungsbrustharnisch;1;40000;60000
-24033;Gediegener Stern der Elune;1;69999;77799
-24033;Gediegener Stern der Elune;1;95000;99000
 24033;Gediegener Stern der Elune;1;59999;68899
-24033;Gediegener Stern der Elune;1;79999;87799
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;79164;79999
-24033;Gediegener Stern der Elune;1;95000;99000
-24033;Gediegener Stern der Elune;1;95000;99000
 16652;Schredderanleitung - Seite 8;1;30000;50000
 16652;Schredderanleitung - Seite 8;1;30000;50000
 16652;Schredderanleitung - Seite 8;1;30000;50000

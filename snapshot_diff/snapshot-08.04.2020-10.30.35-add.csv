@@ -151,7 +151,6 @@
 34440;Trank des verrückten Alchemisten;5;189999;199999
 31916;Delirium 6;1;1750000;2250000
 10187;Schwadroneursaugenklappe;1;17677;35000
-31187;Stiefel des Pfadfinders;1;91005;108757
 32580;Flinkschlagarmschienen;1;4504533;5500000
 31877;Vorlage: Energieerfülltes Nachtauge;1;154187;192734
 31304;Essenzfokussierer;1;140000;150000
@@ -297,10 +296,6 @@
 23199;Totem des Sturms;1;222200;225000
 10275;Smaragdbrustplatte;1;42535;85000
 32577;Lebendige Erdbindungen;1;3666136;3999900
-31180;Stulpen der Schädelspalter;1;102450;128063
-31178;Amulett der unbeständigen Macht;1;58162;80000
-31178;Amulett der unbeständigen Macht;1;58162;80000
-31178;Amulett der unbeständigen Macht;1;168162;189999
 13464;Goldener Sansam;1;14448;18061
 12644;Verdichteter Schleifstein;1;14714;18393
 12644;Verdichteter Schleifstein;9;61056;76320
@@ -334,7 +329,6 @@
 31151;Gurt der Belagerung;1;82699;85221
 31151;Gurt der Belagerung;1;36952;85000
 16051;Bauplan: Thoriumpatronen;1;17959;22449
-31190;Schulterpolster des Träumers;1;355600;369500
 24060;Glänzender Edeltopas;1;180500;183999
 31888;Segen 3;1;129960;162450
 31888;Segen 3;1;136800;171000
@@ -441,10 +435,6 @@
 12528;Der Hammer des Richters;1;118644;148305
 31139;Faust der Abrechnung;1;114442;120000
 31139;Faust der Abrechnung;1;184442;200000
-31186;Braxxis' Stab des Schlummers;1;98800;123500
-31186;Braxxis' Stab des Schlummers;1;135000;149000
-31186;Braxxis' Stab des Schlummers;1;135000;149000
-31186;Braxxis' Stab des Schlummers;1;129999;130000
 22861;Fläschchen des blendenden Lichts;1;204999;208997
 22861;Fläschchen des blendenden Lichts;1;204999;208997
 22861;Fläschchen des blendenden Lichts;1;204999;208997
@@ -485,8 +475,6 @@
 32755;Muster: Mantelung des flinken Gedankens;1;1444995;1444995
 32755;Muster: Mantelung des flinken Gedankens;1;1444995;1444995
 32755;Muster: Mantelung des flinken Gedankens;1;1398750;1420000
-29547;Windschuppen;20;697500;790000
-29547;Windschuppen;20;999979;999979
 23575;Geringer Zauberschutz der Abschirmung;5;13028;16285
 24298;Muster: Schwarzgestreifte Armschienen;1;599999;599999
 34827;Adligenmonokel;1;444444;499999
@@ -494,7 +482,6 @@
 23131;Vorlage: Klobiger Blutgranat;1;198750;200000
 31889;Segen 2;1;3000000;6000000
 31150;Handschuhe der Frömmigkeit;1;33599;40000
-31196;Amulett der Weihung;1;95788;99000
 22825;Elixier der Heilkraft;20;495000;500000
 22825;Elixier der Heilkraft;20;495000;500000
 22452;Urerde;3;120282;133647
@@ -518,7 +505,6 @@
 12655;Verzauberter Thoriumbarren;10;250000;300000
 24296;Muster: Armschienen des Unerschütterlichen;1;210000;220000
 24296;Muster: Armschienen des Unerschütterlichen;1;109998;109998
-31201;Illidariumhang;1;454836;500000
 13490;Rezept: Großer Steinschildtrank;1;368400;428000
 11175;Große Netheressenz;1;119999;119999
 11175;Große Netheressenz;2;182370;195970
@@ -558,7 +544,6 @@
 32833;Geläuterte Jaggalperle;1;25199;38999
 32833;Geläuterte Jaggalperle;1;25199;38999
 32833;Geläuterte Jaggalperle;1;25199;38999
-31191;Armschienen aus Krokiliskenbalg;1;89552;112690
 31148;Dämonenbalgschiftung;1;27782;80000
 31148;Dämonenbalgschiftung;1;82032;102541
 23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
@@ -606,9 +591,7 @@
 33122;Umhang der Dunkelheit;1;4609599;4995999
 2911;Kellers Gurt;1;75000;95000
 10199;Kreuzfahrergamaschen;1;30000;40000
-27665;Gedünstete Blauflosse;20;424500;429999
 27665;Gedünstete Blauflosse;20;323232;333333
-27665;Gedünstete Blauflosse;20;335168;343960
 12800;Azerothischer Diamant;1;85000;89909
 24056;Leuchtendes Nachtauge;1;114860;115000
 24056;Leuchtendes Nachtauge;1;122299;122299
@@ -642,7 +625,6 @@
 31138;Gurt des Sturmfürsten;1;58364;64849
 6309;17-pfündiger Wels;1;3400;4400
 6309;17-pfündiger Wels;1;3400;4400
-31193;Klinge des ungestillten Verlangens;1;107964;130000
 16203;Große ewige Essenz;1;199999;199999
 16203;Große ewige Essenz;1;199999;199999
 16203;Große ewige Essenz;1;199999;199999
@@ -685,14 +667,7 @@
 14198;Distelfellumhang;1;10000;20000
 13463;Traumblatt;13;71152;86440
 24304;Muster: Schwarzer Gürtel des Wissens;1;110000;120000
-31901;Furien Ass;1;109511;138389
 31901;Furien Ass;1;170000;184500
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;125000;130000
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
-31901;Furien Ass;1;150738;180430
 13492;Rezept: Läuterungstrank;1;24825;31032
 13492;Rezept: Läuterungstrank;1;90235;94706
 13492;Rezept: Läuterungstrank;1;39600;49500

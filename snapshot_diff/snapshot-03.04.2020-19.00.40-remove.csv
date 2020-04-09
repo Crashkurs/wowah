@@ -17,12 +17,6 @@
 9292;Feldplattenschulterstücke;1;40000;50000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
-13512;Fläschchen der obersten Macht;1;129900;139900
-13512;Fläschchen der obersten Macht;1;129900;139900
-13512;Fläschchen der obersten Macht;1;129900;139900
-13512;Fläschchen der obersten Macht;1;129900;139900
-13512;Fläschchen der obersten Macht;1;129900;139900
-13512;Fläschchen der obersten Macht;1;127500;138000
 13512;Fläschchen der obersten Macht;1;127500;138000
 9799;Efeustoffschärpe;1;2032;2540
 21884;Urfeuer;1;214000;226000
@@ -64,41 +58,6 @@
 7191;Verschmorte Verkabelung;1;11000;13500
 9881;Zauberermantelung;1;5050;9999
 9941;Bannzauberermantel;1;19573;26092
-21877;Netherstoff;20;34000;35500
-21877;Netherstoff;20;34000;35500
-21877;Netherstoff;20;34000;35500
-21877;Netherstoff;8;11520;14400
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;32000;40000
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
-21877;Netherstoff;20;34999;49999
 9327;DELTA-Daten-Sicherheitszugangskarte;1;1100;2000
 7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
 16243;Formel: Runenverzierte Arkanitrute;1;289999;299999
@@ -158,49 +117,9 @@
 15232;Hackspaltbeil;1;9558;14448
 15227;Diamantspitzenknüttel;1;29999;30101
 9797;Efeustoffhose;1;4592;6600
-17057;Glänzende Fischschuppen;1;80;86
-17057;Glänzende Fischschuppen;20;800;1000
-17057;Glänzende Fischschuppen;6;472;525
-17057;Glänzende Fischschuppen;1;78;87
-17057;Glänzende Fischschuppen;4;220;276
-17057;Glänzende Fischschuppen;20;1104;1380
-17057;Glänzende Fischschuppen;20;1104;1380
 7537;Gotischer Schild;1;21018;21499
 7081;Odem des Windes;1;43500;45000
 7081;Odem des Windes;1;30600;31000
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;129973;129986
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;158899;169997
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;120000;125000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;122000;129000
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
-21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
 21885;Urwasser;1;129873;129886
@@ -270,15 +189,11 @@
 9385;Archaischer Verteidiger;1;30743;33048
 14942;Kriegshetzerstulpen;1;25000;25000
 9295;Rezept: Unsichtbarkeitstrank;1;12299;19999
-12365;Verdichteter Stein;8;2675;3344
 14593;Falkenauges Umhang;1;12001;13335
 5961;Dunkle Lederhose;1;5000;6000
 10024;Schwarzes Magiestoffstirnband;1;40000;60000
 10024;Schwarzes Magiestoffstirnband;1;40000;60000
 4623;Geringer Steinschildtrank;3;12200;13700
-14551;Handschützer des Klingenmeisters;1;92808;105342
-14551;Handschützer des Klingenmeisters;1;99901;149900
-14551;Handschützer des Klingenmeisters;1;89999;90000
 14551;Handschützer des Klingenmeisters;1;85901;99999
 3478;Grober Schleifstein;2;77937;97422
 8386;Muster: Große Voodoorobe;1;7618;9523
@@ -376,8 +291,6 @@
 9293;Rezept: Magiewiderstandstrank;1;25422;33056
 21099;Rezept: Geräucherter Weisenfisch;1;18807;23509
 4296;Muster: Dunkle Lederschultern;1;5000;7000
-7080;Essenz des Wassers;1;59000;59000
-7080;Essenz des Wassers;3;236723;263026
 2632;Geschwungener Dolch;1;1936;2420
 14555;Alcors Sonnenschneide;1;336350;340000
 14590;Falkenauges Armschienen;1;6000;7500
@@ -439,8 +352,6 @@
 4304;Dickes Leder;2;13219;16524
 15127;Robuste Schultern;1;13270;16588
 14585;Dokebigamaschen;1;7485;9357
-21151;Schwarzer Rumsey Rum;10;34444;39999
-21151;Schwarzer Rumsey Rum;10;35000;35000
 15159;Nächtliche Tunika;1;6743;20000
 20258;Zulianischer Zeremonienstab;1;339999;439999
 13513;Fläschchen des chromatischen Widerstands;1;147500;150000
@@ -452,7 +363,6 @@
 22446;Große Planaressenz;10;1483992;1539990
 22446;Große Planaressenz;10;1483992;1539990
 22446;Große Planaressenz;10;1483992;1539990
-14581;Dokebibrustschutz;1;7004;8755
 9853;Beschwörersattelgurt;1;7500;10000
 19281;Portal 5;1;15100;35000
 19281;Portal 5;1;15100;35000
@@ -486,8 +396,6 @@
 7069;Elementarluft;2;40000;48000
 7069;Elementarluft;2;40000;48000
 7069;Elementarluft;2;40000;48000
-17202;Schneeball;20;20100;24900
-17202;Schneeball;20;20100;24900
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
@@ -497,16 +405,9 @@
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
-17202;Schneeball;20;20100;24900
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
 17202;Schneeball;5;9800;9875
-17202;Schneeball;20;27500;29500
-17202;Schneeball;20;20100;24900
-17202;Schneeball;20;20100;24900
-17202;Schneeball;20;20100;24900
-17202;Schneeball;20;20100;24900
-17202;Schneeball;20;27500;29500
 16254;Formel: Waffe - Lebensdiebstahl;1;119900;119900
 9718;Neugeschmiedete Klinge der Helden;1;77131;80000
 5964;Barbarische Schultern;1;3913;10000
@@ -549,7 +450,6 @@
 20961;Citrinring der rapiden Heilung;1;2500;3900
 20961;Citrinring der rapiden Heilung;1;2500;3900
 20961;Citrinring der rapiden Heilung;1;2500;3900
-20961;Citrinring der rapiden Heilung;1;2580;3000
 16203;Große ewige Essenz;9;850100;900000
 16203;Große ewige Essenz;1;103500;104500
 16203;Große ewige Essenz;1;103500;104500
@@ -603,14 +503,6 @@
 17056;Leichte Feder;20;80210;90000
 17056;Leichte Feder;20;80210;90000
 17056;Leichte Feder;20;80210;90000
-17056;Leichte Feder;20;80210;90000
-17056;Leichte Feder;20;80210;90000
-17056;Leichte Feder;20;80210;90000
-17056;Leichte Feder;20;80210;90000
-17056;Leichte Feder;20;43500;79800
-17056;Leichte Feder;20;66666;77777
-17056;Leichte Feder;20;66666;77777
-17056;Leichte Feder;20;66666;77777
 17062;Rezept: Mithrilkopfforelle;1;88199;97999
 14549;Stiefel der Vermeidung;1;60455;80000
 21071;Roher Weisenfisch;1;80;500

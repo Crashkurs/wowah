@@ -1,21 +1,10 @@
 9490;Gizmotronisches Megahackbeil;1;12583;22500
-24243;Adamantitpulver;20;43480;49780
 24243;Adamantitpulver;5;15580;19475
-24243;Adamantitpulver;2;4068;5030
-24243;Adamantitpulver;1;2773;3467
-24243;Adamantitpulver;5;14800;18500
-24243;Adamantitpulver;20;88888;99999
-24243;Adamantitpulver;20;88888;99999
-24243;Adamantitpulver;5;16500;18000
-24243;Adamantitpulver;20;43480;49780
-24243;Adamantitpulver;20;43480;49780
 21877;Netherstoff;20;24000;30000
 21877;Netherstoff;20;24000;30000
 21877;Netherstoff;20;24000;30000
 21884;Urfeuer;1;226000;228900
 17720;Bauplan: Schneemeister 9000;1;110000;240000
-30809;Mal des Sargeras;33;354187;393541
-30809;Mal des Sargeras;1;300;15500
 13422;Steinschuppenaal;20;60000;80000
 13422;Steinschuppenaal;10;30150;40000
 9402;Erdgeborener Kilt;1;74844;83160
@@ -24,10 +13,6 @@
 9402;Erdgeborener Kilt;1;80000;80000
 4338;Magiestoff;3;26775;27000
 4338;Magiestoff;20;178500;180000
-29533;Kobrahautbeinrüstung;1;1990000;2000000
-29533;Kobrahautbeinrüstung;1;1434500;1434750
-29533;Kobrahautbeinrüstung;1;1434999;1434999
-29533;Kobrahautbeinrüstung;1;1434999;1434999
 9405;Gurt der Golemstärke;1;24162;28215
 9405;Gurt der Golemstärke;1;14968;18710
 9405;Gurt der Golemstärke;1;23082;30000
@@ -36,25 +21,8 @@
 22456;Urschatten;20;690000;729900
 27655;Heißer Hetzer;5;24995;34995
 12042;Marschkette;1;53371;66714
-24027;Klobiger lebendiger Rubin;1;214400;223999
-24027;Klobiger lebendiger Rubin;1;214400;223999
 4611;Blaue Perle;3;16408;18232
 9782;Banditenwams;1;50000;59000
-25708;Dickes Grollhufleder;10;394900;394900
-25708;Dickes Grollhufleder;10;394900;394900
-25708;Dickes Grollhufleder;10;394900;394900
-25708;Dickes Grollhufleder;10;394900;394900
-25708;Dickes Grollhufleder;10;381250;395000
-25708;Dickes Grollhufleder;10;381250;395000
-25708;Dickes Grollhufleder;10;381250;395000
-25708;Dickes Grollhufleder;20;563000;594000
-25708;Dickes Grollhufleder;20;563000;594000
-25708;Dickes Grollhufleder;20;563000;594000
-23489;Teufelseisenbrustplatte;1;65000;95000
-23489;Teufelseisenbrustplatte;1;65000;95000
-23489;Teufelseisenbrustplatte;1;65000;95000
-23489;Teufelseisenbrustplatte;1;84593;105742
-23489;Teufelseisenbrustplatte;1;90000;120000
 23489;Teufelseisenbrustplatte;1;65000;95000
 23489;Teufelseisenbrustplatte;1;65000;95000
 23489;Teufelseisenbrustplatte;1;65000;95000
@@ -71,11 +39,6 @@
 12164;Pläne: Massive Eisenaxt;1;11650;19900
 24028;Feingeschliffener lebendiger Rubin;1;212899;222224
 24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
 24028;Feingeschliffener lebendiger Rubin;1;212899;222224
 12054;Dämonenband;1;99900;99900
 9359;Wirts drittes Bein;1;30000;45000
@@ -106,21 +69,6 @@
 24797;Expeditionsarmschienen;1;1958160;1990000
 32249;Gischtsmaragd;1;375000;380000
 32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;375000;380000
-32249;Gischtsmaragd;1;375000;380000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;375000;380000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
-32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;390000;400000
@@ -128,7 +76,6 @@
 32249;Gischtsmaragd;1;375000;380000
 32249;Gischtsmaragd;1;375000;380000
 32249;Gischtsmaragd;1;375000;380000
-32249;Gischtsmaragd;1;320000;327500
 32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;390000;400000
 32249;Gischtsmaragd;1;390000;400000
@@ -171,12 +118,7 @@
 8170;Unverwüstliches Leder;20;135000;150000
 8170;Unverwüstliches Leder;20;135000;150000
 24222;Dolch des schleichenden Todes;1;97898;108776
-31861;Großer Dämmerstein;1;159679;167499
 31861;Großer Dämmerstein;1;120000;125000
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;144900;147500
-31861;Großer Dämmerstein;1;144900;147500
 9295;Rezept: Unsichtbarkeitstrank;1;21103;26379
 9295;Rezept: Unsichtbarkeitstrank;1;29999;35599
 27656;Sporlingschmaus;2;5550;9900
@@ -229,10 +171,6 @@
 23484;Teufelseisenplattengürtel;1;31453;99900
 23484;Teufelseisenplattengürtel;1;31453;99900
 23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
-23484;Teufelseisenplattengürtel;1;31453;99900
 13120;Armschienen des tiefen Zorns;1;18999;19999
 12202;Tigerfleisch;10;2300;2500
 12202;Tigerfleisch;10;2300;2500
@@ -243,11 +181,8 @@
 24168;Vorlage: Geflochtene Eterniumkette;1;145000;150000
 22457;Urmana;1;166000;170000
 21887;Knotenhautleder;20;167500;189999
-21887;Knotenhautleder;20;160000;179999
 21887;Knotenhautleder;20;167500;189999
 23449;Khoriumbarren;20;1605000;1800000
-23449;Khoriumbarren;20;1605000;1800000
-23449;Khoriumbarren;4;325000;359900
 12203;Rotes Wolfsfleisch;2;374;478
 12203;Rotes Wolfsfleisch;10;1816;2270
 12203;Rotes Wolfsfleisch;6;1582;1758
@@ -266,20 +201,6 @@
 9298;Rezept: Elixier der Riesen;1;29000;47500
 9298;Rezept: Elixier der Riesen;1;23375;30000
 9794;Efeustoffumhang;1;2652;3316
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;94000;96000
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;122498;122500
-24052;Kompakter Dämmerstein;1;122498;122500
 24052;Kompakter Dämmerstein;1;94000;96000
 24052;Kompakter Dämmerstein;1;120000;169999
 24052;Kompakter Dämmerstein;1;94000;96000

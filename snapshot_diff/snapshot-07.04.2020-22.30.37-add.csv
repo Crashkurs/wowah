@@ -50,24 +50,6 @@
 24215;Vorlage: Glänzender Edeltopas;1;259999;289999
 6565;Schimmernde Handschuhe;1;5060;7076
 22786;Traumwinde;20;95000;179900
-22449;Großer Prismasplitter;5;894999;944999
-22449;Großer Prismasplitter;1;182956;203284
-22449;Großer Prismasplitter;5;894999;944999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;2;299999;329999
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
-22449;Großer Prismasplitter;1;125000;140000
 22449;Großer Prismasplitter;1;139999;149999
 22449;Großer Prismasplitter;1;139999;149999
 22449;Großer Prismasplitter;1;139999;149999
@@ -183,28 +165,6 @@
 17056;Leichte Feder;1;122;528
 15251;Treffsicheres Schwert;1;42893;46117
 15251;Treffsicheres Schwert;1;55600;69500
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;6;29588;37986
-30810;Siegel des Sonnenzorns;250;2105000;2150000
-30810;Siegel des Sonnenzorns;11;91429;101588
-30810;Siegel des Sonnenzorns;50;435000;455000
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;5;28724;38955
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;79990;99990
-30810;Siegel des Sonnenzorns;3;900;20000
-30810;Siegel des Sonnenzorns;6;39378;44550
 30810;Siegel des Sonnenzorns;2;5000;12000
 32464;Netheriterz;20;55000;60000
 4382;Bronzegerüst;1;1920;3000
@@ -522,7 +482,6 @@
 30305;Muster: Stiefel der naturgleichen Anmut;1;390000;430000
 30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
 30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
-27503;Rolle der Stärke V;1;20187;30000
 27503;Rolle der Stärke V;5;189500;237500
 27503;Rolle der Stärke V;5;189500;237500
 27503;Rolle der Stärke V;5;189500;237500
@@ -572,20 +531,15 @@
 24029;Tränenförmiger lebendiger Rubin;1;240000;245000
 24029;Tränenförmiger lebendiger Rubin;1;240000;245000
 24029;Tränenförmiger lebendiger Rubin;1;240000;245000
-31142;Klinge des gefangenen Wissens;1;249913;249999
 31142;Klinge des gefangenen Wissens;1;189999;237499
 31134;Klinge des Unglücks;1;147600;169500
 31134;Klinge des Unglücks;1;147600;169500
 28102;Elixier des Ansturms;2;16157;17952
 28102;Elixier des Ansturms;16;127600;159500
 28596;Vorlage: Heller Blutgranat;1;198750;200000
-31863;Ausbalanciertes Nachtauge;1;95000;99999
 31863;Ausbalanciertes Nachtauge;1;90000;99000
 31863;Ausbalanciertes Nachtauge;1;90000;99000
-31863;Ausbalanciertes Nachtauge;1;95000;99999
 31863;Ausbalanciertes Nachtauge;1;90000;99000
-31863;Ausbalanciertes Nachtauge;1;95000;99999
-31863;Ausbalanciertes Nachtauge;1;95000;99999
 31863;Ausbalanciertes Nachtauge;1;90000;99000
 31863;Ausbalanciertes Nachtauge;1;90000;99000
 15526;Wachpostencape;1;24000;36000
@@ -801,8 +755,6 @@
 22522;Überragendes Zauberöl;1;152099;165099
 22522;Überragendes Zauberöl;1;152099;165099
 22522;Überragendes Zauberöl;1;152099;165099
-31137;Stulpen der Läuterung;1;52000;75000
-31137;Stulpen der Läuterung;1;56496;80000
 31137;Stulpen der Läuterung;1;83572;99466
 31137;Stulpen der Läuterung;1;54880;68600
 24271;Zauberstoff;1;549000;579000
@@ -834,53 +786,10 @@
 2772;Eisenerz;3;5570;6638
 22572;Luftpartikel;1;24076;26752
 25037;Geflicktes Cape;1;39999;60000
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;94200;94500
-22793;Manadistel;20;94200;94500
 22793;Manadistel;20;127984;159980
 22793;Manadistel;20;127984;159980
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
 22793;Manadistel;20;127984;159980
 22793;Manadistel;20;127984;159980
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;97500;97500
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;20;98000;98800
-22793;Manadistel;2;7798;10998
-22793;Manadistel;4;15596;21996
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;92299;93333
-22793;Manadistel;20;92299;93333
-22793;Manadistel;20;92299;93333
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
-22793;Manadistel;20;179999;199999
 32902;Flasche mit Nethergonenergie;3;1000;1000
 25241;Eschentallangbogen;1;134559;168199
 2318;Leichtes Leder;20;36736;45920
@@ -916,9 +825,6 @@
 23819;Elementare Zephyriumladung;2;358000;360000
 23819;Elementare Zephyriumladung;2;358000;360000
 15124;Robuster Umhang;1;4500;6500
-22459;Sphäre der Leere;1;1999;5999
-22459;Sphäre der Leere;1;3841;4802
-22459;Sphäre der Leere;1;3841;4802
 23437;Talasit;5;225000;350000
 22854;Fläschchen des unerbittlichen Angriffs;1;170000;179500
 22854;Fläschchen des unerbittlichen Angriffs;1;153776;161999
@@ -1051,22 +957,11 @@
 21765;Echtsilberring der Heilung;1;39600;49500
 23624;Pläne: Helm des tapferen Verteidigers;1;150000;160000
 22792;Alptraumranke;10;184940;184940
-22792;Alptraumranke;20;339999;379999
-22792;Alptraumranke;20;299999;399999
-22792;Alptraumranke;20;339999;379999
-22792;Alptraumranke;20;339999;379999
-22792;Alptraumranke;20;299999;399999
-22792;Alptraumranke;20;339999;379999
-22792;Alptraumranke;20;339900;369900
-22792;Alptraumranke;20;339900;369900
-22792;Alptraumranke;20;339900;369900
-22792;Alptraumranke;20;339900;369900
 8831;Lila Lotus;20;99000;100000
 8831;Lila Lotus;20;99000;100000
 15177;Potente Schultern;1;27280;34100
 32392;Armschienen der Seelenwache;1;2008148;2200000
 7974;Scharfes Muschelfleisch;9;53640;53910
-7974;Scharfes Muschelfleisch;10;59600;59900
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
 22840;Elixier des erheblichen Magierbluts;5;99945;99945
@@ -1139,8 +1034,6 @@
 9807;Überragende Schultern;1;1882;2500
 31148;Dämonenbalgschiftung;1;82032;102541
 31148;Dämonenbalgschiftung;1;27782;80000
-31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;600000;650000
 31153;Axt der Legion;1;600000;650000
 21886;Urleben;1;98800;123500
 21886;Urleben;1;129999;139999
@@ -1264,10 +1157,6 @@
 13044;Dämonentöter;1;59500;76000
 31127;Halsberge des Totemzorns;1;62559;70000
 31127;Halsberge des Totemzorns;1;83714;94643
-31127;Halsberge des Totemzorns;1;45231;56539
-31127;Halsberge des Totemzorns;1;45231;56539
-31127;Halsberge des Totemzorns;1;51300;64125
-31127;Halsberge des Totemzorns;1;59515;59515
 28104;Elixier des Meisters;1;33331;34388
 28104;Elixier des Meisters;1;34011;35090
 28104;Elixier des Meisters;1;33331;34388
@@ -1286,37 +1175,6 @@
 31145;Kopfputz des Schläfers;1;63083;78854
 31145;Kopfputz des Schläfers;1;35000;45000
 31145;Kopfputz des Schläfers;1;38248;44400
-22457;Urmana;1;215000;220000
-22457;Urmana;1;196959;196979
-22457;Urmana;1;196959;196979
-22457;Urmana;1;196959;196979
-22457;Urmana;1;196959;196979
-22457;Urmana;1;196959;196979
-22457;Urmana;1;196959;196979
-22457;Urmana;1;200000;200000
-22457;Urmana;1;194960;194980
-22457;Urmana;1;200000;200000
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;194960;194980
-22457;Urmana;1;200000;200000
-22457;Urmana;1;194960;194980
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;181000;195000
-22457;Urmana;1;200000;200000
 22457;Urmana;1;194960;194980
 22457;Urmana;1;194960;194980
 22457;Urmana;1;194960;194980
@@ -1328,7 +1186,15 @@
 22457;Urmana;1;194960;194980
 22457;Urmana;1;194960;194980
 22457;Urmana;1;194960;194980
-22457;Urmana;1;181000;195000
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
+22457;Urmana;1;194960;194980
 23108;Leuchtender Schattendraenit;1;14248;15831
 23108;Leuchtender Schattendraenit;1;23033;36292
 23108;Leuchtender Schattendraenit;1;14248;15831

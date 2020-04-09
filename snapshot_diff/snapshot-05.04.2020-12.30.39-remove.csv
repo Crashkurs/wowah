@@ -63,15 +63,9 @@
 21885;Urwasser;1;109865;109875
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;127354;141505
 5214;Zauberstab der Abendzeit;1;11400;14250
-17056;Leichte Feder;20;68098;68118
 17056;Leichte Feder;20;66666;77777
 17056;Leichte Feder;20;66666;77777
 17056;Leichte Feder;20;66666;77777
-17056;Leichte Feder;7;10871;15575
-17056;Leichte Feder;1;2488;3111
-17056;Leichte Feder;19;36677;45847
-17056;Leichte Feder;20;38608;48260
-32749;Muster: Schultern der blitzartigen Reflexe;1;298750;300000
 32749;Muster: Schultern der blitzartigen Reflexe;1;312500;334400
 15251;Treffsicheres Schwert;1;55600;69500
 15251;Treffsicheres Schwert;1;53219;66524
@@ -88,8 +82,6 @@
 3385;Geringer Manatrank;5;500;500
 3385;Geringer Manatrank;5;500;500
 15416;Schwarze Drachenschuppe;4;356000;380000
-15230;Kammspaltbeil;1;8816;11020
-15230;Kammspaltbeil;1;30000;40000
 22529;Wildwedel;9;57224;63582
 22529;Wildwedel;10;55672;69590
 13097;Ring der Donnerbraue;1;30772;33080
@@ -119,7 +111,6 @@
 31883;Segen 8;1;6916000;8645000
 15150;Geistwandlerpolster;1;27110;37900
 1728;Teebus Langschwert der Loderflammen;1;2999404;3490000
-13089;Skibis Anhänger;1;37200;46501
 13089;Skibis Anhänger;1;25209;31512
 22527;Kern der Elemente;2;10783;11982
 14234;Glutseidenroben;1;20000;30000
@@ -189,7 +180,6 @@
 5342;Raptorpunsch;4;12000;24500
 5342;Raptorpunsch;8;24000;47500
 5342;Raptorpunsch;4;12000;23750
-13096;Hierophantenband;1;11869;30000
 13096;Hierophantenband;1;31869;50000
 23632;Pläne: Teufelsstahlschneide;1;131177;147900
 12205;Weißes Spinnenfleisch;9;30097;33441
@@ -283,17 +273,10 @@
 14256;Teufelsstoff;2;44000;44400
 14256;Teufelsstoff;2;36000;40000
 14256;Teufelsstoff;5;76000;95000
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;6703;8379
-23119;Funkelnder Azurmondstein;1;6703;8379
-23119;Funkelnder Azurmondstein;1;7056;8820
 7910;Sternrubin;1;41724;52155
 15423;Schimärenleder;1;3489;4362
 2924;Krokiliskenfleisch;2;752;836
 15152;Nächtliche Schuhe;1;20000;40000
-24167;Vorlage: Lebendiger Rubinanhänger;1;201839;212044
 23137;Vorlage: Glitzernder Flammenspessarit;1;192500;200000
 20424;Sandwurmfleisch;1;16701;18557
 15331;Zänkergelenkbänder;1;199900;199900
@@ -320,7 +303,6 @@
 11018;Erde von Un'Goro;45;178352;198169
 13056;Rasender Schläger;1;49019;61274
 32753;Muster: Flinkheilmantelung;1;989999;989999
-32753;Muster: Flinkheilmantelung;1;999999;1499999
 4091;Witwenmacher;1;33718;50000
 32751;Muster: Lebendige Erdschultern;1;438750;440000
 32751;Muster: Lebendige Erdschultern;1;438750;440000
@@ -353,23 +335,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;223300;234500
 22854;Fläschchen des unerbittlichen Angriffs;1;223300;234500
 22854;Fläschchen des unerbittlichen Angriffs;1;223300;234500
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12591;13990
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12065;12150
 13091;Medaillon von Großmarschall Morris;1;62300;77876
 10301;Muster: Weiße Banditenmaske;1;7000;19900
 10301;Muster: Weiße Banditenmaske;1;15575;17306
@@ -425,8 +390,6 @@
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;1;6786;8987
 10559;Mithrilrohr;10;80000;90000
-13094;Das Juwel der Königin;1;9900;14900
-13094;Das Juwel der Königin;1;17377;26722
 24058;Gravierter Edeltopas;1;133108;142499
 9942;Bannzaubererhose;1;14011;20000
 29723;Muster: Kobraschuppenkapuze;1;80915;92127
@@ -448,10 +411,7 @@
 17011;Lavakern;7;2000000;2100000
 17011;Lavakern;1;259338;324173
 14304;Knochenwerfers Gürtel;1;15000;15000
-13095;Angriffsband;1;23668;29585
-13095;Angriffsband;1;28691;31879
 13095;Angriffsband;1;30916;34351
-13095;Angriffsband;1;51267;66584
 17195;Unechter Mistelzweig;20;320;700
 29718;Muster: Trommeln des Tempos;1;64181;74250
 29718;Muster: Trommeln des Tempos;1;64181;74250

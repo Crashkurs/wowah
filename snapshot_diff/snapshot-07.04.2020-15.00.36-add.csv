@@ -31,9 +31,6 @@
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
 20500;Leichter Silithidenknochenpanzer;1;9900;10000
-13014;Axt von Rin'ji;1;60000;70000
-13014;Axt von Rin'ji;1;68452;76058
-13014;Axt von Rin'ji;1;61731;68590
 21884;Urfeuer;1;206600;209000
 21884;Urfeuer;1;206600;209000
 21884;Urfeuer;1;200000;200000
@@ -189,7 +186,6 @@
 23793;Schweres Knotenhautleder;2;84500;89999
 23793;Schweres Knotenhautleder;2;84500;89999
 23793;Schweres Knotenhautleder;2;84500;89999
-23793;Schweres Knotenhautleder;20;889999;899999
 23793;Schweres Knotenhautleder;2;84500;89999
 23793;Schweres Knotenhautleder;2;84500;89999
 23793;Schweres Knotenhautleder;2;84500;89999
@@ -243,8 +239,6 @@
 13042;Schwert des Magistraten;1;22045;27557
 13042;Schwert des Magistraten;1;45357;59286
 23489;Teufelseisenbrustplatte;1;84593;105742
-30308;Muster: Stiefel des Wirbelsturms;1;235000;245000
-30308;Muster: Stiefel des Wirbelsturms;1;180000;250000
 13039;Schädelspalterarmbrust;1;19341;24177
 3858;Mithrilerz;20;147500;149999
 3858;Mithrilerz;20;145000;148000
@@ -258,47 +252,6 @@
 23786;Khoriumkraftkern;1;338000;350000
 23786;Khoriumkraftkern;1;338000;350000
 19818;Durchstochene Voodoopuppe;1;219128;273910
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;189500;237500
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;250000;292000
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;219333;225499
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
-24028;Feingeschliffener lebendiger Rubin;1;212899;222224
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
@@ -344,9 +297,6 @@
 937;Schwarzer Dämmerwaldstab;1;23222;38024
 13033;Zelotenklinge;1;46698;51887
 13033;Zelotenklinge;1;41729;46366
-23783;Eine Hand voll Teufelseisenbolzen;10;118736;125920
-23783;Eine Hand voll Teufelseisenbolzen;2;84500;100000
-23783;Eine Hand voll Teufelseisenbolzen;10;118736;125920
 18257;Rezept: Erheblicher Verjüngungstrank;1;2949588;3258235
 18654;Bauplan: Gnomischer Alarm-o-Bot;1;7500;9500
 24839;Zornflossenschienbeinschützer;1;41430;99900
@@ -567,8 +517,6 @@
 15083;Tückische Lederstulpen;1;19999;20000
 15083;Tückische Lederstulpen;1;19999;20000
 15083;Tückische Lederstulpen;1;19999;20000
-3576;Zinnbarren;20;49980;59980
-3576;Zinnbarren;20;49980;59980
 14763;Ausdauerndes Cape;1;2527;5500
 11139;Großer leuchtender Splitter;1;2200;3300
 17706;Pläne: Schneide des Winters;1;200000;500000

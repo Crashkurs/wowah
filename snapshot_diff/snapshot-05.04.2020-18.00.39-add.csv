@@ -72,7 +72,6 @@
 7909;Aquamarin;8;49145;61432
 21876;Urmondstofftasche;1;3155000;3200000
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;20000;20000
-11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;73643;79603
 21885;Urwasser;5;549005;549010
 21885;Urwasser;5;549005;549010
 21885;Urwasser;5;549005;549010
@@ -81,14 +80,7 @@
 3569;Vikarsrobe;1;20000;40000
 3039;Kurzer Eschenbogen;1;7220;9025
 3039;Kurzer Eschenbogen;1;6915;8900
-11138;Kleiner leuchtender Splitter;1;500;900
 11138;Kleiner leuchtender Splitter;1;95;100
-11138;Kleiner leuchtender Splitter;1;730;913
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;20;83792;104740
 21991;Schwerer Netherstoffverband;20;130000;132000
 21991;Schwerer Netherstoffverband;20;130000;132000
 2450;Wilddornrose;2;2505;2783
@@ -131,7 +123,6 @@
 3391;Elixier der Ogerstärke;1;800;800
 3391;Elixier der Ogerstärke;1;800;800
 3391;Elixier der Ogerstärke;1;800;800
-21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;52205;55557
 21841;Netherstofftasche;1;52205;55557
 21841;Netherstofftasche;1;52205;55557
@@ -146,17 +137,6 @@
 21841;Netherstofftasche;1;52205;55557
 21841;Netherstofftasche;1;52205;55557
 21841;Netherstofftasche;1;52205;55557
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;60000;60000
@@ -220,8 +200,6 @@
 21860;Magieerfüllte Netherstoffstiefel;1;350000;390000
 21858;Zauberfeuertasche;1;2200000;2500000
 21858;Zauberfeuertasche;1;2200000;2500000
-11208;Formel: Waffe - Dämonentöten;1;32025;40000
-11208;Formel: Waffe - Dämonentöten;1;9800;43500
 11205;Formel: Handschuhe - Hochentwickelte Kräuterkunde;1;1400000;1500000
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;59252;65835
@@ -258,8 +236,6 @@
 3202;Waldlederarmschienen;1;200000;250000
 3202;Waldlederarmschienen;1;200000;250000
 3202;Waldlederarmschienen;1;200000;250000
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;20000;35000
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;5000;10000
 1210;Schattenedelstein;9;6840;8550
 1210;Schattenedelstein;20;15200;19000
 4232;Mittlerer Balg;1;40187;50000
@@ -281,17 +257,13 @@
 3860;Mithrilbarren;20;202000;299800
 20749;Hervorragendes Zauberöl;1;141500;144000
 20749;Hervorragendes Zauberöl;1;141500;144000
-11225;Formel: Armschiene - Große Ausdauer;1;52325;53000
 11185;Grüner Machtkristall;10;80000;100000
 11185;Grüner Machtkristall;10;47500;74500
 11185;Grüner Machtkristall;2;9500;14900
 11185;Grüner Machtkristall;4;14000;16000
 11185;Grüner Machtkristall;13;66383;82979
 11185;Grüner Machtkristall;3;14250;22350
-12804;Mächtiges Mojo;1;80972;96902
-12804;Mächtiges Mojo;20;490000;600000
 12804;Mächtiges Mojo;10;446080;557600
-12804;Mächtiges Mojo;4;202000;220000
 16204;Illusionsstaub;2;15286;19108
 16204;Illusionsstaub;8;61145;76432
 16204;Illusionsstaub;1;2900;3700
@@ -301,13 +273,10 @@
 2099;Zwergische Handkanone;1;808560;859999
 2099;Zwergische Handkanone;1;899999;999999
 7974;Scharfes Muschelfleisch;10;59600;59900
-12976;Verzahnte Klinge;1;35033;43792
 12976;Verzahnte Klinge;1;19500;43500
-13490;Rezept: Großer Steinschildtrank;1;388400;422500
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
 13490;Rezept: Großer Steinschildtrank;1;78399;97999
-13490;Rezept: Großer Steinschildtrank;1;196000;200000
 12974;Der schwarze Ritter;1;20060;25066
 12974;Der schwarze Ritter;1;19049;23812
 12974;Der schwarze Ritter;1;23723;26359
@@ -338,7 +307,6 @@
 3576;Zinnbarren;20;4000;4700
 3576;Zinnbarren;20;4000;4700
 3576;Zinnbarren;7;1316;1645
-11139;Großer leuchtender Splitter;7;31354;39193
 21844;Seelenstoffballen;1;250328;278142
 3047;Züngelnde Schuppenhandschuhe;1;1578;3300
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;2462;2900
@@ -347,20 +315,7 @@
 2770;Kupfererz;20;10150;20000
 2770;Kupfererz;8;7500;8000
 3358;Khadgars Schnurrbart;3;1038;1153
-13492;Rezept: Läuterungstrank;1;35600;49500
-13492;Rezept: Läuterungstrank;1;13500;17000
-13492;Rezept: Läuterungstrank;1;19168;23961
-13492;Rezept: Läuterungstrank;1;19143;23929
-12808;Essenz des Untodes;1;14440;18050
 12808;Essenz des Untodes;2;27435;34294
-12808;Essenz des Untodes;3;56000;59500
-12808;Essenz des Untodes;3;30000;57000
-12808;Essenz des Untodes;1;1500;19900
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
 20747;Geringes Manaöl;1;29599;37999
 20747;Geringes Manaöl;1;29999;39999
 20747;Geringes Manaöl;1;29599;37999
@@ -379,14 +334,8 @@
 3415;Stab des Fraters;1;799900;799900
 21887;Knotenhautleder;20;187500;250000
 21887;Knotenhautleder;10;79500;84500
-12982;Silberverbundfußschützer;1;79900;79900
 13493;Rezept: Großes Arkanelixier;1;39612;49515
 11287;Geringer Magiezauberstab;1;2000;4000
 6037;Echtsilberbarren;16;23600;29500
 1206;Moosachat;1;6966;8708
-3037;Peitschenholzdoppelbogen;1;15641;19552
 3384;Schwacher Magiewiderstandstrank;5;33500;34875
-13476;Rezept: Mächtiger Wuttrank;1;12400;20300
-13476;Rezept: Mächtiger Wuttrank;1;12400;20300
-13476;Rezept: Mächtiger Wuttrank;1;12365;20097
-13476;Rezept: Mächtiger Wuttrank;1;12365;20097

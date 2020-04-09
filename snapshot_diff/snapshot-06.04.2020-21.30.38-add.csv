@@ -196,15 +196,6 @@
 22456;Urschatten;1;42999;44999
 22456;Urschatten;1;42999;44999
 30420;Schwerer Jadering;1;5600;7000
-27655;Heißer Hetzer;20;194500;200000
-27655;Heißer Hetzer;20;386864;388580
-27655;Heißer Hetzer;5;24995;34995
-27655;Heißer Hetzer;5;24995;34995
-27655;Heißer Hetzer;5;24995;34995
-27655;Heißer Hetzer;5;24995;34995
-27655;Heißer Hetzer;5;24995;34995
-27655;Heißer Hetzer;20;194500;200000
-27655;Heißer Hetzer;20;194500;200000
 25901;Bemerkenswerter Erdsturmdiamant;1;955000;955400
 23793;Schweres Knotenhautleder;3;118125;120000
 23793;Schweres Knotenhautleder;3;118125;120000
@@ -245,7 +236,6 @@
 25845;Eterniumrute;1;540000;550000
 25845;Eterniumrute;1;540000;550000
 5578;Pläne: Bronzene Brustplatte mit Versilberung;1;35090;46363
-27503;Rolle der Stärke V;1;40187;50000
 24197;Vorlage: Fragiler lebendiger Rubin;1;150000;200000
 33867;Gebratene Blutflosse;2;4000;5000
 33867;Gebratene Blutflosse;4;8000;10000
@@ -298,20 +288,10 @@
 23095;Klobiger Blutgranat;1;19830;24256
 23095;Klobiger Blutgranat;1;19830;24256
 23095;Klobiger Blutgranat;1;19830;24256
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
-34330;Schweres Knotenhautrüstungsset;4;195000;235000
-34330;Schweres Knotenhautrüstungsset;4;195000;235000
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 34330;Schweres Knotenhautrüstungsset;1;169999;189999
 34330;Schweres Knotenhautrüstungsset;1;151250;180000
 34330;Schweres Knotenhautrüstungsset;1;169999;189999
@@ -330,9 +310,6 @@
 22576;Manapartikel;2;39998;39998
 22576;Manapartikel;2;39998;39998
 34220;Wechselhafter Himmelsfeuerdiamant;1;1115000;1120000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
-34220;Wechselhafter Himmelsfeuerdiamant;1;1104500;1125500
 24055;Unbeständiges Nachtauge;1;153470;164999
 22451;Urluft;10;2065400;2099400
 22451;Urluft;10;2065400;2099400

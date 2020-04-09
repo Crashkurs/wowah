@@ -123,7 +123,6 @@
 13131;Spiegelpanzermantel;1;29576;38721
 13131;Spiegelpanzermantel;1;31438;34931
 4424;Rolle der Willenskraft III;1;400;445
-20725;Nexuskristall;1;54879;68599
 24217;Vorlage: Robuster Talasit;1;605000;650000
 3356;Königsblut;5;1050;1890
 32230;Schattensangamethyst;1;410000;429999
@@ -234,12 +233,6 @@
 4245;Kleines Seidenpack;1;18899;19999
 24220;Vorlage: Gezackter Talasit;1;200000;229999
 19818;Durchstochene Voodoopuppe;1;219128;273910
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;252000;292000
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
 15613;Knochenverbundgürtel;1;11801;14752
 13109;Cape der schwarzen Flamme;1;50000;100000
 7079;Kugel des Wassers;1;6500;7900
@@ -257,10 +250,6 @@
 32229;Löwenauge;2;2867400;2879998
 32229;Löwenauge;1;1433700;1439999
 32229;Löwenauge;1;1433700;1439999
-19441;Riesiger Giftbeutel;2;5895;6550
-19441;Riesiger Giftbeutel;1;2739;3043
-19441;Riesiger Giftbeutel;1;3656;4063
-19441;Riesiger Giftbeutel;1;1579;2590
 15772;Muster: Teufelssauriergamaschen;1;38400;48000
 24055;Unbeständiges Nachtauge;1;99999;109999
 23505;Adamantitrapier;1;120000;150000
@@ -290,9 +279,7 @@
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
-21213;Konservierter Tannenzweig;10;37992;47490
 21213;Konservierter Tannenzweig;1;3999;4999
-21213;Konservierter Tannenzweig;1;48500;50000
 21213;Konservierter Tannenzweig;1;3999;4999
 13105;Sutarns Ring;1;40209;44677
 13105;Sutarns Ring;1;25000;40000
@@ -507,7 +494,6 @@
 13094;Das Juwel der Königin;1;15000;20000
 16006;Empfindlicher Arkanitwandler;1;777777;888888
 16006;Empfindlicher Arkanitwandler;1;777777;888888
-22838;Hasttrank;5;197995;197995
 22838;Hasttrank;5;189999;192222
 22838;Hasttrank;5;189999;192222
 22838;Hasttrank;5;189999;192222
@@ -554,8 +540,6 @@
 11175;Große Netheressenz;1;42000;44500
 11175;Große Netheressenz;4;370500;391000
 11175;Große Netheressenz;1;91185;97985
-13095;Angriffsband;1;27668;34585
-13095;Angriffsband;1;32553;36170
 19282;Portal 6;1;221850;246500
 2836;Grober Stein;15;17000;23500
 21881;Netherweberseide;2;35000;38000

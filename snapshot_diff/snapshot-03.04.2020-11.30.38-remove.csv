@@ -3,67 +3,30 @@
 15420;Eisenfeder;37;4617;5772
 15420;Eisenfeder;50;6240;7800
 7086;Muster: Irdener Seidengürtel;1;7554;8393
-7086;Muster: Irdener Seidengürtel;1;7554;8393
 5342;Raptorpunsch;5;18620;23275
 3737;Rezept: Milde Schildkrötensuppe;1;191663;239579
 19235;Bestien 7;1;2500000;2799999
 5637;Großer Fangzahn;1;500;935
 5637;Großer Fangzahn;1;500;935
 7070;Elementarwasser;1;14900;19900
-7070;Elementarwasser;1;15623;17359
-31308;Der Überbringer des Todes;1;210000;219999
-31308;Der Überbringer des Todes;1;227333;229900
-2555;Rezept: Hurtigkeitstrank;1;75247;83607
-25708;Dickes Grollhufleder;10;325000;325000
-25708;Dickes Grollhufleder;10;325000;325000
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;5;123500;154375
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;1;39999;49999
 25708;Dickes Grollhufleder;1;39999;49999
 25708;Dickes Grollhufleder;1;39999;49999
 25708;Dickes Grollhufleder;10;325000;325000
 25708;Dickes Grollhufleder;10;325000;325000
 25708;Dickes Grollhufleder;10;325000;325000
 25708;Dickes Grollhufleder;5;145625;150000
-25708;Dickes Grollhufleder;3;93742;104158
 25708;Dickes Grollhufleder;20;680000;680000
 25708;Dickes Grollhufleder;1;39999;49999
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;999900;999900
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;4;144500;150000
-25708;Dickes Grollhufleder;20;702500;720000
-25708;Dickes Grollhufleder;4;144500;150000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;700000;700000
-25708;Dickes Grollhufleder;20;702500;720000
-25708;Dickes Grollhufleder;20;702500;720000
 25708;Dickes Grollhufleder;4;144500;150000
 25708;Dickes Grollhufleder;4;144500;150000
 25708;Dickes Grollhufleder;4;144500;150000
-25708;Dickes Grollhufleder;20;700000;700000
-19270;Elementar 3;1;29900;29900
+25708;Dickes Grollhufleder;4;144500;150000
+25708;Dickes Grollhufleder;4;144500;150000
 19270;Elementar 3;1;66666;77777
-19270;Elementar 3;1;82857;92063
 19270;Elementar 3;1;29900;29900
 19270;Elementar 3;1;82857;92063
 19270;Elementar 3;1;66666;77777
-19270;Elementar 3;1;29950;29999
-19270;Elementar 3;1;58750;60000
 15575;Spiegelpanzergürtel;1;10000;20000
-24245;Glühkappe;10;33000;44000
-24245;Glühkappe;15;43285;48800
-24245;Glühkappe;10;22190;39999
 23436;Lebendiger Rubin;10;1800000;1900000
 2565;Rute des flüssigen Feuers;1;10164;11293
 30032;Roter Gürtel der Schlacht;1;8950342;8999999
@@ -73,7 +36,6 @@
 30032;Roter Gürtel der Schlacht;1;8500000;8750000
 12037;Eigenartiges Fleisch;8;1979;2198
 12037;Eigenartiges Fleisch;3;742;824
-12037;Eigenartiges Fleisch;6;1484;1649
 23625;Pläne: Helm der Eidestreue;1;150000;160000
 5543;Pläne: Schillernder Hammer;1;5285;5872
 32836;Geläuterte Schattenperle;1;555000;588000
@@ -88,7 +50,6 @@
 24222;Dolch des schleichenden Todes;1;187898;208776
 14190;Regenmacherweste;1;20000;30000
 22577;Schattenpartikel;10;28160;35200
-4377;Schweres Sprengpulver;1;5082;6047
 4377;Schweres Sprengpulver;1;5082;6047
 10308;Rolle der Intelligenz IV;2;2768;3460
 22153;Foliant der arkanen Brillanz 2;1;150000;200000
@@ -117,13 +78,11 @@
 2564;Elfengeistklauen;1;10225;20000
 2564;Elfengeistklauen;1;15124;18905
 2815;Bogenklingenreißer;1;33807;37563
-2815;Bogenklingenreißer;1;33807;37563
 17725;Formel: Waffe - Wintermacht;1;5199999;8999999
 17725;Formel: Waffe - Wintermacht;1;5199999;8999999
 17725;Formel: Waffe - Wintermacht;1;5200000;9000000
 17725;Formel: Waffe - Wintermacht;1;5200000;9000000
 17725;Formel: Waffe - Wintermacht;1;5200000;9000000
-2924;Krokiliskenfleisch;1;419;466
 2924;Krokiliskenfleisch;1;419;466
 5503;Muschelfleisch;1;1918;2131
 23077;Blutgranat;2;17500;19000
@@ -137,23 +96,10 @@
 3037;Peitschenholzdoppelbogen;1;21496;22773
 18357;Kodex der Verteidigung;1;10100;20000
 22793;Manadistel;20;100000;109999
-22793;Manadistel;4;15596;21996
-22793;Manadistel;20;105000;107800
-22793;Manadistel;20;105000;110000
 22793;Manadistel;20;100000;109999
 22793;Manadistel;20;104478;116087
 22793;Manadistel;20;104478;116087
 22793;Manadistel;20;104478;116087
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;105000;107800
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;119999;119999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
-22793;Manadistel;20;74999;99999
 22793;Manadistel;20;74999;99999
 22793;Manadistel;20;74999;99999
 22793;Manadistel;20;74999;99999
@@ -181,14 +127,12 @@
 13065;Zauberstab von Allistarj;1;59174;63526
 13065;Zauberstab von Allistarj;1;59174;63526
 8171;Unverwüstlicher Balg;2;3993;4437
-8171;Unverwüstlicher Balg;1;1996;2218
 8171;Unverwüstlicher Balg;9;6768;8460
 8171;Unverwüstlicher Balg;1;1996;2218
 8171;Unverwüstlicher Balg;2;3993;4437
 8171;Unverwüstlicher Balg;9;6768;8460
 24218;Vorlage: Strahlender Talasit;1;200000;300000
 24218;Vorlage: Strahlender Talasit;1;200000;300000
-24218;Vorlage: Strahlender Talasit;1;499900;499900
 15566;Marodeursarmschienen;1;10000;20000
 13038;Windhauch;1;14500;16500
 3857;Kohle;1;5244;5827
@@ -197,16 +141,6 @@
 24215;Vorlage: Glänzender Edeltopas;1;245000;247600
 19267;Elementarkartenset;1;2999993;2999999
 4611;Blaue Perle;1;9856;10951
-4611;Blaue Perle;1;9856;10951
-24246;Bluthibiskus;1;30600;34400
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;32327;32328
-24246;Bluthibiskus;1;29999;31999
-24246;Bluthibiskus;1;29999;31999
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;24074;24915
 2244;Krolklinge;1;150000;220000
@@ -246,7 +180,6 @@
 19228;Bestienkartenset;1;20000000;21999999
 19228;Bestienkartenset;1;22979899;22999500
 22902;Rezept: Elixier der erheblichen Frostmacht;1;117734;130816
-2771;Zinnerz;1;524;583
 2771;Zinnerz;1;524;583
 890;Stab des verrückten Sängers;1;507056;598951
 890;Stab des verrückten Sängers;1;507056;598951
@@ -314,7 +247,6 @@
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;7412;8235
 4711;Gleißender Umhang;1;25723;26359
 22912;Rezept: Heldentrank;1;299999;299999
-3685;Raptorei;2;1553;1726
 3685;Raptorei;5;3884;4315
 3685;Raptorei;2;1553;1726
 3685;Raptorei;5;3884;4315
@@ -422,12 +354,10 @@
 4338;Magiestoff;20;99400;99800
 4338;Magiestoff;20;99400;99800
 4338;Magiestoff;20;99400;99800
-4338;Magiestoff;12;62436;71772
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
 24214;Vorlage: Mächtiger Edeltopas;1;150000;150000
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;7;23800;30793
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;7;23800;30793
-7078;Essenz des Feuers;1;23603;26226
 7078;Essenz des Feuers;3;19589;25362
 7078;Essenz des Feuers;1;23603;26226
 7078;Essenz des Feuers;3;19589;25362
@@ -439,11 +369,6 @@
 13016;Killerschredder;1;27653;29614
 17723;Grünes Festtagshemd;1;39999;49999
 24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;366000;375000
-24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;356000;374000
-24272;Schattenstoff;1;366000;375000
 24272;Schattenstoff;1;355500;373000
 24272;Schattenstoff;1;355500;373000
 24272;Schattenstoff;1;350000;360000
@@ -454,51 +379,11 @@
 24272;Schattenstoff;1;346000;349000
 24272;Schattenstoff;1;346000;349000
 24272;Schattenstoff;1;346000;349000
-24272;Schattenstoff;1;366000;375000
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;1;135887;151999
-29460;Gefängnisschlüssel des Astraleums;6;790100;800000
 29460;Gefängnisschlüssel des Astraleums;10;1190000;1190000
 15576;Spiegelpanzersabatons;1;20000;30000
 9932;Brigadereif;1;11992;14999
-19271;Elementar 4;1;28416;35520
-19271;Elementar 4;1;18750;30000
 19271;Elementar 4;1;40000;45000
-25707;Teufelsbalg;20;200000;250000
-25707;Teufelsbalg;20;200000;250000
-25707;Teufelsbalg;4;38000;47500
 25707;Teufelsbalg;5;39875;39900
-25707;Teufelsbalg;20;200000;250000
-25707;Teufelsbalg;5;46875;50000
-25707;Teufelsbalg;6;56250;58899
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;20;200000;250000
 12184;Raptorfleisch;7;4881;5423
 12184;Raptorfleisch;10;6973;7748
 11176;Traumstaub;14;11648;14560
@@ -508,7 +393,6 @@
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7200;7499
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7200;7499
 9385;Archaischer Verteidiger;1;30743;33048
-19269;Elementar 2;1;115209;115210
 19269;Elementar 2;1;115209;115210
 31501;Foliant des Essenherbeizauberns VIII;1;999900;999900
 8169;Dicker Balg;3;2633;2926
@@ -522,7 +406,6 @@
 22578;Wasserpartikel;1;12328;13964
 7068;Elementarfeuer;1;8900;9900
 7068;Elementarfeuer;1;8900;9900
-7068;Elementarfeuer;1;8691;9656
 7068;Elementarfeuer;2;17382;19313
 22457;Urmana;2;391190;395164
 22457;Urmana;2;391190;395164
@@ -534,7 +417,6 @@
 9782;Banditenwams;1;50000;59000
 7069;Elementarluft;6;67140;74600
 7069;Elementarluft;1;9900;14900
-7069;Elementarluft;1;11190;12433
 7069;Elementarluft;1;9900;14900
 7069;Elementarluft;1;9900;14900
 24217;Vorlage: Robuster Talasit;1;699999;699999
@@ -597,14 +479,11 @@
 14047;Runenstoff;18;10818;11466
 14047;Runenstoff;16;15360;19200
 2951;Ring des Waldlandes;1;41531;46145
-2951;Ring des Waldlandes;1;41531;46145
 11175;Große Netheressenz;1;50000;57000
 11175;Große Netheressenz;1;50000;57000
 11175;Große Netheressenz;1;50000;57000
-7421;Phalanxhandschuhe;1;20000;30000
 7421;Phalanxhandschuhe;1;20000;30000
 1973;Täuschungskugel;1;131040;163800
-13033;Zelotenklinge;1;54390;57100
 13033;Zelotenklinge;1;54390;57100
 13033;Zelotenklinge;1;54390;57100
 5575;Großer grüner Sack;1;11640;12934
@@ -642,7 +521,6 @@
 19231;Bestien 3;1;56324;107906
 19231;Bestien 3;1;212121;222222
 19943;Gewaltig viel Mojo;1;89900;99900
-12202;Tigerfleisch;6;1854;2060
 12202;Tigerfleisch;10;3090;3433
 7992;Pläne: Blaue glitzernde Axt;1;6014;7518
 22866;Fläschchen des reinen Todes;5;1099999;1149499
@@ -682,30 +560,10 @@
 23633;Pläne: Runenverzierter Hammer;1;180000;200000
 7392;Grünwelpenschuppe;1;8999;9998
 7392;Grünwelpenschuppe;1;8999;9998
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;10;1899000;1989000
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;170100;185000
-29740;Teuflische Waffen;1;170100;185000
-29740;Teuflische Waffen;2;377700;379999
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;170100;195000
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
-29740;Teuflische Waffen;1;177220;196911
 29740;Teuflische Waffen;1;170100;195000
 29740;Teuflische Waffen;1;170100;185000
 29740;Teuflische Waffen;1;170100;185000
 29740;Teuflische Waffen;2;377700;379999
-29740;Teuflische Waffen;1;130100;150000
 13045;Zäher Hammer;1;55268;61409
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
@@ -767,7 +625,6 @@
 940;Roben der Einsicht;1;68849;80000
 940;Roben der Einsicht;1;68849;80000
 6390;Muster: Modisches blaues Hemd;1;8460;9400
-31332;Blendschlag;1;22999999;22999999
 8248;Imperialer roter Umhang;1;19124;21249
 8248;Imperialer roter Umhang;1;19124;21249
 6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
@@ -775,10 +632,6 @@
 21547;Rezept: Elixier der großen Feuermacht;1;119676;149596
 24220;Vorlage: Gezackter Talasit;1;250000;285000
 27659;Doppelwarper;20;146672;183340
-4461;Raptorbalg;2;715;795
-4461;Raptorbalg;10;3578;3976
-4461;Raptorbalg;10;3578;3976
-4461;Raptorbalg;2;715;795
 4461;Raptorbalg;10;3578;3976
 4461;Raptorbalg;10;3578;3976
 8402;Muster: Fester Skorpidhelm;1;5928;7410
@@ -838,7 +691,6 @@
 24243;Adamantitpulver;1;2660;3325
 4347;Muster: Verstärkte Wollschultern;1;2304;2880
 4347;Muster: Verstärkte Wollschultern;1;2304;2880
-3667;Zartes Krokiliskenfleisch;1;345;383
 3667;Zartes Krokiliskenfleisch;1;345;383
 22832;Erstklassiger Manatrank;5;142500;142500
 22832;Erstklassiger Manatrank;5;142500;142500

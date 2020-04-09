@@ -265,13 +265,6 @@
 11138;Kleiner leuchtender Splitter;4;7392;8212
 11138;Kleiner leuchtender Splitter;1;1013;1142
 11138;Kleiner leuchtender Splitter;16;21017;26272
-11138;Kleiner leuchtender Splitter;20;83792;104740
-11138;Kleiner leuchtender Splitter;1;500;900
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;176;220
-11138;Kleiner leuchtender Splitter;1;730;913
 24275;Silberner Zauberfaden;1;1110000;1120000
 8006;Der Ziggler;1;47102;52336
 19268;Elementar Ass;1;1500000;1900000
@@ -555,18 +548,6 @@
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;9041;10045
 13023;Adlerhornlangbogen;1;73937;92422
 2996;Leinenstoffballen;6;4800;5400
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
-21841;Netherstofftasche;1;60000;60000
 21841;Netherstofftasche;1;51600;61100
 13512;Fläschchen der obersten Macht;1;199999;249999
 16202;Geringe ewige Essenz;1;33318;38618
@@ -1081,9 +1062,7 @@
 23437;Talasit;1;44999;49899
 23437;Talasit;1;44999;49899
 23437;Talasit;1;44999;49899
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;20000;35000
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;36989;37766
-6348;Formel: Waffe - Schwacher Wildtiertöter;1;5000;10000
 13025;Vorschlaghammer der Totenwaldfelle;1;28252;31392
 30422;Diamantener Fokusring;1;12562;13000
 30422;Diamantener Fokusring;1;12562;13000
@@ -1194,9 +1173,6 @@
 13010;Beinschützer des Traumsängers;1;79900;79900
 14585;Dokebigamaschen;1;13939;15487
 12804;Mächtiges Mojo;1;80972;96902
-12804;Mächtiges Mojo;1;80972;96902
-12804;Mächtiges Mojo;4;202000;220000
-12804;Mächtiges Mojo;20;490000;600000
 31297;Robe des Purpurordens;1;249153;300000
 31297;Robe des Purpurordens;1;129153;150000
 31297;Robe des Purpurordens;1;129153;150000
@@ -1267,9 +1243,6 @@
 28595;Heller Blutgranat;1;59999;69999
 28595;Heller Blutgranat;1;59999;69999
 12976;Verzahnte Klinge;1;35033;43792
-12976;Verzahnte Klinge;1;35033;43792
-13490;Rezept: Großer Steinschildtrank;1;388400;422500
-13490;Rezept: Großer Steinschildtrank;1;196000;200000
 11175;Große Netheressenz;1;50100;52000
 11175;Große Netheressenz;1;50100;52000
 11175;Große Netheressenz;1;50100;52000
@@ -1463,7 +1436,6 @@
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
-11139;Großer leuchtender Splitter;7;31354;39193
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
 11139;Großer leuchtender Splitter;3;30000;30000
@@ -1502,25 +1474,12 @@
 15892;Töterschild;1;11462;14328
 13492;Rezept: Läuterungstrank;1;90235;94706
 13492;Rezept: Läuterungstrank;1;14078;17598
-13492;Rezept: Läuterungstrank;1;19143;23929
-13492;Rezept: Läuterungstrank;1;35600;49500
-13492;Rezept: Läuterungstrank;1;13500;17000
-13492;Rezept: Läuterungstrank;1;19168;23961
 2565;Rute des flüssigen Feuers;1;10164;11293
 4377;Schweres Sprengpulver;1;5082;6047
 22853;Fläschchen der mächtigen Wiederherstellung;5;625495;750495
 4603;Roher Tüpfelgelbschwanz;9;11001;12224
 4349;Muster: Phönixhose;1;59999;79999
 4349;Muster: Phönixhose;1;69559;88199
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;3;56000;59500
-12808;Essenz des Untodes;3;30000;57000
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;1500;19900
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
-12808;Essenz des Untodes;1;14440;18050
 13016;Killerschredder;1;22500;29500
 13016;Killerschredder;1;27653;29614
 13016;Killerschredder;1;27653;29614
@@ -1603,7 +1562,6 @@
 16218;Formel: Armschiene - Überragende Willenskraft;1;15250;30000
 13021;Einfädler;1;22040;27550
 13021;Einfädler;1;24540;29302
-12982;Silberverbundfußschützer;1;79900;79900
 12982;Silberverbundfußschützer;1;20000;30000
 6342;Formel: Brust - Schwaches Mana;1;112;990
 6342;Formel: Brust - Schwaches Mana;1;4000;5000
@@ -1641,7 +1599,6 @@
 4339;Magiestoffballen;10;250500;400000
 15935;Haltbare Rute;1;9533;13292
 9298;Rezept: Elixier der Riesen;1;22783;28479
-3037;Peitschenholzdoppelbogen;1;15641;19552
 3037;Peitschenholzdoppelbogen;1;21496;22773
 4345;Muster: Rote Wollstiefel;1;15599;16699
 4345;Muster: Rote Wollstiefel;1;15716;17462
@@ -1659,10 +1616,6 @@
 30323;Pläne: Stiefel des Beschützers;1;160000;180000
 30323;Pläne: Stiefel des Beschützers;1;999900;999900
 30323;Pläne: Stiefel des Beschützers;1;172819;192022
-13476;Rezept: Mächtiger Wuttrank;1;12365;20097
-13476;Rezept: Mächtiger Wuttrank;1;12365;20097
-13476;Rezept: Mächtiger Wuttrank;1;12400;20300
-13476;Rezept: Mächtiger Wuttrank;1;12400;20300
 13476;Rezept: Mächtiger Wuttrank;1;12400;20300
 30032;Roter Gürtel der Schlacht;1;13000000;14900000
 30032;Roter Gürtel der Schlacht;1;12250000;12500000

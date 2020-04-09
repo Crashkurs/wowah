@@ -46,10 +46,6 @@
 15522;Stachelkettenschild;1;20000;40000
 14172;Bukaniersroben;1;99900;99900
 870;Feurige Kriegsaxt;1;50000;50000
-16072;Expertenkochbuch;1;33750;50000
-16072;Expertenkochbuch;1;27600;29500
-13422;Steinschuppenaal;20;60000;80000
-13422;Steinschuppenaal;10;30150;40000
 13199;Trümmergratbindungen;1;106598;150000
 15947;Blutroter Stern;1;20000;29900
 15566;Marodeursarmschienen;1;10000;20000
@@ -78,19 +74,10 @@
 14214;Vitale Stiefel;1;36000;40000
 16043;Bauplan: Thoriumgewehr;1;25932;36591
 15531;Wachpostenschulterschutz;1;6914;9500
-16202;Geringe ewige Essenz;1;33318;35918
-13446;Erheblicher Heiltrank;5;26932;26999
-13446;Erheblicher Heiltrank;5;26932;26999
-13446;Erheblicher Heiltrank;3;12388;15486
-13446;Erheblicher Heiltrank;1;2712;3390
-13446;Erheblicher Heiltrank;3;16500;17000
-13446;Erheblicher Heiltrank;2;6955;8694
 890;Stab des verrückten Sängers;1;507056;598951
 15745;Muster: Runenverzierter Ledergürtel;1;15000;15000
 14190;Regenmacherweste;1;20000;30000
 15647;Eisenhautschulterstücke;1;43216;48018
-13137;Eisenwirker;1;50000;70000
-13137;Eisenwirker;1;88888;100000
 15526;Wachpostencape;1;24000;36000
 13127;Frosthäscherkrone;1;50000;80000
 13135;Fürstliche Armschützer;1;70000;90000
@@ -103,7 +90,6 @@
 15576;Spiegelpanzersabatons;1;20000;30000
 15742;Muster: Kriegsbärenharnisch;1;89999;99999
 19699;Münze der Razzashi;5;183600;229500
-13130;Windläuferbeinschützer;1;47432;59290
 13310;Bauplan: Genaues Zielfernrohr;1;7750;9900
 14193;Regenmacherhose;1;3009;4300
 15524;Wachpostenübermantel;1;49203;51504
@@ -203,29 +189,15 @@
 19708;Blaues Schmuckstück der Hakkari;1;140000;150000
 19708;Blaues Schmuckstück der Hakkari;1;140000;150000
 19708;Blaues Schmuckstück der Hakkari;1;140000;150000
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
 15994;Thoriumapparat;3;56997;59997
 19706;Münze der Blutskalpe;4;139587;175984
 15518;Stachelkettenbrustplatte;1;10000;30000
 15518;Stachelkettenbrustplatte;1;20000;30000
 15747;Muster: Frostsäblergamaschen;1;12000;15000
 15976;Distelfellzweig;1;13001;16252
-16203;Große ewige Essenz;10;799999;799999
 14096;Eingeborenenweste;1;20000;30000
 13144;Gürtel der Beschaulichkeit;1;24320;27022
 15559;Plündererumhang;1;6675;7900
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
 14165;Heidenkniehosen;1;26623;30274
 15580;Spiegelpanzerkopfband;1;45587;59484
 14198;Distelfellumhang;1;10000;20000
@@ -235,7 +207,6 @@
 13120;Armschienen des tiefen Zorns;1;10000;20000
 13120;Armschienen des tiefen Zorns;1;19184;23538
 13126;Kriegsruferstulpen;1;45561;50000
-13126;Kriegsruferstulpen;1;65000;75000
 15744;Muster: Tückisches Lederstirnband;1;346272;457840
 15765;Muster: Runenverzierte Lederhose;1;9000;9500
 15765;Muster: Runenverzierte Lederhose;1;9498;9499

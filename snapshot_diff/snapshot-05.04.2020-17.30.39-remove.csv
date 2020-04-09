@@ -125,8 +125,6 @@
 12717;Pläne: Löwenherzhelm;1;4500000;5000000
 12717;Pläne: Löwenherzhelm;1;3499999;3999999
 8173;Dickes Rüstungsset;10;529120;632360
-8173;Dickes Rüstungsset;7;370384;442652
-8173;Dickes Rüstungsset;10;529120;632360
 8173;Dickes Rüstungsset;10;529120;632360
 8173;Dickes Rüstungsset;7;370384;442652
 8173;Dickes Rüstungsset;10;529120;632360
@@ -181,7 +179,6 @@
 31867;Verschleierter Edeltopas;1;143425;148982
 24761;Umbrafennkappe;1;2200000;2200000
 12205;Weißes Spinnenfleisch;2;24872;25414
-12205;Weißes Spinnenfleisch;2;24872;25414
 24028;Feingeschliffener lebendiger Rubin;1;219940;226123
 2098;Doppelläufige Schrotflinte;1;24531;30000
 14190;Regenmacherweste;1;20000;30000
@@ -215,11 +212,6 @@
 34330;Schweres Knotenhautrüstungsset;2;72500;89900
 34330;Schweres Knotenhautrüstungsset;2;72500;89900
 34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1110100;1174000
 3383;Elixier der Weisheit;4;13388;14800
 15575;Spiegelpanzergürtel;1;10000;20000
 13129;Feuermähnengamaschen;1;31157;38947
@@ -245,22 +237,7 @@
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;59252;65835
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;20375;30000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;10;291200;306500
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;1;29120;30650
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;2;1394;1549
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;6;4184;4649
 11202;Formel: Schild - Ausdauer;1;27500;49700
 24777;Knochenfresserschädelkappe;1;83107;103884
 27658;Gerösteter Grollhuf;20;145000;150000
@@ -414,16 +391,12 @@
 2099;Zwergische Handkanone;1;808560;859999
 8197;Stiefel des Nachtschleichers;1;46633;58481
 8197;Stiefel des Nachtschleichers;1;46633;58481
-8197;Stiefel des Nachtschleichers;1;46633;58481
-8197;Stiefel des Nachtschleichers;1;46633;58481
 7974;Scharfes Muschelfleisch;10;59600;59900
 12036;Granithalskette;1;20000;30000
 14955;Blutgeschmiedete Schulterpolster;1;9463;20000
 774;Malachit;7;2318;2898
 774;Malachit;3;800;800
 12704;Pläne: Thoriumgamaschen;1;19524;25281
-12704;Pläne: Thoriumgamaschen;1;19076;23845
-12704;Pläne: Thoriumgamaschen;1;21250;40000
 13065;Zauberstab von Allistarj;1;59174;63526
 31079;Quecksilberadamantit;1;90000;100000
 31079;Quecksilberadamantit;1;90000;100000
@@ -515,11 +488,9 @@
 818;Tigerauge;1;518;580
 10095;Ratsherrenstiefel;1;40000;50000
 12037;Eigenartiges Fleisch;8;1979;2198
-12037;Eigenartiges Fleisch;10;2473;2748
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
 24693;Knochenmalmerpelzgurt;1;37454;41616
 32231;Pyrostein;1;2400000;2460000
-7075;Erdenkern;1;49126;54584
 7075;Erdenkern;1;49126;54584
 20747;Geringes Manaöl;1;29599;37999
 20747;Geringes Manaöl;1;29599;37999
@@ -575,12 +546,9 @@
 24477;Jaggalmuschelfleisch;10;1824;2280
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
 34832;Kapitän Rumseys Lagerbier;20;15600;19500
-15564;Unverwüstliches Rüstungsset;2;9065;10072
 24771;Grollhufschulterschutz;1;1874761;1880000
 3384;Schwacher Magiewiderstandstrank;5;33500;34875
 6403;Gepanzerte Gefechtsarmschützer;1;5670;7088
 25899;Grober Erdsturmdiamant;1;945000;990000
 25899;Grober Erdsturmdiamant;1;945000;990000
 2164;Darmreißer;1;799999;800000
-2164;Darmreißer;1;100548;100800
-2164;Darmreißer;1;62720;78400

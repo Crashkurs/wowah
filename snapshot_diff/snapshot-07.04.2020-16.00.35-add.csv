@@ -31,9 +31,7 @@
 1716;Robe der Weisen;1;39644;49556
 7428;Schattenkatzenbalg;7;8585;9539
 7428;Schattenkatzenbalg;1;850;910
-14499;Muster: Mondstofftasche;1;25999;29999
 14499;Muster: Mondstofftasche;1;11250;20000
-14499;Muster: Mondstofftasche;1;12318;25909
 11207;Formel: Waffe - Feurige Waffe;1;200000;300000
 7424;Phalanxschiftung;1;4063;8000
 25650;Knotenhautrüstungsset;1;43327;56659
@@ -42,16 +40,9 @@
 7734;Sechsdämonentasche;1;34999;38979
 7559;Runenverzierter Stock;1;999;2000
 14419;Seidensandarmschienen;1;29000;30000
-32230;Schattensangamethyst;1;479999;489999
 32230;Schattensangamethyst;1;410000;420000
 32230;Schattensangamethyst;1;410000;420000
 32230;Schattensangamethyst;1;410000;420000
-32230;Schattensangamethyst;1;425000;430000
-32230;Schattensangamethyst;1;425000;430000
-32230;Schattensangamethyst;1;425000;430000
-32230;Schattensangamethyst;1;425000;430000
-32230;Schattensangamethyst;1;435600;435600
-32230;Schattensangamethyst;1;435600;435600
 14459;Elunarischer Umhang;1;38872;43192
 2140;Schnitzmesser;1;484;1000
 7453;Muster: Hurtige Stiefel;1;45600;57000
@@ -100,7 +91,6 @@
 31863;Ausbalanciertes Nachtauge;1;99999;127799
 2251;Klebriges Spinnenbein;1;38;48
 32229;Löwenauge;1;1420000;1430000
-32229;Löwenauge;1;1435000;1440000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
@@ -109,28 +99,12 @@
 32229;Löwenauge;1;2480000;2490000
 32229;Löwenauge;1;2480000;2490000
 32229;Löwenauge;1;2480000;2490000
-32229;Löwenauge;1;2000000;2100000
-32229;Löwenauge;1;2000000;2100000
-32229;Löwenauge;1;1435000;1440000
 32229;Löwenauge;1;1420000;1430000
-32229;Löwenauge;1;1435000;1440000
-32229;Löwenauge;1;1435000;1440000
-32229;Löwenauge;1;1435000;1440000
-32229;Löwenauge;1;1435000;1440000
-32229;Löwenauge;1;1435000;1440000
-32229;Löwenauge;1;1435000;1440000
 32229;Löwenauge;1;1420000;1430000
 14506;Muster: Teufelsstoffrobe;1;19727;24659
 7558;Schimmernder Stock;1;10000;20000
-14552;Palisadenschulterstücke;1;35590;37000
-14552;Palisadenschulterstücke;1;40290;60000
 14552;Palisadenschulterstücke;1;38400;48000
 11178;Großer strahlender Splitter;4;79040;98800
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;10;291200;306500
-11178;Großer strahlender Splitter;1;29120;30650
-14553;Schärpe der Gnade;1;189999;199999
 14553;Schärpe der Gnade;1;125687;129900
 14466;Muster: Froststofftunika;1;7000;8000
 14466;Muster: Froststofftunika;1;7000;8000
@@ -140,26 +114,11 @@
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;384900;390000
-32249;Gischtsmaragd;1;309999;329999
-32249;Gischtsmaragd;1;309999;329999
-32249;Gischtsmaragd;1;309999;329999
-32249;Gischtsmaragd;1;309999;329999
-32249;Gischtsmaragd;1;309999;329999
-32249;Gischtsmaragd;1;399999;499999
-32249;Gischtsmaragd;1;399999;499999
 14513;Muster: Robe des Erzmagiers;1;3202500;3250000
 7455;Ritterbeinschützer;1;10000;20000
 7523;Hauchzarte Schulterpolster;1;7500;15000
 7462;Rittergurt;1;9523;11900
 1720;Wirrholzstab;1;31523;39404
-14551;Handschützer des Klingenmeisters;1;249622;299528
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;215000;219900
 31186;Braxxis' Stab des Schlummers;1;98800;123500
 13754;Roher glänzender Machtfisch;2;2000;3000
@@ -184,7 +143,6 @@
 11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;104900;109226
-11754;Schwarzer Diamant;1;104900;109226
 2099;Zwergische Handkanone;1;157560;159900
 32392;Armschienen der Seelenwache;1;2008148;2200000
 14494;Muster: Hellstoffhose;1;42080;55100
@@ -204,9 +162,7 @@
 14373;Blutroter Gürtel;1;9999;9999
 14343;Kleiner glänzender Splitter;6;13300;14988
 31903;Furien 5;1;16999999;24999999
-14491;Muster: Runenstoffhose;1;11000;14000
 14491;Muster: Runenstoffhose;1;9540;13300
-14491;Muster: Runenstoffhose;1;26719;38576
 7476;Majestätische Schärpe;1;30000;40000
 7524;Hauchzartes Cape;1;13750;17188
 7522;Hauchzarte Stiefel;1;15563;19454
@@ -226,20 +182,11 @@
 7443;Schildwachenhandschuhe;1;6916;8645
 14501;Muster: Mondstoffweste;1;23600;29500
 31901;Furien Ass;1;109511;138389
-14549;Stiefel der Vermeidung;1;76855;80000
-32231;Pyrostein;1;2180000;2270000
-32231;Pyrostein;1;2180000;2270000
-32231;Pyrostein;1;2405000;2460000
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
-32231;Pyrostein;1;2199999;2299999
-32231;Pyrostein;1;2199999;2299999
-32231;Pyrostein;1;2405000;2460000
-32231;Pyrostein;1;2405000;2460000
-32231;Pyrostein;1;2405000;2460000
-32231;Pyrostein;1;2405000;2460000
-32231;Pyrostein;1;2199999;2299999
+32231;Pyrostein;1;2180000;2270000
+32231;Pyrostein;1;2180000;2270000
 14416;Steinstoffbindungen;1;19976;23049
 1717;Doppelverbundtunika;1;12865;14294
 1717;Doppelverbundtunika;1;4662;12500

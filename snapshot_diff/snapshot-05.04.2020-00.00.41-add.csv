@@ -24,11 +24,6 @@
 15589;Beständige Stampfer;1;20000;30000
 7070;Elementarwasser;1;4220;12347
 7070;Elementarwasser;1;4220;12347
-7070;Elementarwasser;3;50000;80000
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;2;19955;24944
-7070;Elementarwasser;1;4487;13129
 15522;Stachelkettenschild;1;20000;40000
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;23900;70000
 15966;Giftschleierkugel;1;32724;48405
@@ -71,16 +66,7 @@
 11226;Formel: Handschuhe - Reitfertigkeit;1;501500;557222
 11226;Formel: Handschuhe - Reitfertigkeit;1;501500;557222
 15647;Eisenhautschulterstücke;1;43216;48018
-5075;Blutsplitter;10;1075;1500
 5075;Blutsplitter;10;1136;1420
-5075;Blutsplitter;3;477;597
-5075;Blutsplitter;6;955;1194
-5075;Blutsplitter;8;10300;10400
-5075;Blutsplitter;10;1512;1890
-5075;Blutsplitter;10;1512;1790
-5075;Blutsplitter;10;1432;1790
-5075;Blutsplitter;10;1432;1790
-5075;Blutsplitter;7;1000;1153
 15526;Wachpostencape;1;20000;30000
 4298;Muster: Wächtergürtel;1;5000;10000
 15746;Muster: Schimärengamaschen;1;56956;63696
@@ -148,24 +134,6 @@
 11188;Gelber Machtkristall;3;13500;14500
 15518;Stachelkettenbrustplatte;1;20000;30000
 15755;Muster: Schimärenweste;1;145000;150000
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;9;4050;0
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;8;63600;70000
-4304;Dickes Leder;20;130000;138000
 5079;Kaltes Basiliskenauge;1;52464;58293
 14343;Kleiner glänzender Splitter;4;1024;1280
 4247;Lederhandschuhe des Hügelwächters;1;14822;15357
@@ -186,9 +154,6 @@
 11139;Großer leuchtender Splitter;3;4434;5543
 11139;Großer leuchtender Splitter;3;4434;5543
 11139;Großer leuchtender Splitter;2;4434;5543
-7069;Elementarluft;9;100710;111901
-7069;Elementarluft;1;19800;20000
-7069;Elementarluft;1;19800;20000
 15768;Muster: Tückischer Ledergürtel;1;89999;99999
 15744;Muster: Tückisches Lederstirnband;1;68091;85114
 15765;Muster: Runenverzierte Lederhose;1;9999;11200

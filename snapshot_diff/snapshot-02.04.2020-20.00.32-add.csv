@@ -98,8 +98,6 @@
 7969;Mithrilsporen;1;375;29900
 9293;Rezept: Magiewiderstandstrank;1;18000;34000
 14048;Runenstoffballen;1;8000;9099
-25802;Schreckensgiftbeutel;1;8960;11201
-25802;Schreckensgiftbeutel;8;98000;100000
 32586;Armschienen des flinken Gedankens;1;4999999;5399999
 24291;Sumpflordranke;38;262139;327674
 32225;Schillernder Gischtsmaragd;1;529999;659999
@@ -117,16 +115,10 @@
 10939;Groﬂe Magieessenz;1;13806;17258
 22447;Geringe Planaressenz;1;46474;50527
 22447;Geringe Planaressenz;1;46474;50527
-22447;Geringe Planaressenz;2;92948;101054
-22447;Geringe Planaressenz;2;89534;111918
 31882;Segen Ass;1;26439;33049
-9210;Geisterfarbstoff;10;276040;292550
-9210;Geisterfarbstoff;10;276040;292550
 9210;Geisterfarbstoff;1;10000;10000
 9210;Geisterfarbstoff;1;10000;10000
 9210;Geisterfarbstoff;1;10000;10000
-9210;Geisterfarbstoff;1;74500;82000
-9210;Geisterfarbstoff;10;276040;292550
 11175;Groﬂe Netheressenz;2;105000;110000
 11175;Groﬂe Netheressenz;10;626552;783190
 11175;Groﬂe Netheressenz;4;249520;313276
@@ -216,10 +208,6 @@
 24028;Feingeschliffener lebendiger Rubin;1;244500;244500
 24028;Feingeschliffener lebendiger Rubin;1;250000;299999
 31226;Gamaschen des Durchtriebenen;1;175974;195526
-9187;Elixier der groﬂen Beweglichkeit;1;3820;4776
-9187;Elixier der groﬂen Beweglichkeit;20;120000;120000
-9187;Elixier der groﬂen Beweglichkeit;1;3820;4776
-9187;Elixier der groﬂen Beweglichkeit;1;3820;4776
 22450;Kristall der Leere;2;75000;79500
 27515;Groﬂe T¸pfelteufelsfinne;5;43750;50000
 4592;Langzahniger Matschschnapper;20;3346;3718
@@ -234,9 +222,6 @@
 17056;Leichte Feder;20;80210;90000
 17056;Leichte Feder;18;29582;37728
 22542;Formel: Stiefel - Vitalit‰t;1;505399;631749
-25897;Starker Erdsturmdiamant;1;858412;876684
-25897;Starker Erdsturmdiamant;1;973500;1000000
-25897;Starker Erdsturmdiamant;1;803535;876584
 25897;Starker Erdsturmdiamant;1;876583;876583
 25897;Starker Erdsturmdiamant;1;803443;876483
 8168;Pechschwarze Feder;3;320;400
@@ -275,9 +260,6 @@
 27500;Rolle des Schutzes V;1;20150;25000
 27500;Rolle des Schutzes V;1;20150;25000
 27500;Rolle des Schutzes V;1;46907;52118
-25868;Himmelsfeuerdiamant;1;975688;989310
-25868;Himmelsfeuerdiamant;1;985000;1000000
-25868;Himmelsfeuerdiamant;1;935000;950000
 25868;Himmelsfeuerdiamant;1;925000;940000
 13492;Rezept: L‰uterungstrank;1;15000;19000
 24296;Muster: Armschienen des Unersch¸tterlichen;1;103658;129573
@@ -322,7 +304,6 @@
 4498;Brauner Lederranzen;1;1500;1800
 4498;Brauner Lederranzen;1;1500;1800
 4498;Brauner Lederranzen;1;1500;1800
-25843;Teufelseisenrute;1;299900;299900
 25843;Teufelseisenrute;1;227924;284905
 4353;Muster: Spinneng¸rtel;1;9080;11350
 4353;Muster: Spinneng¸rtel;1;10000;10000
@@ -338,7 +319,6 @@
 27662;Teufelsfinne Supreme;1;699;999
 27662;Teufelsfinne Supreme;10;6990;9990
 27662;Teufelsfinne Supreme;10;6990;9990
-27662;Teufelsfinne Supreme;20;15184;18980
 27662;Teufelsfinne Supreme;10;6990;9990
 27662;Teufelsfinne Supreme;10;6990;9990
 27662;Teufelsfinne Supreme;10;6990;9990
@@ -347,8 +327,6 @@
 15250;Gleiﬂender Flamberg;1;10342;13000
 3821;Golddorn;10;80000;90000
 25281;Groﬂwildschrotflinte;1;191280;239100
-29539;Kobraschuppen;1;191875;199500
-29539;Kobraschuppen;1;191875;199500
 31911;Delirium 8;1;1999999;1999999
 31911;Delirium 8;1;1994800;2118500
 18335;Makelloser schwarzer Diamant;1;179544;225055
@@ -359,18 +337,8 @@
 1443;Juwelenbesetztes Amulett von Cainwyn;1;138888;148888
 24298;Muster: Schwarzgestreifte Armschienen;1;699999;699999
 24298;Muster: Schwarzgestreifte Armschienen;1;245000;250000
-27663;Schwarzgebratener Sporenfisch;12;72984;82020
 27663;Schwarzgebratener Sporenfisch;20;94500;100000
 27663;Schwarzgebratener Sporenfisch;20;94500;100000
-27663;Schwarzgebratener Sporenfisch;20;99999;101010
-27663;Schwarzgebratener Sporenfisch;20;89500;109000
-27663;Schwarzgebratener Sporenfisch;20;87999;106999
-27663;Schwarzgebratener Sporenfisch;20;89980;109580
-27663;Schwarzgebratener Sporenfisch;20;89500;109000
-27663;Schwarzgebratener Sporenfisch;20;89500;109000
-27663;Schwarzgebratener Sporenfisch;20;87999;106999
-27663;Schwarzgebratener Sporenfisch;20;87999;106999
-27663;Schwarzgebratener Sporenfisch;20;87999;106999
 13465;Bergsilbersalbei;20;120000;180000
 13465;Bergsilbersalbei;20;120000;180000
 13465;Bergsilbersalbei;20;120000;180000
@@ -420,22 +388,15 @@
 31143;Tuch der Raserei;1;32748;169800
 31143;Tuch der Raserei;1;146999;166599
 4426;Rolle der St‰rke III;1;9999;9999
-25896;M‰chtiger Erdsturmdiamant;1;897083;909285
-25896;M‰chtiger Erdsturmdiamant;1;1007500;1009500
-25896;M‰chtiger Erdsturmdiamant;1;900000;900000
 25896;M‰chtiger Erdsturmdiamant;1;847429;889801
 25896;M‰chtiger Erdsturmdiamant;1;877959;889901
 25896;M‰chtiger Erdsturmdiamant;1;899799;899799
-25896;M‰chtiger Erdsturmdiamant;1;856952;899800
-25896;M‰chtiger Erdsturmdiamant;1;895000;899900
-25896;M‰chtiger Erdsturmdiamant;1;865890;909185
 21301;Gr¸ne Helferbox;1;120100;130000
 22913;Rezept: Hasttrank;1;300000;300000
 22913;Rezept: Hasttrank;1;480000;489800
 22913;Rezept: Hasttrank;1;419999;439999
 22913;Rezept: Hasttrank;1;300000;300000
 1210;Schattenedelstein;1;1450;1813
-24304;Muster: Schwarzer G¸rtel des Wissens;1;110000;120000
 7992;Pl‰ne: Blaue glitzernde Axt;1;5000;7500
 7992;Pl‰ne: Blaue glitzernde Axt;1;6014;7518
 14047;Runenstoff;20;29800;29900
@@ -472,13 +433,6 @@
 25844;Adamantitrute;1;169900;169900
 25844;Adamantitrute;1;150000;180000
 13446;Erheblicher Heiltrank;1;2800;3100
-24274;Runenverzierter Zauberfaden;1;2699500;2879500
-24274;Runenverzierter Zauberfaden;1;2699999;2939999
-24274;Runenverzierter Zauberfaden;1;2920000;3000000
-24274;Runenverzierter Zauberfaden;1;2623300;2887900
-24274;Runenverzierter Zauberfaden;1;2615000;2887500
-24274;Runenverzierter Zauberfaden;1;2910000;2920000
-24274;Runenverzierter Zauberfaden;1;2699999;2879999
 4415;Bauplan: Handwerkermonokel;1;18825;29900
 4415;Bauplan: Handwerkermonokel;1;271664;339580
 31136;Brustplatte des Klingendrehs;1;151176;188971
@@ -509,8 +463,6 @@
 4421;Rolle des Schutzes III;1;1352;1691
 27516;Riesige Stachelkiemenforelle;1;95600;119500
 868;Inbr¸nstiger H¸ter;1;102299;150000
-25867;Erdsturmdiamant;1;918750;931000
-25867;Erdsturmdiamant;1;937500;950000
 21900;Muster: Magieerf¸llte Netherstoffrobe;1;77600;89500
 3283;Kampfkettentunika;1;10000;10000
 15946;Mystikersph‰re;1;3420;4275
@@ -595,12 +547,6 @@
 16203;Groﬂe ewige Essenz;1;83333;85555
 3820;W¸rgetang;8;64000;72000
 19269;Elementar 2;1;103690;115211
-22448;Kleiner Prismasplitter;1;70100;79999
-22448;Kleiner Prismasplitter;3;150000;175000
-22448;Kleiner Prismasplitter;3;150000;175000
-22448;Kleiner Prismasplitter;3;150000;175000
-22448;Kleiner Prismasplitter;1;70100;79999
-22448;Kleiner Prismasplitter;5;221664;277080
 14373;Blutroter G¸rtel;1;1680;2100
 27658;Gerˆsteter Grollhuf;20;114500;126000
 27658;Gerˆsteter Grollhuf;20;114500;126000
@@ -644,7 +590,6 @@
 11083;Seelenstaub;15;17040;21300
 11083;Seelenstaub;15;17040;21300
 21887;Knotenhautleder;20;207500;220000
-21887;Knotenhautleder;19;192128;192888
 21887;Knotenhautleder;20;147500;150000
 32062;Elixier der erheblichen Seelenst‰rke;5;199999;299999
 32062;Elixier der erheblichen Seelenst‰rke;5;199999;299999
@@ -723,33 +668,7 @@
 31906;Furien 6;1;100000000;150000000
 11084;Groﬂer gleiﬂender Splitter;1;4488;5610
 33052;Fischerschmaus;5;49900;49900
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;10;1483992;1539990
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120000;135000
-22446;Groﬂe Planaressenz;1;120049;136010
-22446;Groﬂe Planaressenz;1;120049;136010
-22446;Groﬂe Planaressenz;1;120049;136010
-22446;Groﬂe Planaressenz;1;120049;136010
-22446;Groﬂe Planaressenz;10;1483992;1539990
-22446;Groﬂe Planaressenz;10;1483992;1539990
-22446;Groﬂe Planaressenz;10;1483992;1539990
-22446;Groﬂe Planaressenz;2;265538;269998
-22446;Groﬂe Planaressenz;1;120000;134010
 22446;Groﬂe Planaressenz;5;500000;600000
-22446;Groﬂe Planaressenz;1;120000;134010
 22446;Groﬂe Planaressenz;1;113000;119500
 22446;Groﬂe Planaressenz;1;113000;119500
 22446;Groﬂe Planaressenz;5;500000;600000
@@ -758,16 +677,7 @@
 22446;Groﬂe Planaressenz;5;500000;600000
 22446;Groﬂe Planaressenz;5;500000;600000
 22446;Groﬂe Planaressenz;5;500000;600000
-22446;Groﬂe Planaressenz;1;120100;133400
-22446;Groﬂe Planaressenz;1;120000;134010
 22446;Groﬂe Planaressenz;5;500000;600000
-22446;Groﬂe Planaressenz;1;120000;134010
-22446;Groﬂe Planaressenz;1;120100;133400
-22446;Groﬂe Planaressenz;1;120100;133400
-22446;Groﬂe Planaressenz;1;120100;133400
-22446;Groﬂe Planaressenz;1;120100;133400
-22446;Groﬂe Planaressenz;10;1200100;1250000
-22446;Groﬂe Planaressenz;10;1200100;1350000
 22446;Groﬂe Planaressenz;1;100100;120000
 24300;Muster: Umhang der Ewigkeit;1;531999;664999
 24300;Muster: Umhang der Ewigkeit;1;699999;699999
@@ -809,50 +719,6 @@
 31298;Beinsch¸tzer der Zerschmetterten Hand;1;175668;195186
 31298;Beinsch¸tzer der Zerschmetterten Hand;1;175668;195186
 13117;Ogrons Sch‰rpe;1;45745;55099
-22457;Urmana;2;391190;395164
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199558;199578
-22457;Urmana;2;391190;395164
-22457;Urmana;2;391190;395164
-22457;Urmana;2;391190;395164
-22457;Urmana;1;190000;200000
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;1;199558;199578
-22457;Urmana;2;391190;395164
 31901;Furien Ass;1;152883;184632
 31901;Furien Ass;1;152883;184632
 31901;Furien Ass;1;75000;100000
@@ -930,15 +796,6 @@
 33825;Sch‰delfischsuppe;20;953600;969500
 23571;Urmacht;1;844000;850000
 23571;Urmacht;1;844000;850000
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;20;189900;199480
-21929;Flammenspessarit;4;37980;39896
-21929;Flammenspessarit;5;39995;49495
-21929;Flammenspessarit;5;39995;49495
-21929;Flammenspessarit;5;39995;49495
-21929;Flammenspessarit;5;39995;49495
 21929;Flammenspessarit;1;9999;19999
 21929;Flammenspessarit;1;9999;19999
 21929;Flammenspessarit;1;9999;19999
@@ -1033,11 +890,6 @@
 15412;Gr¸ne Drachenschuppe;1;17649;29562
 12202;Tigerfleisch;10;1305;1800
 12202;Tigerfleisch;7;913;1500
-24477;Jaggalmuschelfleisch;10;2280;2850
-24477;Jaggalmuschelfleisch;10;2280;2850
-24477;Jaggalmuschelfleisch;10;2280;2850
-24477;Jaggalmuschelfleisch;10;3128;3910
-24477;Jaggalmuschelfleisch;6;1152;1440
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
 24305;Muster: Cape der Entschlossenheit;1;110000;110000
 24305;Muster: Cape der Entschlossenheit;1;105790;132238

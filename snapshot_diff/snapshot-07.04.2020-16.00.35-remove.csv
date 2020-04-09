@@ -202,10 +202,6 @@
 16671;Bindungen der Elemente;1;38000;47500
 15562;Plündererschulterstücke;1;30000;40000
 7976;Pläne: Mithrilschildstachel;1;88000;122000
-31291;Kristallgeschmiedete Kriegsaxt;1;227599;230000
-31291;Kristallgeschmiedete Kriegsaxt;1;343676;429596
-31291;Kristallgeschmiedete Kriegsaxt;1;161398;220000
-31291;Kristallgeschmiedete Kriegsaxt;1;167200;209000
 12689;Pläne: Strahlende Brustplatte;1;17999;19999
 4335;Dunkellila Seidenhemd;1;39999;49999
 15553;Dickschuppenschulterpolster;1;4591;6500
@@ -223,11 +219,7 @@
 8153;Wildranke;1;7900;7999
 8153;Wildranke;20;150000;180000
 16043;Bauplan: Thoriumgewehr;1;25932;36591
-31298;Beinschützer der Zerschmetterten Hand;1;191919;202020
-31298;Beinschützer der Zerschmetterten Hand;1;223535;251919
 31298;Beinschützer der Zerschmetterten Hand;1;171184;199999
-31298;Beinschützer der Zerschmetterten Hand;1;168152;180000
-31298;Beinschützer der Zerschmetterten Hand;1;128152;150000
 12717;Pläne: Löwenherzhelm;1;3499999;3999999
 15531;Wachpostenschulterschutz;1;6914;9500
 8028;Pläne: Runenverzierter Mithrilhammer;1;43750;50000
@@ -253,11 +245,6 @@
 16202;Geringe ewige Essenz;2;58699;73374
 25708;Dickes Grollhufleder;3;73375;75000
 25708;Dickes Grollhufleder;3;73375;75000
-7971;Schwarze Perle;1;82000;147500
-7971;Schwarze Perle;1;82000;147500
-7971;Schwarze Perle;1;82000;147500
-7971;Schwarze Perle;1;141500;150000
-7971;Schwarze Perle;1;141500;150000
 12711;Pläne: Helm der weißen Seele;1;189999;199999
 31230;Stiefel des Abysswandlers;1;273239;290000
 15536;Tückischer Kettenbrustharnisch;1;6160;12000
@@ -377,8 +364,6 @@
 15761;Muster: Frostsäblerhandschuhe;1;6250;10000
 24207;Vorlage: Kompakter Dämmerstein;1;356811;446014
 15576;Spiegelpanzersabatons;1;20000;30000
-31290;Band der Herrschaft;1;149520;188276
-31290;Band der Herrschaft;1;169989;179999
 12184;Raptorfleisch;3;1120;1190
 12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;6973;7748
@@ -462,7 +447,6 @@
 22446;Große Planaressenz;10;869792;1092240
 5766;Geringe Hexerrobe;1;6000;7000
 31294;Schulterstücke der Manawoge;1;129999;149999
-31294;Schulterstücke der Manawoge;1;127399;146999
 15524;Wachpostenübermantel;1;49203;51504
 12361;Blauer Saphir;1;15884;19856
 12361;Blauer Saphir;5;74912;93640
@@ -486,21 +470,12 @@
 25653;Reitgerte;1;799999;899999
 31285;Brustschutz der Kralle;1;145520;151000
 31285;Brustschutz der Kralle;1;121600;152000
-31289;Stab der göttlichen Eingebung;1;199805;209557
 31289;Stab der göttlichen Eingebung;1;206858;210271
-31289;Stab der göttlichen Eingebung;1;239949;249999
-31289;Stab der göttlichen Eingebung;1;244852;272058
-31289;Stab der göttlichen Eingebung;1;189511;238139
 31289;Stab der göttlichen Eingebung;1;189874;200000
-31299;Der Schwurbewahrer;1;149999;179999
-31299;Der Schwurbewahrer;1;160379;178199
-31299;Der Schwurbewahrer;1;160000;170000
-31299;Der Schwurbewahrer;1;151470;168300
 31299;Der Schwurbewahrer;1;198026;219999
 8146;Tückische Klaue;5;2832;3540
 8146;Tückische Klaue;5;12610;15455
 8146;Tückische Klaue;5;12610;15455
-7912;Robuster Stein;20;13000;20000
 24302;Muster: Gurt des Unerschütterlichen;1;93743;117179
 24302;Muster: Gurt des Unerschütterlichen;1;134115;167644
 15731;Muster: Runenverzierte Lederstulpen;1;4332;5415
@@ -554,7 +529,6 @@
 23437;Talasit;1;34000;36500
 23437;Talasit;1;34000;36500
 23437;Talasit;1;34342;49898
-23437;Talasit;20;600000;0
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
 5785;Dicke Murlocschuppe;1;2044;2555
@@ -644,11 +618,7 @@
 14047;Runenstoff;20;20000;29000
 14047;Runenstoff;20;42000;46000
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2918;3648
-31292;Pulsierender Kristallschild;1;448645;479000
-31292;Pulsierender Kristallschild;1;444444;466666
-31292;Pulsierender Kristallschild;1;438645;450000
 31292;Pulsierender Kristallschild;1;200000;250000
-31292;Pulsierender Kristallschild;1;399999;429999
 16006;Empfindlicher Arkanitwandler;1;777777;888888
 16006;Empfindlicher Arkanitwandler;1;777777;888888
 11185;Grüner Machtkristall;13;66383;82979
@@ -657,7 +627,6 @@
 12804;Mächtiges Mojo;10;446080;557600
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
 32196;Runenverzierter Purpurspinell;1;2800000;2900000
-31297;Robe des Purpurordens;1;272769;290000
 4305;Seidenstoffballen;3;32700;40000
 4305;Seidenstoffballen;10;120000;133000
 4305;Seidenstoffballen;10;120000;133000
@@ -735,10 +704,6 @@
 31148;Dämonenbalgschiftung;1;166612;185124
 21886;Urleben;1;106000;115000
 21886;Urleben;1;106000;115000
-31287;Ehrenwachenschild der Draenei;1;176735;199999
-31287;Ehrenwachenschild der Draenei;1;156735;180000
-31287;Ehrenwachenschild der Draenei;1;176735;199999
-31287;Ehrenwachenschild der Draenei;1;221157;230000
 17020;Arkanes Pulver;17;13600;17000
 17020;Arkanes Pulver;2;1600;2000
 16224;Formel: Umhang - Überragende Verteidigung;1;259999;279999
@@ -780,8 +745,6 @@
 12800;Azerothischer Diamant;1;75000;89999
 31281;Maske des verhüllten Todes;1;244380;250000
 31281;Maske des verhüllten Todes;1;254380;290000
-31295;Brustschutz des Dunkelpirschers;1;184044;223094
-31295;Brustschutz des Dunkelpirschers;1;192620;214022
 15976;Distelfellzweig;1;13001;16252
 31276;Stiefel des Zeloten;1;186998;219998
 31276;Stiefel des Zeloten;1;186998;219998

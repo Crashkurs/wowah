@@ -69,8 +69,6 @@
 32067;Elixier der draenischen Weisheit;15;263750;269900
 8400;Muster: Feste Skorpidschulterstücke;1;37240;46550
 8400;Muster: Feste Skorpidschulterstücke;1;37075;46000
-8400;Muster: Feste Skorpidschulterstücke;1;31857;35397
-8400;Muster: Feste Skorpidschulterstücke;1;31857;35397
 4299;Muster: Wächterrüstung;1;750;1500
 21991;Schwerer Netherstoffverband;20;130000;132000
 21991;Schwerer Netherstoffverband;20;130000;132000
@@ -238,10 +236,7 @@
 4278;Geringes Blutsteinerz;20;90750;100000
 4278;Geringes Blutsteinerz;11;84084;105105
 4278;Geringes Blutsteinerz;20;152880;191100
-23620;Pläne: Teufelszornstulpen;1;206038;245064
-23620;Pläne: Teufelszornstulpen;1;132930;227700
 23620;Pläne: Teufelszornstulpen;1;143600;179500
-23620;Pläne: Teufelszornstulpen;1;130000;190000
 15233;Wilde Axt;1;19614;23900
 31281;Maske des verhüllten Todes;1;214380;229900
 31281;Maske des verhüllten Todes;1;224380;240000
@@ -260,10 +255,7 @@
 8389;Muster: Große Voodoohose;1;1875;7999
 8402;Muster: Fester Skorpidhelm;1;2062;2999
 8402;Muster: Fester Skorpidhelm;1;2000;3500
-8839;Blindkraut;12;45206;56508
-8839;Blindkraut;3;4320;5400
 8839;Blindkraut;7;13937;20000
-8839;Blindkraut;6;14678;16309
 8839;Blindkraut;20;21250;30000
 8839;Blindkraut;3;2087;3000
 8839;Blindkraut;3;5000;5500
@@ -405,7 +397,6 @@
 2772;Eisenerz;20;49900;49900
 2772;Eisenerz;20;49900;49900
 2772;Eisenerz;20;49900;49900
-8494;Papageienkäfig (Hyazinthara);1;9999900;9999900
 8494;Papageienkäfig (Hyazinthara);1;5999999;6999999
 2318;Leichtes Leder;10;17500;20000
 2318;Leichtes Leder;20;36736;45920
@@ -430,16 +421,6 @@
 22449;Großer Prismasplitter;2;397670;399870
 22449;Großer Prismasplitter;6;720000;810000
 22449;Großer Prismasplitter;20;2553984;2679980
-8831;Lila Lotus;1;3500;9000
-8831;Lila Lotus;20;99000;100000
-8831;Lila Lotus;20;99000;100000
-8831;Lila Lotus;6;17328;21660
-8831;Lila Lotus;15;56750;60000
-8831;Lila Lotus;20;59000;80000
-8831;Lila Lotus;20;59500;76000
-8831;Lila Lotus;20;59500;76000
-8831;Lila Lotus;11;4950;30000
-8831;Lila Lotus;20;59500;76000
 4240;Wolltasche;1;7550;10000
 4240;Wolltasche;1;7550;10000
 4240;Wolltasche;1;7550;10000
@@ -704,7 +685,6 @@
 31299;Der Schwurbewahrer;1;153793;155325
 31299;Der Schwurbewahrer;1;125351;159000
 31299;Der Schwurbewahrer;1;204500;217500
-8827;Elixier des Wasserwandelns;20;13749;14999
 15127;Robuste Schultern;1;5164;6456
 4235;Schwerer Balg;4;239396;265996
 32200;Gediegener Engelssaphir;1;500000;600000
@@ -786,17 +766,6 @@
 31298;Beinschützer der Zerschmetterten Hand;1;128152;160000
 31298;Beinschützer der Zerschmetterten Hand;1;260000;270000
 31298;Beinschützer der Zerschmetterten Hand;1;197080;218978
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;10;850000;900000
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;1;99500;185500
-23573;Gehärteter Adamantitbarren;5;445000;458700
 4338;Magiestoff;20;127984;159980
 4338;Magiestoff;20;199980;199980
 4338;Magiestoff;20;199980;199980
@@ -894,11 +863,7 @@
 21877;Netherstoff;20;39999;49999
 15177;Potente Schultern;1;27280;34100
 8838;Sonnengras;14;62804;69818
-8838;Sonnengras;20;30000;30000
 8838;Sonnengras;20;89720;99740
-8838;Sonnengras;20;11800;20000
-8838;Sonnengras;20;28784;35980
-8838;Sonnengras;1;1140;1425
 15370;Wolfreiterstiefel;1;19999;29999
 3731;Löwenfleisch;2;8000;10000
 3731;Löwenfleisch;10;40000;50000
@@ -995,7 +960,6 @@
 24029;Tränenförmiger lebendiger Rubin;1;225000;235000
 24029;Tränenförmiger lebendiger Rubin;1;225000;235000
 24029;Tränenförmiger lebendiger Rubin;1;225000;235000
-8217;Schnellziehköcher;1;45000;49000
 8217;Schnellziehköcher;1;1500;0
 8217;Schnellziehköcher;1;1500;0
 25707;Teufelsbalg;20;187500;200000
@@ -1102,11 +1066,6 @@
 31288;Des Meisters Treter;1;364962;379900
 31288;Des Meisters Treter;1;364962;390000
 31288;Des Meisters Treter;1;284962;370000
-8836;Arthas' Tränen;11;15638;19548
-8836;Arthas' Tränen;9;12153;15192
-8836;Arthas' Tränen;20;25648;26560
-8836;Arthas' Tränen;8;1140;10000
-8836;Arthas' Tränen;1;1250;1250
 8836;Arthas' Tränen;20;36160;41980
 8836;Arthas' Tränen;12;21696;25188
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;17500;19000
@@ -1430,12 +1389,6 @@
 2770;Kupfererz;20;49999;59999
 2770;Kupfererz;20;49999;59999
 2770;Kupfererz;20;49999;59999
-23575;Geringer Zauberschutz der Abschirmung;5;13027;16284
-23575;Geringer Zauberschutz der Abschirmung;2;6400;6400
-23575;Geringer Zauberschutz der Abschirmung;5;16199;16199
-23575;Geringer Zauberschutz der Abschirmung;5;16199;16199
-23575;Geringer Zauberschutz der Abschirmung;5;13027;16284
-23575;Geringer Zauberschutz der Abschirmung;5;13027;16284
 4304;Dickes Leder;1;6399;10099
 4304;Dickes Leder;15;114085;126762
 4304;Dickes Leder;1;5000;5000
@@ -1446,7 +1399,6 @@
 4234;Schweres Leder;20;99900;123000
 4234;Schweres Leder;9;45000;55000
 8392;Feuerverbrannte Eberlunge;4;23164;25736
-23572;Urnether;1;23000;30000
 23572;Urnether;1;29999;29999
 23572;Urnether;1;29999;29999
 23572;Urnether;1;29999;29999
@@ -1525,8 +1477,6 @@
 11176;Traumstaub;20;100000;100000
 11176;Traumstaub;20;127984;159980
 11176;Traumstaub;20;49999;149999
-11176;Traumstaub;20;99999;99999
-11176;Traumstaub;20;99999;99999
 11176;Traumstaub;17;54386;67983
 11176;Traumstaub;20;119992;133324
 11176;Traumstaub;20;119992;133324

@@ -49,12 +49,8 @@
 23100;Glitzernder Flammenspessarit;1;17394;17827
 23100;Glitzernder Flammenspessarit;1;17394;17827
 16072;Expertenkochbuch;1;33750;50000
-16072;Expertenkochbuch;1;33750;50000
-16072;Expertenkochbuch;1;27600;29500
 11986;Thalliumreifen;1;10000;20000
 13422;Steinschuppenaal;5;20100;30000
-13422;Steinschuppenaal;10;30150;40000
-13422;Steinschuppenaal;20;60000;80000
 13199;Trümmergratbindungen;1;106598;150000
 31286;Brustplatte des raschen Angriffs;1;391940;590000
 29739;Arkaner Foliant;5;590100;600000
@@ -161,18 +157,11 @@
 16202;Geringe ewige Essenz;1;33318;35918
 16202;Geringe ewige Essenz;1;33318;35918
 16202;Geringe ewige Essenz;1;33318;35918
-16202;Geringe ewige Essenz;1;33318;35918
 16202;Geringe ewige Essenz;1;27100;36000
 12022;Iridiumkette;1;5097;8872
 13446;Erheblicher Heiltrank;3;28611;31790
-13446;Erheblicher Heiltrank;2;6955;8694
 13446;Erheblicher Heiltrank;2;8060;10868
 13446;Erheblicher Heiltrank;3;12755;14173
-13446;Erheblicher Heiltrank;1;2712;3390
-13446;Erheblicher Heiltrank;5;26932;26999
-13446;Erheblicher Heiltrank;5;26932;26999
-13446;Erheblicher Heiltrank;3;12388;15486
-13446;Erheblicher Heiltrank;3;16500;17000
 16206;Arkanitrute;1;359500;399900
 20964;Aquamarinsiegel;1;18260;22826
 12164;Pläne: Massive Eisenaxt;1;11650;19900
@@ -185,8 +174,6 @@
 7079;Kugel des Wassers;1;6000;8000
 7079;Kugel des Wassers;1;6000;8000
 12054;Dämonenband;1;99900;99900
-13137;Eisenwirker;1;88888;100000
-13137;Eisenwirker;1;50000;70000
 13137;Eisenwirker;1;18811;20000
 13127;Frosthäscherkrone;1;50000;80000
 13135;Fürstliche Armschützer;1;70000;90000
@@ -262,7 +249,6 @@
 23426;Khoriumerz;5;379895;474870
 23426;Khoriumerz;3;215660;269575
 23426;Khoriumerz;1;23750;30000
-13130;Windläuferbeinschützer;1;47432;59290
 13130;Windläuferbeinschützer;1;80599;97333
 13310;Bauplan: Genaues Zielfernrohr;1;7750;9900
 22446;Große Planaressenz;10;1029673;1144081
@@ -467,7 +453,6 @@
 16203;Große ewige Essenz;1;81000;81500
 16203;Große ewige Essenz;10;757000;798000
 16203;Große ewige Essenz;10;799999;799999
-16203;Große ewige Essenz;10;799999;799999
 12014;Arktischer Ring;1;19524;25156
 20960;Gravierter Echtsilberring;1;3980;640000
 20960;Gravierter Echtsilberring;1;3980;640000
@@ -505,13 +490,6 @@
 32062;Elixier der erheblichen Seelenstärke;20;297500;350000
 32062;Elixier der erheblichen Seelenstärke;9;160200;223560
 32062;Elixier der erheblichen Seelenstärke;20;356000;496800
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
-13444;Erheblicher Manatrank;1;16699;17999
 13444;Erheblicher Manatrank;3;29397;36747
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5162;5298
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5162;5298
@@ -527,7 +505,6 @@
 20955;Goldener Drachenring;1;4065;5006
 13757;Zitteraal;1;1000;1500
 20817;Bronzefassung;12;57500;73500
-13126;Kriegsruferstulpen;1;65000;75000
 13126;Kriegsruferstulpen;1;75561;80203
 12202;Tigerfleisch;3;626;783
 12202;Tigerfleisch;4;970;1030

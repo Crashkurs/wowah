@@ -13,7 +13,6 @@
 15185;Prätorianerhelmkappe;1;46461;51624
 1475;Kleiner Giftbeutel;3;5329;5922
 21877;Netherstoff;20;29781;33090
-7086;Muster: Irdener Seidengürtel;1;27554;38394
 19284;Portal 8;1;65000;85000
 19284;Portal 8;1;68399;85499
 24215;Vorlage: Glänzender Edeltopas;1;259999;279999
@@ -31,7 +30,6 @@
 11184;Blauer Machtkristall;1;7000;7700
 11184;Blauer Machtkristall;10;80000;100000
 10191;Kreuzfahrerarmschützer;1;27997;31108
-7082;Essenz der Luft;10;434565;482851
 15589;Beständige Stampfer;1;20000;30000
 7070;Elementarwasser;1;15623;17359
 7909;Aquamarin;5;79945;99935
@@ -44,9 +42,7 @@
 8315;Alabasterplattengurt;1;20213;22459
 21885;Urwasser;2;197066;246300
 868;Inbrünstiger Hüter;1;52299;80000
-8171;Unverwüstlicher Balg;2;3993;4437
 8171;Unverwüstlicher Balg;7;9538;13048
-8171;Unverwüstlicher Balg;9;17971;19968
 11138;Kleiner leuchtender Splitter;16;21017;26272
 11138;Kleiner leuchtender Splitter;7;7352;9191
 11138;Kleiner leuchtender Splitter;1;1013;1142
@@ -176,9 +172,6 @@
 10148;Mächtiger Umhang;1;16909;34000
 12717;Pläne: Löwenherzhelm;1;3499999;3999999
 12717;Pläne: Löwenherzhelm;1;4500000;5000000
-8173;Dickes Rüstungsset;7;370384;442652
-8173;Dickes Rüstungsset;10;529120;632360
-7085;Muster: Azurblaue Schultern;1;28316;39240
 7085;Muster: Azurblaue Schultern;1;5897;7372
 13110;Schreckenswolfharnisch;1;52539;58376
 19270;Elementar 3;1;48750;50000
@@ -240,7 +233,6 @@
 890;Stab des verrückten Sängers;1;507056;598951
 9260;Flüchtiger Rum;2;1814;2015
 21219;Rezept: Weisenfisch Supreme;1;28623;31803
-12205;Weißes Spinnenfleisch;2;24872;25414
 12205;Weißes Spinnenfleisch;10;40454;44949
 12205;Weißes Spinnenfleisch;9;36408;40454
 4414;Bauplan: Tragbarer bronzener Mörser;1;102948;102949
@@ -279,7 +271,6 @@
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;4062;5000
 24214;Vorlage: Mächtiger Edeltopas;1;290000;320000
 24210;Vorlage: Unbeständiges Nachtauge;1;385188;427987
-19441;Riesiger Giftbeutel;1;2355;2617
 19441;Riesiger Giftbeutel;1;3565;3961
 15546;Dickschuppenbrustplatte;1;20000;30000
 15151;Geistwandlerbeinschützer;1;20000;30000
@@ -301,24 +292,9 @@
 19274;Elementar 7;1;179999;199999
 19274;Elementar 7;1;179999;199999
 19274;Elementar 7;1;120000;150000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;10;291200;306500
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;1;29120;30650
-11178;Großer strahlender Splitter;1;29120;30650
 11178;Großer strahlender Splitter;1;25000;28000
 11178;Großer strahlender Splitter;1;25000;28000
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;6;4184;4649
-12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;5;3486;3874
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
-12184;Raptorfleisch;10;6973;7748
 12184;Raptorfleisch;10;6973;7748
 19279;Portal 3;1;39900;39900
 19279;Portal 3;1;13299;39800
@@ -353,7 +329,6 @@
 13013;Hexerältestenmantel;1;96164;106849
 13057;Blutpike;1;24074;24915
 13057;Blutpike;1;24074;24915
-7081;Odem des Windes;9;287036;318929
 9944;Bannzaubererkristall;1;27424;34280
 10098;Ratsherrenumhang;1;30000;40000
 10939;Große Magieessenz;1;13000;16000
@@ -623,8 +598,6 @@
 8831;Lila Lotus;20;72900;73900
 22578;Wasserpartikel;2;2560;3200
 15177;Potente Schultern;1;30000;40000
-8197;Stiefel des Nachtschleichers;1;46633;58481
-8197;Stiefel des Nachtschleichers;1;46633;58481
 7974;Scharfes Muschelfleisch;6;13339;14822
 7974;Scharfes Muschelfleisch;10;22233;24703
 7974;Scharfes Muschelfleisch;10;17999;18000
@@ -638,29 +611,16 @@
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;3;24327;27030
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;4062;5000
 13095;Angriffsband;1;37806;42007
-12704;Pläne: Thoriumgamaschen;1;19076;23845
-12704;Pläne: Thoriumgamaschen;1;21250;40000
 4412;Bauplan: Mondsichtgewehr;1;3300;4400
 19282;Portal 6;1;223966;248851
 13065;Zauberstab von Allistarj;1;59174;63526
-2836;Grober Stein;2;3264;3627
 2836;Grober Stein;4;6528;7254
 14254;Lunargewandung;1;10000;20000
 2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;11357;12619
 8150;Tiefsteinsalz;3;32603;36225
-21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;10;95000;99900
 21881;Netherweberseide;1;9999;9999
 21881;Netherweberseide;1;9999;9999
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
-21881;Netherweberseide;4;40000;44400
 23427;Eterniumerz;9;201607;252009
 23427;Eterniumerz;1;27074;36999
 23427;Eterniumerz;1;27075;37000
@@ -787,7 +747,6 @@
 10095;Ratsherrenstiefel;1;40000;50000
 12202;Tigerfleisch;4;1131;1257
 4038;Nachthauchrobe;1;22671;24079
-12037;Eigenartiges Fleisch;10;2473;2748
 12037;Eigenartiges Fleisch;10;4719;5244
 12037;Eigenartiges Fleisch;4;1887;2097
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
@@ -797,9 +756,7 @@
 4603;Roher Tüpfelgelbschwanz;1;1163;1293
 12808;Essenz des Untodes;1;10000;20000
 13016;Killerschredder;1;27653;29614
-7075;Erdenkern;1;49126;54584
 2011;Verdrehter Säbel;1;23273;24747
-19933;Leuchtendes Skorpidblut;10;36380;40422
 19933;Leuchtendes Skorpidblut;2;5020;5578
 19933;Leuchtendes Skorpidblut;7;25466;28295
 19281;Portal 5;1;18750;30000
@@ -824,8 +781,6 @@
 4306;Seidenstoff;20;39380;39980
 16218;Formel: Armschiene - Überragende Willenskraft;1;5250;15000
 19280;Portal 4;1;93388;116736
-19280;Portal 4;1;300000;350000
-19280;Portal 4;1;79900;79900
 3389;Elixier der Verteidigung;20;61200;66600
 10998;Geringe Astralessenz;1;1430;1520
 12693;Pläne: Thoriumstiefel;1;45000;60000
@@ -849,12 +804,8 @@
 3857;Kohle;1;5244;5827
 4337;Dicke Spinnenseide;2;6389;7099
 13108;Tigerfellmantel;1;40620;45134
-10285;Schattenseide;1;7328;8142
 10285;Schattenseide;7;51298;56998
 11176;Traumstaub;17;108256;135320
 15564;Unverwüstliches Rüstungsset;10;45327;50363
-15564;Unverwüstliches Rüstungsset;2;9065;10072
 7108;Infanterieschild;1;9999;9999
-2164;Darmreißer;1;100548;100800
-2164;Darmreißer;1;62720;78400
 8258;Schlangenhautrüstung;1;26094;52000

@@ -91,9 +91,6 @@
 8218;Dicker Ledermunitionsbeutel;1;30000;50000
 8218;Dicker Ledermunitionsbeutel;1;30000;50000
 4338;Magiestoff;9;58500;62500
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;143000;147000
 4338;Magiestoff;4;17657;22072
 4338;Magiestoff;20;143000;147000
 4338;Magiestoff;20;143000;147000
@@ -131,7 +128,6 @@
 13093;Rotglutring;1;15071;19900
 20818;Eleganter Silberring;1;2400;3000
 20818;Eleganter Silberring;1;2000;3000
-3827;Manatrank;5;4500;5500
 15562;Plündererschulterstücke;1;30000;40000
 13082;Berghangbeschützer;1;21660;27075
 7076;Essenz der Erde;1;88000;88000
@@ -277,14 +273,6 @@
 18945;Dunkeleisenrückstände;100;15000;18000
 3858;Mithrilerz;3;22735;25261
 14120;Ureinwohnerrobe;1;1846;9908
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
-22849;Eisenschildtrank;5;207500;219000
 22849;Eisenschildtrank;5;207500;219000
 22849;Eisenschildtrank;5;207500;219000
 22849;Eisenschildtrank;5;207500;219000
@@ -661,7 +649,6 @@
 24987;Felsfaustbeinplatten;1;90999;90999
 2245;Helm von Narv;1;41454;60000
 2245;Helm von Narv;1;57165;57332
-6660;Julies Dolch;1;101957;113285
 6660;Julies Dolch;1;38780;48476
 15216;Runenschwert;1;38898;45500
 15409;Raffiniertes Tiefsteinsalz;20;1500000;1550000
@@ -791,10 +778,6 @@
 6662;Elixier des Riesenwuchses;5;49999;59999
 6662;Elixier des Riesenwuchses;5;49999;59999
 6662;Elixier des Riesenwuchses;5;49999;59999
-6663;Rezept: Elixier des Riesenwuchses;1;199760;199780
-6663;Rezept: Elixier des Riesenwuchses;1;199800;199800
-6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
-6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
 19280;Portal 4;1;83578;104473
 4353;Muster: Spinnengürtel;1;5050;9000
 29539;Kobraschuppen;2;284000;299500

@@ -20,7 +20,6 @@
 19821;Durchstochene Voodoopuppe;1;326762;408453
 29532;Trommeln der Panik;1;65000;70000
 20404;Verschlüsselter Schattenhammertext;8;79904;99880
-20404;Verschlüsselter Schattenhammertext;2;20965;23295
 17414;Kodex: Gebet der Seelenstärke II;1;39999;49999
 17414;Kodex: Gebet der Seelenstärke II;1;39999;49999
 16651;Schredderanleitung - Seite 7;1;7000;7500
@@ -53,7 +52,6 @@
 22450;Kristall der Leere;4;313916;315992
 22850;Erstklassiger Verjüngungstrank;5;127772;141969
 13014;Axt von Rin'ji;1;61731;68590
-13014;Axt von Rin'ji;1;61731;68590
 21884;Urfeuer;20;6582000;6895000
 21884;Urfeuer;20;6582000;6895000
 21884;Urfeuer;20;6582000;6895000
@@ -78,23 +76,11 @@
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;9218;10242
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;10100;10199
 24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;44000;80000
-24048;Glatter Dämmerstein;1;44000;80000
-24048;Glatter Dämmerstein;1;44000;80000
-24048;Glatter Dämmerstein;1;94200;117750
-24048;Glatter Dämmerstein;1;94200;117750
-24048;Glatter Dämmerstein;1;94200;117750
-24048;Glatter Dämmerstein;1;109500;117750
-24048;Glatter Dämmerstein;1;70000;77500
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;44000;80000
-24048;Glatter Dämmerstein;1;70000;77500
-24048;Glatter Dämmerstein;1;70000;77500
-24048;Glatter Dämmerstein;1;44000;80000
 14301;Knochenwerfers Bindungen;1;8176;16000
 27676;Seltsame Sporen;3;10408;11565
 31878;Vorlage: Verschleierter Edeltopas;1;347939;386599
@@ -215,38 +201,15 @@
 16717;Handschuhe des Wildherzens;1;170474;189416
 22445;Arkaner Staub;20;350100;360000
 22445;Arkaner Staub;20;350100;360000
-22445;Arkaner Staub;10;166410;169990
-22445;Arkaner Staub;10;166410;169990
-22445;Arkaner Staub;10;166410;169990
 24105;Geröstete Mondweidenlenden;3;350;375
 24105;Geröstete Mondweidenlenden;20;2300;2500
 24105;Geröstete Mondweidenlenden;11;1300;1375
 24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;45000;57000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
-24062;Robuster Talasit;1;56000;56000
 14470;Muster: Runenstofftunika;1;5000;6000
 14470;Muster: Runenstofftunika;1;6000;6000
 14470;Muster: Runenstofftunika;1;5000;6000
 14470;Muster: Runenstofftunika;1;5000;6000
 22527;Kern der Elemente;2;9160;10177
-22527;Kern der Elemente;51;180789;200877
 23439;Edeltopas;20;1600000;1799999
 14234;Glutseidenroben;1;20000;30000
 22541;Formel: Schild - Widerstand;1;289512;362891
@@ -286,9 +249,6 @@
 24039;Stürmischer Stern der Elune;1;95600;119500
 24039;Stürmischer Stern der Elune;1;79900;95000
 24039;Stürmischer Stern der Elune;1;79900;95000
-28103;Elixier des Adepten;5;99995;109995
-28103;Elixier des Adepten;5;99995;109995
-28103;Elixier des Adepten;5;99995;109995
 28103;Elixier des Adepten;5;99950;109900
 28103;Elixier des Adepten;5;99950;109900
 17202;Schneeball;10;10528;11698
@@ -415,10 +375,6 @@
 21752;Thoriumfassung;20;57500;60000
 21752;Thoriumfassung;3;13000;15000
 21752;Thoriumfassung;20;85000;100000
-24060;Glänzender Edeltopas;1;165000;185000
-24060;Glänzender Edeltopas;1;175000;184999
-24060;Glänzender Edeltopas;1;166599;184099
-24060;Glänzender Edeltopas;1;166599;184099
 24061;Glitzernder Edeltopas;1;269999;289999
 24061;Glitzernder Edeltopas;1;227500;257500
 5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
@@ -529,18 +485,8 @@
 22840;Elixier des erheblichen Magierbluts;20;429999;430000
 22840;Elixier des erheblichen Magierbluts;20;399999;439999
 32067;Elixier der draenischen Weisheit;13;153140;191425
-24050;Schimmernder Dämmerstein;1;166900;166900
 24050;Schimmernder Dämmerstein;1;120000;169999
 24050;Schimmernder Dämmerstein;1;120000;169999
-24050;Schimmernder Dämmerstein;1;166900;166900
-24050;Schimmernder Dämmerstein;1;166900;166900
-24050;Schimmernder Dämmerstein;1;166900;166900
-24050;Schimmernder Dämmerstein;1;140000;145000
-24050;Schimmernder Dämmerstein;1;115000;145500
-24050;Schimmernder Dämmerstein;1;140000;145000
-24050;Schimmernder Dämmerstein;1;140000;145000
-24050;Schimmernder Dämmerstein;1;140000;145000
-24050;Schimmernder Dämmerstein;1;140000;145000
 17011;Lavakern;2;492742;615928
 17011;Lavakern;1;259338;324173
 5773;Muster: Roben von Arcana;1;2284275;2648248
@@ -556,9 +502,7 @@
 16971;Muschelette Surprise;20;16813;18681
 16971;Muschelette Surprise;20;16813;18681
 5997;Elixier der schwachen Verteidigung;20;350;450
-24047;Brillanter Dämmerstein;1;75000;75000
 24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;75000;75000
 24047;Brillanter Dämmerstein;1;75000;75000
 24047;Brillanter Dämmerstein;1;75000;79999
 24047;Brillanter Dämmerstein;1;75000;79999
@@ -580,7 +524,6 @@
 17020;Arkanes Pulver;17;13600;17000
 17020;Arkanes Pulver;2;1600;2000
 14412;Steinstoffschulterklappen;1;7353;9192
-13019;Harpyienklauenkurzbogen;1;58139;60155
 14373;Blutroter Gürtel;1;19900;19900
 14343;Kleiner glänzender Splitter;20;10100;15000
 14343;Kleiner glänzender Splitter;2;599;599
@@ -603,17 +546,11 @@
 14491;Muster: Runenstoffhose;1;26719;38576
 31138;Gurt des Sturmfürsten;1;59252;65835
 13002;Fürstin Alizabeths Anhänger;1;29500;38000
-24065;Schillernder Talasit;1;49592;51116
-24065;Schillernder Talasit;1;46511;56639
-24065;Schillernder Talasit;1;49592;51116
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
-24065;Schillernder Talasit;1;49592;51116
 24065;Schillernder Talasit;1;46511;56639
-24065;Schillernder Talasit;1;43045;53807
-24065;Schillernder Talasit;1;43045;53807
-24065;Schillernder Talasit;1;49592;51116
+24065;Schillernder Talasit;1;46511;56639
 13008;Beinkleider der Talwinde;1;137160;171451
 24919;Grimmschuppensabatons;1;43612;50000
 24919;Grimmschuppensabatons;1;43612;50000
@@ -658,11 +595,9 @@
 31901;Furien Ass;1;140080;155645
 24066;Strahlender Talasit;1;89999;99999
 4377;Schweres Sprengpulver;1;5082;6047
-12808;Essenz des Untodes;1;10000;20000
 12808;Essenz des Untodes;3;56000;59500
 12808;Essenz des Untodes;3;30000;57000
 13016;Killerschredder;1;27653;29614
-19933;Leuchtendes Skorpidblut;10;36380;40422
 19933;Leuchtendes Skorpidblut;2;5020;5578
 19933;Leuchtendes Skorpidblut;7;25466;28295
 19933;Leuchtendes Skorpidblut;2;4462;5578
@@ -690,26 +625,6 @@
 29539;Kobraschuppen;4;587500;590000
 27681;Phasenverschobenes Fleisch;1;3300;4400
 4346;Muster: Schwerer Wollumhang;1;300;400
-22794;Teufelslotus;20;699999;799999
-22794;Teufelslotus;20;699999;799999
-22794;Teufelslotus;20;699999;799999
-22794;Teufelslotus;20;699999;799999
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;800000;866000
-22794;Teufelslotus;20;749580;749580
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;10;389990;498990
-22794;Teufelslotus;5;199995;249995
-22794;Teufelslotus;1;35000;44400
 22521;Überragendes Manaöl;1;162250;170000
 22521;Überragendes Manaöl;1;162250;170000
 22521;Überragendes Manaöl;1;162250;170000

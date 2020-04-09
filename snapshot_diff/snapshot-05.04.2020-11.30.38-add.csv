@@ -1,7 +1,6 @@
 1169;Schwarzschädelschild;1;38963;48704
 13511;Fläschchen der destillierten Weisheit;1;147500;155400
 13511;Fläschchen der destillierten Weisheit;1;147500;155400
-33782;Beständiger Talasit;1;45000;80000
 33782;Beständiger Talasit;1;69999;79999
 24165;Vorlage: Eterniumband der Loderflamme;1;70000;89999
 27429;Zangarischer Sporenfisch;20;68400;85500
@@ -26,10 +25,6 @@
 22832;Erstklassiger Manatrank;5;107500;114000
 21877;Netherstoff;20;35600;42000
 21877;Netherstoff;20;35600;42000
-33208;Fläschchen des chromatischen Wunders;1;179919;182132
-33208;Fläschchen des chromatischen Wunders;1;147500;150000
-33208;Fläschchen des chromatischen Wunders;1;147500;150000
-33208;Fläschchen des chromatischen Wunders;1;179919;182132
 33208;Fläschchen des chromatischen Wunders;5;699999;724999
 33208;Fläschchen des chromatischen Wunders;5;699999;724999
 1710;Großer Heiltrank;3;1593;1992
@@ -123,20 +118,12 @@
 13054;Gevatter Tod;1;26681;29645
 23197;Götze des Mondes;1;180000;200000
 23148;Vorlage: Glänzender Golddraenit;1;195000;200000
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;2;33282;33998
 22445;Arkaner Staub;4;66564;67996
 22445;Arkaner Staub;4;66564;67996
 22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;6;99846;101994
 22445;Arkaner Staub;6;99846;101994
 22445;Arkaner Staub;6;99846;101994
 22445;Arkaner Staub;6;99846;101994
@@ -278,9 +265,6 @@
 23119;Funkelnder Azurmondstein;1;6703;8379
 23119;Funkelnder Azurmondstein;1;7056;8820
 13057;Blutpike;1;8073;10900
-13057;Blutpike;1;9536;11270
-13057;Blutpike;1;24074;24915
-13057;Blutpike;1;24074;24915
 29728;Muster: Windtöterwickel;1;170254;189171
 33052;Fischerschmaus;20;199900;199900
 33052;Fischerschmaus;5;49900;49900
@@ -364,27 +348,10 @@
 13049;Claymore des Dekanats;1;14670;16300
 13049;Claymore des Dekanats;1;13172;16465
 8949;Elixier der Beweglichkeit;20;81920;102400
-27498;Rolle der Beweglichkeit V;1;65800;112900
 2915;Taraneisbrecher;1;82933;119999
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;12065;12150
 23118;Gediegener Azurmondstein;1;9050;12000
 23118;Gediegener Azurmondstein;1;9050;12000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;7500;9000
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;12591;13990
-23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12065;12150
-23118;Gediegener Azurmondstein;1;9504;13131
-23118;Gediegener Azurmondstein;1;9504;13131
+23118;Gediegener Azurmondstein;1;9050;12000
 30422;Diamantener Fokusring;1;12562;13000
 30422;Diamantener Fokusring;1;12562;13000
 30422;Diamantener Fokusring;1;12562;13000
@@ -418,8 +385,6 @@
 29536;Netherkluftbeinrüstung;1;1750000;1789999
 23445;Teufelseisenbarren;2;10200;15000
 23445;Teufelseisenbarren;2;10200;15000
-32196;Runenverzierter Purpurspinell;1;2900000;2950000
-32196;Runenverzierter Purpurspinell;1;2900000;2950000
 16204;Illusionsstaub;20;160000;175000
 16204;Illusionsstaub;5;35000;50000
 7974;Scharfes Muschelfleisch;8;20000;40000
@@ -460,23 +425,11 @@
 31905;Furien 7;1;1200000;1200000
 935;Kurzschwert der Nachtwache;1;30000;40000
 24875;Eisenrückenbeinschützer;1;100000;150000
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;1;3987;3988
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;1;3988;3989
-23117;Azurmondstein;3;9091;11364
-23117;Azurmondstein;5;18750;21000
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
-23117;Azurmondstein;4;14304;14400
 23117;Azurmondstein;1;3750;3987
 23117;Azurmondstein;1;3750;3987
 23117;Azurmondstein;1;3750;3987
 23117;Azurmondstein;20;189900;199900
 23117;Azurmondstein;20;75000;99900
-23117;Azurmondstein;4;14304;14400
 12365;Verdichteter Stein;20;4752;5940
 12365;Verdichteter Stein;10;2376;2970
 23784;Adamantitrahmen;1;85000;95000

@@ -36,7 +36,6 @@
 22832;Erstklassiger Manatrank;5;140000;140000
 22832;Erstklassiger Manatrank;5;140000;140000
 33208;Fläschchen des chromatischen Wunders;1;179919;182132
-33208;Fläschchen des chromatischen Wunders;5;899999;999999
 33208;Fläschchen des chromatischen Wunders;1;179919;182132
 14292;Arachnidisches Cape;1;19554;26193
 23571;Urmacht;1;1049999;1099999
@@ -217,19 +216,6 @@
 32229;Löwenauge;1;2480000;2490000
 32229;Löwenauge;1;2480000;2490000
 15746;Muster: Schimärengamaschen;1;56956;63696
-32836;Geläuterte Schattenperle;1;555000;560000
-32836;Geläuterte Schattenperle;1;555000;560000
-32836;Geläuterte Schattenperle;1;555000;559000
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
-32836;Geläuterte Schattenperle;1;550000;557500
 14374;Blutrote Sandalen;1;220000;230000
 14374;Blutrote Sandalen;1;199900;199900
 15772;Muster: Teufelssauriergamaschen;1;45600;57000
@@ -290,9 +276,6 @@
 24271;Zauberstoff;1;396000;399900
 24271;Zauberstoff;1;380000;387000
 24271;Zauberstoff;1;380000;387000
-32751;Muster: Lebendige Erdschultern;1;440747;489719
-32751;Muster: Lebendige Erdschultern;1;438750;440000
-32751;Muster: Lebendige Erdschultern;1;438750;440000
 25802;Schreckensgiftbeutel;1;10043;11792
 17725;Formel: Waffe - Wintermacht;1;5199999;8999999
 17725;Formel: Waffe - Wintermacht;1;5199999;8999999
@@ -318,7 +301,6 @@
 25649;Knotenhautlederfetzen;20;27500;35000
 25649;Knotenhautlederfetzen;20;27500;35000
 25649;Knotenhautlederfetzen;20;27500;35000
-32755;Muster: Mantelung des flinken Gedankens;1;9999900;9999900
 13046;Blanchards Schädelbrecher;1;44404;50449
 13085;Halsreif des Horizonts;1;19500;29500
 13072;Stulpen des steinernen Griffs;1;50000;100000
@@ -365,18 +347,7 @@
 23154;Vorlage: Stürmischer Azurmondstein;1;20000;35500
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-32833;Geläuterte Jaggalperle;1;19000;20000
-32833;Geläuterte Jaggalperle;1;21512;22980
-32833;Geläuterte Jaggalperle;1;19500;19999
 32833;Geläuterte Jaggalperle;1;12000;15000
-32833;Geläuterte Jaggalperle;1;19000;20000
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19500;19999
-32833;Geläuterte Jaggalperle;1;19000;20000
-32833;Geläuterte Jaggalperle;1;19000;20000
-32833;Geläuterte Jaggalperle;1;19000;20000
 33825;Schädelfischsuppe;20;953600;1009500
 33825;Schädelfischsuppe;20;953600;1009500
 14343;Kleiner glänzender Splitter;2;698;776
@@ -561,7 +532,6 @@
 21887;Knotenhautleder;20;112500;119000
 21887;Knotenhautleder;20;112500;119000
 21887;Knotenhautleder;20;107500;118500
-14311;Himmlische Bindungen;1;9786;20000
 5498;Kleine irisierende Perle;7;13300;14168
 4306;Seidenstoff;12;7680;9600
 12203;Rotes Wolfsfleisch;10;2000;2500

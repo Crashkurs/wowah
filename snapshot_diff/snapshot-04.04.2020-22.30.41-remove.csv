@@ -59,11 +59,6 @@
 21864;Seelenstoffschultern;1;668636;773296
 3388;Starkes Trollblutelixier;1;128;360
 3388;Starkes Trollblutelixier;1;288;360
-7070;Elementarwasser;2;19955;24944
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;3;50000;80000
-7070;Elementarwasser;1;4487;13129
-7070;Elementarwasser;1;4487;13129
 21876;Urmondstofftasche;1;3350000;3350000
 21876;Urmondstofftasche;1;3350000;3350000
 24051;Massiver Dämmerstein;1;147500;147500
@@ -234,15 +229,6 @@
 12607;Glänzende chromatische Schuppe;2;1000000;1200000
 12607;Glänzende chromatische Schuppe;2;984144;990000
 13137;Eisenwirker;1;9800;14500
-5075;Blutsplitter;7;1000;1153
-5075;Blutsplitter;10;1432;1790
-5075;Blutsplitter;10;1512;1890
-5075;Blutsplitter;10;1512;1790
-5075;Blutsplitter;10;1432;1790
-5075;Blutsplitter;8;10300;10400
-5075;Blutsplitter;6;955;1194
-5075;Blutsplitter;3;477;597
-5075;Blutsplitter;10;1075;1500
 858;Geringer Heiltrank;5;900;900
 858;Geringer Heiltrank;5;900;900
 12692;Pläne: Thoriumschildstachel;1;6000;20000
@@ -519,28 +505,10 @@
 11128;Goldrute;1;33548;34961
 11128;Goldrute;1;33548;34961
 11128;Goldrute;1;29900;29900
-4304;Dickes Leder;20;130000;138000
 4304;Dickes Leder;20;140000;140000
 4304;Dickes Leder;20;140000;140000
 4304;Dickes Leder;20;140000;140000
-4304;Dickes Leder;8;63600;70000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
-4304;Dickes Leder;20;130000;138000
 4304;Dickes Leder;10;4500;0
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;20;127400;135240
-4304;Dickes Leder;9;4050;0
 4304;Dickes Leder;20;89000;100000
 4304;Dickes Leder;20;129000;129999
 4304;Dickes Leder;20;129000;129999
@@ -641,10 +609,7 @@
 7069;Elementarluft;2;20000;24000
 7069;Elementarluft;2;20000;24000
 7069;Elementarluft;1;18232;20258
-7069;Elementarluft;1;19800;20000
-7069;Elementarluft;1;19800;20000
 7069;Elementarluft;2;20000;24000
-7069;Elementarluft;9;100710;111901
 6716;Bauplan: EZ-Thro-Dynamit;1;1934;2149
 20955;Goldener Drachenring;1;7070;7856
 20955;Goldener Drachenring;1;7070;7856

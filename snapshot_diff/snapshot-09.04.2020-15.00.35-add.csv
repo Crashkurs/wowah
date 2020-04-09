@@ -19,26 +19,11 @@
 4461;Raptorbalg;10;1896;2370
 5075;Blutsplitter;4;150;400
 5075;Blutsplitter;10;375;900
-3858;Mithrilerz;10;45000;50000
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;3;19124;21249
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;5;22500;25000
-3858;Mithrilerz;20;47500;57000
-3858;Mithrilerz;20;47500;57000
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;1;1992;2091
-3858;Mithrilerz;1;1992;2091
 4408;Bauplan: Kasten mit mechanischem Eichhörnchen;1;11000;11000
 4408;Bauplan: Kasten mit mechanischem Eichhörnchen;1;38000;47500
 4582;Weicher buschiger Schwanz;1;1680;2100
 4582;Weicher buschiger Schwanz;2;3192;3990
-2589;Leinenstoff;20;390;2500
-2589;Leinenstoff;20;390;2500
 2840;Kupferbarren;20;30300;33333
-2840;Kupferbarren;20;40000;55555
 2840;Kupferbarren;20;30300;33333
 2840;Kupferbarren;20;30300;33333
 2840;Kupferbarren;20;30300;33333
@@ -47,12 +32,6 @@
 2840;Kupferbarren;20;30300;33333
 2840;Kupferbarren;20;30300;33333
 8255;Schlangenhautgurt;1;9015;9999
-2838;Schwerer Stein;20;6000;7000
-2838;Schwerer Stein;20;7900;7969
-2838;Schwerer Stein;20;7900;7969
-2838;Schwerer Stein;20;7900;7969
-2838;Schwerer Stein;20;7900;7969
-2838;Schwerer Stein;20;7900;7969
 5634;Trank der freien Aktion;5;420562;454500
 5634;Trank der freien Aktion;5;470562;488800
 5634;Trank der freien Aktion;5;470562;488800
@@ -90,64 +69,11 @@
 4346;Muster: Schwerer Wollumhang;1;29999;39999
 4603;Roher Tüpfelgelbschwanz;20;32096;47620
 4603;Roher Tüpfelgelbschwanz;20;32096;47620
-4603;Roher Tüpfelgelbschwanz;20;44000;47000
-4603;Roher Tüpfelgelbschwanz;11;24000;25850
-4603;Roher Tüpfelgelbschwanz;20;43500;46500
-4603;Roher Tüpfelgelbschwanz;20;43500;46500
 4425;Rolle der Beweglichkeit III;1;14371;17964
 4425;Rolle der Beweglichkeit III;1;18800;19900
 4404;Silberkontakt;20;4550;4999
 4377;Schweres Sprengpulver;1;5500;5900
 4363;Kupfermodulator;1;160;500
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;97500;105000
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;125984;129980
-4338;Magiestoff;20;127984;159980
-4338;Magiestoff;20;113904;142380
-4338;Magiestoff;20;109588;137860
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;3;26775;27000
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;20;147500;149900
-4338;Magiestoff;9;58500;62500
-4338;Magiestoff;4;17657;22072
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;143000;147000
-4338;Magiestoff;20;178500;180000
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;12;61500;65500
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;20;199980;199980
-4338;Magiestoff;10;43750;51000
-4338;Magiestoff;8;32000;36000
-4338;Magiestoff;14;84560;96250
-4338;Magiestoff;7;30000;35000
 4389;Gyrochronatom;1;23128;28910
 4497;Schwere braune Tasche;1;7500;11111
 4497;Schwere braune Tasche;1;7500;11111
@@ -167,22 +93,15 @@
 8170;Unverwüstliches Leder;20;155000;195000
 8170;Unverwüstliches Leder;20;155000;195000
 8170;Unverwüstliches Leder;20;155000;195000
-4371;Bronzeröhre;1;1567;1959
 4371;Bronzeröhre;1;1488;1861
 4500;Reiserucksack;1;118750;120000
 4500;Reiserucksack;1;92597;99947
 4347;Muster: Verstärkte Wollschultern;1;2634;3293
 4337;Dicke Spinnenseide;4;3600;3600
-4337;Dicke Spinnenseide;1;1047;1119
-4337;Dicke Spinnenseide;1;1047;1119
-4337;Dicke Spinnenseide;1;1435;1595
-4337;Dicke Spinnenseide;1;1047;1119
 4339;Magiestoffballen;3;69557;77285
 6660;Julies Dolch;1;50857;77000
 4416;Bauplan: Goblinlandmine;1;97100;109000
 4456;Raptorbalggürtel;1;2329;4500
-4304;Dickes Leder;1;4600;4900
-4304;Dickes Leder;20;149000;155500
 3859;Stahlbarren;9;34200;42750
 4498;Brauner Lederranzen;1;1960;2450
 4562;Abspalteraxt;1;38865;48582

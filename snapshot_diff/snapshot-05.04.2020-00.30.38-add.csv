@@ -1,12 +1,6 @@
 9866;Renegatenbrustschutz;1;17936;22420
 9490;Gizmotronisches Megahackbeil;1;19183;32000
-11177;Kleiner strahlender Splitter;3;1144;3331
-11177;Kleiner strahlender Splitter;6;2414;3018
-11177;Kleiner strahlender Splitter;7;5376;6720
 11177;Kleiner strahlender Splitter;8;4608;5760
-11177;Kleiner strahlender Splitter;20;30000;40000
-11177;Kleiner strahlender Splitter;1;200;900
-11177;Kleiner strahlender Splitter;4;2304;2880
 2277;Totenbeschwörergamaschen;1;125430;140000
 11184;Blauer Machtkristall;1;7000;7700
 11184;Blauer Machtkristall;10;80000;100000
@@ -35,24 +29,6 @@
 11082;Große Astralessenz;6;7680;9600
 11082;Große Astralessenz;2;7680;9600
 11082;Große Astralessenz;4;7680;9600
-11082;Große Astralessenz;2;7000;7888
-11082;Große Astralessenz;2;7000;8000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;38400;48000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;10;50000;60000
-11082;Große Astralessenz;8;40000;48000
-11082;Große Astralessenz;9;45000;54000
-11082;Große Astralessenz;1;5000;6000
-11082;Große Astralessenz;10;38400;48000
-11082;Große Astralessenz;10;50000;60000
-11084;Großer gleißender Splitter;6;29318;36648
 9891;Jägersmanngürtel;1;20000;30000
 10127;Klagegeistarmschienen;1;23600;29500
 9860;Bogenschützenumhang;1;20000;30000
@@ -73,27 +49,6 @@
 2841;Bronzebarren;20;11500;15000
 2841;Bronzebarren;20;13500;14500
 2841;Bronzebarren;20;11500;15000
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;219980;219980
-22445;Arkaner Staub;20;200100;250000
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;2;33282;33998
-22445;Arkaner Staub;20;202800;215080
-22445;Arkaner Staub;4;66564;67996
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;6;99846;101994
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;1;16641;16999
-22445;Arkaner Staub;4;66564;67996
 9396;Beinschützer des Gewölbes;1;350000;400000
 809;Blutklinge;1;95925;99000
 809;Blutklinge;1;88473;95592
@@ -113,7 +68,6 @@
 22795;Teufelsblüte;20;4500;5500
 22795;Teufelsblüte;20;4500;5500
 22795;Teufelsblüte;20;4500;5500
-10075;Rechtschaffene Schiftung;1;20000;30000
 10075;Rechtschaffene Schiftung;1;13980;17476
 2840;Kupferbarren;20;29500;31500
 2840;Kupferbarren;20;29500;31500
@@ -129,52 +83,11 @@
 804;Großer blauer Sack;1;16566;20073
 9859;Bogenschützenkappe;1;9190;11488
 10083;Adelskrone;1;23600;29500
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;1;21280;26600
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;3;105000;120000
-11178;Großer strahlender Splitter;5;175000;200000
-11178;Großer strahlender Splitter;5;175000;200000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;2;50788;56430
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;42000;42000
-11178;Großer strahlender Splitter;1;10100;25000
-11178;Großer strahlender Splitter;1;10100;25000
-11178;Großer strahlender Splitter;1;10100;25000
 11178;Großer strahlender Splitter;1;11000;19000
-11178;Großer strahlender Splitter;1;11000;19000
-11178;Großer strahlender Splitter;1;32000;34500
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
-11178;Großer strahlender Splitter;1;10000;18000
 11178;Großer strahlender Splitter;1;18057;22572
-11178;Großer strahlender Splitter;1;32000;34500
-11178;Großer strahlender Splitter;5;175000;200000
-11178;Großer strahlender Splitter;1;32000;34500
 10167;Templerstiefel;1;16470;40000
-31178;Amulett der unbeständigen Macht;1;48162;50000
 2589;Leinenstoff;20;3824;4780
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
-2589;Leinenstoff;20;8880;9980
 10058;Dämmergewirkte Sandalen;1;7083;20000
-10086;Gotische Plattenrüstung;1;47200;59000
 10098;Ratsherrenumhang;1;30000;40000
 22446;Große Planaressenz;1;109999;119999
 22446;Große Planaressenz;1;109999;119999
@@ -210,7 +123,6 @@
 9769;Grünzwirnzweig;1;6000;7000
 10084;Adelsbeinschützer;1;47600;59500
 2842;Silberbarren;11;71650;80000
-8146;Tückische Klaue;1;1450;1700
 22146;Buch: Gabe der Wildnis III;1;124999;139999
 22146;Buch: Gabe der Wildnis III;1;114000;142500
 22146;Buch: Gabe der Wildnis III;1;319600;399500
@@ -219,29 +131,6 @@
 22393;Kodex: Gebet des Schattenschutzes;1;91219;103408
 9385;Archaischer Verteidiger;1;30743;33048
 9803;Überragende Armschienen;1;2332;2916
-11018;Erde von Un'Goro;26;36025;45032
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;41;131167;163959
-11018;Erde von Un'Goro;1;219;700
-11018;Erde von Un'Goro;73;48649;54055
-11018;Erde von Un'Goro;29;19326;21473
-11018;Erde von Un'Goro;45;178352;198169
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
-11018;Erde von Un'Goro;5;20980;23310
 9297;Rezept: Elixier der Traumvision;1;200000;220000
 9957;Kriegstreiberbrustharnisch;1;39641;49552
 9851;Beschwörerbundhosen;1;15286;29000
@@ -295,7 +184,6 @@
 9954;Häuptlingsgamaschen;1;30000;40000
 9941;Bannzauberermantel;1;19573;26092
 9942;Bannzaubererhose;1;14011;20000
-11185;Grüner Machtkristall;10;80000;100000
 31284;Armschienen der Tollkühnheit;1;123209;175000
 9974;Oberherrenschild;1;24673;50000
 9936;Bannzaubererstiefel;1;6403;20000
@@ -317,33 +205,16 @@
 9719;Zerbrochene Klinge der Helden;1;79999;98899
 9719;Zerbrochene Klinge der Helden;1;89549;99499
 9895;Jazeraintstiefel;1;15000;15000
-11083;Seelenstaub;10;45000;49000
-11083;Seelenstaub;20;140000;159400
-11083;Seelenstaub;20;140000;157500
-11083;Seelenstaub;10;39632;49540
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;8;36000;39200
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;20;90000;100000
-11083;Seelenstaub;20;99700;99999
-11083;Seelenstaub;7;34895;34900
 11083;Seelenstaub;1;3199;3999
-11083;Seelenstaub;20;99700;99999
-11083;Seelenstaub;14;60000;70000
-11083;Seelenstaub;3;8800;9900
 10095;Ratsherrenstiefel;1;40000;50000
 10103;Ratsherrenschärpe;1;5687;20000
 9873;Renegatenschild;1;20000;30000
 9948;Häuptlingsstiefel;1;8365;30000
 10051;Rote Magiestofftasche;1;11865;14850
-10051;Rote Magiestofftasche;1;13398;14887
-10051;Rote Magiestofftasche;1;9750;15000
 9358;Ein Kopftuch;1;400000;1200000
 9358;Ein Kopftuch;1;400000;1200000
 9882;Zauberersphäre;1;19147;23934
-10998;Geringe Astralessenz;2;2857;3572
 10998;Geringe Astralessenz;1;1227;1534
-10998;Geringe Astralessenz;1;1700;2200
 10024;Schwarzes Magiestoffstirnband;1;45000;60000
 10024;Schwarzes Magiestoffstirnband;1;45000;60000
 10050;Magiestofftasche;1;9750;15000
@@ -360,16 +231,5 @@
 9298;Rezept: Elixier der Riesen;1;15500;19498
 9298;Rezept: Elixier der Riesen;1;62804;69782
 22251;Cenarische Kräutertasche;1;350000;350000
-11176;Traumstaub;7;31500;34300
-11176;Traumstaub;10;60000;69900
 11176;Traumstaub;20;120000;139800
-11176;Traumstaub;20;40100;49900
-11176;Traumstaub;2;4900;4998
-11176;Traumstaub;20;70100;80000
-11176;Traumstaub;20;70100;80000
-11176;Traumstaub;20;70100;80000
-11176;Traumstaub;3;10100;14500
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;10;45000;49000
-11176;Traumstaub;20;110000;120000
 10027;Schwarze Magiestoffschultern;1;45000;60000
