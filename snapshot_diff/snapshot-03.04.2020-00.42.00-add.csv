@@ -2,8 +2,6 @@
 10940;Seltsamer Staub;1;4910;5456
 10940;Seltsamer Staub;1;4910;5456
 31287;Ehrenwachenschild der Draenei;1;196735;220000
-6369;Rezept: Steinschuppenkabeljau;1;60550;70000
-3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;1760;2200
 13466;Pestblüte;1;4975;4999
 27657;Schwarzgebratener Basilisk;20;388399;388399
 27657;Schwarzgebratener Basilisk;20;388399;388399
@@ -28,22 +26,13 @@
 22787;Zottelkappe;20;64999;65000
 22787;Zottelkappe;20;64999;65000
 2317;Dunkle Ledertunika;1;5000;6000
-4377;Schweres Sprengpulver;1;5082;6047
 33874;Kiblers Häppchen;20;69499;84499
-23147;Vorlage: Stattlicher Schattendraenit;1;192500;200000
 8949;Elixier der Beweglichkeit;5;19900;24900
 8949;Elixier der Beweglichkeit;1;5000;7500
 8949;Elixier der Beweglichkeit;1;5000;7500
-6311;22-pfündiger Wels;1;4000;33500
-6311;22-pfündiger Wels;1;4000;33500
-6311;22-pfündiger Wels;1;122066;135629
 13490;Rezept: Großer Steinschildtrank;1;86000;90000
 13490;Rezept: Großer Steinschildtrank;1;86000;90000
 13490;Rezept: Großer Steinschildtrank;1;86000;90000
-23131;Vorlage: Klobiger Blutgranat;1;198750;200000
-6309;17-pfündiger Wels;1;8645;9605
-6309;17-pfündiger Wels;1;200;1400
-6309;17-pfündiger Wels;1;8645;9605
 22577;Schattenpartikel;1;6553;8654
 22577;Schattenpartikel;1;6553;8654
 22577;Schattenpartikel;1;6553;8654
@@ -80,16 +69,7 @@
 31193;Klinge des ungestillten Verlangens;1;207964;210000
 25708;Dickes Grollhufleder;5;145625;150000
 25846;Pläne: Adamantitrute;1;155000;300000
-22788;Flammenkappe;20;299500;299500
-6364;32-pfündiger Wels;1;16116367;17907075
 4251;Schultern des Hügelwächters;1;6000;7600
-22786;Traumwinde;20;139999;154999
-22786;Traumwinde;20;153200;153900
-22786;Traumwinde;20;153200;153900
-22786;Traumwinde;20;139999;154999
-22786;Traumwinde;20;145000;154500
-22786;Traumwinde;20;153200;153900
-22786;Traumwinde;20;139999;154999
 23199;Totem des Sturms;1;663000;699000
 13512;Fläschchen der obersten Macht;1;129900;139900
 13512;Fläschchen der obersten Macht;1;129900;139900
@@ -120,42 +100,23 @@
 2835;Rauer Stein;20;19560;25200
 2835;Rauer Stein;13;12714;16380
 2835;Rauer Stein;5;4032;5040
-6310;19-pfündiger Wels;1;64470;71633
-6310;19-pfündiger Wels;1;64470;71633
 14047;Runenstoff;20;22000;28999
 14047;Runenstoff;20;22000;28999
 14047;Runenstoff;20;22000;29500
 7911;Echtsilbererz;1;1150;1400
-23151;Vorlage: Massiver Golddraenit;1;192500;200000
-8168;Pechschwarze Feder;3;320;400
-8168;Pechschwarze Feder;1;320;400
 4234;Schweres Leder;17;17000;34000
-6390;Muster: Modisches blaues Hemd;1;8460;9400
-8173;Dickes Rüstungsset;2;2302;2878
 14551;Handschützer des Klingenmeisters;1;92808;105342
 14506;Muster: Teufelsstoffrobe;1;25000;30000
 15127;Robuste Schultern;1;13270;16588
 23445;Teufelseisenbarren;20;170000;189300
 23445;Teufelseisenbarren;11;33000;79999
-4421;Rolle des Schutzes III;1;1352;1691
 2447;Friedensblume;20;5000;9900
 4410;Bauplan: Schattenschutzbrille;1;7975;7999
-6413;Oberbrigadierarmschienen;1;7990;9988
 31138;Gurt des Sturmfürsten;1;62500;66500
 31138;Gurt des Sturmfürsten;1;62500;66500
 21884;Urfeuer;20;6399999;6399999
-6338;Silberrute;1;4600;4799
-6338;Silberrute;1;4204;4751
-6338;Silberrute;1;4204;4751
-6338;Silberrute;1;4204;4751
-6338;Silberrute;1;4600;4699
-6338;Silberrute;1;4600;4699
 10309;Rolle der Beweglichkeit IV;1;35398;35399
 22578;Wasserpartikel;1;26871;27772
-4090;Becher des Schmerzes;1;28690;31878
-4090;Becher des Schmerzes;1;28690;31878
-4090;Becher des Schmerzes;1;28690;31878
-4090;Becher des Schmerzes;1;30804;34227
 6359;Feuerflossenschnapper;10;89990;99990
 6359;Feuerflossenschnapper;2;668;836
 25707;Teufelsbalg;20;137500;139900
@@ -181,34 +142,12 @@
 10939;Große Magieessenz;1;17844;19826
 19273;Elementar 6;1;1999999;1999999
 2770;Kupfererz;3;1732;2166
-3871;Pläne: Goldene Schuppenschultern;1;5075;8000
 6402;Gepanzerte Gefechtsgamaschen;1;49129;53912
-3867;Pläne: Goldener Eisenzerstörer;1;5025;7000
-6326;Rezept: Glitschhautmakrele;1;7773;9992
-8171;Unverwüstlicher Balg;2;3993;4437
-8171;Unverwüstlicher Balg;2;3912;4348
-8171;Unverwüstlicher Balg;1;1996;2218
-8171;Unverwüstlicher Balg;9;6768;8460
 10998;Geringe Astralessenz;2;4300;4600
 23783;Eine Hand voll Teufelseisenbolzen;1;91068;101069
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;608;760
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;3;2633;2926
-8169;Dicker Balg;10;5776;7220
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;548;685
-8169;Dicker Balg;10;5776;7220
-8169;Dicker Balg;1;627;784
 15772;Muster: Teufelssauriergamaschen;1;44392;52658
 8846;Gromsblut;3;22320;27900
-3857;Kohle;6;30000;36000
-3857;Kohle;1;5244;5827
 1716;Robe der Weisen;1;58500;62500
-6433;Imperialer Lederhelm;1;22746;28433
 24300;Muster: Umhang der Ewigkeit;1;599999;599999
 24300;Muster: Umhang der Ewigkeit;1;455999;569999
 25867;Erdsturmdiamant;1;700000;800000
@@ -231,20 +170,7 @@
 23441;Nachtauge;1;65000;79999
 23441;Nachtauge;1;65000;79999
 16651;Schredderanleitung - Seite 7;1;19900;19999
-23152;Vorlage: Gediegener Azurmondstein;1;195000;200000
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
-6401;Muster: Dunkles Seidenhemd;1;30000;47500
-6401;Muster: Dunkles Seidenhemd;1;19999;46999
 25700;Teufelsschuppen;1;15669;19587
-4415;Bauplan: Handwerkermonokel;1;271664;339580
-4415;Bauplan: Handwerkermonokel;1;18825;29900
 2449;Erdwurzel;20;7500;9900
 2449;Erdwurzel;20;7500;9900
 4338;Magiestoff;20;89999;93999
@@ -258,17 +184,7 @@
 25719;Arakkoafeder;23;399946;420000
 25849;Formel: Runenverzierte Eterniumrute;1;399999;499999
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;36989;37766
-31079;Quecksilberadamantit;1;175000;195000
-31079;Quecksilberadamantit;1;175000;195000
 4296;Muster: Dunkle Lederschultern;1;5000;7000
-8180;Jagdbogen;1;3960;4500
-8180;Jagdbogen;1;10000;10000
-3830;Rezept: Elixier der Seelenstärke;1;34751;45889
-3830;Rezept: Elixier der Seelenstärke;1;35460;46826
-3830;Rezept: Elixier der Seelenstärke;1;750;9900
-23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
-3842;Grüne Eisengamaschen;1;5883;7354
-3842;Grüne Eisengamaschen;1;5883;7354
 13066;Wyrmtöterschiftung;1;46188;51320
 13066;Wyrmtöterschiftung;1;46188;51320
 22785;Teufelsgras;11;8250;30000
@@ -288,23 +204,13 @@
 24246;Bluthibiskus;1;32327;32328
 24246;Bluthibiskus;1;32327;32328
 2924;Krokiliskenfleisch;5;1792;2240
-23114;Schimmernder Golddraenit;1;27048;33810
-23114;Schimmernder Golddraenit;1;27048;33810
 20909;Barbarischer Eisenhalsschmuck;1;6494;17216
 20909;Barbarischer Eisenhalsschmuck;1;6494;17216
 20909;Barbarischer Eisenhalsschmuck;1;6494;17216
 13088;Gazlowes Glücksbringer;1;51119;60000
 31134;Klinge des Unglücks;1;124315;150000
 31134;Klinge des Unglücks;1;151000;159500
-4461;Raptorbalg;2;715;795
-4461;Raptorbalg;10;2560;3200
-4461;Raptorbalg;10;3578;3976
-4461;Raptorbalg;10;3578;3976
-4461;Raptorbalg;7;1965;2457
-4461;Raptorbalg;7;12784;15981
-4461;Raptorbalg;8;2300;2500
 13009;Balg des Kuhkönigs;1;34272;38080
-3866;Pläne: Jadeschlangenklinge;1;25760;37200
 25844;Adamantitrute;1;109124;131405
 25844;Adamantitrute;1;109124;131405
 25844;Adamantitrute;1;109124;131405
@@ -347,7 +253,6 @@
 31222;Kopfputz des inneren Zorns;1;212976;242977
 10938;Geringe Magieessenz;10;52440;65550
 10938;Geringe Magieessenz;2;13500;14500
-3869;Pläne: Schattensichelaxt;1;5000;6000
 13044;Dämonentöter;1;69854;77616
 8170;Unverwüstliches Leder;20;195000;199000
 8170;Unverwüstliches Leder;20;195000;199000
@@ -380,31 +285,10 @@
 8170;Unverwüstliches Leder;20;179000;189000
 8170;Unverwüstliches Leder;20;195000;199000
 8170;Unverwüstliches Leder;20;195000;199000
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;1;825;1000
-2772;Eisenerz;1;1280;1600
-2772;Eisenerz;20;30000;35000
-2772;Eisenerz;20;28000;34000
-2772;Eisenerz;20;9596;12620
-2772;Eisenerz;20;20000;21999
-2772;Eisenerz;20;20000;21999
-2772;Eisenerz;20;20000;21999
-2772;Eisenerz;20;20000;21999
-2772;Eisenerz;20;49900;49900
-2772;Eisenerz;20;49900;49900
 13037;Kristallfichtenstecher;1;36993;36999
-6468;Deviatschuppengürtel;1;499900;499900
 22644;Knuspriges Spinnenbein;7;268;336
 6344;Formel: Armschiene - Schwache Willenskraft;1;4000;5000
 18661;Bauplan: Weltvergrößerer;1;103500;109500
-6308;Roher Stoppelfühlerwels;3;1000;1000
-6308;Roher Stoppelfühlerwels;2;1245;1383
 6347;Formel: Armschiene - Schwache Stärke;1;4800;6000
 2771;Zinnerz;2;827;1034
 16245;Formel: Stiefel - Große Beweglichkeit;1;9898;9899
@@ -413,7 +297,6 @@
 27659;Doppelwarper;20;203399;348999
 22794;Teufelslotus;20;799999;849999
 22794;Teufelslotus;20;799999;849999
-23137;Vorlage: Glitzernder Flammenspessarit;1;192500;200000
 3864;Citrin;1;9499;9499
 3864;Citrin;1;9499;9499
 3864;Citrin;1;9499;9499
@@ -421,16 +304,6 @@
 3864;Citrin;1;7999;8999
 3864;Citrin;1;7999;8999
 3864;Citrin;1;7700;8800
-23113;Glänzender Golddraenit;1;6080;17600
-23113;Glänzender Golddraenit;1;6080;17600
-23113;Glänzender Golddraenit;1;6080;17600
-23113;Glänzender Golddraenit;1;6080;17600
-23113;Glänzender Golddraenit;1;6840;8550
-23113;Glänzender Golddraenit;1;6840;8550
-23113;Glänzender Golddraenit;1;6497;8122
-23113;Glänzender Golddraenit;1;6497;8122
-23113;Glänzender Golddraenit;1;6497;8122
-23113;Glänzender Golddraenit;1;6000;7500
 23436;Lebendiger Rubin;1;155000;179999
 23436;Lebendiger Rubin;1;175000;189999
 23436;Lebendiger Rubin;1;175000;189999
@@ -459,19 +332,6 @@
 27666;Goldfischstäbchen;20;439499;439499
 23764;Adamantitzielfernrohr;1;403750;500000
 13085;Halsreif des Horizonts;1;30960;34400
-4038;Nachthauchrobe;1;22671;24079
-30422;Diamantener Fokusring;1;10000;12000
-30422;Diamantener Fokusring;1;13365;14850
-30422;Diamantener Fokusring;1;13365;14850
-30422;Diamantener Fokusring;1;13365;14850
-30422;Diamantener Fokusring;1;13365;14850
-30422;Diamantener Fokusring;1;10000;12000
-30422;Diamantener Fokusring;1;10000;12000
-30422;Diamantener Fokusring;1;10000;12000
-30422;Diamantener Fokusring;1;10000;12000
-30422;Diamantener Fokusring;1;16137;17930
-1288;Großer Giftbeutel;2;1310;1456
-4069;Schwarzschmiederundschild;1;25040;31300
 24873;Eisenrückenhandschuhe;1;29976;50000
 31180;Stulpen der Schädelspalter;1;258002;290000
 12975;Ausgrabungsleiteraxt;1;21638;21639
@@ -482,9 +342,6 @@
 23440;Dämmerstein;1;105000;149999
 23440;Dämmerstein;1;105000;149999
 23440;Dämmerstein;1;105000;149999
-3829;Frostöl;1;3000;3000
-3829;Frostöl;1;3000;3000
-4382;Bronzegerüst;1;1520;1900
 21877;Netherstoff;20;31000;33000
 21877;Netherstoff;20;44000;47500
 21877;Netherstoff;20;31000;33000
@@ -497,13 +354,9 @@
 21877;Netherstoff;20;34000;41999
 1529;Jade;1;11050;29999
 4416;Bauplan: Goblinlandmine;1;90900;100000
-1263;Hirnhacker;1;118596;180000
-1263;Hirnhacker;1;139068;154520
-1263;Hirnhacker;1;199999;199999
 1210;Schattenedelstein;14;23500;25000
 1210;Schattenedelstein;2;2713;3392
 24973;Krallenwachenarmschienen;1;34237;80000
-23203;Buchband der Inbrunst;1;84064;100000
 6037;Echtsilberbarren;1;1875;2399
 20955;Goldener Drachenring;1;7152;7947
 20955;Goldener Drachenring;1;7152;7947
@@ -512,16 +365,11 @@
 20955;Goldener Drachenring;1;7152;7947
 6391;Muster: Modisches grünes Hemd;1;4600;4900
 8190;Hanzos Schwert;1;55929;58000
-23144;Vorlage: Leuchtender Schattendraenit;1;195000;200000
-4091;Witwenmacher;1;31924;32906
-4091;Witwenmacher;1;38235;42483
-4091;Witwenmacher;1;37806;42007
 8178;Ausbildungsschwert;1;4999;4999
 3820;Würgetang;20;59900;75000
 12359;Thoriumbarren;20;28000;29999
 12359;Thoriumbarren;20;28000;29999
 12359;Thoriumbarren;20;28000;29999
-14581;Dokebibrustschutz;1;7004;8755
 10285;Schattenseide;1;1649;1949
 10285;Schattenseide;1;1649;1949
 12808;Essenz des Untodes;1;11500;11999
@@ -531,64 +379,30 @@
 12808;Essenz des Untodes;1;10842;11998
 12808;Essenz des Untodes;1;10842;11998
 12808;Essenz des Untodes;1;11500;11999
-1204;Der grüne Turm;1;128865;135000
 22529;Wildwedel;20;126000;199999
 4096;Grobes Gorillahaar;10;8880;9990
 4096;Grobes Gorillahaar;10;8880;9990
 4096;Grobes Gorillahaar;4;3100;3400
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;47600;59500
-6362;Roher Steinschuppenkabeljau;3;2212;3340
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;15000;20024
-6362;Roher Steinschuppenkabeljau;20;99980;99980
-6362;Roher Steinschuppenkabeljau;20;15000;20024
-6362;Roher Steinschuppenkabeljau;20;15000;20024
-6362;Roher Steinschuppenkabeljau;20;15000;20024
-8172;Geschmeidiger dicker Balg;1;10000;18500
-8172;Geschmeidiger dicker Balg;5;83750;88888
-8172;Geschmeidiger dicker Balg;5;50000;92500
-8172;Geschmeidiger dicker Balg;10;100000;185000
-8172;Geschmeidiger dicker Balg;5;83750;88888
-8172;Geschmeidiger dicker Balg;1;10000;18500
-8172;Geschmeidiger dicker Balg;1;10000;18500
 19269;Elementar 2;1;115209;115210
 2775;Silbererz;15;22800;28500
-22641;Faulendes Herz;6;2094;2886
-3868;Pläne: Frosttigerklinge;1;4000;5000
 22532;Formel: Armschiene - Mana wiederherstellen;1;999999;1290999
 2319;Mittleres Leder;10;15200;19000
 2319;Mittleres Leder;10;15200;19000
-6303;Rohe Glitschhautmakrele;18;3067;3834
-6303;Rohe Glitschhautmakrele;20;3408;4260
-6303;Rohe Glitschhautmakrele;20;3408;4260
-6303;Rohe Glitschhautmakrele;2;360;450
 4414;Bauplan: Tragbarer bronzener Mörser;1;102948;102949
 22789;Terozapfen;20;199999;219999
 22789;Terozapfen;20;199999;219999
 22789;Terozapfen;20;199999;219999
 22789;Terozapfen;20;199999;219999
 22789;Terozapfen;20;199999;219999
-6373;Elixier der Feuermacht;9;23823;26470
 24245;Glühkappe;10;22190;39999
-6410;Insignienarmschienen;1;11806;14758
 17007;Steinreißerstulpen;1;117545;120000
 17007;Steinreißerstulpen;1;113500;120000
-15140;Halsabschneidermantel;1;7463;9329
 13046;Blanchards Schädelbrecher;1;32370;49300
 2453;Beulengras;20;4050;9900
 2453;Beulengras;20;4050;9900
 13443;Überragender Manatrank;1;3800;4200
 13443;Überragender Manatrank;1;3800;4200
 13443;Überragender Manatrank;1;3800;4200
-4345;Muster: Rote Wollstiefel;1;3841;4802
-4345;Muster: Rote Wollstiefel;1;29999;39999
-4075;Gepanzerte Gefechtshandschuhe;1;7876;8900
-6368;Rezept: Regenbogenflossenthunfisch;1;5520;9900
 2840;Kupferbarren;20;31680;39600
 2840;Kupferbarren;20;31680;39600
 2840;Kupferbarren;20;31680;39600
@@ -605,14 +419,11 @@
 1206;Moosachat;1;22000;23500
 1206;Moosachat;1;17860;22325
 31297;Robe des Purpurordens;1;239153;260000
-23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
 21885;Urwasser;1;120000;125000
 3860;Mithrilbarren;20;209999;209999
 3860;Mithrilbarren;20;209999;209999
 3860;Mithrilbarren;20;209999;209999
 23117;Azurmondstein;20;189900;199900
-23119;Funkelnder Azurmondstein;1;7448;9310
-23119;Funkelnder Azurmondstein;1;7448;9310
 12836;Pläne: Frostwache;1;203600;309500
 12365;Verdichteter Stein;20;7500;7999
 12365;Verdichteter Stein;20;7500;7999
@@ -630,24 +441,17 @@
 3914;Gesellenrucksack;1;44900;49900
 31275;Trophäenhalskette;1;379000;399500
 4353;Muster: Spinnengürtel;1;10450;11200
-23153;Vorlage: Funkelnder Azurmondstein;1;198750;200000
-3874;Pläne: Polierte Stahlstiefel;1;6507;8134
 23439;Edeltopas;1;105000;139999
 23439;Edeltopas;1;105000;139999
 23439;Edeltopas;1;105000;139999
 23439;Edeltopas;1;105000;139999
-23148;Vorlage: Glänzender Golddraenit;1;195000;290000
 23782;Teufelseisengehäuse;1;130692;143793
 23782;Teufelseisengehäuse;1;130692;143793
 31133;Gamaschen der undurchdringlichen Dunkelheit;1;180000;189999
-6419;Glyphenverzierte Fäustlinge;1;7448;9900
 12547;Mar Aloms Griff;1;95778;100000
 31234;Kristallklinge der Draenei;1;347770;397771
 31234;Kristallklinge der Draenei;1;347770;397771
 4409;Bauplan: Kleine Zephyriumladung;1;640;800
-4059;Glyphenverzierte Armschienen;1;7148;8936
-6317;Roher Lochfrenzy;1;2000;3000
-6317;Roher Lochfrenzy;5;1000;1000
 2990;Brünierte Gamaschen;1;9585;13732
 34330;Schweres Knotenhautrüstungsset;2;72500;89999
 34330;Schweres Knotenhautrüstungsset;2;72500;89999
@@ -658,25 +462,15 @@
 32409;Unerbittlicher Erdsturmdiamant;1;674213;709698
 13134;Gürtel des Gladiators;1;50909;56566
 2836;Grober Stein;2;912;1140
-6361;Roher Regenbogenflossenthunfisch;10;9576;11970
-6361;Roher Regenbogenflossenthunfisch;20;10052;23940
-6361;Roher Regenbogenflossenthunfisch;20;10052;23940
-6361;Roher Regenbogenflossenthunfisch;20;10052;23940
-6361;Roher Regenbogenflossenthunfisch;5;5674;6304
-4389;Gyrochronatom;1;20750;30000
 12364;Gewaltiger Smaragd;1;15000;19999
 12364;Gewaltiger Smaragd;1;15000;19999
 12364;Gewaltiger Smaragd;1;15000;19999
 14857;Sabatons des Vorposten;1;51792;64740
-6399;Geschmückte Schultern;1;2458;4900
 30809;Mal des Sargeras;18;25400;179999
 30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;10;122750;124750
-14833;Stulpen des Tyrannen;1;15615;19519
 25649;Knotenhautlederfetzen;20;37500;44000
 25649;Knotenhautlederfetzen;20;37500;44000
-23141;Vorlage: Gezackter Tiefenperidot;1;198750;200000
-6387;Gleißende Panzerarmschienen;1;13942;14500
 1710;Großer Heiltrank;3;7680;9600
 2802;Loderflammenemblem;1;70500;75000
 14675;Rudellordhandschuhe;1;12273;15900
@@ -686,9 +480,6 @@
 27502;Rolle der Ausdauer V;2;4164;4166
 1705;Geringer Mondstein;1;29520;37525
 1705;Geringer Mondstein;2;21800;36999
-22576;Manapartikel;10;163856;204820
-4347;Muster: Verstärkte Wollschultern;1;2304;2880
-22710;Blutdistel;9;225000;261000
 23424;Teufelseisenerz;20;109952;137440
 12800;Azerothischer Diamant;1;105000;119999
 12800;Azerothischer Diamant;1;105000;119999

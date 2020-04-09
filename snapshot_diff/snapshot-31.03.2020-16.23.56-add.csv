@@ -10,8 +10,6 @@
 6522;Deviatfisch;2;14900;19900
 6522;Deviatfisch;2;14900;19900
 8402;Muster: Fester Skorpidhelm;1;7800;7800
-2244;Krolklinge;1;271858;290000
-2244;Krolklinge;1;271858;290000
 13128;Helm des Steilgipfels;1;25814;0
 24065;Schillernder Talasit;1;69999;89999
 24449;Fruchtbare Sporen;1;467;584
@@ -60,7 +58,6 @@
 23793;Schweres Knotenhautleder;20;519980;599980
 23793;Schweres Knotenhautleder;20;519980;599980
 32751;Muster: Lebendige Erdschultern;1;188750;220000
-8387;Muster: Große Voodoomaske;1;9999;9999
 25699;Kristalldurchdrungenes Leder;20;387500;400000
 21886;Urleben;1;126000;139999
 21886;Urleben;1;126000;139999
@@ -85,7 +82,6 @@
 23117;Azurmondstein;20;131313;141414
 23100;Glitzernder Flammenspessarit;1;18899;23399
 23100;Glitzernder Flammenspessarit;1;18899;23399
-15675;Wunderbarer Schutz;1;136976;150000
 23436;Lebendiger Rubin;1;289999;299999
 23436;Lebendiger Rubin;1;289999;299999
 23436;Lebendiger Rubin;1;289999;299999
@@ -93,7 +89,6 @@
 4096;Grobes Gorillahaar;10;8880;9990
 4096;Grobes Gorillahaar;10;8880;9990
 5785;Dicke Murlocschuppe;10;29990;39990
-24805;Drachenfalkenbänder;1;2450000;2490000
 1710;Großer Heiltrank;1;2100;2100
 7910;Sternrubin;1;49999;59999
 7910;Sternrubin;1;49999;59999
@@ -175,8 +170,6 @@
 25901;Bemerkenswerter Erdsturmdiamant;1;839999;917799
 25901;Bemerkenswerter Erdsturmdiamant;1;840902;917699
 9253;Mittleres Kartenfragment;1;89999;99999
-24059;Mächtiger Edeltopas;1;139999;189999
-24059;Mächtiger Edeltopas;1;139999;189999
 3928;Überragender Heiltrank;5;2200;2200
 9359;Wirts drittes Bein;1;29000;29000
 8150;Tiefsteinsalz;9;133430;166788
@@ -266,10 +259,7 @@
 13029;Umbralkristall;1;9500;11875
 32200;Gediegener Engelssaphir;1;829999;1039999
 4349;Muster: Phönixhose;1;89999;99999
-25041;Wegelagerers Umhang;1;1951119;1990000
-25041;Wegelagerers Umhang;1;1951119;1990000
 23804;Bauplan: Energieverstärkungsbrille;1;350000;390000
-25897;Starker Erdsturmdiamant;1;821792;896500
 20748;Hervorragendes Manaöl;1;184000;185400
 30282;Muster: Stiefel der Zauberwucht;1;1495000;1590000
 27503;Rolle der Stärke V;1;45005;49000
@@ -363,16 +353,6 @@
 23101;Mächtiger Flammenspessarit;1;29999;39999
 23629;Pläne: Teufelsstahllangschwert;1;180000;250000
 15742;Muster: Kriegsbärenharnisch;1;89999;99999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
 24055;Unbeständiges Nachtauge;1;110000;159999
 24055;Unbeständiges Nachtauge;1;110000;159999
 24055;Unbeständiges Nachtauge;1;110000;159999

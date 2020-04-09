@@ -6,37 +6,15 @@
 10940;Seltsamer Staub;10;44750;47000
 10940;Seltsamer Staub;10;44750;47000
 10940;Seltsamer Staub;2;4893;5436
-25699;Kristalldurchdrungenes Leder;9;154252;171391
-25699;Kristalldurchdrungenes Leder;6;51250;60000
-25699;Kristalldurchdrungenes Leder;10;162472;203090
-25699;Kristalldurchdrungenes Leder;20;324944;456180
-25699;Kristalldurchdrungenes Leder;2;11614;19518
-35759;Kraftvoller Gischtsmaragd;1;699800;699800
-35759;Kraftvoller Gischtsmaragd;1;699800;699800
-35759;Kraftvoller Gischtsmaragd;1;649999;689999
-25680;Schicker lilafarbener Hut;1;920000;920000
 4625;Feuerblüte;20;7500;77700
 4625;Feuerblüte;5;11875;15000
-11986;Thalliumreifen;1;10000;20000
 2450;Wilddornrose;20;27750;28999
 2450;Wilddornrose;20;27816;30907
 2450;Wilddornrose;20;27816;30907
 29739;Arkaner Foliant;2;150100;180000
 29739;Arkaner Foliant;1;98888;100000
-11971;Amethystband;1;12800;16000
-8839;Blindkraut;20;41250;50000
-8839;Blindkraut;3;6087;8000
-8839;Blindkraut;20;29520;37900
-8839;Blindkraut;12;45206;56508
-8839;Blindkraut;3;4320;5400
-8839;Blindkraut;6;14678;16309
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
 13082;Berghangbeschützer;1;39367;43741
 8490;Katzentransportkorb (Siamkatze);1;50000;85000
-29729;Muster: Lebendiger Drachenschuppenhelm;1;146339;177924
 30420;Schwerer Jadering;1;5467;6074
 30420;Schwerer Jadering;1;5467;6074
 30420;Schwerer Jadering;1;5467;6074
@@ -46,13 +24,10 @@
 30420;Schwerer Jadering;1;5467;6074
 30420;Schwerer Jadering;1;5488;6860
 30420;Schwerer Jadering;1;5600;7000
-27655;Heißer Hetzer;5;24995;34995
 13054;Gevatter Tod;1;33549;37277
-7078;Essenz des Feuers;2;23518;29398
 23793;Schweres Knotenhautleder;20;805000;849000
 23793;Schweres Knotenhautleder;20;805000;849000
 23793;Schweres Knotenhautleder;20;805000;849000
-11995;Elfenbeinband;1;4800;6000
 2319;Mittleres Leder;20;44820;55500
 2319;Mittleres Leder;20;44820;55500
 2319;Mittleres Leder;20;44820;55500
@@ -91,24 +66,16 @@
 2319;Mittleres Leder;20;34820;35500
 2319;Mittleres Leder;20;34820;35500
 30040;Gürtel der tiefen Schatten;1;9500000;9750000
-34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
-25690;Schwere Grollhufgamaschen;1;1197212;1390000
 25708;Dickes Grollhufleder;10;393650;399999
 25708;Dickes Grollhufleder;20;563000;594000
 25708;Dickes Grollhufleder;20;563000;594000
 25708;Dickes Grollhufleder;20;563000;594000
 25708;Dickes Grollhufleder;10;393650;399999
-35562;Bärenflanke;4;107999;119999
-12022;Iridiumkette;1;5097;8872
 13081;Schild der leeren Augen;1;24172;26858
 4090;Becher des Schmerzes;1;38670;42967
 4090;Becher des Schmerzes;1;38670;42967
 30308;Muster: Stiefel des Wirbelsturms;1;180000;250000
 30308;Muster: Stiefel des Wirbelsturms;1;170000;240000
-29731;Muster: Windstoßhandschuhe;1;170000;220000
-29731;Muster: Windstoßhandschuhe;1;167200;209000
-29731;Muster: Windstoßhandschuhe;1;196020;207800
-34105;Köcher der tausend Federn;1;1886000;1973000
 30305;Muster: Stiefel der naturgleichen Anmut;1;440000;440000
 30305;Muster: Stiefel der naturgleichen Anmut;1;400000;425000
 30305;Muster: Stiefel der naturgleichen Anmut;1;390000;430000
@@ -141,11 +108,6 @@
 33867;Gebratene Blutflosse;4;8000;10000
 33867;Gebratene Blutflosse;4;8000;10000
 33867;Gebratene Blutflosse;10;22240;24750
-7079;Kugel des Wassers;1;5230;6538
-7079;Kugel des Wassers;1;6500;7900
-7079;Kugel des Wassers;1;6500;7900
-7079;Kugel des Wassers;10;49688;55510
-7079;Kugel des Wassers;10;52304;65380
 7077;Herz des Feuers;1;55000;66000
 7077;Herz des Feuers;1;55000;66000
 7077;Herz des Feuers;1;55000;66000
@@ -153,11 +115,7 @@
 34330;Schweres Knotenhautrüstungsset;1;149999;178899
 34220;Wechselhafter Himmelsfeuerdiamant;1;1084900;1090000
 24055;Unbeständiges Nachtauge;1;152299;161199
-15575;Spiegelpanzergürtel;1;10000;20000
-15576;Spiegelpanzersabatons;1;20000;30000
 11734;Buchband der Hartnäckigkeit;1;440100;880000
-29734;Muster: Dicke Netherschuppenbrustplatte;1;419176;523971
-29734;Muster: Dicke Netherschuppenbrustplatte;1;100000;350000
 29740;Teuflische Waffen;1;160100;168000
 29740;Teuflische Waffen;1;184000;192500
 29740;Teuflische Waffen;1;184000;192500
@@ -178,65 +136,32 @@
 29740;Teuflische Waffen;1;130100;140000
 29740;Teuflische Waffen;4;519999;520000
 29740;Teuflische Waffen;1;167898;186554
-11973;Hämatitverbindung;1;173971;219500
 24059;Mächtiger Edeltopas;1;249999;256699
 30282;Muster: Stiefel der Zauberwucht;1;1648653;1715998
 30282;Muster: Stiefel der Zauberwucht;1;1695000;1790000
 30282;Muster: Stiefel der Zauberwucht;1;1117001;1121252
-29732;Muster: Netherdrachenhelm;1;114517;167241
-29732;Muster: Netherdrachenhelm;1;150000;150000
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 4091;Witwenmacher;1;37806;42007
-8838;Sonnengras;14;62804;69818
-8838;Sonnengras;20;31800;32000
-8838;Sonnengras;20;30000;30000
-8838;Sonnengras;20;89720;99740
-8838;Sonnengras;20;30000;30000
-8838;Sonnengras;1;1140;1425
-8838;Sonnengras;20;30000;30000
 27651;Bussardbissen;20;15400;29300
-34861;Geschärfter Angelhaken;20;100000;150000
-34861;Geschärfter Angelhaken;20;100000;150000
 2452;Flitzdistel;2;2986;3318
 2452;Flitzdistel;20;29866;33184
 2452;Flitzdistel;20;29866;33184
 2452;Flitzdistel;20;29866;33184
 13049;Claymore des Dekanats;1;18992;21102
-8836;Arthas' Tränen;9;12153;15192
-8836;Arthas' Tränen;12;21696;25188
-8836;Arthas' Tränen;15;23604;29505
-8836;Arthas' Tränen;11;15638;19548
-8836;Arthas' Tränen;20;36160;41980
 4232;Mittlerer Balg;1;12886;14317
-12013;Wüstenring;1;36000;40000
-13122;Dunkles Phantomcape;1;67530;75033
-13122;Dunkles Phantomcape;1;50000;50000
 30038;Gürtel der Zauberwucht;1;11250000;14990000
 30038;Gürtel der Zauberwucht;1;11250000;14990000
 30038;Gürtel der Zauberwucht;1;11000321;11500000
 30038;Gürtel der Zauberwucht;1;10500000;10500000
-11993;Tonring;1;79900;79900
 30419;Blitzende Halskette;1;3025;4500
 30419;Blitzende Halskette;1;3025;4500
 30419;Blitzende Halskette;1;3025;4500
 30419;Blitzende Halskette;1;6400;8000
-13124;Ravasaurusschuppenstiefel;1;15994;20000
 14047;Runenstoff;20;48900;48900
 14047;Runenstoff;20;48900;48900
 14047;Runenstoff;9;19263;21404
-27502;Rolle der Ausdauer V;5;17824;22280
-27502;Rolle der Ausdauer V;2;2572;3216
-27502;Rolle der Ausdauer V;2;4227;4696
-27502;Rolle der Ausdauer V;2;3384;3386
-27656;Sporlingschmaus;20;34500;50000
-27656;Sporlingschmaus;2;9950;10000
-8831;Lila Lotus;20;99000;100000
-8831;Lila Lotus;20;99000;100000
 30307;Muster: Stiefel des Purpurfalken;1;230000;270000
 30307;Muster: Stiefel des Purpurfalken;1;227600;247000
 30307;Muster: Stiefel des Purpurfalken;1;220000;250000
-34060;Steuerung für eine Flugmaschine;1;490100;500000
-34207;Handschuhverstärkung;1;391250;400000
 2447;Friedensblume;20;1547;1719
 2447;Friedensblume;20;1547;1719
 2447;Friedensblume;20;1547;1719
@@ -252,29 +177,11 @@
 33825;Schädelfischsuppe;20;979500;979800
 30155;Muschelriegel;20;22736;28420
 24056;Leuchtendes Nachtauge;1;80000;87500
-12014;Arktischer Ring;1;19524;25156
-29730;Muster: Irdene Netherschuppenstiefel;1;220000;280000
 4498;Brauner Lederranzen;1;2000;2500
-27515;Große Tüpfelteufelsfinne;5;57600;69500
-11965;Quarzring;1;696;1400
-29733;Muster: Netherdrachenhandschuhe;1;110000;160000
 4497;Schwere braune Tasche;1;15600;19500
-35758;Beständiger Gischtsmaragd;1;699800;699800
-35758;Beständiger Gischtsmaragd;1;699800;699800
-35758;Beständiger Gischtsmaragd;1;649999;689999
 13115;Schafsledermantel;1;9691;12114
-27501;Rolle der Willenskraft V;1;39244;43605
-27501;Rolle der Willenskraft V;3;146100;156000
 13120;Armschienen des tiefen Zorns;1;10000;20000
 13120;Armschienen des tiefen Zorns;1;19184;23538
-12037;Eigenartiges Fleisch;9;1533;1917
-12037;Eigenartiges Fleisch;2;390;420
-12037;Eigenartiges Fleisch;8;1979;2198
-12037;Eigenartiges Fleisch;10;2473;2748
-12037;Eigenartiges Fleisch;10;2429;2699
-12037;Eigenartiges Fleisch;10;2429;2699
-12037;Eigenartiges Fleisch;10;2429;2699
-12037;Eigenartiges Fleisch;4;971;1079
 33872;Feuriger Würztalbuk;20;59864;60000
 33872;Feuriger Würztalbuk;5;20000;22500
 33872;Feuriger Würztalbuk;20;119632;129940
@@ -297,18 +204,10 @@
 33874;Kiblers Häppchen;13;29250;39000
 11610;Pläne: Dunkeleisenpulverisierer;1;449947;562434
 30306;Muster: Stiefel der totalen Finsternis;1;290000;350000
-25689;Schwere Grollhufweste;1;1397515;1699900
 13119;Verzauberte Kodoarmschienen;1;7305;10039
 13119;Verzauberte Kodoarmschienen;1;7305;10039
-11982;Viridiumband;1;79900;79900
 25725;Muster: Reitgerte;1;75924;94905
-25707;Teufelsbalg;1;9375;12000
-25707;Teufelsbalg;20;247500;280000
-25707;Teufelsbalg;15;190625;210000
-25707;Teufelsbalg;20;247500;280000
-25707;Teufelsbalg;4;36480;45600
 30032;Roter Gürtel der Schlacht;1;14406305;15540000
 30032;Roter Gürtel der Schlacht;1;9999999;14000000
 30032;Roter Gürtel der Schlacht;1;9750000;10000000
 24052;Kompakter Dämmerstein;1;107600;116599
-25744;Auge eines Dunstschuppenbasilisken;1;3173;3258

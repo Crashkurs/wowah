@@ -1,6 +1,5 @@
 13100;Furens Stiefel;1;38131;60000
 31910;Delirium Ass;1;43664;48515
-35759;Kraftvoller Gischtsmaragd;1;529999;659999
 13059;Steinrabe;1;50410;56011
 7070;Elementarwasser;1;9935;13262
 9233;Elixier der Dämonenentdeckung;3;5902;6558
@@ -9,8 +8,6 @@
 4338;Magiestoff;20;139900;142900
 4338;Magiestoff;20;91184;113980
 4338;Magiestoff;20;91184;113980
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;9962;10000
-13932;Gedünsteter Sonnenschuppenlachs;19;24364;27071
 32428;Herz der Dunkelheit;4;189999;194999
 32428;Herz der Dunkelheit;4;150000;190000
 32428;Herz der Dunkelheit;4;150000;190000
@@ -21,37 +18,14 @@
 7076;Essenz der Erde;1;54955;61062
 7076;Essenz der Erde;2;102398;102398
 5117;Farbenprächtiger Federbusch;2;2495;2773
-2449;Erdwurzel;20;22380;24860
-2449;Erdwurzel;20;22800;25340
-2449;Erdwurzel;20;10284;11427
 1263;Hirnhacker;1;139462;154958
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;141409;157121
-34440;Trank des verrückten Alchemisten;5;141409;157121
-34440;Trank des verrückten Alchemisten;5;141409;157121
-34440;Trank des verrückten Alchemisten;5;141409;157121
-34440;Trank des verrückten Alchemisten;1;37999;39999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-34440;Trank des verrückten Alchemisten;5;189999;199999
-13110;Schreckenswolfharnisch;1;188480;235600
-13110;Schreckenswolfharnisch;1;150000;220000
-13110;Schreckenswolfharnisch;1;148000;248000
-13110;Schreckenswolfharnisch;1;150000;220000
-13110;Schreckenswolfharnisch;1;52539;58376
 33954;Pläne: Hammer der rechtschaffenen Macht;1;162967;181075
-2996;Leinenstoffballen;2;844;990
-2996;Leinenstoffballen;2;700;985
 13512;Fläschchen der obersten Macht;1;119900;149900
 13935;Gebackener Lachs;20;1717;1908
 13935;Gebackener Lachs;20;1717;1908
 13935;Gebackener Lachs;11;944;1049
-13890;Panzerfisch;2;702;780
 13109;Cape der schwarzen Flamme;1;35720;44650
-34831;Auge des Meeres;1;748890;755963
 5075;Blutsplitter;10;33280;41600
-35761;Spiegelndes Löwenauge;1;3575649;4469562
-35761;Spiegelndes Löwenauge;1;3575649;4469562
 34330;Schweres Knotenhautrüstungsset;10;282500;300000
 4298;Muster: Wächtergürtel;1;80000;100000
 13060;Der Nadler;1;100284;111426
@@ -61,16 +35,12 @@
 13926;Goldene Perle;2;26302;29225
 13926;Goldene Perle;2;26302;29225
 2291;Kang der Köpfer;1;96870;110000
-13105;Sutarns Ring;1;40209;44677
-13105;Sutarns Ring;1;40209;44677
 2997;Wollstoffballen;2;25000;25000
 8270;Ebenholzhelm;1;24999;29999
 13112;Geflügelter Helm;1;25422;28247
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 9385;Archaischer Verteidiger;1;18948;23685
 8951;Elixier der großen Verteidigung;20;47040;58800
 32751;Muster: Lebendige Erdschultern;1;440747;489719
-3018;Balg von Lupos;1;99900;99900
 34861;Geschärfter Angelhaken;10;10675;11861
 34861;Geschärfter Angelhaken;10;10675;11861
 34861;Geschärfter Angelhaken;10;10675;11861
@@ -91,23 +61,11 @@
 34861;Geschärfter Angelhaken;4;4270;4744
 9294;Rezept: Wildrankentrank;1;100000;150000
 9294;Rezept: Wildrankentrank;1;8830;11038
-1705;Geringer Mondstein;6;31636;39546
-34622;Wirbelschnitter;1;2009500;2137500
-34622;Wirbelschnitter;1;2000000;2250000
-34622;Wirbelschnitter;1;3500000;4000000
-34622;Wirbelschnitter;1;3500000;4000000
-34622;Wirbelschnitter;1;3500000;4000000
-13117;Ogrons Schärpe;1;45468;50520
-13117;Ogrons Schärpe;1;35745;40000
-13117;Ogrons Schärpe;1;35745;38000
-13117;Ogrons Schärpe;1;47716;53017
-13117;Ogrons Schärpe;1;47716;53017
 812;Glimmender Reinholzstab;1;85527;89999
 5082;Dünnes Kodoleder;4;7472;9340
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;1760;2200
 13927;Gekochter glänzender Machtfisch;14;2520;2800
 13927;Gekochter glänzender Machtfisch;20;3600;4000
-34827;Adligenmonokel;1;849562;858703
 3820;Würgetang;16;12400;13300
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
@@ -119,44 +77,17 @@
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
 9154;Elixier der Untotenentdeckung;4;6214;6905
-3012;Rolle der Beweglichkeit;1;5000;7500
-8150;Tiefsteinsalz;5;50000;63000
 4304;Dickes Leder;20;121679;142099
-34535;Azurblauer Welpling;1;18000000;20000000
 3823;Geringer Unsichtbarkeitstrank;1;27942;30046
 3823;Geringer Unsichtbarkeitstrank;1;27942;30046
 3823;Geringer Unsichtbarkeitstrank;1;27942;30046
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 13876;40-pfündiger Zackenbarsch;1;10089;20098
 8169;Dicker Balg;1;548;685
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;569900;569900
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;463599;579499
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;459999;559999
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;650000;700000
-35758;Beständiger Gischtsmaragd;1;463599;579499
-35758;Beständiger Gischtsmaragd;1;463599;579499
-35758;Beständiger Gischtsmaragd;1;463599;579499
-35758;Beständiger Gischtsmaragd;1;569900;569900
-13115;Schafsledermantel;1;11304;14131
-13115;Schafsledermantel;1;9539;13424
-13115;Schafsledermantel;1;15682;17424
-13115;Schafsledermantel;1;11078;13848
-13118;Serpentinschärpe;1;20000;44900
 31901;Furien Ass;1;157634;175149
 31901;Furien Ass;1;74999;99999
 31901;Furien Ass;1;74999;99999
 5573;Grüne Ledertasche;1;1999;2999
-13102;Cassandras Anmut;1;35433;38258
-13929;Scharfer geräucherter Barsch;15;2631;2923
 7048;Azurblaue Seidenkapuze;1;917;1000
 7048;Azurblaue Seidenkapuze;1;917;1000
 7048;Azurblaue Seidenkapuze;1;917;1000
@@ -179,50 +110,4 @@
 4306;Seidenstoff;20;15000;15000
 4306;Seidenstoff;20;15000;15000
 4306;Seidenstoff;20;15000;15000
-13111;Sandalen des Aufrührers;1;80989;90000
-13111;Sandalen des Aufrührers;1;79999;89999
-13103;Polster der Giftspinne;1;16513;18348
-13103;Polster der Giftspinne;1;7672;9590
-13103;Polster der Giftspinne;1;7288;9110
-13119;Verzauberte Kodoarmschienen;1;7305;10039
-13119;Verzauberte Kodoarmschienen;1;7305;10039
-13119;Verzauberte Kodoarmschienen;1;34594;59000
-13119;Verzauberte Kodoarmschienen;1;33119;34576
 9465;Grubenmeister 5000;1;239395;254244
-3037;Peitschenholzdoppelbogen;1;15641;19552
-3037;Peitschenholzdoppelbogen;1;17307;21634
-3037;Peitschenholzdoppelbogen;1;21496;22773
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;5;7212;9015
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;5;5660;7075
-4337;Dicke Spinnenseide;1;1490;1490
-4337;Dicke Spinnenseide;1;1490;1490
-4337;Dicke Spinnenseide;1;1490;1490
-4337;Dicke Spinnenseide;1;1490;1490
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1515;1683
-4337;Dicke Spinnenseide;4;4200;6800
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1515;1683
-4337;Dicke Spinnenseide;1;1515;1683
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-4337;Dicke Spinnenseide;1;1499;1666
-13108;Tigerfellmantel;1;24888;31110
-13108;Tigerfellmantel;1;24888;31110
-13108;Tigerfellmantel;1;26198;32748
-13108;Tigerfellmantel;1;40620;45134

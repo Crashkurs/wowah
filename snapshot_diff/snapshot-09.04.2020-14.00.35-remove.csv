@@ -8,8 +8,6 @@
 7969;Mithrilsporen;1;15643;17381
 7969;Mithrilsporen;1;15643;17381
 7969;Mithrilsporen;1;9592;10658
-29426;Siegel der Feuerschwingen;5;39200;49000
-29426;Siegel der Feuerschwingen;13;481400;487500
 2598;Muster: Rote Leinenrobe;1;783;979
 14757;Töterhose;1;6638;9998
 16204;Illusionsstaub;4;44572;47772
@@ -47,13 +45,6 @@
 7080;Essenz des Wassers;1;95000;99000
 7080;Essenz des Wassers;1;95000;99000
 14557;Das Löwenhorn von Sturmwind;1;957880;990000
-29528;Trommeln des Krieges;1;199999;199999
-29528;Trommeln des Krieges;1;199999;199999
-13465;Bergsilbersalbei;20;95600;119500
-13465;Bergsilbersalbei;20;110660;132680
-13465;Bergsilbersalbei;20;93600;117000
-13465;Bergsilbersalbei;18;54050;80000
-13465;Bergsilbersalbei;19;74275;79999
 13926;Goldene Perle;1;14900;16900
 3914;Gesellenrucksack;1;9375;15000
 6358;Öliges Schwarzmaul;20;219520;274400
@@ -77,20 +68,8 @@
 23793;Schweres Knotenhautleder;20;785000;828000
 23793;Schweres Knotenhautleder;20;785000;828000
 5642;Rezept: Trank der freien Aktion;1;330675;353535
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3200;5499
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3200;5499
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;4;12800;21996
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3300;3600
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3300;3600
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3599;3599
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4746;5273
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4746;5273
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4746;5273
 5786;Muster: Murlocschuppengürtel;1;5005;8000
 9172;Unsichtbarkeitstrank;1;49998;49998
-29530;Trommeln des Tempos;1;192267;244741
 14587;Dokebimantel;1;6045;10000
 6362;Roher Steinschuppenkabeljau;20;75984;94980
 7278;Leichter Lederköcher;1;8900;10000
@@ -101,13 +80,7 @@
 22459;Sphäre der Leere;1;3841;4802
 22459;Sphäre der Leere;1;3841;4802
 22459;Sphäre der Leere;1;1999;5999
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;20000;24500
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;20000;24500
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;3052;3502
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;3052;3502
-2723;Flasche Pinot Noir;1;538;1148
 22839;Zerstörungstrank;5;191900;191900
-2406;Muster: Feine Lederstiefel;1;4500;5500
 16710;Armschienen der Schattenkunst;1;93296;116621
 23079;Tiefenperidot;20;150000;199999
 2589;Leinenstoff;20;1390;2500
@@ -120,26 +93,7 @@
 2589;Leinenstoff;20;3456;4320
 2589;Leinenstoff;20;8880;9980
 2840;Kupferbarren;20;30000;39500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;12000;17500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;12000;17500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;8453;9392
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;8453;9392
 8290;Arkane Robe;1;145473;150000
-2698;Rezept: Gekochte Krebsschere;1;320;400
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;5;63680;79600
 8169;Dicker Balg;1;819;910
 2838;Schwerer Stein;10;3430;3940
 2838;Schwerer Stein;10;3430;3940
@@ -226,13 +180,6 @@
 21841;Netherstofftasche;1;55500;58800
 21841;Netherstofftasche;1;55500;58800
 21841;Netherstofftasche;1;55500;58800
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
-19712;Lila Schmuckstück der Hakkari;1;131400;140000
 3039;Kurzer Eschenbogen;1;7315;7900
 24272;Schattenstoff;1;360000;379500
 24272;Schattenstoff;1;360000;379500
@@ -335,7 +282,6 @@
 13511;Fläschchen der destillierten Weisheit;1;150000;150000
 13511;Fläschchen der destillierten Weisheit;1;150000;150000
 13511;Fläschchen der destillierten Weisheit;1;150000;150000
-16723;Gürtel des Lichts;1;22770;40000
 14608;Dokebirundschild;1;7799;9749
 22795;Teufelsblüte;20;9972;16840
 22795;Teufelsblüte;20;9972;16840
@@ -345,41 +291,7 @@
 32230;Schattensangamethyst;1;395000;400000
 32230;Schattensangamethyst;1;395000;400000
 32230;Schattensangamethyst;1;395000;400000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5400;5499
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5400;5499
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;5475;5500
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4179;5224
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;3;16200;16497
 14763;Ausdauerndes Cape;1;4027;9000
-29505;Kapuze des Urlebens;1;3991339;4200000
-24039;Stürmischer Stern der Elune;1;45000;55000
-24039;Stürmischer Stern der Elune;1;45000;55000
-24039;Stürmischer Stern der Elune;1;45000;59900
-24039;Stürmischer Stern der Elune;1;45524;56905
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;90000;110000
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24039;Stürmischer Stern der Elune;1;45000;49900
-24036;Scheinender lebendiger Rubin;1;259999;299999
-24036;Scheinender lebendiger Rubin;1;259999;299999
 32229;Löwenauge;1;1405000;1410000
 32229;Löwenauge;1;1405000;1410000
 32229;Löwenauge;1;1405000;1410000
@@ -420,8 +332,6 @@
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
 19709;Gelbes Schmuckstück der Hakkari;1;140000;150000
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;3600;3899
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;2;6684;8356
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
 21881;Netherweberseide;4;40000;44400
@@ -468,22 +378,6 @@
 19708;Blaues Schmuckstück der Hakkari;1;110000;120000
 19708;Blaues Schmuckstück der Hakkari;1;110000;120000
 29425;Mal von Kil'jaeden;7;22100;40000
-29533;Kobrahautbeinrüstung;1;1414999;1429999
-29533;Kobrahautbeinrüstung;1;1383398;1383398
-29533;Kobrahautbeinrüstung;1;1414999;1429999
-29533;Kobrahautbeinrüstung;1;1415000;1425000
-29533;Kobrahautbeinrüstung;1;1413399;1413399
-29533;Kobrahautbeinrüstung;1;1404999;1409999
-29533;Kobrahautbeinrüstung;1;1405000;1405000
-29533;Kobrahautbeinrüstung;1;1995000;2000000
-29533;Kobrahautbeinrüstung;1;1383399;1383399
-29533;Kobrahautbeinrüstung;1;1383399;1383399
-29533;Kobrahautbeinrüstung;1;1383398;1383398
-29533;Kobrahautbeinrüstung;1;1381000;1382000
-29532;Trommeln der Panik;1;57500;90000
-29532;Trommeln der Panik;1;57500;90000
-29532;Trommeln der Panik;1;57500;90000
-29532;Trommeln der Panik;1;57500;90000
 2319;Mittleres Leder;1;1774;1774
 11144;Echtsilberrute;1;25000;25000
 19715;Goldenes Schmuckstück der Hakkari;1;130100;140000
@@ -517,20 +411,7 @@
 23077;Blutgranat;20;104000;110500
 23077;Blutgranat;20;104000;110500
 14761;Ausdauernder Gürtel;1;3036;6000
-29535;Netherkobrabeinrüstung;1;2513323;2794499
-29535;Netherkobrabeinrüstung;1;2899999;2899999
-29535;Netherkobrabeinrüstung;1;2899419;2899709
-29535;Netherkobrabeinrüstung;1;2909417;2909708
-29535;Netherkobrabeinrüstung;1;2800000;3226000
-29535;Netherkobrabeinrüstung;1;2779999;2789999
-29535;Netherkobrabeinrüstung;1;2770000;2787900
 3864;Citrin;1;6481;7201
-24035;Funkelnder Stern der Elune;1;185000;199900
-24035;Funkelnder Stern der Elune;1;165000;199900
-24035;Funkelnder Stern der Elune;1;185000;199900
-24035;Funkelnder Stern der Elune;1;185000;199900
-24035;Funkelnder Stern der Elune;1;185000;199900
-24035;Funkelnder Stern der Elune;1;185000;199900
 27498;Rolle der Beweglichkeit V;5;236000;249000
 27498;Rolle der Beweglichkeit V;5;236000;249000
 27498;Rolle der Beweglichkeit V;5;236000;249000
@@ -551,35 +432,12 @@
 10940;Seltsamer Staub;20;84444;86666
 13464;Goldener Sansam;20;443000;499999
 13464;Goldener Sansam;20;443000;499999
-13479;Rezept: Elixier der Weisen;1;8999;13199
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;19000;19500
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;19000;19500
-13493;Rezept: Großes Arkanelixier;1;41668;52086
-8170;Unverwüstliches Leder;20;155000;195000
-8170;Unverwüstliches Leder;20;155000;195000
-8170;Unverwüstliches Leder;20;155000;195000
-8170;Unverwüstliches Leder;20;155000;195000
-8170;Unverwüstliches Leder;20;155000;195000
-8170;Unverwüstliches Leder;20;155000;195000
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3700;4899
 21884;Urfeuer;1;233900;234500
 11178;Großer strahlender Splitter;1;29120;30650
 14589;Falkenauges Schuhe;1;9540;13176
 2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29000;29500
 5470;Donnerechsenschwanz;5;8835;9905
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;7562;9513
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;7562;9513
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;7562;9513
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;7562;9513
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;17400;19800
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;17400;19800
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
@@ -604,7 +462,6 @@
 19714;Silbernes Schmuckstück der Hakkari;1;130000;140000
 19714;Silbernes Schmuckstück der Hakkari;1;130000;140000
 19714;Silbernes Schmuckstück der Hakkari;1;130000;140000
-2594;Metkrug;7;7600;11111
 20955;Goldener Drachenring;1;4065;5006
 20955;Goldener Drachenring;1;4065;5006
 20955;Goldener Drachenring;1;4065;5006
@@ -619,9 +476,6 @@
 22446;Große Planaressenz;1;85000;85000
 22446;Große Planaressenz;1;85000;85000
 22446;Große Planaressenz;1;85000;85000
-13492;Rezept: Läuterungstrank;1;19999;29999
-13492;Rezept: Läuterungstrank;1;24000;30000
-13492;Rezept: Läuterungstrank;1;39600;49500
 21929;Flammenspessarit;20;90000;119999
 21929;Flammenspessarit;20;90000;119999
 21929;Flammenspessarit;20;90000;119999
@@ -635,53 +489,17 @@
 12360;Arkanitbarren;1;57500;57900
 12360;Arkanitbarren;1;57500;57900
 12360;Arkanitbarren;1;57500;57900
-2447;Friedensblume;20;1024;1280
-2447;Friedensblume;18;1152;1440
-2409;Muster: Dunkle Ledertunika;1;2400;3000
-2409;Muster: Dunkle Ledertunika;1;1999;2999
 12800;Azerothischer Diamant;1;48279;53643
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2798;2800
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2798;2800
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;6500;7500
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;6500;7500
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;2203;2754
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;1546;2084
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;1546;2084
 24047;Brillanter Dämmerstein;1;115000;130000
-2408;Muster: Feine Lederhandschuhe;1;400;500
-13455;Großer Steinschildtrank;1;30000;40000
-13455;Großer Steinschildtrank;1;30000;40000
 10978;Kleiner gleißender Splitter;1;50;52
 10978;Kleiner gleißender Splitter;1;50;52
 10978;Kleiner gleißender Splitter;1;50;52
 10978;Kleiner gleißender Splitter;1;50;52
 5997;Elixier der schwachen Verteidigung;10;3837;4264
-29160;Smaragdring des Löwen;1;39900;46500
-29160;Smaragdring des Löwen;1;39900;46500
-29160;Smaragdring des Löwen;1;39900;46500
 11082;Große Astralessenz;10;59500;59900
-13468;Schwarzer Lotus;2;54464;68080
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;20;693600;699999
-13468;Schwarzer Lotus;1;41100;41100
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;2;80000;82200
-13468;Schwarzer Lotus;1;31500;39999
-13468;Schwarzer Lotus;1;31500;39999
-13468;Schwarzer Lotus;1;31500;39999
 21305;Rote Helferbox;1;31000;47500
-13467;Eiskappe;1;6775;8469
-13467;Eiskappe;8;51488;64360
 20520;Dunkelrune;1;187500;198000
 20520;Dunkelrune;1;187500;198000
-29534;Grollbalgbeinrüstung;1;849499;849499
-29534;Grollbalgbeinrüstung;1;945547;956934
-29534;Grollbalgbeinrüstung;1;945547;956934
-29534;Grollbalgbeinrüstung;1;945547;956934
-29534;Grollbalgbeinrüstung;1;849000;849500
-29534;Grollbalgbeinrüstung;1;849300;849400
 23572;Urnether;1;29999;29999
 23572;Urnether;1;29999;29999
 19707;Rotes Schmuckstück der Hakkari;1;130100;140000
@@ -691,7 +509,6 @@
 19707;Rotes Schmuckstück der Hakkari;1;130000;140000
 19707;Rotes Schmuckstück der Hakkari;1;130100;140000
 2595;Henkelkrug voller Bourbon;1;1600;2900
-13490;Rezept: Großer Steinschildtrank;1;368400;428000
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;8420;8500
 11176;Traumstaub;20;96864;99980
 11176;Traumstaub;20;96864;99980

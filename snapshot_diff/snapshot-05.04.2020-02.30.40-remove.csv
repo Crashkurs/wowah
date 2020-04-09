@@ -1,6 +1,5 @@
 10184;Schwadroneursarmschienen;1;30000;40000
 10256;Abenteurerarmschienen;1;15463;30000
-2878;Hakenknochenaxt;1;88396;101644
 10940;Seltsamer Staub;17;49300;50048
 2244;Krolklinge;1;87787;120000
 25193;Tödliche Pranke;1;132889;160000
@@ -27,7 +26,6 @@
 22907;Rezept: Erstklassiger Manatrank;1;228000;285000
 10191;Kreuzfahrerarmschützer;1;27997;31108
 7909;Aquamarin;1;1500;16600
-11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;23900;70000
 24051;Massiver Dämmerstein;1;142628;147899
 24051;Massiver Dämmerstein;1;142628;147899
 24051;Massiver Dämmerstein;1;142628;147899
@@ -67,7 +65,6 @@
 29529;Trommeln der Schlacht;1;349999;369999
 29529;Trommeln der Schlacht;1;349999;369999
 24868;Blutritterschulterstücke;1;73186;80000
-2871;Schwerer Wetzstein;17;33306;41633
 3859;Stahlbarren;1;7800;9500
 24401;Unbekannte Pflanzenteile;5;5625;33300
 22839;Zerstörungstrank;5;162500;175000
@@ -97,12 +94,7 @@
 2319;Mittleres Leder;18;52524;59094
 8183;Präzisionsbogen;1;3639;7000
 8183;Präzisionsbogen;1;3639;7000
-10174;Mystisches Cape;1;12181;24000
 10281;Smaragdschulterstücke;1;29533;40000
-31677;Teufelsmanatrank;5;279999;299999
-31677;Teufelsmanatrank;5;279999;299999
-31677;Teufelsmanatrank;5;279999;299999
-31677;Teufelsmanatrank;5;279999;299999
 7971;Schwarze Perle;1;161500;170000
 10190;Schwadroneursgürtel;1;10003;15000
 23623;Pläne: Helm des Sturms;1;130000;150000
@@ -116,8 +108,6 @@
 3858;Mithrilerz;5;19500;36875
 3858;Mithrilerz;5;19500;36875
 3858;Mithrilerz;5;19500;36875
-11226;Formel: Handschuhe - Reitfertigkeit;1;501500;557222
-11226;Formel: Handschuhe - Reitfertigkeit;1;501500;557222
 1938;Blockschlaghammer;1;2943;6000
 1938;Blockschlaghammer;1;4478;6648
 1938;Blockschlaghammer;1;2943;6000
@@ -148,19 +138,9 @@
 32229;Löwenauge;1;1850000;1900000
 24980;Häscherschulterklappen;1;49873;60000
 12002;Marmorreif;1;9483;20000
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
-11288;Großer Magiezauberstab;1;9800;12250
 25867;Erdsturmdiamant;1;667375;679900
-11208;Formel: Waffe - Dämonentöten;1;34960;43700
-11208;Formel: Waffe - Dämonentöten;1;9800;43500
-11205;Formel: Handschuhe - Hochentwickelte Kräuterkunde;1;1400000;1500000
 29734;Muster: Dicke Netherschuppenbrustplatte;1;420000;450000
-11202;Formel: Schild - Ausdauer;1;27500;49700
-11202;Formel: Schild - Ausdauer;1;27500;49700
 25135;Grollhufstreitkolben;1;119851;180000
-10167;Templerstiefel;1;16470;40000
 10258;Abenteurercape;1;29000;29000
 6395;Silberfadenamicia;1;4044;5056
 7081;Odem des Windes;1;30600;31000
@@ -188,7 +168,6 @@
 4234;Schweres Leder;20;103520;117500
 4234;Schweres Leder;20;103520;117500
 4234;Schweres Leder;20;103520;117500
-2877;Mitstreiterclaymore;1;12292;15366
 22522;Überragendes Zauberöl;1;82500;82500
 22522;Überragendes Zauberöl;1;82500;82500
 22522;Überragendes Zauberöl;1;82500;82500
@@ -227,8 +206,6 @@
 9036;Magiewiderstandstrank;5;238799;238799
 9036;Magiewiderstandstrank;5;238799;238799
 10195;Kreuzfahrerschild;1;59071;73839
-11225;Formel: Armschiene - Große Ausdauer;1;52325;53000
-11225;Formel: Armschiene - Große Ausdauer;1;79309;88121
 14404;Widerstandsfähige Gamaschen;1;3708;7500
 6615;Weisenhandschuhe;1;2636;3296
 23427;Eterniumerz;17;503730;629663
@@ -237,8 +214,6 @@
 3575;Eisenbarren;13;14144;17680
 3575;Eisenbarren;12;12672;15840
 24613;Verteidigergürtel;1;18331;40000
-11188;Gelber Machtkristall;3;13500;14500
-10168;Templerkrone;1;17523;40000
 24047;Brillanter Dämmerstein;1;75000;75000
 24047;Brillanter Dämmerstein;1;75000;75000
 24047;Brillanter Dämmerstein;1;75000;75000
@@ -275,8 +250,6 @@
 27666;Goldfischstäbchen;20;699999;724999
 27666;Goldfischstäbchen;20;558999;558999
 4576;Leichter Bogen;1;3788;4736
-11186;Roter Machtkristall;5;19000;34495
-11186;Roter Machtkristall;1;3800;6899
 31837;Kodex: Gebet des Schattenschutzes II;1;22125;50000
 12424;Imperialer Plattengürtel;1;14607;58000
 12424;Imperialer Plattengürtel;1;14607;58000
@@ -331,4 +304,3 @@
 12978;Gürtel des Sturmbringers;1;25000;27500
 12978;Gürtel des Sturmbringers;1;25000;27500
 30032;Roter Gürtel der Schlacht;1;8500000;8750000
-10176;Mystische Handschuhe;1;5689;20000

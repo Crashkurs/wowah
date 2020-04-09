@@ -17,12 +17,8 @@
 24062;Robuster Talasit;1;50000;60000
 24062;Robuster Talasit;1;50000;60000
 24062;Robuster Talasit;1;54499;66699
-3871;Pläne: Goldene Schuppenschultern;1;11275;14999
-3871;Pläne: Goldene Schuppenschultern;1;9575;15500
 13082;Berghangbeschützer;1;22050;25480
 13082;Berghangbeschützer;1;32917;36575
-3864;Citrin;20;54000;100000
-3864;Citrin;1;1699;1888
 32905;Flasche mit Nethergondampf;2;2822;3528
 10998;Geringe Astralessenz;2;5100;5500
 24669;Eldr'naangürtel;1;99900;103000
@@ -68,9 +64,6 @@
 18335;Makelloser schwarzer Diamant;5;949500;1187500
 18335;Makelloser schwarzer Diamant;1;550000;590000
 18335;Makelloser schwarzer Diamant;1;550000;590000
-32755;Muster: Mantelung des flinken Gedankens;1;1398750;1420000
-32755;Muster: Mantelung des flinken Gedankens;1;1413500;1419999
-32755;Muster: Mantelung des flinken Gedankens;1;1309199;1388999
 17723;Grünes Festtagshemd;1;39999;49999
 23437;Talasit;20;656565;666666
 23437;Talasit;20;656565;666666
@@ -126,9 +119,6 @@
 8153;Wildranke;20;65000;70000
 13102;Cassandras Anmut;1;44999;49999
 13102;Cassandras Anmut;1;19530;54413
-4231;Geschmeidiger leichter Balg;1;700;1800
-4231;Geschmeidiger leichter Balg;1;700;1800
-32897;Mal der Illidari;250;3550100;5000000
 22926;Rezept: Elixier der Schwächung;1;1007500;1500000
 24858;Marschenkrabblerhelm;1;85686;107108
 9811;Befestigte Armschienen;1;99900;99900
@@ -197,7 +187,6 @@
 27664;Gegrillter Matschflosser;20;199920;249900
 27664;Gegrillter Matschflosser;20;231399;241499
 6528;Zauberbinderrobe;1;20000;40000
-4091;Witwenmacher;1;36500;39000
 22562;Formel: Überragendes Manaöl;1;195286;244108
 15743;Muster: Schwerer Skorpidgürtel;1;89999;99999
 11018;Erde von Un'Goro;50;193119;203899
@@ -218,7 +207,6 @@
 22449;Großer Prismasplitter;1;139800;149800
 22449;Großer Prismasplitter;1;139800;149800
 22449;Großer Prismasplitter;1;139800;149800
-4051;Geschmückte Stiefel;1;29000;29000
 24716;Vergeltungsbänder;1;82389;88800
 6662;Elixier des Riesenwuchses;20;399999;399999
 22532;Formel: Armschiene - Mana wiederherstellen;1;367635;459544
@@ -231,8 +219,6 @@
 15581;Spiegelpanzerstulpen;1;4191;11500
 8839;Blindkraut;20;41250;50000
 24978;Häscherhelm;1;54991;57900
-4090;Becher des Schmerzes;1;31715;35238
-4090;Becher des Schmerzes;1;31104;34400
 22553;Formel: Waffe - Potenz;1;2999900;2999900
 24933;Ango'roshunterarmschienen;1;29598;79900
 23626;Pläne: Schwarze Teufelsstahlarmschienen;1;180000;260000
@@ -242,13 +228,8 @@
 9836;Bebänderte Rüstung;1;6400;8000
 4563;Hinterwäldlerkeule;1;340;426
 6574;Verteidigungsstarke Armschienen;1;99900;99900
-32753;Muster: Flinkheilmantelung;1;878079;1097599
-32753;Muster: Flinkheilmantelung;1;999999;1499999
-32753;Muster: Flinkheilmantelung;1;778750;780000
 17709;Rezept: Elixier der Frostmacht;1;226377;251530
 14162;Heidenfäustlinge;1;2967;5055
-4046;Blaunebelhosen;1;10174;14999
-4046;Blaunebelhosen;1;19999;29999
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
@@ -268,17 +249,6 @@
 6661;Rezept: Pikantes Deviat Supreme;1;459999;509999
 6661;Rezept: Pikantes Deviat Supreme;1;459999;509999
 7070;Elementarwasser;2;11200;20000
-4232;Mittlerer Balg;2;25975;29900
-4232;Mittlerer Balg;1;14001;14923
-4232;Mittlerer Balg;1;14001;14923
-4232;Mittlerer Balg;1;16215;27769
-4232;Mittlerer Balg;2;25975;29900
-4232;Mittlerer Balg;1;14001;14923
-4232;Mittlerer Balg;1;14001;14923
-4232;Mittlerer Balg;2;27500;29500
-4232;Mittlerer Balg;1;13500;14500
-4232;Mittlerer Balg;5;68000;72500
-4232;Mittlerer Balg;1;16215;27769
 13949;Rezept: Gebackener Lachs;1;97500;100000
 13949;Rezept: Gebackener Lachs;1;39988;39999
 13949;Rezept: Gebackener Lachs;1;37500;39000
@@ -315,45 +285,6 @@
 13114;Gamaschen des Trollfluchs;1;36460;45576
 15755;Muster: Schimärenweste;1;151025;188782
 2453;Beulengras;20;10750;12000
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;10;50000;75000
-4234;Schweres Leder;10;75000;75000
-4234;Schweres Leder;9;60000;60000
-4234;Schweres Leder;20;95984;119980
-4234;Schweres Leder;20;95984;119980
-4234;Schweres Leder;8;46480;47904
-4234;Schweres Leder;17;81500;110483
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;1;7900;7900
-4234;Schweres Leder;5;44900;44900
-4234;Schweres Leder;20;146800;148888
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;15;95976;119970
-4234;Schweres Leder;20;149900;149900
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
-4234;Schweres Leder;20;144360;148880
 23620;Pläne: Teufelszornstulpen;1;190000;200000
 23620;Pläne: Teufelszornstulpen;1;220000;250000
 23620;Pläne: Teufelszornstulpen;1;221052;256784
@@ -376,7 +307,6 @@
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;63359;79199
-3866;Pläne: Jadeschlangenklinge;1;3724;4655
 27498;Rolle der Beweglichkeit V;5;450625;491500
 27498;Rolle der Beweglichkeit V;5;450625;491500
 27498;Rolle der Beweglichkeit V;5;450625;491500
@@ -392,7 +322,6 @@
 13115;Schafsledermantel;1;24486;24700
 13115;Schafsledermantel;1;18000;19500
 18046;Rezept: Zartes Wolfsteak;1;9600;12000
-4233;Geschmeidiger mittlerer Balg;9;45000;45000
 16245;Formel: Stiefel - Große Beweglichkeit;1;14048;17560
 24778;Knochenfresserkniehosen;1;57938;59900
 23630;Pläne: Khoriumchampion;1;430000;438600
@@ -405,7 +334,6 @@
 27660;Talbuksteak;10;32870;34670
 27660;Talbuksteak;10;32870;34670
 27660;Talbuksteak;10;32870;34670
-33208;Fläschchen des chromatischen Wunders;1;155937;168503
 13113;Mondfederkopfputz;1;27738;55000
 24866;Blutritterhelm;1;70000;100000
 24036;Scheinender lebendiger Rubin;1;259999;299999
@@ -450,10 +378,6 @@
 3355;Wildstahlblume;20;212121;220000
 3355;Wildstahlblume;20;212121;220000
 3355;Wildstahlblume;20;212121;220000
-32836;Geläuterte Schattenperle;1;555000;600000
-32836;Geläuterte Schattenperle;1;555000;600000
-32836;Geläuterte Schattenperle;1;599999;699999
-32836;Geläuterte Schattenperle;1;599999;699999
 6575;Verteidigungsstarker Umhang;1;3500;5000
 15437;Oberstes Cape;1;19267;40000
 18257;Rezept: Erheblicher Verjüngungstrank;1;2469500;3087500
@@ -486,14 +410,7 @@
 17724;Muster: Grünes Festtagshemd;1;120000;350000
 17724;Muster: Grünes Festtagshemd;1;120000;350000
 17724;Muster: Grünes Festtagshemd;1;120000;350000
-3928;Überragender Heiltrank;3;1349;1499
-3928;Überragender Heiltrank;5;2249;2499
-3928;Überragender Heiltrank;4;1500;0
-3928;Überragender Heiltrank;5;9999;9999
-3928;Überragender Heiltrank;1;375;480
 22558;Formel: Waffe - Zauberflut;1;459599;575999
-3867;Pläne: Goldener Eisenzerstörer;1;6000;8500
-3867;Pläne: Goldener Eisenzerstörer;1;9040;13800
 15434;Oberste Schärpe;1;15882;32000
 23628;Pläne: Gesegnete Armschienen;1;180000;200000
 23628;Pläne: Gesegnete Armschienen;1;140000;240000
@@ -520,15 +437,12 @@
 27422;Stachelkiemenforelle;18;35982;35982
 27422;Stachelkiemenforelle;20;24999;28999
 27422;Stachelkiemenforelle;6;7494;8694
-3873;Pläne: Goldener Schuppenkürass;1;5550;7000
-3872;Pläne: Goldene Schuppengamaschen;1;2560;3200
 13465;Bergsilbersalbei;20;111213;115000
 13465;Bergsilbersalbei;20;111213;115000
 24703;Haal'eshiwams;1;40336;99900
 24691;Elementaristenmantel;1;2453494;2490000
 24691;Elementaristenmantel;1;2453494;2490000
 23590;Pläne: Adamantitschlägel;1;101727;127159
-4060;Glyphenverzierte Gamaschen;1;8472;14999
 24061;Glitzernder Edeltopas;1;168950;169999
 24061;Glitzernder Edeltopas;1;168950;169999
 24061;Glitzernder Edeltopas;1;168950;169999
@@ -570,9 +484,6 @@
 23574;Rezept: Urmacht transmutieren;1;101010;111111
 23574;Rezept: Urmacht transmutieren;1;77500;111000
 24926;Ango'roshgürtel;1;58297;72872
-4096;Grobes Gorillahaar;10;8080;8500
-4096;Grobes Gorillahaar;8;6464;6800
-4096;Grobes Gorillahaar;1;789;877
 24954;Sumpfschlägerhelm;1;180000;200000
 15541;Tückische Kettenbeinschützer;1;30000;30000
 15541;Tückische Kettenbeinschützer;1;11011;13764
@@ -627,7 +538,6 @@
 24035;Funkelnder Stern der Elune;1;31000;35000
 24035;Funkelnder Stern der Elune;1;33486;34444
 24931;Ango'roshbeinschützer;1;118435;120000
-4069;Schwarzschmiederundschild;1;25147;31434
 24675;Eldr'naanschulterpolster;1;1952745;1990000
 6609;Weisenstoff;1;3222;8888
 9435;Genetzte Knochenstulpen;1;23200;29000
@@ -638,42 +548,12 @@
 12363;Arkankristall;3;129000;149899
 12363;Arkankristall;1;43000;50000
 12363;Arkankristall;1;43000;50000
-32833;Geläuterte Jaggalperle;1;19999;20099
-32833;Geläuterte Jaggalperle;1;21000;21100
-32833;Geläuterte Jaggalperle;1;21000;21100
-32833;Geläuterte Jaggalperle;1;21000;21100
-32833;Geläuterte Jaggalperle;1;21000;21100
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;21500;23000
-32833;Geläuterte Jaggalperle;1;21500;23000
-32833;Geläuterte Jaggalperle;1;21823;23414
-32833;Geläuterte Jaggalperle;1;16947;21184
-32833;Geläuterte Jaggalperle;1;16947;21184
-32833;Geläuterte Jaggalperle;1;19999;20099
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;19800;19999
-32833;Geläuterte Jaggalperle;1;16947;21184
-32833;Geläuterte Jaggalperle;1;16947;21184
 15765;Muster: Runenverzierte Lederhose;1;12000;27500
-33093;Manatrankeinspritzung;20;549900;549900
-33093;Manatrankeinspritzung;20;549900;549900
-33093;Manatrankeinspritzung;20;549900;549900
-33093;Manatrankeinspritzung;20;549900;549900
 13095;Angriffsband;1;31080;32601
 24809;Unerschütterliche Fäuste;1;53833;67292
 13112;Geflügelter Helm;1;25730;28589
 22539;Formel: Schild - Intelligenz;1;42500;54500
 15511;Grunzerbeinschützer;1;60000;65000
-3914;Gesellenrucksack;1;44900;49900
-3914;Gesellenrucksack;1;39375;45000
-3914;Gesellenrucksack;1;39375;45000
-3914;Gesellenrucksack;1;44900;49900
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
@@ -684,12 +564,10 @@
 24830;Nexuspilgergürtel;1;27783;69900
 13111;Sandalen des Aufrührers;1;15620;19525
 25032;Umhang des Höllenfeuers;1;54488;68110
-4059;Glyphenverzierte Armschienen;1;7148;8936
 22790;Urflechte;20;60000;70000
 22790;Urflechte;20;60000;70000
 22790;Urflechte;20;60000;70000
 23593;Pläne: Adamantitrapier;1;109623;137029
-4037;Silberfadenhose;1;12731;13300
 3821;Golddorn;20;24500;25000
 3821;Golddorn;20;24500;25000
 3821;Golddorn;20;24500;25000
@@ -737,7 +615,6 @@
 22529;Wildwedel;9;32700;40000
 22529;Wildwedel;4;19900;19999
 22919;Rezept: Elixier des erheblichen Magierbluts;1;77500;150000
-4087;Volltrefferbogen;1;27910;34888
 24882;Der'izuhelm;1;103619;129524
 24898;Gemarterter Helm;1;54937;57900
 23621;Pläne: Stulpen des eisernen Turms;1;699999;699999
@@ -835,14 +712,6 @@
 9719;Zerbrochene Klinge der Helden;1;9374;9999
 9719;Zerbrochene Klinge der Helden;1;9375;10000
 24939;Dunkelkammbeinschützer;1;62032;99900
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;10;73000;75000
-33052;Fischerschmaus;5;49900;49900
-33052;Fischerschmaus;10;73000;75000
 4597;Rezept: Verfärbter Heiltrank;1;156800;196000
 15747;Muster: Frostsäblergamaschen;1;14000;20000
 22840;Elixier des erheblichen Magierbluts;20;527300;527400

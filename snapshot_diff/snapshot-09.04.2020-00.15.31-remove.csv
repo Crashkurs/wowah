@@ -4,20 +4,13 @@
 23425;Adamantiterz;20;171600;192000
 23425;Adamantiterz;20;171600;192000
 20404;Verschlüsselter Schattenhammertext;2;20965;23295
-15127;Robuste Schultern;1;5164;6456
 15185;Prätorianerhelmkappe;1;46461;51624
 21877;Netherstoff;20;37566;41740
 21877;Netherstoff;4;7513;8348
 21877;Netherstoff;20;37566;41740
 15366;Schwindlergamaschen;1;10000;20000
-15251;Treffsicheres Schwert;1;42893;46117
-15251;Treffsicheres Schwert;1;55600;69500
 14791;Beschützercape;1;38910;39900
-15230;Kammspaltbeil;1;30000;50000
-15230;Kammspaltbeil;1;30000;40000
 24950;Sumpfschlägergürtel;1;50000;60000
-15412;Grüne Drachenschuppe;19;47400;49942
-15412;Grüne Drachenschuppe;4;10514;10514
 29533;Kobrahautbeinrüstung;1;1434500;1434750
 14954;Blutgeschmiedeter Schild;1;47000;50000
 15084;Tückische Lederarmschienen;1;47774;59749
@@ -28,7 +21,6 @@
 15150;Geistwandlerpolster;1;27110;37900
 14850;Sonnenschuppenbeinplatten;1;36504;39449
 15408;Schwere Skorpidschuppe;3;8487;9430
-15176;Potente Hose;1;38787;48484
 24039;Stürmischer Stern der Elune;1;45000;0
 24039;Stürmischer Stern der Elune;1;65000;69900
 24039;Stürmischer Stern der Elune;1;65000;69900
@@ -38,12 +30,6 @@
 15151;Geistwandlerbeinschützer;1;20000;30000
 23199;Totem des Sturms;1;222200;225000
 22528;Dunkeleisenfragmente;70;98000;112000
-19231;Bestien 3;1;212121;222222
-19231;Bestien 3;1;268750;280000
-19231;Bestien 3;1;299900;299900
-19231;Bestien 3;1;346721;422502
-15152;Nächtliche Schuhe;1;20000;40000
-15341;Pfadfinderfußpolster;1;5430;6788
 23426;Khoriumerz;1;75979;94974
 23426;Khoriumerz;5;379896;474870
 23426;Khoriumerz;5;379895;474870
@@ -62,9 +48,6 @@
 20424;Sandwurmfleisch;3;50105;55673
 20424;Sandwurmfleisch;5;69444;77160
 20424;Sandwurmfleisch;20;334039;371154
-15331;Zänkergelenkbänder;1;199900;199900
-15306;Wildbindungen;1;665;5532
-15168;Imposante Hose;1;11926;22000
 25649;Knotenhautlederfetzen;20;17500;25000
 25649;Knotenhautlederfetzen;20;17500;25000
 25649;Knotenhautlederfetzen;20;17500;25000
@@ -83,8 +66,6 @@
 24050;Schimmernder Dämmerstein;1;109270;119999
 24050;Schimmernder Dämmerstein;1;109270;119999
 24050;Schimmernder Dämmerstein;1;109270;119999
-19228;Bestienkartenset;1;23990000;25990000
-19228;Bestienkartenset;1;24750000;28000000
 24035;Funkelnder Stern der Elune;1;65000;85000
 24035;Funkelnder Stern der Elune;1;65000;85000
 24035;Funkelnder Stern der Elune;1;65000;85000
@@ -97,25 +78,16 @@
 24035;Funkelnder Stern der Elune;1;45000;59900
 24035;Funkelnder Stern der Elune;1;65000;69900
 24035;Funkelnder Stern der Elune;1;45000;50000
-15345;Pfadfinderschulterpolster;1;10000;20000
-15347;Pfadfindergürtel;1;1432;2000
 14963;Oberhäuptlingsschulterstücke;1;49038;54487
 15250;Gleißender Flamberg;1;20000;30000
 25896;Mächtiger Erdsturmdiamant;1;945000;978800
-15153;Nächtlicher Umhang;1;3939;4000
-15409;Raffiniertes Tiefsteinsalz;1;90000;90000
 24719;Lumpenpackbrustharnisch;1;50000;60000
 15417;Teufelssaurierleder;6;51122;56802
-15155;Nächtliche Handschuhe;1;39667;49584
-15381;Zornprankenbrustschutz;1;31600;39500
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
 24691;Elementaristenmantel;1;1500000;1600000
-15224;Kampfzerkracher;1;4042;8000
 19933;Leuchtendes Skorpidblut;10;36380;40422
 19933;Leuchtendes Skorpidblut;7;18877;20975
 19933;Leuchtendes Skorpidblut;4;14552;16169
-15147;Geistwandlerumhang;1;5612;7016
-19236;Bestien 8;1;1500000;2000000
 25897;Starker Erdsturmdiamant;1;985000;988800
 23077;Blutgranat;1;4870;6088
 24694;Knochenmalmerflickenstiefel;1;50000;60000

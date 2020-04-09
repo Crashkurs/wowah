@@ -117,8 +117,6 @@
 10620;Thoriumerz;1;2930;2930
 30810;Siegel des Sonnenzorns;5;25332;31665
 30810;Siegel des Sonnenzorns;8;70052;77835
-6317;Roher Lochfrenzy;5;1000;1000
-6317;Roher Lochfrenzy;1;2000;3000
 31286;Brustplatte des raschen Angriffs;1;101560;149900
 31286;Brustplatte des raschen Angriffs;1;101560;149900
 14499;Muster: Mondstofftasche;1;20000;20000
@@ -139,7 +137,6 @@
 8839;Blindkraut;1;4695;5216
 9405;Gurt der Golemstärke;1;53082;100000
 24300;Muster: Umhang der Ewigkeit;1;699999;699999
-4352;Muster: Stiefel des Verzauberers;1;880;1100
 13082;Berghangbeschützer;1;22800;28500
 13082;Berghangbeschützer;1;25952;27999
 12207;Riesenei;2;10965;12183
@@ -235,9 +232,6 @@
 23768;Weißes Rauchsignal;1;9246;10274
 23094;Tränenförmiger Blutgranat;1;59999;69999
 23094;Tränenförmiger Blutgranat;1;59999;69999
-8399;Muster: Feste Skorpidstiefel;1;1875;9900
-8399;Muster: Feste Skorpidstiefel;1;3275;3299
-8399;Muster: Feste Skorpidstiefel;1;3000;3000
 31304;Essenzfokussierer;1;158091;169900
 31158;Großdrachenstoffgewandung;1;2993494;2994045
 13512;Fläschchen der obersten Macht;1;199999;249999
@@ -349,9 +343,6 @@
 7910;Sternrubin;1;7500;9000
 4389;Gyrochronatom;1;22800;28500
 6358;Öliges Schwarzmaul;20;159999;169999
-8398;Muster: Feste Skorpidhandschuhe;1;4823;6029
-8398;Muster: Feste Skorpidhandschuhe;1;4581;5727
-8398;Muster: Feste Skorpidhandschuhe;1;7987;7999
 13310;Bauplan: Genaues Zielfernrohr;1;10750;49900
 31294;Schulterstücke der Manawoge;1;175063;196000
 20424;Sandwurmfleisch;1;16701;18557
@@ -368,19 +359,9 @@
 22831;Elixier der erheblichen Beweglichkeit;1;16449;16449
 22831;Elixier der erheblichen Beweglichkeit;1;16449;16449
 22146;Buch: Gabe der Wildnis III;1;124999;139999
-4348;Muster: Phönixhandschuhe;1;4000;5000
-4348;Muster: Phönixhandschuhe;1;3800;4750
 24061;Glitzernder Edeltopas;1;219999;228899
 15731;Muster: Runenverzierte Lederstulpen;1;5250;9999
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
-6325;Rezept: Glänzender Kleinfisch;1;27203;30226
 14942;Kriegshetzerstulpen;1;19000;19000
-4356;Muster: Sternengürtel;1;2000000;2500000
 11018;Erde von Un'Goro;45;178352;198169
 11018;Erde von Un'Goro;7;12124;15155
 22522;Überragendes Zauberöl;1;154999;154999
@@ -401,9 +382,7 @@
 17725;Formel: Waffe - Wintermacht;1;4000000;8000000
 17725;Formel: Waffe - Wintermacht;1;4000000;8000000
 17725;Formel: Waffe - Wintermacht;1;4000000;8000000
-8402;Muster: Fester Skorpidhelm;1;4560;5700
 23532;Stulpen des eisernen Turms;1;3755227;3950000
-6347;Formel: Armschiene - Schwache Stärke;1;4800;6000
 24305;Muster: Cape der Entschlossenheit;1;107800;124500
 8483;Wasserbeutel eines Wüstenläufers;4;4000;8000
 22793;Manadistel;20;68384;85480
@@ -633,12 +612,8 @@
 27499;Rolle der Intelligenz V;5;24995;24995
 27499;Rolle der Intelligenz V;5;24995;24995
 27499;Rolle der Intelligenz V;3;11298;12554
-21881;Netherweberseide;1;11500;12000
 23154;Vorlage: Stürmischer Azurmondstein;1;23500;35499
 25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
-6326;Rezept: Glitschhautmakrele;1;44658;49620
-6326;Rezept: Glitschhautmakrele;1;44658;49620
-6326;Rezept: Glitschhautmakrele;1;8873;18592
 3575;Eisenbarren;20;19932;22540
 19228;Bestienkartenset;1;20000000;21999999
 27657;Schwarzgebratener Basilisk;20;334500;345000
@@ -682,7 +657,6 @@
 27666;Goldfischstäbchen;20;554460;559980
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;5000;5000
 15409;Raffiniertes Tiefsteinsalz;3;270000;270000
-8400;Muster: Feste Skorpidschulterstücke;1;9999;9999
 13002;Fürstin Alizabeths Anhänger;1;81925;90000
 20960;Gravierter Echtsilberring;1;4080;7000
 20960;Gravierter Echtsilberring;1;4080;7000
@@ -696,9 +670,6 @@
 27501;Rolle der Willenskraft V;3;120604;134005
 12202;Tigerfleisch;4;1069;1187
 15381;Zornprankenbrustschutz;1;29000;29000
-8401;Muster: Feste Skorpidgamaschen;1;9830;10923
-8401;Muster: Feste Skorpidgamaschen;1;2062;4000
-4347;Muster: Verstärkte Wollschultern;1;2336;2921
 12037;Eigenartiges Fleisch;4;2258;2509
 12037;Eigenartiges Fleisch;10;5645;6272
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
@@ -721,7 +692,6 @@
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
 22853;Fläschchen der mächtigen Wiederherstellung;1;194999;194999
-4349;Muster: Phönixhose;1;69559;88199
 12808;Essenz des Untodes;1;10000;20000
 9206;Elixier der Riesen;5;18500;18500
 9206;Elixier der Riesen;5;18500;18500
@@ -762,20 +732,11 @@
 21887;Knotenhautleder;20;269980;269980
 21887;Knotenhautleder;20;269980;269980
 21887;Knotenhautleder;20;269980;269980
-8395;Muster: Feste Skorpidbrustplatte;1;1500;9900
-8395;Muster: Feste Skorpidbrustplatte;1;6236;6929
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-8395;Muster: Feste Skorpidbrustplatte;1;6900;6999
 13111;Sandalen des Aufrührers;1;80989;90000
 6342;Formel: Brust - Schwaches Mana;1;112;990
 25897;Starker Erdsturmdiamant;1;967300;967300
 25897;Starker Erdsturmdiamant;1;973500;1000000
 25897;Starker Erdsturmdiamant;1;948825;969022
-4353;Muster: Spinnengürtel;1;10000;10000
-4353;Muster: Spinnengürtel;1;8910;9900
-4353;Muster: Spinnengürtel;1;7524;9405
 27667;Würziger Flusskrebs;20;60000;84500
 27667;Würziger Flusskrebs;20;60000;84500
 24478;Jaggalperle;1;11500;12000
@@ -833,8 +794,6 @@
 9298;Rezept: Elixier der Riesen;1;15500;19498
 31212;Schimärenhautgamaschen;1;499999;549999
 24742;Waldläuferstiefel;1;499999;549999
-4345;Muster: Rote Wollstiefel;1;15716;17462
-4345;Muster: Rote Wollstiefel;1;15716;17462
 24477;Jaggalmuschelfleisch;7;1209;1512
 27663;Schwarzgebratener Sporenfisch;20;88888;99999
 27663;Schwarzgebratener Sporenfisch;20;88888;99999

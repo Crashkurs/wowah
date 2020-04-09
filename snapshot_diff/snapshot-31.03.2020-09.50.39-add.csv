@@ -19,10 +19,6 @@
 37915;Muster: Ausgehschuhe;1;1875;10000
 5498;Kleine irisierende Perle;7;22886;25429
 24246;Bluthibiskus;1;27036;30000
-4304;Dickes Leder;18;102585;128232
-4304;Dickes Leder;6;48000;54000
-4304;Dickes Leder;20;159000;165000
-4304;Dickes Leder;12;45400;50000
 35563;Verkohlter Bärenkebab;5;7700;8925
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4500;5499
 22452;Urerde;20;700000;750000
@@ -62,7 +58,6 @@
 19235;Bestien 7;1;2500000;2700000
 19235;Bestien 7;1;2500000;2799999
 19235;Bestien 7;1;2589999;2599999
-3734;Rezept: Großes Bärensteak;1;126694;158368
 19230;Bestien 2;1;78750;80000
 11186;Roter Machtkristall;19;95798;143374
 23112;Golddraenit;2;20080;24532
@@ -76,7 +71,6 @@
 23112;Golddraenit;2;24657;24660
 20867;Onyxgötze;1;10000;20000
 8165;Abgenutzte Drachenschuppe;11;32692;36324
-19264;Kriegsfürst 7;1;113660;142076
 6338;Silberrute;1;4500;4850
 6338;Silberrute;1;4500;4850
 6338;Silberrute;1;4500;4850
@@ -88,8 +82,6 @@
 13444;Erheblicher Manatrank;1;6250;16000
 6584;Spähertunika;1;3024;4000
 20907;Robuster Bronzering;1;1550;2000
-2407;Muster: Weißes Lederwams;1;1600;2000
-2407;Muster: Weißes Lederwams;1;1600;2000
 4611;Blaue Perle;1;1400;4500
 4611;Blaue Perle;1;1400;4500
 27657;Schwarzgebratener Basilisk;20;269979;269979
@@ -104,8 +96,6 @@
 3369;Grabmoos;5;9125;15485
 3369;Grabmoos;20;29248;31560
 3369;Grabmoos;20;29248;31560
-19267;Elementarkartenset;1;3999993;3999999
-19267;Elementarkartenset;1;3039999;3799999
 11098;Formel: Umhang - Geringer Schattenwiderstand;1;13500;22200
 34490;Tasche für alle Felle;1;836613;1045767
 8845;Geisterpilz;20;126592;129999
@@ -118,22 +108,6 @@
 10050;Magiestofftasche;1;7000;14500
 10050;Magiestofftasche;1;7000;14500
 10050;Magiestofftasche;1;7000;14500
-2447;Friedensblume;20;2000;2000
-2447;Friedensblume;20;300;1200
-2447;Friedensblume;5;499;999
-2447;Friedensblume;5;499;999
-2447;Friedensblume;5;499;999
-2447;Friedensblume;20;300;1200
-2447;Friedensblume;20;300;1200
-2447;Friedensblume;5;499;999
-2447;Friedensblume;20;9898;990000
-2447;Friedensblume;6;912;1140
-2447;Friedensblume;2;294;327
-2447;Friedensblume;20;500;500
-2447;Friedensblume;5;499;999
-2447;Friedensblume;20;2500;5000
-2447;Friedensblume;3;381;423
-2447;Friedensblume;20;2000;3950
 23448;Teufelsstahlbarren;1;111328;139160
 27498;Rolle der Beweglichkeit V;2;91997;91997
 23440;Dämmerstein;3;245000;300000
@@ -143,29 +117,6 @@
 24033;Gediegener Stern der Elune;1;113400;120445
 24033;Gediegener Stern der Elune;1;113400;120445
 24033;Gediegener Stern der Elune;1;113400;120445
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;71600;89500
-2772;Eisenerz;20;71600;89500
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;47632;59540
-2772;Eisenerz;20;88888;99999
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;1;2816;3520
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;88888;99999
 24645;Astralanischer Gürtel;1;42316;52896
 34622;Wirbelschnitter;1;2999600;2999900
 34622;Wirbelschnitter;1;2500000;3000000
@@ -194,7 +145,6 @@
 10286;Herz der Wildnis;3;24534;27984
 24758;Umbrafennstiefel;1;77760;97200
 20964;Aquamarinsiegel;1;19969;30000
-3819;Winterbiss;1;1195;1494
 25040;Finsterblutcape;1;65715;82144
 23438;Stern der Elune;2;80000;90000
 23438;Stern der Elune;1;26600;33250
@@ -223,26 +173,13 @@
 27503;Rolle der Stärke V;5;250500;255000
 27503;Rolle der Stärke V;3;153000;153000
 27503;Rolle der Stärke V;5;199995;199995
-27678;Grollhuffleisch;20;116000;119000
-27678;Grollhuffleisch;20;116000;119000
-27678;Grollhuffleisch;17;121907;159902
-27678;Grollhuffleisch;20;143420;188120
-27678;Grollhuffleisch;10;53000;60000
-27678;Grollhuffleisch;20;89532;113040
-27678;Grollhuffleisch;20;85904;107380
-27678;Grollhuffleisch;20;85904;107380
-27678;Grollhuffleisch;9;33120;41400
-27678;Grollhuffleisch;15;52440;65550
 13463;Traumblatt;20;199999;200000
 13463;Traumblatt;20;199900;200000
 13463;Traumblatt;20;193000;200000
 13463;Traumblatt;20;193000;200000
 13463;Traumblatt;20;193000;200000
 20869;Bernsteingötze;1;10000;20000
-2409;Muster: Dunkle Ledertunika;1;3000;3000
 15420;Eisenfeder;50;5000;8000
-2406;Muster: Feine Lederstiefel;1;9900;19900
-2406;Muster: Feine Lederstiefel;1;38676;48346
 14189;Regenmacherkappe;1;12382;14500
 19236;Bestien 8;1;2465302;2747558
 19236;Bestien 8;1;2508750;2509000
@@ -266,7 +203,6 @@
 32230;Schattensangamethyst;1;334400;418000
 32230;Schattensangamethyst;1;334400;418000
 32230;Schattensangamethyst;1;334400;418000
-3712;Schildkrötenfleisch;10;45608;57010
 5500;Schillernde Perle;1;83815;89795
 12365;Verdichteter Stein;20;15359;17162
 12365;Verdichteter Stein;12;9216;11520
@@ -298,12 +234,6 @@
 13443;Überragender Manatrank;2;4400;5500
 13443;Überragender Manatrank;1;4000;4100
 22797;Alptraumsaat;20;250960;278000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;15000;20000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-3730;Großbärenfleisch;2;1800;2000
-3730;Großbärenfleisch;10;10000;13500
 21881;Netherweberseide;2;25000;30000
 13423;Steinschuppenöl;2;9900;9999
 13423;Steinschuppenöl;20;197600;199999
@@ -320,11 +250,6 @@
 16112;Handbuch: Schwerer Seidenverband;1;49000;73500
 16112;Handbuch: Schwerer Seidenverband;1;49000;73500
 21884;Urfeuer;20;3500000;3700000
-3685;Raptorei;5;3900;4200
-3685;Raptorei;1;2476;3096
-3685;Raptorei;10;20235;25210
-3685;Raptorei;5;3884;4315
-3685;Raptorei;5;3900;4200
 20955;Goldener Drachenring;1;5500;7000
 7909;Aquamarin;9;113268;125853
 3396;Rezept: Elixier der geringen Beweglichkeit;1;1000;7495
@@ -365,22 +290,6 @@
 20960;Gravierter Echtsilberring;1;9500;13000
 20960;Gravierter Echtsilberring;1;9500;13000
 20960;Gravierter Echtsilberring;1;10000;12000
-2408;Muster: Feine Lederhandschuhe;1;2987;2999
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;207500;250000
-21887;Knotenhautleder;5;69375;78600
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;257500;260000
 35562;Bärenflanke;1;13600;21500
 35562;Bärenflanke;3;41000;64500
 35562;Bärenflanke;3;60111;65700
@@ -395,7 +304,6 @@
 33872;Feuriger Würztalbuk;10;74989;74989
 33872;Feuriger Würztalbuk;10;74989;74989
 7080;Essenz des Wassers;3;231950;257723
-3745;Rune des Öffnens;3;2863;3579
 7070;Elementarwasser;2;16000;18000
 7070;Elementarwasser;1;8319;10355
 7070;Elementarwasser;1;8000;9000
@@ -422,9 +330,6 @@
 22840;Elixier des erheblichen Magierbluts;5;129994;129994
 22840;Elixier des erheblichen Magierbluts;5;129994;129994
 22840;Elixier des erheblichen Magierbluts;20;519979;519979
-19265;Kriegsfürst 8;1;14800;39500
-19265;Kriegsfürst 8;1;57593;57599
-19265;Kriegsfürst 8;1;28750;40000
 20870;Jaspisgötze;1;18539;20599
 20870;Jaspisgötze;1;18539;20599
 20870;Jaspisgötze;1;18539;20599
@@ -478,12 +383,6 @@
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;562;4900
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;562;4900
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3330;4949
-19262;Kriegsfürst 5;1;299999;299999
-19262;Kriegsfürst 5;1;174964;174982
-19262;Kriegsfürst 5;1;170000;175000
-19262;Kriegsfürst 5;1;156560;169999
-19262;Kriegsfürst 5;1;100000;170000
-19261;Kriegsfürst 4;1;65612;81138
 8154;Skorpidschuppe;20;70040;76000
 7069;Elementarluft;1;17395;18217
 7069;Elementarluft;1;17395;18217

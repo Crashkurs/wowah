@@ -79,12 +79,6 @@
 24054;Stattliches Nachtauge;1;146221;152499
 24054;Stattliches Nachtauge;1;146221;152499
 8171;Unverwüstlicher Balg;10;16271;18079
-13422;Steinschuppenaal;5;20100;30000
-13422;Steinschuppenaal;20;95600;119500
-13422;Steinschuppenaal;3;12936;16170
-13422;Steinschuppenaal;3;5000;8000
-13422;Steinschuppenaal;10;30150;40000
-13422;Steinschuppenaal;20;60000;80000
 14090;Perlenkniehosen;1;178;10000
 21991;Schwerer Netherstoffverband;20;54864;68580
 15479;Stürmerrüstung;1;268;20000
@@ -93,15 +87,8 @@
 17056;Leichte Feder;20;20210;25000
 6511;Gesellenrobe;1;181;10000
 11082;Große Astralessenz;10;48090;53433
-13136;Klein Timmys Blasrohr;1;9984;12000
-13136;Klein Timmys Blasrohr;1;9984;12000
-13136;Klein Timmys Blasrohr;1;10143;11125
-13136;Klein Timmys Blasrohr;1;2184;5000
 3864;Citrin;1;6549;7277
 23781;Elementarsprengpulver;1;18629;19588
-13131;Spiegelpanzermantel;1;29801;34650
-13131;Spiegelpanzermantel;1;25000;35000
-13131;Spiegelpanzermantel;1;29576;38721
 3577;Goldbarren;20;18000;20000
 3577;Goldbarren;10;9000;10000
 22456;Urschatten;1;35639;39599
@@ -148,11 +135,8 @@
 23623;Pläne: Helm des Sturms;1;120000;150000
 3858;Mithrilerz;3;21660;27075
 24290;Reifer Sporenbeutel;8;59587;66208
-13137;Eisenwirker;1;50000;70000
-13137;Eisenwirker;1;88888;100000
 5075;Blutsplitter;10;1263;1404
 4500;Reiserucksack;1;49999;59999
-13135;Fürstliche Armschützer;1;70000;90000
 19441;Riesiger Giftbeutel;2;5895;6550
 24055;Unbeständiges Nachtauge;1;154027;165598
 24055;Unbeständiges Nachtauge;1;154027;165598
@@ -170,14 +154,10 @@
 2589;Leinenstoff;3;736;921
 7910;Sternrubin;1;33920;42400
 7081;Odem des Windes;1;54216;60240
-13130;Windläuferbeinschützer;1;80599;97333
-13130;Windläuferbeinschützer;1;47432;59290
-13130;Windläuferbeinschützer;1;37597;49999
 24059;Mächtiger Edeltopas;1;250000;255500
 24059;Mächtiger Edeltopas;1;250000;255500
 24059;Mächtiger Edeltopas;1;250000;255500
 24059;Mächtiger Edeltopas;1;250000;255500
-13310;Bauplan: Genaues Zielfernrohr;1;10750;19900
 22446;Große Planaressenz;10;850000;1000000
 22446;Große Planaressenz;10;1029673;1144081
 22446;Große Planaressenz;10;850000;1000000
@@ -196,9 +176,6 @@
 12361;Blauer Saphir;1;18800;18999
 23621;Pläne: Stulpen des eisernen Turms;1;130000;140000
 31289;Stab der göttlichen Eingebung;1;244852;272058
-13138;Der Verstummer;1;27332;34165
-13138;Der Verstummer;1;38783;43092
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 4234;Schweres Leder;20;74500;80000
 4234;Schweres Leder;14;46558;58198
 4234;Schweres Leder;20;66848;83560
@@ -238,9 +215,6 @@
 23118;Gediegener Azurmondstein;1;9065;10000
 23118;Gediegener Azurmondstein;1;9065;10000
 23118;Gediegener Azurmondstein;1;9065;10000
-13139;Bauchripper;1;39160;43511
-13139;Bauchripper;1;31948;39101
-13139;Bauchripper;1;29871;37339
 2456;Schwacher Verjüngungstrank;5;518;576
 3914;Gesellenrucksack;1;49999;59999
 14555;Alcors Sonnenschneide;1;303345;350383
@@ -271,9 +245,6 @@
 24058;Gravierter Edeltopas;1;172807;184999
 13145;Riesiger Ogergürtel;1;27140;30000
 23883;Bauplan: Heiltrankeinspritzung;1;446250;490000
-13134;Gürtel des Gladiators;1;37305;46632
-13134;Gürtel des Gladiators;1;41549;46165
-13134;Gürtel des Gladiators;1;36559;45699
 23624;Pläne: Helm des tapferen Verteidigers;1;140000;170000
 16204;Illusionsstaub;9;94456;104951
 21881;Netherweberseide;9;92774;103082
@@ -300,7 +271,6 @@
 2592;Wollstoff;15;22124;24583
 3576;Zinnbarren;20;5280;6600
 9719;Zerbrochene Klinge der Helden;1;15200;19000
-13144;Gürtel der Beschaulichkeit;1;24320;27022
 13444;Erheblicher Manatrank;1;12650;14056
 13444;Erheblicher Manatrank;5;63253;70281
 13444;Erheblicher Manatrank;5;63253;70281
@@ -348,13 +318,10 @@
 3309;Barbarischer Lendenschurz;1;499;40000
 10998;Geringe Astralessenz;10;16908;18786
 8846;Gromsblut;2;11824;13138
-13133;Schulterklappen des Drachenfeuers;1;93322;103691
 10285;Schattenseide;1;3252;3613
 21845;Urmondstoff;1;339999;379999
 21845;Urmondstoff;1;339999;379999
 21845;Urmondstoff;1;339999;379999
 21845;Urmondstoff;1;339999;379999
 21845;Urmondstoff;8;2563215;2848017
-13132;Skelettschultern;1;21010;30000
-13132;Skelettschultern;1;11010;30000
 14025;Mystikergürtel;1;282;20000

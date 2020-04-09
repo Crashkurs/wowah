@@ -42,16 +42,13 @@
 3575;Eisenbarren;20;86000;100000
 3575;Eisenbarren;20;26000;35000
 3466;Starker Fluxus;2;2916;3646
-10413;Handschuhe des Giftzahns;1;299900;299900
 8193;Hose des Nachtschleichers;1;40000;40000
-10379;Kommandantenhelm;1;952418;990000
 19265;Kriegsfürst 8;1;44990;44995
 19265;Kriegsfürst 8;1;35000;45000
 19265;Kriegsfürst 8;1;35000;45000
 19265;Kriegsfürst 8;1;39672;49591
 19265;Kriegsfürst 8;1;42940;53675
 8197;Stiefel des Nachtschleichers;1;40000;40000
-10403;Geschwärzter Gürtel der Defias;1;20811;40000
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;20;139980;159980
@@ -61,9 +58,6 @@
 8845;Geisterpilz;20;139980;159980
 8845;Geisterpilz;17;118983;135983
 8845;Geisterpilz;20;101250;120000
-10561;Mithrilgehäuse;1;46901;59001
-10561;Mithrilgehäuse;1;76901;79001
-10561;Mithrilgehäuse;1;76901;79001
 4278;Geringes Blutsteinerz;11;84084;105105
 4278;Geringes Blutsteinerz;20;100000;150000
 4278;Geringes Blutsteinerz;20;100000;150000
@@ -263,19 +257,6 @@
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5207;5786
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5207;5786
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5262;5389
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;2;13200;14998
-10938;Geringe Magieessenz;1;6600;7499
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;2;13500;14500
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;10;52440;65550
-10938;Geringe Magieessenz;1;100;6900
-10938;Geringe Magieessenz;1;100;6900
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
 4338;Magiestoff;20;187500;189900
@@ -304,27 +285,6 @@
 18662;Schwerer Lederball;2;17280;21600
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;22382;24869
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;24762;24799
-10939;Große Magieessenz;2;35440;39800
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;3;50000;70000
-10939;Große Magieessenz;5;95000;110000
-10939;Große Magieessenz;1;17720;19900
-10939;Große Magieessenz;1;19000;21500
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;19436;21596
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;13806;17258
-10939;Große Magieessenz;1;17000;17200
-10939;Große Magieessenz;1;17844;19826
 19268;Elementar Ass;1;1700000;1990000
 19268;Elementar Ass;1;1700000;1990000
 4304;Dickes Leder;20;99000;199999
@@ -392,7 +352,6 @@
 2840;Kupferbarren;20;33600;49500
 2840;Kupferbarren;20;33600;49500
 2840;Kupferbarren;7;11100;11200
-10608;Bauplan: Heckenschützenzielfernrohr;1;1425;20000
 8398;Muster: Feste Skorpidhandschuhe;1;7500;8000
 8398;Muster: Feste Skorpidhandschuhe;1;7987;7999
 8398;Muster: Feste Skorpidhandschuhe;1;24147;25184
@@ -423,17 +382,9 @@
 4296;Muster: Dunkle Lederschultern;1;5000;7000
 4409;Bauplan: Kleine Zephyriumladung;1;640;800
 4566;Stabiler Bauernstecken;1;7500;7500
-10620;Thoriumerz;20;187500;200000
-10620;Thoriumerz;1;9000;9000
 3384;Schwacher Magiewiderstandstrank;5;33500;35000
 4345;Muster: Rote Wollstiefel;1;29999;39999
 4345;Muster: Rote Wollstiefel;1;3841;4802
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
 19284;Portal 8;1;95000;120000
 19284;Portal 8;1;97957;122447
 2825;Bogen der Sengpfeile;1;181707;201897
@@ -517,10 +468,6 @@
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;3419;4274
 3611;Pläne: Grüne Eisenstiefel;1;26255;29173
 3611;Pläne: Grüne Eisenstiefel;1;42598;53248
-10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;3280;4101
-10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;89999;99999
-10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;59589;75362
-10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;8500;10000
 4426;Rolle der Stärke III;1;5000;5000
 2770;Kupfererz;3;1732;2166
 8492;Papageienkäfig (Grünflügelara);1;51500;100000
@@ -555,7 +502,6 @@
 19271;Elementar 4;1;18750;30000
 19259;Kriegsfürst 2;1;20000;25000
 19259;Kriegsfürst 2;1;29500;38000
-10316;Muster: Bunter Kilt;1;9545;12557
 8190;Hanzos Schwert;1;71511;79457
 8190;Hanzos Schwert;1;55929;58000
 8272;Ebenholzschulterpolster;1;20545;50000
@@ -590,7 +536,6 @@
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
 4305;Seidenstoffballen;10;99540;126050
-10315;Muster: Rote Magiestoffschultern;1;6132;7666
 4337;Dicke Spinnenseide;1;2222;2322
 4337;Dicke Spinnenseide;1;2222;2322
 4337;Dicke Spinnenseide;2;4214;4508
@@ -643,18 +588,12 @@
 4461;Raptorbalg;7;12784;15981
 4461;Raptorbalg;10;2560;3200
 4461;Raptorbalg;10;3578;3976
-10601;Bauplan: Hellaugenschutzbrille;1;20000;30000
 4480;Donnernder Glücksbringer;10;8500;20000
-10644;Rezept: Goblinraketentreibstoff;1;193616;242020
-10644;Rezept: Goblinraketentreibstoff;1;193616;242020
-10644;Rezept: Goblinraketentreibstoff;1;193616;242020
 8173;Dickes Rüstungsset;2;2302;2878
 4582;Weicher buschiger Schwanz;1;1603;1990
 4582;Weicher buschiger Schwanz;2;3206;4008
 19701;Münze der Gurubashi;1;37908;47385
 19701;Münze der Gurubashi;1;74780;83089
-10312;Muster: Rote Magiestoffhandschuhe;1;3724;4655
-10310;Rolle der Stärke IV;1;13856;17320
 19262;Kriegsfürst 5;1;50000;100000
 19262;Kriegsfürst 5;1;189541;189560
 19262;Kriegsfürst 5;1;299999;299999
@@ -662,8 +601,6 @@
 4561;Skalpiertomahawk;1;19963;22200
 8248;Imperialer roter Umhang;1;19124;21249
 8490;Katzentransportkorb (Siamkatze);1;299900;299900
-8168;Pechschwarze Feder;3;320;400
-8168;Pechschwarze Feder;1;320;400
 4382;Bronzegerüst;1;1520;1900
 2749;Die Grünen Hügel des Schlingendorntals - Seite 25;1;5475;5500
 2749;Die Grünen Hügel des Schlingendorntals - Seite 25;1;5475;5500
@@ -672,18 +609,6 @@
 8827;Elixier des Wasserwandelns;3;2164;2706
 8827;Elixier des Wasserwandelns;20;14999;18999
 8827;Elixier des Wasserwandelns;20;15000;19000
-8169;Dicker Balg;1;608;760
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;10;5776;7220
-8169;Dicker Balg;10;5776;7220
-8169;Dicker Balg;3;2633;2926
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;627;784
-8169;Dicker Balg;1;548;685
 3652;Jagdrundschild;1;25000;25000
 19260;Kriegsfürst 3;1;18374;22968
 19260;Kriegsfürst 3;1;19900;19900
@@ -736,10 +661,6 @@
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;7412;8235
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;2999;4999
 19227;Bestien Ass;1;12999999;14999999
-10560;Instabiler Auslöser;1;55820;55821
-10603;Bauplan: Ultraschutzbrille der Katzensicht;1;5011;5567
-10603;Bauplan: Ultraschutzbrille der Katzensicht;1;2349;2937
-10603;Bauplan: Ultraschutzbrille der Katzensicht;1;92600;102800
 19279;Portal 3;1;29900;29900
 19279;Portal 3;1;13299;50000
 19279;Portal 3;1;41933;52417
@@ -840,13 +761,10 @@
 4293;Muster: Lederweste des Hügelwächters;1;29999;39999
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-10606;Bauplan: Fallschirmumhang;1;1500;2400
-10606;Bauplan: Fallschirmumhang;1;1500;2400
 4603;Roher Tüpfelgelbschwanz;20;24800;36000
 4603;Roher Tüpfelgelbschwanz;1;1176;1470
 4603;Roher Tüpfelgelbschwanz;20;24800;36000
 8390;Muster: Großer Voodooumhang;1;7500;7500
-8125;Myrmidonenarmschienen;1;25000;25000
 19704;Münze der Sandwüter;1;31360;39200
 19704;Münze der Sandwüter;1;54854;68568
 19702;Münze der Blutfratzen;1;30000;40000

@@ -10,9 +10,6 @@
 22449;Großer Prismasplitter;1;198835;199935
 22449;Großer Prismasplitter;1;151600;155000
 30809;Mal des Sargeras;9;52700;90000
-30036;Gürtel des langen Weges;1;6879999;8599999
-30036;Gürtel des langen Weges;1;11499999;11999999
-30036;Gürtel des langen Weges;1;7999999;8999999
 30810;Siegel des Sonnenzorns;4;15000;30000
 30810;Siegel des Sonnenzorns;14;88838;111048
 29739;Arkaner Foliant;5;550100;560000
@@ -23,26 +20,6 @@
 19269;Elementar 2;1;80000;89000
 29533;Kobrahautbeinrüstung;1;1415000;1435000
 12207;Riesenei;2;9721;12152
-29729;Muster: Lebendiger Drachenschuppenhelm;1;149775;187219
-22456;Urschatten;5;159999;189999
-22456;Urschatten;3;85286;106608
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;5;159999;189999
-22456;Urschatten;5;159999;189999
-22456;Urschatten;5;159999;189999
-22456;Urschatten;1;31185;34650
-22456;Urschatten;1;25000;35000
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
 22448;Kleiner Prismasplitter;1;77710;79910
 22448;Kleiner Prismasplitter;1;77710;79910
 22448;Kleiner Prismasplitter;1;77710;79910
@@ -60,28 +37,14 @@
 23793;Schweres Knotenhautleder;20;600000;600000
 23793;Schweres Knotenhautleder;20;600000;600000
 13083;Familienwappen der Garretts;1;90000;120000
-30040;Gürtel der tiefen Schatten;1;9500000;9900000
 13042;Schwert des Magistraten;1;22045;27557
-29731;Muster: Windstoßhandschuhe;1;187030;233788
-29731;Muster: Windstoßhandschuhe;1;220000;240000
-29731;Muster: Windstoßhandschuhe;1;177678;222098
-29731;Muster: Windstoßhandschuhe;1;280000;350000
 15613;Knochenverbundgürtel;1;11801;14752
 22451;Urluft;1;196000;199900
 22451;Urluft;1;196000;199900
 22451;Urluft;1;196000;199900
 22451;Urluft;1;196000;199900
 22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;39938;42026
 22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;31939;39924
 25867;Erdsturmdiamant;1;595000;605000
 29734;Muster: Dicke Netherschuppenbrustplatte;1;310000;320000
 29740;Teuflische Waffen;1;164000;164000
@@ -101,30 +64,15 @@
 29740;Teuflische Waffen;2;250100;320000
 29740;Teuflische Waffen;1;164000;164000
 12364;Gewaltiger Smaragd;1;35000;44400
-29728;Muster: Windtöterwickel;1;143724;179655
-30282;Muster: Stiefel der Zauberwucht;1;981199;993999
-30282;Muster: Stiefel der Zauberwucht;1;1895000;1990000
-30282;Muster: Stiefel der Zauberwucht;1;1119999;1119999
-30282;Muster: Stiefel der Zauberwucht;1;1648653;1715998
 10978;Kleiner gleißender Splitter;1;49;62
 19261;Kriegsfürst 4;1;21000;27000
-30038;Gürtel der Zauberwucht;1;10000000;10000000
-30038;Gürtel der Zauberwucht;1;11250000;14999998
-30038;Gürtel der Zauberwucht;1;11250000;14999998
-30038;Gürtel der Zauberwucht;1;10000000;10000000
-30038;Gürtel der Zauberwucht;1;10000000;10000000
-30038;Gürtel der Zauberwucht;1;11250321;11500000
-30038;Gürtel der Zauberwucht;1;13500000;15000000
-30038;Gürtel der Zauberwucht;1;13500000;15000000
 13071;Plattenfaust von Hakoo;1;25000;30000
 22452;Urerde;1;35999;38888
 22452;Urerde;1;35999;38888
 22452;Urerde;1;35999;38888
 22452;Urerde;1;35999;38888
 22452;Urerde;1;35999;38888
-29726;Muster: Kapuze des Urlebens;1;346720;353401
 19273;Elementar 6;1;448750;499999
-29733;Muster: Netherdrachenhandschuhe;1;110000;160000
 29548;Netherdrachenschuppe;20;424000;446000
 12404;Verdichteter Wetzstein;20;25000;30000
 12404;Verdichteter Wetzstein;20;25000;30000
@@ -132,6 +80,3 @@
 12404;Verdichteter Wetzstein;20;25000;30000
 29539;Kobraschuppen;4;607500;637500
 29539;Kobraschuppen;4;607500;637500
-30032;Roter Gürtel der Schlacht;1;12250000;12500000
-30032;Roter Gürtel der Schlacht;1;14406305;15540000
-30032;Roter Gürtel der Schlacht;1;13000000;14900000

@@ -1,7 +1,6 @@
 13511;Fläschchen der destillierten Weisheit;5;799999;824999
 13511;Fläschchen der destillierten Weisheit;5;799999;824999
 13465;Bergsilbersalbei;18;106704;133380
-8152;Fläschchen großes Mojo;1;1250;1299
 7609;Ältestenbernsteinstock;1;16315;24900
 16254;Formel: Waffe - Lebensdiebstahl;1;401250;450000
 16254;Formel: Waffe - Lebensdiebstahl;1;74999;99999
@@ -232,7 +231,6 @@
 2319;Mittleres Leder;20;44820;55500
 2319;Mittleres Leder;20;44820;55500
 20748;Hervorragendes Manaöl;1;181500;195900
-6672;Bauplan: Blitzstrahlbombe;1;1000000;1500000
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;724999;749999
 25708;Dickes Grollhufleder;20;474999;499999
 25708;Dickes Grollhufleder;20;474999;499999
@@ -247,9 +245,6 @@
 6394;Silberfadenstiefel;1;1561;3333
 13051;Hexenfuror;1;42800;53500
 13051;Hexenfuror;1;42800;53500
-13446;Erheblicher Heiltrank;1;9900;9900
-13446;Erheblicher Heiltrank;1;10999;19899
-13446;Erheblicher Heiltrank;1;8000;13500
 13521;Rezept: Fläschchen der obersten Macht;1;8999999;9999999
 27503;Rolle der Stärke V;5;499999;549999
 27503;Rolle der Stärke V;5;499999;549999
@@ -440,8 +435,6 @@
 12811;Rechtschaffene Kugel;1;370000;390000
 12811;Rechtschaffene Kugel;1;370000;390000
 2452;Flitzdistel;17;20000;24500
-8151;Fläschchen Mojo;6;17862;19847
-8151;Fläschchen Mojo;13;79900;79900
 27498;Rolle der Beweglichkeit V;5;499999;549999
 27498;Rolle der Beweglichkeit V;5;499999;549999
 27498;Rolle der Beweglichkeit V;5;499999;549999
@@ -478,7 +471,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;219000;231500
 22854;Fläschchen des unerbittlichen Angriffs;1;219000;231500
 22854;Fläschchen des unerbittlichen Angriffs;5;899999;924999
-4623;Geringer Steinschildtrank;1;13062;13100
 22861;Fläschchen des blendenden Lichts;5;999999;1099999
 22861;Fläschchen des blendenden Lichts;5;999999;1099999
 19698;Zulianische Münze;2;102246;127808
@@ -576,17 +568,11 @@
 22840;Elixier des erheblichen Magierbluts;20;548000;578000
 22840;Elixier des erheblichen Magierbluts;20;549999;577999
 22840;Elixier des erheblichen Magierbluts;20;549999;577999
-6615;Weisenhandschuhe;1;2636;3296
 17195;Unechter Mistelzweig;20;320;700
 9810;Befestigte Stiefel;1;1846;4000
 19282;Portal 6;1;238750;250000
 2836;Grober Stein;20;928;1160
 2836;Grober Stein;20;928;1160
-8150;Tiefsteinsalz;2;15640;19550
-8150;Tiefsteinsalz;2;19152;23940
-8150;Tiefsteinsalz;1;9576;11970
-8150;Tiefsteinsalz;1;12782;15978
-8150;Tiefsteinsalz;5;50000;63000
 21881;Netherweberseide;2;15200;19000
 19706;Münze der Blutskalpe;4;143660;179576
 3575;Eisenbarren;13;14144;17680
@@ -616,9 +602,6 @@
 22788;Flammenkappe;5;57000;71250
 791;Knorriger Eschenstab;1;10603;23456
 13442;Mächtiger Wuttrank;1;9900;9900
-6660;Julies Dolch;1;89099;98999
-6660;Julies Dolch;1;54235;90000
-6660;Julies Dolch;1;36157;97000
 2592;Wollstoff;20;30990;39500
 16203;Große ewige Essenz;1;88500;93899
 16203;Große ewige Essenz;10;845000;891000
@@ -626,21 +609,11 @@
 3576;Zinnbarren;20;9560;12500
 3576;Zinnbarren;20;9560;12500
 13144;Gürtel der Beschaulichkeit;1;19954;30699
-13444;Erheblicher Manatrank;1;10050;12000
 3047;Züngelnde Schuppenhandschuhe;1;1578;3300
-6716;Bauplan: EZ-Thro-Dynamit;1;1900;2090
-6716;Bauplan: EZ-Thro-Dynamit;1;1934;2149
 13120;Armschienen des tiefen Zorns;1;31364;32867
 11083;Seelenstaub;20;140000;157500
 11083;Seelenstaub;4;7609;9512
 19701;Münze der Gurubashi;1;37908;47385
-4603;Roher Tüpfelgelbschwanz;5;25415;28240
-4603;Roher Tüpfelgelbschwanz;5;25415;28240
-4603;Roher Tüpfelgelbschwanz;1;1176;1470
-4603;Roher Tüpfelgelbschwanz;20;22336;27920
-4603;Roher Tüpfelgelbschwanz;20;22336;27920
-4603;Roher Tüpfelgelbschwanz;20;20120;25000
-4603;Roher Tüpfelgelbschwanz;5;25415;28240
 22789;Terozapfen;20;174999;189999
 22789;Terozapfen;20;174999;189899
 22789;Terozapfen;20;174999;189999
@@ -661,7 +634,6 @@
 22457;Urmana;1;179000;189000
 22457;Urmana;1;179000;189000
 22457;Urmana;1;179000;189000
-6662;Elixier des Riesenwuchses;20;249999;274999
 11134;Geringe Mystikeressenz;1;1154;1443
 21887;Knotenhautleder;10;93500;99000
 5498;Kleine irisierende Perle;1;710;1000
@@ -671,11 +643,6 @@
 5498;Kleine irisierende Perle;6;4260;6000
 22573;Erdpartikel;3;17100;21375
 22573;Erdpartikel;10;57000;71250
-6663;Rezept: Elixier des Riesenwuchses;1;249900;249900
-6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
-6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
-6663;Rezept: Elixier des Riesenwuchses;1;223700;223723
-6663;Rezept: Elixier des Riesenwuchses;1;199528;219536
 13021;Einfädler;1;24540;29302
 25897;Starker Erdsturmdiamant;1;898150;979800
 27667;Würziger Flusskrebs;19;123000;130150

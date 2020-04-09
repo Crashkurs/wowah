@@ -1,10 +1,5 @@
 3826;Erhebliches Trollblutelixier;20;90000;90000
 24716;Vergeltungsbänder;1;82389;88800
-29533;Kobrahautbeinrüstung;1;1535000;1535000
-29533;Kobrahautbeinrüstung;1;1504999;1529999
-29533;Kobrahautbeinrüstung;1;1530000;1533300
-29533;Kobrahautbeinrüstung;1;1530000;1530000
-29533;Kobrahautbeinrüstung;1;1505000;1525000
 12655;Verzauberter Thoriumbarren;1;50000;80000
 12655;Verzauberter Thoriumbarren;1;50000;80000
 12655;Verzauberter Thoriumbarren;1;50000;80000
@@ -15,9 +10,6 @@
 5498;Kleine irisierende Perle;7;22770;25300
 4304;Dickes Leder;20;29000;60000
 4304;Dickes Leder;20;90000;109900
-30038;Gürtel der Zauberwucht;1;13900000;13999998
-30038;Gürtel der Zauberwucht;1;13900000;13999998
-30038;Gürtel der Zauberwucht;1;11000000;11000000
 2996;Leinenstoffballen;1;400;470
 2996;Leinenstoffballen;5;1588;1985
 2996;Leinenstoffballen;9;3500;4500
@@ -65,7 +57,6 @@
 4611;Blaue Perle;3;19451;21612
 12689;Pläne: Strahlende Brustplatte;1;29999;39999
 10161;Quecksilbrige Stulpen;1;18415;37000
-30042;Gürtel der naturgleichen Kraft;1;9000000;10000000
 3827;Manatrank;4;3276;4096
 10179;Mystische Stiefel;1;26574;33218
 8171;Unverwüstlicher Balg;6;6837;7596
@@ -79,8 +70,6 @@
 8290;Arkane Robe;1;145473;150000
 23425;Adamantiterz;20;111100;112200
 23425;Adamantiterz;20;111100;112200
-1210;Schattenedelstein;2;27834;28704
-1210;Schattenedelstein;1;375;20000
 8258;Schlangenhautrüstung;1;26094;39050
 3823;Geringer Unsichtbarkeitstrank;5;124499;159499
 3823;Geringer Unsichtbarkeitstrank;5;124499;159499
@@ -91,7 +80,6 @@
 8193;Hose des Nachtschleichers;1;19999;29999
 8193;Hose des Nachtschleichers;1;19999;29999
 8193;Hose des Nachtschleichers;1;19999;29999
-25802;Schreckensgiftbeutel;6;69999;71100
 11736;Buchband der Abhärtung;1;17368;22631
 24478;Jaggalperle;1;7852;7868
 24478;Jaggalperle;2;13000;13300
@@ -100,8 +88,6 @@
 10132;Klagegeisthelm;1;99999;99999
 4338;Magiestoff;8;33600;42000
 4338;Magiestoff;7;32625;38600
-30282;Muster: Stiefel der Zauberwucht;1;2405000;2440000
-30282;Muster: Stiefel der Zauberwucht;1;1998776;1999999
 8183;Präzisionsbogen;1;20000;20000
 22788;Flammenkappe;20;358500;378000
 22788;Flammenkappe;20;358500;378000
@@ -173,9 +159,6 @@
 8185;Schildkrötenschuppengamaschen;1;24999;33333
 12691;Pläne: Wilddornpanzerung;1;13381;16727
 10172;Mystischer Mantel;1;14404;30000
-23529;Adamantitwetzstein;1;149999;149999
-23529;Adamantitwetzstein;1;149999;149999
-23529;Adamantitwetzstein;1;149999;149999
 19270;Elementar 3;1;88750;90000
 7909;Aquamarin;9;135213;150237
 10118;Verschnörkelte Brustplatte;1;35073;40000
@@ -184,14 +167,6 @@
 11135;Große Mystikeressenz;5;49645;55162
 3829;Frostöl;1;3000;3000
 3829;Frostöl;1;3000;3000
-1263;Hirnhacker;1;137005;152227
-1263;Hirnhacker;1;199999;199999
-29534;Grollbalgbeinrüstung;1;532000;665000
-29534;Grollbalgbeinrüstung;1;532000;665000
-29534;Grollbalgbeinrüstung;1;532000;665000
-29534;Grollbalgbeinrüstung;1;532000;665000
-29534;Grollbalgbeinrüstung;1;960000;969000
-29534;Grollbalgbeinrüstung;1;950000;979000
 7080;Essenz des Wassers;3;228785;254205
 7070;Elementarwasser;1;8319;10355
 7070;Elementarwasser;1;8319;10355
@@ -210,11 +185,6 @@
 8244;Fehlerlose Draenethystsphäre;1;221584;276980
 8244;Fehlerlose Draenethystsphäre;1;221584;276980
 24401;Unbekannte Pflanzenteile;1;4425;8800
-30155;Muschelriegel;20;19580;25600
-30155;Muschelriegel;20;23776;29620
-30155;Muschelriegel;20;19580;25600
-30155;Muschelriegel;20;19456;24320
-30155;Muschelriegel;20;19455;24319
 11176;Traumstaub;20;199980;199980
 11176;Traumstaub;20;199980;199980
 11176;Traumstaub;20;199980;199980
@@ -252,7 +222,6 @@
 11176;Traumstaub;1;1100;1400
 11176;Traumstaub;14;22388;27986
 10174;Mystisches Cape;1;12181;24000
-25843;Teufelseisenrute;1;175900;175900
 8190;Hanzos Schwert;1;49999;74999
 8190;Hanzos Schwert;1;119315;149144
 12711;Pläne: Helm der weißen Seele;1;582080;727600

@@ -51,10 +51,6 @@
 2771;Zinnerz;20;5040;6300
 2771;Zinnerz;20;5040;6300
 2771;Zinnerz;20;5040;6300
-32665;Kristallgewebter Umhang;1;226952;230000
-32665;Kristallgewebter Umhang;1;226952;230000
-32665;Kristallgewebter Umhang;1;226952;230000
-32620;Zeitverlorene Schriftrolle;1;9592;12740
 14048;Runenstoffballen;10;129564;143330
 14048;Runenstoffballen;10;129564;143330
 2450;Wilddornrose;15;62423;69359
@@ -71,7 +67,6 @@
 10620;Thoriumerz;20;86239;95821
 10620;Thoriumerz;20;86239;95821
 30810;Siegel des Sonnenzorns;16;139603;155115
-32464;Netheriterz;5;15050;20170
 1716;Robe der Weisen;1;42236;52796
 14255;Lunargürtel;1;13943;19999
 22529;Wildwedel;7;37021;46277
@@ -83,7 +78,6 @@
 2934;Verdorbene Lederfetzen;20;1999;1999
 25898;Harter Erdsturmdiamant;1;773690;859656
 13093;Rotglutring;1;61152;76440
-32664;Traumkristallband;1;289900;290000
 14598;Aufsehergürtelbund;1;3982;4400
 7976;Pläne: Mithrilschildstachel;1;22316;27896
 31291;Kristallgeschmiedete Kriegsaxt;1;161398;170000
@@ -92,8 +86,6 @@
 2449;Erdwurzel;2;1028;1142
 2449;Erdwurzel;20;10284;11427
 7453;Muster: Hurtige Stiefel;1;43320;54150
-32574;Bindungen der blitzartigen Reflexe;1;3790020;4700000
-32574;Bindungen der blitzartigen Reflexe;1;3803603;3929500
 2841;Bronzebarren;20;44900;44900
 2841;Bronzebarren;20;44900;44900
 2841;Bronzebarren;20;44900;44900
@@ -146,8 +138,6 @@
 809;Blutklinge;1;88473;95592
 13494;Rezept: Großer Feuerschutztrank;1;370835;412039
 13110;Schreckenswolfharnisch;1;188480;235600
-32580;Flinkschlagarmschienen;1;4504533;5500000
-32580;Flinkschlagarmschienen;1;4609000;4955000
 14757;Töterhose;1;9542;12928
 7421;Phalanxhandschuhe;1;2667;5555
 13042;Schwert des Magistraten;1;21912;27391
@@ -171,9 +161,7 @@
 9253;Mittleres Kartenfragment;1;13999;19999
 9253;Mittleres Kartenfragment;1;13999;19999
 13058;Khoospitze;1;23604;29506
-32659;Kristallerfülltes Messer;1;475000;500000
 23573;Gehärteter Adamantitbarren;20;1919600;2399500
-32739;Pläne: Morgenstahlschultern;1;1999900;1999900
 7786;Kopfspalter;1;48407;49999
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1137498
 34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1137498
@@ -236,8 +224,6 @@
 14551;Handschützer des Klingenmeisters;1;468908;521009
 2163;Schattenklinge;1;69978;77753
 2163;Schattenklinge;1;69978;77753
-929;Heiltrank;1;235;294
-929;Heiltrank;5;1062;1300
 13020;Bogen des Himmelsstürmers;1;13802;17253
 22572;Luftpartikel;3;49560;62700
 2776;Golderz;20;16461;18290
@@ -278,8 +264,6 @@
 2452;Flitzdistel;20;43383;48203
 2452;Flitzdistel;2;4338;4820
 2452;Flitzdistel;20;43383;48203
-32586;Armschienen des flinken Gedankens;1;4999999;5399999
-32718;Vakkiz' Schuppe;1;450000;500000
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;26600;33250
 12359;Thoriumbarren;20;99088;123860
 12359;Thoriumbarren;10;59000;61100
@@ -308,10 +292,6 @@
 13094;Das Juwel der Königin;1;17377;26722
 27502;Rolle der Ausdauer V;1;20168;23900
 27502;Rolle der Ausdauer V;1;20168;23900
-32679;Ausgelaugter Stab;1;200000;250000
-32679;Ausgelaugter Stab;1;200000;250000
-32679;Ausgelaugter Stab;1;200000;250000
-32679;Ausgelaugter Stab;1;200000;250000
 27500;Rolle des Schutzes V;1;20150;23900
 27500;Rolle des Schutzes V;1;20150;23900
 9295;Rezept: Unsichtbarkeitstrank;1;15999;16999
@@ -333,8 +313,6 @@
 2447;Friedensblume;20;8668;9631
 24785;Finsterbluthandschuhe;1;59512;75016
 2256;Skelettkeule;1;95169;98062
-935;Kurzschwert der Nachtwache;1;32613;50000
-935;Kurzschwert der Nachtwache;1;32613;50000
 13019;Harpyienklauenkurzbogen;1;18233;22792
 7368;Ältestenhose;1;5515;6600
 5079;Kaltes Basiliskenauge;1;52464;58293
@@ -342,8 +320,6 @@
 2721;Heiliges Tuch;1;11507;16884
 22788;Flammenkappe;20;312500;319900
 13005;Amys Decke;1;1996;5000
-934;Stalvans Schneide;1;29999;33333
-934;Stalvans Schneide;1;23265;25850
 20960;Gravierter Echtsilberring;1;9080;9200
 32062;Elixier der erheblichen Seelenstärke;20;557500;559999
 32062;Elixier der erheblichen Seelenstärke;5;189375;189999
@@ -354,7 +330,6 @@
 818;Tigerauge;2;1270;1411
 15892;Töterschild;1;11462;14328
 4349;Muster: Phönixhose;1;69559;88199
-936;Mitternachtsstreitkolben;1;23200;29000
 31275;Trophäenhalskette;1;86089;107612
 24291;Sumpflordranke;200;991600;1017200
 13041;Wächterklinge;1;14896;18620
@@ -378,9 +353,6 @@
 4353;Muster: Spinnengürtel;1;7524;9405
 13103;Polster der Giftspinne;1;7288;9110
 13103;Polster der Giftspinne;1;16513;18348
-32745;Muster: Schulterpolster des erneuerten Lebens;1;449999;449999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;449999;449999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;449999;449999
 24368;Waffen des Echsenkessels;1;92514;102794
 24368;Waffen des Echsenkessels;1;92514;102794
 24368;Waffen des Echsenkessels;1;92514;102794

@@ -3,21 +3,12 @@
 13511;Fläschchen der destillierten Weisheit;1;161900;161900
 13511;Fläschchen der destillierten Weisheit;1;161900;161900
 13511;Fläschchen der destillierten Weisheit;1;161900;161900
-9292;Feldplattenschulterstücke;1;40000;50000
 25321;Göttlicher Hammer;1;226208;282760
 16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 16254;Formel: Waffe - Lebensdiebstahl;1;109960;122450
 10940;Seltsamer Staub;6;17400;17664
-11177;Kleiner strahlender Splitter;1;200;900
-11177;Kleiner strahlender Splitter;20;30000;40000
-11177;Kleiner strahlender Splitter;3;1144;3331
-11177;Kleiner strahlender Splitter;6;2414;3018
-11177;Kleiner strahlender Splitter;7;5376;6720
-11177;Kleiner strahlender Splitter;19;10101;10101
-2244;Krolklinge;1;185600;232000
-2244;Krolklinge;1;270000;300000
 22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
@@ -39,24 +30,15 @@
 22832;Erstklassiger Manatrank;5;115000;115000
 22832;Erstklassiger Manatrank;5;115000;115000
 21877;Netherstoff;20;34000;38000
-2175;Schattenfellstreitaxt;1;5292;6616
 16245;Formel: Stiefel - Große Beweglichkeit;1;258113;302642
 16245;Formel: Stiefel - Große Beweglichkeit;1;258113;302642
 22786;Traumwinde;20;125000;125000
 22786;Traumwinde;20;125000;125000
 22786;Traumwinde;20;125000;125000
 22786;Traumwinde;20;125000;125000
-8167;Schildkrötenschuppe;5;25280;31600
 21884;Urfeuer;1;201500;201500
 9262;Schwarzes Vitriol;1;3500;3500
-11184;Blauer Machtkristall;1;7000;7700
-11184;Blauer Machtkristall;1;7000;7700
-11184;Blauer Machtkristall;10;80000;100000
 2409;Muster: Dunkle Ledertunika;1;2400;3000
-9233;Elixier der Dämonenentdeckung;1;1500;1500
-9233;Elixier der Dämonenentdeckung;1;1500;1500
-9233;Elixier der Dämonenentdeckung;3;5902;6558
-9233;Elixier der Dämonenentdeckung;20;39351;43724
 21876;Urmondstofftasche;1;3000000;3150000
 32068;Elixier der Eisenhaut;20;400000;500000
 32068;Elixier der Eisenhaut;20;400000;500000
@@ -66,7 +48,6 @@
 24054;Stattliches Nachtauge;1;168710;177499
 24054;Stattliches Nachtauge;1;168710;177499
 16072;Expertenkochbuch;1;27244;34055
-14423;Seidensandschulterpolster;1;5109;5500
 31173;Stiefel der Unbändigkeit;1;87451;100000
 8006;Der Ziggler;1;25008;26000
 31875;Vorlage: Großer Dämmerstein;1;228000;285000
@@ -102,9 +83,7 @@
 2835;Rauer Stein;20;7736;8020
 24922;Grimmschuppenhelm;1;44076;54400
 23781;Elementarsprengpulver;1;1474;1843
-14419;Seidensandarmschienen;1;29000;30000
 31140;Umhang der Entropie;1;130965;150000
-14459;Elunarischer Umhang;1;38872;43192
 12803;Essenz des Lebens;1;100000;100000
 22456;Urschatten;5;140000;150000
 22445;Arkaner Staub;2;19800;20000
@@ -150,8 +129,6 @@
 20748;Hervorragendes Manaöl;1;179999;179999
 20748;Hervorragendes Manaöl;1;160000;180000
 20748;Hervorragendes Manaöl;1;160000;180000
-14407;Steinstoffweste;1;13651;17064
-14407;Steinstoffweste;1;13651;17064
 25708;Dickes Grollhufleder;20;442500;455000
 25708;Dickes Grollhufleder;20;470000;470000
 25708;Dickes Grollhufleder;20;442500;455000
@@ -162,18 +139,6 @@
 25708;Dickes Grollhufleder;20;442500;455000
 7971;Schwarze Perle;1;161500;170000
 7971;Schwarze Perle;4;600000;600000
-24032;Fragiler lebendiger Rubin;1;250000;299999
-24032;Fragiler lebendiger Rubin;1;250000;299999
-9260;Flüchtiger Rum;2;1813;2015
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
 31863;Ausbalanciertes Nachtauge;1;95000;99999
 31863;Ausbalanciertes Nachtauge;1;95000;99999
 31863;Ausbalanciertes Nachtauge;1;95000;99999
@@ -184,8 +149,6 @@
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
 4500;Reiserucksack;1;55000;70000
-14374;Blutrote Sandalen;1;220000;230000
-14374;Blutrote Sandalen;1;199900;199900
 24055;Unbeständiges Nachtauge;1;185932;199899
 24055;Unbeständiges Nachtauge;1;185932;199899
 6308;Roher Stoppelfühlerwels;3;460;576
@@ -196,21 +159,14 @@
 11178;Großer strahlender Splitter;1;10100;25000
 11178;Großer strahlender Splitter;1;10100;25000
 11178;Großer strahlender Splitter;1;11000;19000
-22837;Heldentrank;5;37500;50000
 19235;Bestien 7;1;1509600;2009500
 19235;Bestien 7;1;1509600;2009500
 19235;Bestien 7;1;1509600;2009500
 29534;Grollbalgbeinrüstung;1;900000;969000
-14466;Muster: Froststofftunika;1;39600;42000
-14466;Muster: Froststofftunika;1;6776;8471
-14453;Hochgeborenenroben;1;15677;28000
-14453;Hochgeborenenroben;1;24999;29999
 20498;Silithidenchitin;1;5000;5000
 32200;Gediegener Engelssaphir;1;829999;1039999
 32200;Gediegener Engelssaphir;1;789599;987999
 23426;Khoriumerz;7;99999;199999
-24059;Mächtiger Edeltopas;1;139999;189999
-24059;Mächtiger Edeltopas;1;139999;189999
 30282;Muster: Stiefel der Zauberwucht;1;981199;993999
 22446;Große Planaressenz;1;90100;117000
 22446;Große Planaressenz;1;90100;117000
@@ -223,12 +179,9 @@
 31289;Stab der göttlichen Eingebung;1;250000;279999
 31882;Segen Ass;1;29579;37724
 31137;Stulpen der Läuterung;1;50000;50000
-24195;Vorlage: Tränenförmiger lebendiger Rubin;1;499999;799999
-24195;Vorlage: Tränenförmiger lebendiger Rubin;1;499999;799999
 7991;Pläne: Mithrilschuppenschultern;1;43750;50000
 6347;Formel: Armschiene - Schwache Stärke;1;4800;6000
 2452;Flitzdistel;12;30000;30000
-7072;Nagaschuppe;1;2162;2703
 22854;Fläschchen des unerbittlichen Angriffs;5;690000;690000
 22854;Fläschchen des unerbittlichen Angriffs;5;690000;690000
 22854;Fläschchen des unerbittlichen Angriffs;5;690000;690000
@@ -268,12 +221,9 @@
 20749;Hervorragendes Zauberöl;1;140000;146000
 20749;Hervorragendes Zauberöl;1;145999;145999
 20749;Hervorragendes Zauberöl;1;145999;145999
-14429;Manschetten des Windhetzers;1;7660;9576
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
 32196;Runenverzierter Purpurspinell;1;2900000;2950000
-14404;Widerstandsfähige Gamaschen;1;3708;7500
-14408;Steinstoffstiefel;1;3412;7000
 6657;Pikantes Deviat Supreme;10;189000;199999
 6657;Pikantes Deviat Supreme;10;189000;199999
 6657;Pikantes Deviat Supreme;10;189000;199999
@@ -286,8 +236,6 @@
 16247;Formel: Zweihandwaffe - Überragender Einschlag;1;309200;504000
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-9254;Cuergos Schatzkarte;1;389999;399999
-14445;Giftschleierseidenroben;1;18529;30000
 24047;Brillanter Dämmerstein;1;55600;69500
 19233;Bestien 5;1;1535679;1919599
 21886;Urleben;1;125000;125000
@@ -303,45 +251,15 @@
 24056;Leuchtendes Nachtauge;1;99299;99999
 24056;Leuchtendes Nachtauge;1;99299;99999
 24056;Leuchtendes Nachtauge;1;99299;99999
-2243;Hand von Edward dem Seltsamen;1;158674;180000
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
 24065;Schillernder Talasit;1;46511;56639
-14467;Muster: Froststoffrobe;1;30109;41233
 31305;Ceds Schnitzer;1;159324;179999
-8169;Dicker Balg;10;5000;6000
-8169;Dicker Balg;1;1230;1367
-8169;Dicker Balg;1;548;685
-8169;Dicker Balg;10;6080;7600
-8169;Dicker Balg;2;1216;1520
-8169;Dicker Balg;10;5000;6000
-8169;Dicker Balg;4;2000;2400
-8169;Dicker Balg;1;1230;1367
-8169;Dicker Balg;1;1230;1367
-8169;Dicker Balg;10;6140;7680
-8169;Dicker Balg;9;5526;6912
-8169;Dicker Balg;3;1732;2166
-8169;Dicker Balg;7;6144;6827
-8169;Dicker Balg;8;7022;7802
-14380;Blutrote Robe;1;5000;7000
-14380;Blutrote Robe;1;4713;5892
-9251;Oberes Kartenfragment;1;1500;10000
-9251;Oberes Kartenfragment;1;13981;15534
-9251;Oberes Kartenfragment;1;13981;15534
-9251;Oberes Kartenfragment;1;1500;10000
-9251;Oberes Kartenfragment;1;1500;10000
-9251;Oberes Kartenfragment;1;13981;15534
-9251;Oberes Kartenfragment;1;89999;99999
-14430;Umhang des Windhetzers;1;16000;17500
 16215;Formel: Stiefel - Große Ausdauer;1;258320;302900
 3358;Khadgars Schnurrbart;20;8850;9500
 3358;Khadgars Schnurrbart;20;8850;9500
-7075;Erdenkern;1;50000;53500
-7075;Erdenkern;1;49126;54584
-7075;Erdenkern;1;49126;54584
-7075;Erdenkern;1;43604;59506
 31275;Trophäenhalskette;1;352854;399900
 22829;Erstklassiger Heiltrank;5;90000;90500
 31243;Nagaschuppenbeinschützer;1;79407;100000
@@ -357,8 +275,6 @@
 6342;Formel: Brust - Schwaches Mana;1;4000;5000
 2407;Muster: Weißes Lederwams;1;1600;3000
 14344;Großer glänzender Splitter;20;1549904;1589880
-14399;Widerstandsfähige Stiefel;1;2197;4500
-14399;Widerstandsfähige Stiefel;1;3397;4400
 22866;Fläschchen des reinen Todes;1;200000;215000
 22866;Fläschchen des reinen Todes;5;1030000;1030000
 22866;Fläschchen des reinen Todes;5;1030000;1030000
@@ -391,6 +307,3 @@
 16255;Formel: Zweihandwaffe - Erhebliche Willenskraft;1;208960;250000
 16255;Formel: Zweihandwaffe - Erhebliche Willenskraft;1;208960;250000
 24052;Kompakter Dämmerstein;1;95000;99999
-14418;Seidensandstiefel;1;9913;12392
-2164;Darmreißer;1;95000;149900
-2164;Darmreißer;1;100087;111208

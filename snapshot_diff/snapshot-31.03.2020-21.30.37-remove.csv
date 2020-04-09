@@ -1,12 +1,6 @@
-3056;Waldlederhose;1;9999;9999
 10109;Wanderergürtel;1;10909;20000
 9908;Königliches Cape;1;13104;16381
 15648;Eisenhautschild;1;68156;85196
-2565;Rute des flüssigen Feuers;1;4940;6175
-2565;Rute des flüssigen Feuers;1;5047;6309
-2565;Rute des flüssigen Feuers;1;10164;11293
-2565;Rute des flüssigen Feuers;1;4669;5000
-2565;Rute des flüssigen Feuers;1;5500;6500
 13111;Sandalen des Aufrührers;1;15620;19525
 7989;Pläne: Mithrilsporen;1;69999;99999
 33874;Kiblers Häppchen;20;101010;111111
@@ -14,7 +8,6 @@
 22913;Rezept: Hasttrank;1;452419;565524
 32409;Unerbittlicher Erdsturmdiamant;1;815000;819900
 6661;Rezept: Pikantes Deviat Supreme;1;480000;499999
-34828;Antiker Silbermanschettenknopf;1;351504;439380
 4306;Seidenstoff;20;14500;19900
 4306;Seidenstoff;20;24500;25000
 4306;Seidenstoff;20;24500;25000
@@ -69,14 +62,11 @@
 32749;Muster: Schultern der blitzartigen Reflexe;1;401447;501809
 32749;Muster: Schultern der blitzartigen Reflexe;1;401447;501809
 13081;Schild der leeren Augen;1;10684;15000
-3042;BKP "Spatz" Kleinkaliber;1;49999;79999
 32751;Muster: Lebendige Erdschultern;1;258400;323000
 32751;Muster: Lebendige Erdschultern;1;322999;322999
 24401;Unbekannte Pflanzenteile;20;47600;59500
-3041;Donnerbüchse "Magierauge";1;25000;30000
 32747;Muster: Flinkschlagschultern;1;988000;1235000
 28498;Rabenwächterbandelier;1;69560;87700
-4623;Geringer Steinschildtrank;1;4562;4599
 12799;Großer Opal;1;27519;34399
 12799;Großer Opal;4;42000;100000
 34440;Trank des verrückten Alchemisten;5;142500;149900
@@ -92,11 +82,6 @@
 34440;Trank des verrückten Alchemisten;5;139650;146900
 34440;Trank des verrückten Alchemisten;1;27930;29380
 17414;Kodex: Gebet der Seelenstärke II;1;45599;56999
-22578;Wasserpartikel;1;13124;14849
-22578;Wasserpartikel;1;11284;14106
-22578;Wasserpartikel;1;13124;14849
-22578;Wasserpartikel;1;14512;14999
-22578;Wasserpartikel;1;14512;14999
 31200;Schild des unberechenbaren Fußsoldaten;1;121007;199999
 8169;Dicker Balg;3;2250;4500
 4069;Schwarzschmiederundschild;1;25147;31434
@@ -112,14 +97,6 @@
 12360;Arkanitbarren;1;85000;99000
 22542;Formel: Stiefel - Vitalität;1;531999;664999
 22542;Formel: Stiefel - Vitalität;1;531999;664999
-3058;Waldlederhandschuhe;1;11023;13400
-35758;Beständiger Gischtsmaragd;1;527643;659554
-35758;Beständiger Gischtsmaragd;1;519999;649999
-35758;Beständiger Gischtsmaragd;1;527643;659554
-35758;Beständiger Gischtsmaragd;1;527643;659554
-35758;Beständiger Gischtsmaragd;1;527643;659554
-35758;Beständiger Gischtsmaragd;1;527643;659554
-35758;Beständiger Gischtsmaragd;1;527643;659554
 22838;Hasttrank;1;38039;49424
 22838;Hasttrank;1;38039;48999
 11083;Seelenstaub;4;14000;18000
@@ -143,7 +120,6 @@
 13089;Skibis Anhänger;1;12058;14900
 10940;Seltsamer Staub;20;58000;58880
 10940;Seltsamer Staub;20;58000;58880
-34827;Adligenmonokel;1;429579;463099
 21884;Urfeuer;1;176000;180000
 21884;Urfeuer;1;176000;179999
 21884;Urfeuer;1;176000;179999
@@ -151,7 +127,6 @@
 21884;Urfeuer;1;176000;179999
 21884;Urfeuer;1;176000;179999
 21071;Roher Weisenfisch;10;30000;50000
-7069;Elementarluft;1;11190;12433
 29204;Flüsternde Teufelsstahlklingen;1;444000;445000
 29158;Echtsilberring des Kommandanten;1;22625;39999
 24197;Vorlage: Fragiler lebendiger Rubin;1;198208;247761
@@ -162,7 +137,6 @@
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
 24164;Vorlage: Feiner Eterniumring;1;93745;117182
-34826;Goldener Trauring;1;200000;250000
 23489;Teufelseisenbrustplatte;1;86240;107800
 24822;Netherpirschergürtel;1;54426;68033
 34330;Schweres Knotenhautrüstungsset;4;195000;230000
@@ -178,7 +152,6 @@
 31152;Brustschutz der Illumination;1;108251;135314
 31142;Klinge des gefangenen Wissens;1;75848;94810
 12359;Thoriumbarren;15;18048;22560
-37915;Muster: Ausgehschuhe;1;1875;10000
 32249;Gischtsmaragd;1;204440;255550
 32249;Gischtsmaragd;1;204440;255550
 32249;Gischtsmaragd;1;204440;255550
@@ -194,7 +167,6 @@
 25896;Mächtiger Erdsturmdiamant;1;961906;974989
 25896;Mächtiger Erdsturmdiamant;1;961906;974989
 25896;Mächtiger Erdsturmdiamant;1;961906;974989
-3047;Züngelnde Schuppenhandschuhe;1;4000;6000
 24214;Vorlage: Mächtiger Edeltopas;1;252553;315692
 24926;Ango'roshgürtel;1;58297;72872
 2319;Mittleres Leder;2;5450;5500
@@ -206,10 +178,8 @@
 10601;Bauplan: Hellaugenschutzbrille;1;6000;8000
 24300;Muster: Umhang der Ewigkeit;1;169557;212947
 9402;Erdgeborener Kilt;1;66629;83287
-22739;Foliant der Verwandlung: Schildkröte;1;12999999;14999999
 11144;Echtsilberrute;1;29500;34550
 11144;Echtsilberrute;1;29500;34550
-3019;Adligenrobe;1;49900;49900
 23437;Talasit;20;656565;666666
 23437;Talasit;20;656565;666666
 24220;Vorlage: Gezackter Talasit;1;189500;237500
@@ -224,18 +194,12 @@
 11174;Geringe Netheressenz;1;10100;18800
 6271;Muster: Rote Leinenweste;1;1200;2000
 20966;Jadeanhänger der Zauberwucht;1;15000;20000
-4611;Blaue Perle;1;9856;10951
-4611;Blaue Perle;1;5853;6034
-4611;Blaue Perle;1;9856;10951
 4480;Donnernder Glücksbringer;10;20000;40000
-3075;Flammenauge;1;205073;209500
-3075;Flammenauge;1;79999;99999
 22146;Buch: Gabe der Wildnis III;1;150000;160000
 14789;Beschützerbrustplatte;1;46388;57986
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;116737;145922
 19231;Bestien 3;1;171999;189999
 22919;Rezept: Elixier des erheblichen Magierbluts;1;77500;150000
-22710;Blutdistel;6;132240;165300
 31293;Gurt des Sturms;1;183136;203485
 22861;Fläschchen des blendenden Lichts;1;209999;209999
 22861;Fläschchen des blendenden Lichts;1;209999;209999
@@ -256,7 +220,6 @@
 11135;Große Mystikeressenz;2;10100;15000
 11135;Große Mystikeressenz;7;30100;50000
 34490;Tasche für alle Felle;1;836613;1045767
-3018;Balg von Lupos;1;35036;46296
 16245;Formel: Stiefel - Große Beweglichkeit;1;29000;29500
 25071;Tansanitanhänger;1;1253600;1379500
 32753;Muster: Flinkheilmantelung;1;878079;1097599
@@ -266,7 +229,6 @@
 35759;Kraftvoller Gischtsmaragd;1;499999;619999
 7911;Echtsilbererz;20;25000;38000
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;9962;10000
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 14810;Kriegsschlagarmsplinte;1;17503;35000
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;102431;128039
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;102431;128039
@@ -289,8 +251,6 @@
 32228;Engelssaphir;1;288398;297998
 32228;Engelssaphir;1;288398;297998
 32228;Engelssaphir;1;288398;297998
-22644;Knuspriges Spinnenbein;1;7970;9963
-35563;Verkohlter Bärenkebab;5;7700;8925
 13071;Plattenfaust von Hakoo;1;31065;38832
 8160;Tjosterschienbeinschützer;1;8851;18000
 23484;Teufelseisenplattengürtel;1;67100;83876

@@ -1,9 +1,5 @@
 25046;Stachelring;1;91347;114184
 24449;Fruchtbare Sporen;1;14247;15830
-3928;Überragender Heiltrank;5;1875;2500
-3928;Überragender Heiltrank;3;1295;1439
-3928;Überragender Heiltrank;5;2300;2500
-3928;Überragender Heiltrank;5;1875;2500
 23438;Stern der Elune;1;31579;49005
 23438;Stern der Elune;1;31579;49005
 25324;Zornesstab;1;272765;303072
@@ -12,8 +8,6 @@
 13465;Bergsilbersalbei;20;155000;156000
 21929;Flammenspessarit;2;7200;7400
 21929;Flammenspessarit;1;6259;6260
-4231;Geschmeidiger leichter Balg;1;800;1900
-4231;Geschmeidiger leichter Balg;1;800;1900
 11174;Geringe Netheressenz;2;37999;41999
 10940;Seltsamer Staub;20;60000;60001
 2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;7783;8647
@@ -179,7 +173,6 @@
 29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
 29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
 29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-4048;Geschmückter Hut;1;2650;5500
 15349;Kopfjägergürtel;1;4525;8900
 22791;Netherblüte;19;274998;274999
 23440;Dämmerstein;1;84500;89500
@@ -253,15 +246,12 @@
 23623;Pläne: Helm des Sturms;1;180000;190000
 24197;Vorlage: Fragiler lebendiger Rubin;1;175000;185000
 14938;Heldenhafte Armschienen;1;29900;29900
-4052;Insignienkappe;1;7676;9596
 13109;Cape der schwarzen Flamme;1;35000;35000
 15647;Eisenhautschulterstücke;1;43216;48018
-4071;Gleißende Panzerbrustplatte;1;9404;11756
 31863;Ausbalanciertes Nachtauge;1;76000;95000
 29535;Netherkobrabeinrüstung;1;2890000;2960000
 24214;Vorlage: Mächtiger Edeltopas;1;185000;230000
 4500;Reiserucksack;1;63000;63000
-3020;Ausdauernde Kappe;1;17500;30000
 22576;Manapartikel;5;33000;80000
 3383;Elixier der Weisheit;5;14050;19000
 22451;Urluft;1;196000;205900
@@ -313,15 +303,12 @@
 10939;Große Magieessenz;4;51680;64600
 20827;Ring der Silbermacht;1;46700;57700
 24219;Vorlage: Schillernder Talasit;1;139999;139999
-4051;Geschmückte Stiefel;1;9900;9900
 22831;Elixier der erheblichen Beweglichkeit;10;130000;160000
 22831;Elixier der erheblichen Beweglichkeit;10;130000;160000
 22831;Elixier der erheblichen Beweglichkeit;20;299999;328999
 22831;Elixier der erheblichen Beweglichkeit;20;299999;328999
 22831;Elixier der erheblichen Beweglichkeit;20;299999;328999
 22914;Rezept: Zerstörungstrank;1;1500000;1550000
-1720;Wirrholzstab;1;38080;47600
-1720;Wirrholzstab;1;29999;35000
 9385;Archaischer Verteidiger;1;30743;33048
 21151;Schwarzer Rumsey Rum;9;16000;17550
 21151;Schwarzer Rumsey Rum;10;18000;19500
@@ -338,14 +325,10 @@
 929;Heiltrank;1;276;307
 929;Heiltrank;5;1762;2000
 929;Heiltrank;5;1762;2000
-4091;Witwenmacher;1;33718;50000
-4091;Witwenmacher;1;31924;32906
-4091;Witwenmacher;1;34500;35000
 8838;Sonnengras;20;11800;20000
 23532;Stulpen des eisernen Turms;1;4895227;4990000
 17057;Glänzende Fischschuppen;6;472;525
 25700;Teufelsschuppen;20;271000;300000
-3018;Balg von Lupos;1;99900;99900
 25241;Eschentallangbogen;1;70000;80000
 21309;Schneemannset;1;499999;500000
 8949;Elixier der Beweglichkeit;19;68400;68400
@@ -362,8 +345,6 @@
 31186;Braxxis' Stab des Schlummers;1;121212;131313
 31186;Braxxis' Stab des Schlummers;1;121212;131313
 31186;Braxxis' Stab des Schlummers;1;121212;131313
-3914;Gesellenrucksack;1;59375;60000
-3914;Gesellenrucksack;1;37668;41854
 9435;Genetzte Knochenstulpen;1;44374;49999
 25058;Anglesithalsreif;1;50000;60000
 13443;Überragender Manatrank;3;7500;7500
@@ -392,7 +373,6 @@
 24037;Irisierender Stern der Elune;1;87588;109485
 24037;Irisierender Stern der Elune;1;87588;109485
 24037;Irisierender Stern der Elune;1;87588;109485
-4082;Schwarzschmiedebrustplatte;1;17548;35000
 22840;Elixier des erheblichen Magierbluts;20;580000;585900
 22840;Elixier des erheblichen Magierbluts;20;580000;585900
 22840;Elixier des erheblichen Magierbluts;20;580000;585900
@@ -407,7 +387,6 @@
 23448;Teufelsstahlbarren;1;68400;85500
 23448;Teufelsstahlbarren;1;79800;99750
 23448;Teufelsstahlbarren;2;159600;199500
-31201;Illidariumhang;1;454836;500000
 14197;Distelfellbänder;1;6500;9500
 11175;Große Netheressenz;3;159999;169999
 11175;Große Netheressenz;4;214999;224999
@@ -423,7 +402,6 @@
 21881;Netherweberseide;5;37500;60000
 27657;Schwarzgebratener Basilisk;20;343999;359299
 27657;Schwarzgebratener Basilisk;20;343999;359299
-4037;Silberfadenhose;1;29317;31566
 22787;Zottelkappe;20;59998;64000
 13027;Knochenquetscher;1;39999;44999
 32833;Geläuterte Jaggalperle;1;13356;16696
@@ -445,8 +423,6 @@
 31153;Axt der Legion;1;444646;469420
 17020;Arkanes Pulver;1;3000;3900
 23117;Azurmondstein;2;9597;9598
-2721;Heiliges Tuch;1;2973;6000
-2721;Heiliges Tuch;1;11507;16884
 24192;Vorlage: Heller lebendiger Rubin;1;199999;224999
 24053;Mystischer Dämmerstein;1;94499;98899
 4422;Rolle der Ausdauer III;2;8000;8000
@@ -492,7 +468,6 @@
 20960;Gravierter Echtsilberring;1;10286;11437
 9895;Jazeraintstiefel;1;19000;19000
 11139;Großer leuchtender Splitter;3;7999;10999
-3047;Züngelnde Schuppenhandschuhe;1;1578;3300
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;11155;12395
 11965;Quarzring;1;21484;31856
 13463;Traumblatt;8;74040;78400
@@ -520,11 +495,8 @@
 13102;Cassandras Anmut;1;139999;149999
 2011;Verdrehter Säbel;1;23273;24747
 32224;Strahlender Gischtsmaragd;1;529999;659999
-3049;Züngelnde Schuppenbrustplatte;1;5978;6900
-3069;Helle Robe;1;4518;5648
 13489;Rezept: Erde in Leben transmutieren;1;667580;774476
 23108;Leuchtender Schattendraenit;1;13300;16625
-3066;Helle Handschuhe;1;10000;10000
 12203;Rotes Wolfsfleisch;10;2640;3290
 12203;Rotes Wolfsfleisch;10;2640;3290
 12203;Rotes Wolfsfleisch;10;2640;3290

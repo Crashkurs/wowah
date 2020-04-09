@@ -2,11 +2,8 @@
 22913;Rezept: Hasttrank;1;300000;300000
 22541;Formel: Schild - Widerstand;1;250000;250000
 22541;Formel: Schild - Widerstand;1;197173;232414
-29506;Handschuhe der lebendigen Berührung;1;3991041;4000000
 30282;Muster: Stiefel der Zauberwucht;1;1498776;1559999
-13019;Harpyienklauenkurzbogen;1;4765;0
 23079;Tiefenperidot;4;15000;20000
-13028;Blutfelshammer;1;136716;151907
 27663;Schwarzgebratener Sporenfisch;20;89500;109000
 27663;Schwarzgebratener Sporenfisch;20;89500;109000
 27663;Schwarzgebratener Sporenfisch;20;89500;109000
@@ -27,9 +24,6 @@
 11176;Traumstaub;20;190100;199000
 11176;Traumstaub;20;190100;199000
 11176;Traumstaub;20;190100;199000
-13021;Einfädler;1;22723;28404
-13021;Einfädler;1;29419;32688
-13021;Einfädler;1;25041;29900
 9154;Elixier der Untotenentdeckung;20;19540;25300
 23572;Urnether;20;450000;500000
 23572;Urnether;20;450000;500000
@@ -39,12 +33,7 @@
 23572;Urnether;20;450000;500000
 27422;Stachelkiemenforelle;20;10240;20000
 27422;Stachelkiemenforelle;10;4420;10000
-30305;Muster: Stiefel der naturgleichen Anmut;1;90000;90000
-30305;Muster: Stiefel der naturgleichen Anmut;1;90000;90000
-30305;Muster: Stiefel der naturgleichen Anmut;1;100000;100000
 32737;Pläne: Flinkstahlschultern;1;49981250;49990000
-30324;Pläne: Rote Stiefel der Verwüstung;1;240000;440000
-30324;Pläne: Rote Stiefel der Verwüstung;1;240000;440000
 31306;Gamaschen des heiligen Wappens;1;110346;140000
 30038;Gürtel der Zauberwucht;1;11000000;11000000
 24479;Schattenperle;1;981500;990000
@@ -58,20 +47,8 @@
 25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;90000;90000
 13033;Zelotenklinge;1;17000;30000
 31895;Sturm 4;1;250000;300000
-30283;Muster: Stiefel des langen Weges;1;389500;392500
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;5;2495;4995
-31672;Rippchen der Mok'Nathal;1;499;999
-31672;Rippchen der Mok'Nathal;5;2495;4995
-9155;Arkanes Elixier;10;7000;17500
 22565;Formel: Großer Prismasplitter;1;148200;185250
 22565;Formel: Großer Prismasplitter;1;148200;185250
-9172;Unsichtbarkeitstrank;5;50000;75410
-9172;Unsichtbarkeitstrank;5;50000;75410
-9172;Unsichtbarkeitstrank;5;50000;75410
-9172;Unsichtbarkeitstrank;5;50000;75410
-9172;Unsichtbarkeitstrank;5;50000;75410
 809;Blutklinge;1;88000;88000
 23098;Gravierter Flammenspessarit;1;15600;19500
 23098;Gravierter Flammenspessarit;1;29999;39999
@@ -96,7 +73,6 @@
 23113;Glänzender Golddraenit;1;6080;17600
 23113;Glänzender Golddraenit;1;6080;17600
 23113;Glänzender Golddraenit;1;6080;17600
-13025;Vorschlaghammer der Totenwaldfelle;1;19000;33000
 32067;Elixier der draenischen Weisheit;5;95000;95000
 32067;Elixier der draenischen Weisheit;5;95000;95000
 32067;Elixier der draenischen Weisheit;7;76826;96033
@@ -106,10 +82,7 @@
 32067;Elixier der draenischen Weisheit;5;95000;95000
 32067;Elixier der draenischen Weisheit;5;95000;95000
 32067;Elixier der draenischen Weisheit;5;95000;95000
-13020;Bogen des Himmelsstürmers;1;14826;18533
 31331;Die Nachtklinge;1;3039999;3799999
-13032;Schwert der Verderbnis;1;6628;16660
-13032;Schwert der Verderbnis;1;15000;15000
 31673;Knusperschlange;20;265900;332400
 30810;Siegel des Sonnenzorns;10;53000;78800
 30810;Siegel des Sonnenzorns;10;53000;78800
@@ -122,9 +95,6 @@
 23104;Gezackter Tiefenperidot;1;7600;19500
 23104;Gezackter Tiefenperidot;1;7600;19500
 23104;Gezackter Tiefenperidot;1;7600;19500
-13027;Knochenquetscher;1;42599;44599
-13027;Knochenquetscher;1;39199;46177
-13027;Knochenquetscher;1;39999;44999
 8827;Elixier des Wasserwandelns;20;15000;19000
 31151;Gurt der Belagerung;1;101010;111111
 23103;Strahlender Tiefenperidot;1;7600;19500
@@ -156,11 +126,8 @@
 22790;Urflechte;20;59780;59980
 22790;Urflechte;20;59780;59980
 22790;Urflechte;20;59780;59980
-13031;Kugel des Dunstmantels;1;137600;159500
-13031;Kugel des Dunstmantels;1;20000;30000
 791;Knorriger Eschenstab;1;40603;67500
 791;Knorriger Eschenstab;1;40603;67500
-25845;Eterniumrute;1;530000;550000
 9036;Magiewiderstandstrank;5;240000;249000
 9036;Magiewiderstandstrank;5;240000;249000
 9036;Magiewiderstandstrank;5;240000;249000
@@ -176,18 +143,13 @@
 27666;Goldfischstäbchen;20;450000;450000
 22854;Fläschchen des unerbittlichen Angriffs;5;980000;990000
 25208;Speerspießerkampfaxt;1;103501;125000
-29528;Trommeln des Krieges;1;199999;199999
-29528;Trommeln des Krieges;1;199999;199999
-29528;Trommeln des Krieges;1;199999;199999
 814;Fläschchen Öl;5;3560;4450
 814;Fläschchen Öl;5;3560;4450
-13022;Greifenflügellangbogen;1;20542;36158
 22577;Schattenpartikel;1;3770;4055
 22577;Schattenpartikel;1;3770;4055
 22577;Schattenpartikel;1;3770;4055
 22577;Schattenpartikel;1;3770;4055
 22577;Schattenpartikel;4;19276;24096
-13030;Basiliskknochen;1;15366;19208
 32662;Flammender Quarzstab;1;345000;350000
 12833;Pläne: Hammer der Titanen;1;1699999;1899999
 31148;Dämonenbalgschiftung;1;60000;69000
@@ -198,25 +160,9 @@
 13026;Himmelslicht;1;29161;48000
 13026;Himmelslicht;1;39000;47800
 13026;Himmelslicht;1;29161;90000
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-29529;Trommeln der Schlacht;1;367499;372399
-30323;Pläne: Stiefel des Beschützers;1;160000;180000
-30323;Pläne: Stiefel des Beschützers;1;172819;192022
 8949;Elixier der Beweglichkeit;20;81920;102400
 24804;Drachenfalkenschulterschutz;1;94500;97500
-25849;Formel: Runenverzierte Eterniumrute;1;399999;499999
 23117;Azurmondstein;20;75000;89999
-29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-29460;Gefängnisschlüssel des Astraleums;10;1149999;1189999
-29460;Gefängnisschlüssel des Astraleums;6;590100;600000
 13511;Fläschchen der destillierten Weisheit;1;170000;173250
 13511;Fläschchen der destillierten Weisheit;1;170000;173250
 13511;Fläschchen der destillierten Weisheit;1;170000;173250
@@ -245,11 +191,6 @@
 23108;Leuchtender Schattendraenit;1;10000;19500
 23108;Leuchtender Schattendraenit;1;10000;19500
 29549;Kodex: Gebet der Seelenstärke III;1;155500;159000
-13029;Umbralkristall;1;10368;11638
-13029;Umbralkristall;1;8934;11168
-13029;Umbralkristall;1;16413;18236
-13029;Umbralkristall;1;10580;11756
-13029;Umbralkristall;1;8419;20000
 24067;Gezackter Talasit;1;25000;40000
 24875;Eisenrückenbeinschützer;1;100000;150000
 25649;Knotenhautlederfetzen;20;44000;45000
@@ -258,7 +199,6 @@
 25649;Knotenhautlederfetzen;20;87500;90000
 25649;Knotenhautlederfetzen;20;44000;45000
 25649;Knotenhautlederfetzen;20;44000;45000
-25846;Pläne: Adamantitrute;1;155000;300000
 943;Stab des Aufsehers;1;45600;57000
 943;Stab des Aufsehers;1;45600;57000
 31126;Handschuhe der Wildheit;1;85975;90000

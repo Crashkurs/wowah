@@ -25,19 +25,10 @@
 28103;Elixier des Adepten;3;19310;24138
 8949;Elixier der Beweglichkeit;19;22800;22800
 11185;Grüner Machtkristall;1;8745;9717
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;139900;149900
-23440;Dämmerstein;1;138899;148899
-23440;Dämmerstein;1;138899;148899
-23440;Dämmerstein;1;45000;120000
 13056;Rasender Schläger;1;117600;119500
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;9999;9999
 16220;Formel: Stiefel - Willenskraft;1;214000;220000
 13022;Greifenflügellangbogen;1;30000;40000
-22919;Rezept: Elixier des erheblichen Magierbluts;1;215000;220000
 7067;Elementarerde;6;399200;419000
 12830;Pläne: Verderbnis;1;189999;199999
 27676;Seltsame Sporen;1;6001;7502
@@ -71,20 +62,6 @@
 22789;Terozapfen;20;179999;189999
 22789;Terozapfen;20;179999;189999
 23077;Blutgranat;2;15600;19500
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;99000;199999
-4304;Dickes Leder;20;180000;180000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;179000;180000
-8173;Dickes Rüstungsset;2;2302;2878
 765;Silberblatt;5;7102;7891
 765;Silberblatt;5;7102;7891
 765;Silberblatt;5;7102;7891
@@ -113,9 +90,6 @@
 13443;Überragender Manatrank;2;6232;7790
 13015;Serathil;1;120000;155000
 15409;Raffiniertes Tiefsteinsalz;20;1500000;1600000
-4299;Muster: Wächterrüstung;1;5000;5000
-4299;Muster: Wächterrüstung;1;750;1000
-4299;Muster: Wächterrüstung;1;7000;10000
 6530;Nachtkriecher;3;628;786
 24648;Astralanische Handschuhe;1;100000;104008
 17062;Rezept: Mithrilkopfforelle;1;89999;99999
@@ -145,18 +119,13 @@
 2453;Beulengras;20;1550;1700
 2453;Beulengras;20;1550;1700
 31238;Drachenknochenring;1;111620;139525
-4301;Muster: Barbarischer Gürtel;1;4000;14500
 15925;Gesellenstock;1;25000658;26500000
 769;Brocken Eberfleisch;3;2000;2500
-4293;Muster: Lederweste des Hügelwächters;1;29999;39999
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 8838;Sonnengras;20;21800;30000
 8838;Sonnengras;20;21800;30000
 1706;Azurtiefensplitter;5;49526;49600
 791;Knorriger Eschenstab;1;18903;29900
 13059;Steinrabe;1;39600;49500
-4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 16202;Geringe ewige Essenz;1;20000;20500
 27659;Doppelwarper;15;103375;280000
 27659;Doppelwarper;20;204500;350000
@@ -166,36 +135,8 @@
 22445;Arkaner Staub;7;111111;111213
 929;Heiltrank;1;200;200
 8846;Gromsblut;1;7544;9430
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1150000;1250000
-22914;Rezept: Zerstörungstrank;1;1440000;1550000
 31272;Krone des unendlichen Wissens;1;36049;110000
 3357;Lebenswurz;1;1175;1469
-24201;Vorlage: Irisierender Stern der Elune;1;239999;289999
-24201;Vorlage: Irisierender Stern der Elune;1;254902;303224
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-4278;Geringes Blutsteinerz;20;100000;150000
-4278;Geringes Blutsteinerz;20;100000;150000
 2555;Rezept: Hurtigkeitstrank;1;88720;98604
 2555;Rezept: Hurtigkeitstrank;1;88720;98604
 24272;Schattenstoff;1;356000;374900
@@ -203,19 +144,12 @@
 24272;Schattenstoff;1;356000;374900
 24272;Schattenstoff;1;356000;374900
 13029;Umbralkristall;1;9500;11875
-4303;Hirnschalenprügler;1;5000;5500
 19282;Portal 6;1;188750;188888
 20752;Formel: Schwaches Manaöl;1;269999;289999
-4265;Schweres Rüstungsset;10;13532;15035
 2592;Wollstoff;20;18912;23640
 2592;Wollstoff;10;495;10000
 2592;Wollstoff;14;11704;14630
 2751;Die Grünen Hügel des Schlingendorntals - Seite 27;1;5000;5000
-4251;Schultern des Hügelwächters;1;1800;5000
-4251;Schultern des Hügelwächters;1;1800;5000
-4251;Schultern des Hügelwächters;1;1800;5000
-4251;Schultern des Hügelwächters;1;1800;5000
-24200;Vorlage: Funkelnder Stern der Elune;1;660426;764579
 16224;Formel: Umhang - Überragende Verteidigung;1;269999;289999
 22456;Urschatten;3;58000;59999
 4337;Dicke Spinnenseide;5;12000;15000
@@ -243,8 +177,6 @@
 17414;Kodex: Gebet der Seelenstärke II;1;44499;56699
 17414;Kodex: Gebet der Seelenstärke II;1;44499;56699
 3611;Pläne: Grüne Eisenstiefel;1;6950;9900
-24202;Vorlage: Stürmischer Stern der Elune;1;180000;190000
-24202;Vorlage: Stürmischer Stern der Elune;1;201337;251672
 18600;Foliant der arkanen Brillanz;1;29999;39999
 18600;Foliant der arkanen Brillanz;1;29999;39999
 27684;Rezept: Bussardbissen;1;15600;19500
@@ -252,35 +184,9 @@
 22446;Große Planaressenz;1;120100;137000
 22446;Große Planaressenz;1;120100;137000
 22446;Große Planaressenz;1;120100;137000
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;10;2100000;2120000
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;10;2100000;2120000
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
-22451;Urluft;1;169701;169802
 22791;Netherblüte;20;250000;300000
 22791;Netherblüte;20;290000;300000
 22791;Netherblüte;20;290000;300000
-4245;Kleines Seidenpack;1;26808;29787
-4245;Kleines Seidenpack;1;26808;29787
-4245;Kleines Seidenpack;1;26808;29787
-2996;Leinenstoffballen;4;1500;1800
-2996;Leinenstoffballen;10;3000;10000
-2996;Leinenstoffballen;10;3000;10000
 19236;Bestien 8;1;1900000;1990000
 2589;Leinenstoff;20;8899;9999
 2589;Leinenstoff;20;8899;9999

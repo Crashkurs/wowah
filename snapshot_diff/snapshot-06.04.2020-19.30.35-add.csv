@@ -2,16 +2,12 @@
 24297;Muster: Armschienen der Verwüstung;1;172787;215984
 9817;Befestigte Schiftung;1;3139;5105
 23101;Mächtiger Flammenspessarit;1;29999;39999
-23101;Mächtiger Flammenspessarit;1;29999;39999
-20750;Zauberöl;1;29999;39999
-20750;Zauberöl;1;29999;39999
 21877;Netherstoff;20;24000;29900
 21877;Netherstoff;20;25536;31920
 21877;Netherstoff;20;25536;31920
 21877;Netherstoff;20;25536;31920
 22450;Kristall der Leere;1;63191;63198
 25071;Tansanitanhänger;1;57157;100000
-5469;Schreiterfleisch;4;12419;15524
 21876;Urmondstofftasche;1;3025000;3050000
 21885;Urwasser;1;108482;108493
 21885;Urwasser;1;108482;108493
@@ -30,17 +26,10 @@
 21885;Urwasser;1;108482;108493
 21885;Urwasser;1;108482;108493
 21885;Urwasser;1;108482;108493
-810;Hammer des Nordwindes;1;199999;199999
 11082;Große Astralessenz;10;110100;120000
-6364;32-pfündiger Wels;1;15604423;17338248
-6364;32-pfündiger Wels;1;1000375;2000000
 9805;Überragender Umhang;1;1063;2000
 9224;Elixier des Dämonentötens;5;160000;170000
 9224;Elixier des Dämonentötens;5;160000;170000
-24169;Vorlage: Auge der Nacht;1;55000;80000
-5117;Farbenprächtiger Federbusch;2;2482;2758
-857;Großer roter Sack;1;6965;9405
-857;Großer roter Sack;1;9999;19999
 13054;Gevatter Tod;1;22800;28500
 23793;Schweres Knotenhautleder;20;797500;799900
 23793;Schweres Knotenhautleder;20;797500;799900
@@ -49,42 +38,16 @@
 19270;Elementar 3;1;32500;40000
 25708;Dickes Grollhufleder;10;393650;399999
 25708;Dickes Grollhufleder;10;393650;399999
-5342;Raptorpunsch;4;12000;23750
-5075;Blutsplitter;9;964;1206
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;1;2075;2076
-814;Fläschchen Öl;5;5000;10000
-814;Fläschchen Öl;1;2075;2076
 828;Kleiner blauer Beutel;1;784;980
-858;Geringer Heiltrank;4;1280;1600
-22451;Urluft;10;2000000;2000000
-22451;Urluft;10;2000000;2000000
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
-22451;Urluft;1;196000;199999
 14960;Oberhäuptlingsgürtel;1;49897;62372
-804;Großer blauer Sack;1;6238;8042
 13024;Beazels Berster;1;17294;20000
-5266;Auge von Adaegus;1;16735;33500
 19259;Kriegsfürst 2;1;20000;22500
 13038;Windhauch;1;17017;21272
-20758;Formel: Schwaches Zauberöl;1;269999;289999
 24271;Zauberstoff;1;436000;440000
 25241;Eschentallangbogen;1;134559;168199
 27498;Rolle der Beweglichkeit V;1;49900;49980
 27498;Rolle der Beweglichkeit V;1;40187;50000
 27498;Rolle der Beweglichkeit V;1;37984;47481
-812;Glimmender Reinholzstab;1;155527;200000
 9036;Magiewiderstandstrank;5;210150;228000
 27500;Rolle des Schutzes V;1;20150;30000
 27500;Rolle des Schutzes V;3;115197;143997
@@ -93,13 +56,10 @@
 774;Malachit;5;2014;2238
 23427;Eterniumerz;16;150000;320000
 24882;Der'izuhelm;1;101546;126933
-20816;Feiner Kupferdraht;1;1708;2135
 21886;Urleben;1;116000;124800
 21886;Urleben;1;116000;124800
 21886;Urleben;1;116000;124800
 25896;Mächtiger Erdsturmdiamant;1;989599;989599
-5079;Kaltes Basiliskenauge;1;52755;58617
-5079;Kaltes Basiliskenauge;1;39999;49999
 11135;Große Mystikeressenz;10;150100;160000
 11135;Große Mystikeressenz;10;150100;160000
 11135;Große Mystikeressenz;10;150100;160000
@@ -131,12 +91,9 @@
 11083;Seelenstaub;20;50100;60000
 11083;Seelenstaub;20;50100;60000
 11083;Seelenstaub;20;50100;60000
-5083;Muster: Kodobalgtasche;1;89999;99999
 25689;Schwere Grollhufweste;1;1397515;1699900
 24478;Jaggalperle;2;3000;10600
 4346;Muster: Schwerer Wollumhang;1;7897;9872
-20752;Formel: Schwaches Manaöl;1;179999;199999
-20752;Formel: Schwaches Manaöl;1;184123;205079
 24477;Jaggalmuschelfleisch;10;99;232
 24033;Gediegener Stern der Elune;1;68900;76900
 24274;Runenverzierter Zauberfaden;1;2699999;2829999

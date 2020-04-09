@@ -1,9 +1,5 @@
 1169;Schwarzschädelschild;1;43173;53967
 3928;Überragender Heiltrank;3;1272;1413
-23626;Pläne: Schwarze Teufelsstahlarmschienen;1;237800;297251
-23626;Pläne: Schwarze Teufelsstahlarmschienen;1;220000;256000
-23629;Pläne: Teufelsstahllangschwert;1;180000;200000
-23629;Pläne: Teufelsstahllangschwert;1;150000;155000
 23425;Adamantiterz;20;105000;105600
 23425;Adamantiterz;20;105000;105600
 21929;Flammenspessarit;1;7043;7825
@@ -36,10 +32,6 @@
 5503;Muschelfleisch;5;21340;23710
 5503;Muschelfleisch;5;21340;23710
 5503;Muschelfleisch;5;21340;23710
-23633;Pläne: Runenverzierter Hammer;1;389999;399999
-23633;Pläne: Runenverzierter Hammer;1;180000;250000
-23633;Pläne: Runenverzierter Hammer;1;180000;220000
-23633;Pläne: Runenverzierter Hammer;1;180000;200000
 3712;Schildkrötenfleisch;5;10215;11350
 3712;Schildkrötenfleisch;5;10215;11350
 3712;Schildkrötenfleisch;5;10215;11350
@@ -55,7 +47,6 @@
 22644;Knuspriges Spinnenbein;5;7485;8315
 22644;Knuspriges Spinnenbein;2;2994;3326
 2244;Krolklinge;1;270000;300000
-23637;Pläne: Hand der Ewigkeit;1;180000;250000
 1475;Kleiner Giftbeutel;1;3191;3546
 1475;Kleiner Giftbeutel;1;3191;3546
 1475;Kleiner Giftbeutel;1;3191;3546
@@ -166,13 +157,9 @@
 2453;Beulengras;20;3460;3840
 2453;Beulengras;20;3460;3840
 2453;Beulengras;1;173;192
-22850;Erstklassiger Verjüngungstrank;5;127772;141969
-22850;Erstklassiger Verjüngungstrank;5;102500;120000
 5469;Schreiterfleisch;2;7638;8486
 3369;Grabmoos;20;13420;14900
 3369;Grabmoos;20;13420;14900
-22907;Rezept: Erstklassiger Manatrank;1;156408;195510
-22907;Rezept: Erstklassiger Manatrank;1;164640;205800
 4625;Feuerblüte;20;180000;200000
 4625;Feuerblüte;20;180000;200000
 4625;Feuerblüte;1;6304;7004
@@ -182,14 +169,6 @@
 3612;Pläne: Grüne Eisenstulpen;1;103730;115255
 3612;Pläne: Grüne Eisenstulpen;1;103730;115255
 870;Feurige Kriegsaxt;1;78270;81411
-23636;Pläne: Todeslied;1;273158;303509
-23636;Pläne: Todeslied;1;256779;283624
-23636;Pläne: Todeslied;1;256779;283624
-23636;Pläne: Todeslied;1;256779;283624
-23636;Pläne: Todeslied;1;256779;283624
-23636;Pläne: Todeslied;1;277199;280099
-23636;Pläne: Todeslied;1;249999;279999
-23636;Pläne: Todeslied;1;310000;320000
 2672;Sehniges Wolfsfleisch;2;2468;2742
 3730;Großbärenfleisch;2;1036;1150
 23107;Schattendraenit;14;178500;188650
@@ -200,7 +179,6 @@
 4338;Magiestoff;20;97500;99900
 4338;Magiestoff;20;97500;99900
 1973;Täuschungskugel;1;158845;176494
-22848;Elixier der Schwächung;1;7500;10000
 22785;Teufelsgras;20;70000;80000
 22785;Teufelsgras;20;79999;80000
 22785;Teufelsgras;20;79999;80000
@@ -221,27 +199,10 @@
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
 32428;Herz der Dunkelheit;20;1100000;1120000
-24217;Vorlage: Robuster Talasit;1;624999;649999
-24217;Vorlage: Robuster Talasit;1;699999;699999
-24217;Vorlage: Robuster Talasit;1;541147;641148
 3356;Königsblut;3;1266;1407
 3577;Goldbarren;10;8100;13950
-24300;Muster: Umhang der Ewigkeit;1;433199;541499
-24300;Muster: Umhang der Ewigkeit;1;699999;699999
-24300;Muster: Umhang der Ewigkeit;1;183842;229803
 2749;Die Grünen Hügel des Schlingendorntals - Seite 25;1;4062;5000
 4352;Muster: Stiefel des Verzauberers;1;14872;16525
-22456;Urschatten;5;159999;189999
-22456;Urschatten;5;159999;189999
-22456;Urschatten;3;85286;106608
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;5;159999;189999
-22456;Urschatten;5;159999;189999
-22456;Urschatten;1;25000;35000
-22456;Urschatten;1;31185;34650
 785;Maguskönigskraut;15;2670;2970
 785;Maguskönigskraut;1;178;198
 785;Maguskönigskraut;20;3560;3960
@@ -251,19 +212,8 @@
 2449;Erdwurzel;20;22800;25340
 2449;Erdwurzel;20;22380;24860
 943;Stab des Aufsehers;1;329124;391406
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-22448;Kleiner Prismasplitter;1;77710;79910
-23737;Adamantitgranate;10;97500;100000
 5634;Trank der freien Aktion;2;68000;70000
 5634;Trank der freien Aktion;2;68000;70000
-23631;Pläne: Teuflisch scharfe Kampfaxt;1;1500000;2000000
-24306;Muster: Wickeltuch der Vergeltung;1;176948;221186
 4461;Raptorbalg;6;1878;2087
 4461;Raptorbalg;6;1878;2087
 4461;Raptorbalg;1;313;347
@@ -287,20 +237,11 @@
 2319;Mittleres Leder;20;44820;55500
 2319;Mittleres Leder;20;44820;55500
 1263;Hirnhacker;1;128596;130000
-23768;Weißes Rauchsignal;20;397500;400000
-23768;Weißes Rauchsignal;5;111875;120000
-23768;Weißes Rauchsignal;5;111875;120000
-23768;Weißes Rauchsignal;10;203750;220000
-23768;Weißes Rauchsignal;1;11436;12707
 2863;Grober Wetzstein;9;10128;11254
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
 34440;Trank des verrückten Alchemisten;5;141409;157121
-23634;Pläne: Teufelsgehärteter Schlägel;1;210000;220000
-23634;Pläne: Teufelsgehärteter Schlägel;1;179999;209999
-23634;Pläne: Teufelsgehärteter Schlägel;1;106177;152418
-23634;Pläne: Teufelsgehärteter Schlägel;1;188183;216192
 2862;Rauer Wetzstein;20;10000;12000
 3173;Bärenfleisch;5;4900;5445
 3173;Bärenfleisch;5;4900;5445
@@ -313,10 +254,6 @@
 3173;Bärenfleisch;5;4900;5445
 833;Lebensstein;1;200000;250000
 2996;Leinenstoffballen;6;4800;5400
-23079;Tiefenperidot;1;7600;9500
-23079;Tiefenperidot;8;113500;120000
-23079;Tiefenperidot;20;75000;300000
-23079;Tiefenperidot;20;75000;300000
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
@@ -325,51 +262,10 @@
 24039;Stürmischer Stern der Elune;1;45600;57000
 24039;Stürmischer Stern der Elune;1;45600;57000
 720;Muskelprotzhandschuhe;1;13680;17900
-23635;Pläne: Runenverzierte Eterniumklinge;1;140000;160000
-23635;Pläne: Runenverzierte Eterniumklinge;1;179999;189999
-23635;Pläne: Runenverzierte Eterniumklinge;1;400000;490000
-23635;Pläne: Runenverzierte Eterniumklinge;1;400000;490000
 3357;Lebenswurz;15;6690;7425
 3357;Lebenswurz;20;8920;9900
-23623;Pläne: Helm des Sturms;1;130000;140000
-23623;Pläne: Helm des Sturms;1;120000;130000
-23623;Pläne: Helm des Sturms;1;100000;129900
 4582;Weicher buschiger Schwanz;1;3087;3430
 890;Stab des verrückten Sängers;1;500000;600000
-23765;Khoriumzielfernrohr;1;714229;892787
-23765;Khoriumzielfernrohr;1;843750;850000
-23765;Khoriumzielfernrohr;1;839999;849999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;179999;189999
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;5;183500;194000
-22849;Eisenschildtrank;1;39800;40000
-23632;Pläne: Teufelsstahlschneide;1;131177;147900
-23632;Pläne: Teufelsstahlschneide;1;153500;197500
-23632;Pläne: Teufelsstahlschneide;1;159600;199500
-24220;Vorlage: Gezackter Talasit;1;445000;549999
-24220;Vorlage: Gezackter Talasit;1;290000;500000
-24220;Vorlage: Gezackter Talasit;1;405000;450000
-24220;Vorlage: Gezackter Talasit;1;285000;350000
-24220;Vorlage: Gezackter Talasit;1;196000;245000
 24029;Tränenförmiger lebendiger Rubin;1;250000;280000
 24029;Tränenförmiger lebendiger Rubin;1;250000;280000
 24029;Tränenförmiger lebendiger Rubin;1;250000;280000
@@ -379,15 +275,7 @@
 24029;Tränenförmiger lebendiger Rubin;1;250000;280000
 24029;Tränenförmiger lebendiger Rubin;1;250000;280000
 23766;Geeichtes Eterniumzielfernrohr;1;1950000;1966200
-22919;Rezept: Elixier des erheblichen Magierbluts;1;215000;220000
 814;Fläschchen Öl;2;4922;5468
-24214;Vorlage: Mächtiger Edeltopas;1;204800;206000
-24214;Vorlage: Mächtiger Edeltopas;1;175000;215000
-24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
-24214;Vorlage: Mächtiger Edeltopas;1;182399;227999
-24214;Vorlage: Mächtiger Edeltopas;1;290000;320000
-24210;Vorlage: Unbeständiges Nachtauge;1;385188;427987
-24210;Vorlage: Unbeständiges Nachtauge;1;295600;369500
 22575;Lebenspartikel;1;21952;24453
 22575;Lebenspartikel;7;91000;98000
 22575;Lebenspartikel;10;101360;126700
@@ -402,30 +290,7 @@
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
 22576;Manapartikel;1;18954;20999
-24303;Muster: Gurt der Zerstörung;1;319200;399000
-24303;Muster: Gurt der Zerstörung;1;2600000;2990000
-24303;Muster: Gurt der Zerstörung;1;395000;420000
-24303;Muster: Gurt der Zerstörung;1;450000;500000
 22451;Urluft;1;174500;184500
-22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;39938;42026
-22447;Geringe Planaressenz;1;41074;42027
-22447;Geringe Planaressenz;1;31939;39924
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;249998;289998
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;274000;289000
-23436;Lebendiger Rubin;1;249998;289998
-23436;Lebendiger Rubin;1;249998;289998
 4363;Kupfermodulator;1;1713;1903
 2815;Bogenklingenreißer;1;32644;36272
 23120;Stürmischer Azurmondstein;1;16699;17799
@@ -434,7 +299,6 @@
 5784;Schleimige Murlocschuppe;7;4214;4683
 5784;Schleimige Murlocschuppe;7;4214;4683
 22827;Elixier der erheblichen Frostmacht;20;995000;1000000
-24218;Vorlage: Strahlender Talasit;1;599900;599900
 23199;Totem des Sturms;1;303712;500000
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;59252;65835
@@ -464,8 +328,6 @@
 24060;Glänzender Edeltopas;1;113999;142499
 24060;Glänzender Edeltopas;1;160000;180000
 769;Brocken Eberfleisch;10;7500;9500
-24213;Vorlage: Gravierter Edeltopas;1;355000;400000
-24213;Vorlage: Gravierter Edeltopas;1;511606;639508
 24302;Muster: Gurt des Unerschütterlichen;1;175661;219577
 4234;Schweres Leder;15;67500;67500
 4234;Schweres Leder;20;90000;90000
@@ -504,7 +366,6 @@
 22577;Schattenpartikel;1;6553;8654
 22577;Schattenpartikel;1;6553;8654
 22577;Schattenpartikel;1;6553;8654
-24305;Muster: Cape der Entschlossenheit;1;108000;125000
 2318;Leichtes Leder;20;9950;11000
 2318;Leichtes Leder;20;9950;11000
 2318;Leichtes Leder;20;9950;11000
@@ -537,12 +398,8 @@
 1210;Schattenedelstein;1;1120;1401
 1210;Schattenedelstein;1;1120;1401
 812;Glimmender Reinholzstab;1;85527;100000
-24211;Vorlage: Leuchtendes Nachtauge;1;306943;383679
-24211;Vorlage: Leuchtendes Nachtauge;1;323858;379842
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;4501;5001
 3914;Gesellenrucksack;1;59375;60000
-23676;Mondweidenhirschlenden;1;800;1000
-22846;Erheblicher Schattenschutztrank;5;71636;89545
 22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;239999;249999
 22828;Trank der Wahnsinnsstärke;5;239999;249999
@@ -564,9 +421,6 @@
 22452;Urerde;20;699999;700000
 22452;Urerde;20;767676;777777
 22452;Urerde;20;699999;700000
-24222;Dolch des schleichenden Todes;1;76315;88888
-24222;Dolch des schleichenden Todes;1;187898;208776
-24222;Dolch des schleichenden Todes;1;189999;199999
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;3011;3764
 4417;Bauplan: Große Zephyriumladung;1;58794;65327
 32679;Ausgelaugter Stab;1;200000;250000
@@ -602,17 +456,11 @@
 5635;Scharfe Klaue;2;3266;3628
 5635;Scharfe Klaue;2;3266;3628
 3830;Rezept: Elixier der Seelenstärke;1;35843;39825
-23624;Pläne: Helm des tapferen Verteidigers;1;180000;250000
-23624;Pläne: Helm des tapferen Verteidigers;1;180000;200000
-23624;Pläne: Helm des tapferen Verteidigers;1;180000;190000
 22578;Wasserpartikel;2;38000;40000
 22578;Wasserpartikel;1;26871;27772
 22578;Wasserpartikel;9;89520;113400
 22578;Wasserpartikel;3;57000;60000
 22578;Wasserpartikel;1;26871;27772
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
 3012;Rolle der Beweglichkeit;1;5000;7500
 4096;Grobes Gorillahaar;2;1514;1682
 4096;Grobes Gorillahaar;2;1514;1682
@@ -628,13 +476,6 @@
 22787;Zottelkappe;20;58800;63700
 22787;Zottelkappe;20;58800;63700
 22787;Zottelkappe;5;14700;15925
-22912;Rezept: Heldentrank;1;174999;199999
-22912;Rezept: Heldentrank;1;63600;79500
-22912;Rezept: Heldentrank;1;280000;290000
-22912;Rezept: Heldentrank;1;280000;290000
-22912;Rezept: Heldentrank;1;74645;79007
-22912;Rezept: Heldentrank;1;74645;79007
-22912;Rezept: Heldentrank;1;63205;79007
 24047;Brillanter Dämmerstein;1;40000;49000
 24047;Brillanter Dämmerstein;1;40000;49000
 24047;Brillanter Dämmerstein;1;40000;49000
@@ -680,32 +521,17 @@
 4364;Grobes Sprengpulver;1;586;651
 3819;Winterbiss;1;827;919
 2243;Hand von Edward dem Seltsamen;1;158674;180000
-23782;Teufelseisengehäuse;1;130692;143793
-23782;Teufelseisengehäuse;1;130692;143793
-23782;Teufelseisengehäuse;10;130000;130000
-23782;Teufelseisengehäuse;10;130000;130000
-23782;Teufelseisengehäuse;10;130000;130000
 3576;Zinnbarren;8;6400;7200
 6289;Roher langzahniger Matschschnapper;20;47454;52727
 6289;Roher langzahniger Matschschnapper;3;7118;7909
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;3200;3499
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;2962;3000
-23625;Pläne: Helm der Eidestreue;1;200173;236329
-23625;Pläne: Helm der Eidestreue;1;200173;236329
-23625;Pläne: Helm der Eidestreue;1;199999;229999
-23625;Pläne: Helm der Eidestreue;1;180000;220000
-23625;Pläne: Helm der Eidestreue;1;180000;190000
-23625;Pläne: Helm der Eidestreue;1;180000;190000
-24304;Muster: Schwarzer Gürtel des Wissens;1;79999;119999
-24304;Muster: Schwarzer Gürtel des Wissens;1;191164;238955
 3358;Khadgars Schnurrbart;20;8850;9500
 3358;Khadgars Schnurrbart;20;8850;9500
 3358;Khadgars Schnurrbart;1;417;463
 3358;Khadgars Schnurrbart;10;4100;4550
 3358;Khadgars Schnurrbart;20;8200;9100
 3358;Khadgars Schnurrbart;1;421;468
-24301;Muster: Weißer Arzneikittel;1;138048;138049
-24301;Muster: Weißer Arzneikittel;1;104916;131146
 4377;Schweres Sprengpulver;2;1030;1144
 1721;Wikingerkriegshammer;1;89000;89000
 4603;Roher Tüpfelgelbschwanz;5;25415;28240
@@ -719,10 +545,6 @@
 22829;Erstklassiger Heiltrank;5;91000;91000
 22829;Erstklassiger Heiltrank;5;91000;91000
 22829;Erstklassiger Heiltrank;5;91000;91000
-24307;Muster: Managewirkter Umhang;1;135000;140000
-22926;Rezept: Elixier der Schwächung;1;889999;890000
-22926;Rezept: Elixier der Schwächung;1;757500;790000
-22926;Rezept: Elixier der Schwächung;1;256412;303015
 3831;Rezept: Erhebliches Trollblutelixier;1;24860;27622
 5498;Kleine irisierende Perle;1;1803;2003
 5498;Kleine irisierende Perle;1;1803;2003

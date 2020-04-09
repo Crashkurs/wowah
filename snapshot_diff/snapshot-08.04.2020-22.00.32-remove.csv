@@ -1,7 +1,5 @@
-1169;Schwarzschädelschild;1;41014;51268
 24165;Vorlage: Eterniumband der Loderflamme;1;144341;183712
 12977;Handschuhe der Magiekraft;1;299900;299900
-17414;Kodex: Gebet der Seelenstärke II;1;37999;47499
 23628;Pläne: Gesegnete Armschienen;1;189799;189799
 22832;Erstklassiger Manatrank;1;28280;29898
 22832;Erstklassiger Manatrank;5;141400;149490
@@ -24,15 +22,6 @@
 30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;10;122750;124750
 1181;Rolle der Willenskraft;1;891;990
-24209;Vorlage: Stattliches Nachtauge;1;268912;336140
-24209;Vorlage: Stattliches Nachtauge;1;268912;336140
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
-27676;Seltsame Sporen;20;92000;92000
 31159;Teufelssteinschulterstücke;1;1193605;1355677
 25719;Arakkoafeder;250;5000000;5000000
 25719;Arakkoafeder;250;5000000;5000000
@@ -90,7 +79,6 @@
 23771;Grünes Rauchsignal;5;99990;99990
 25650;Knotenhautrüstungsset;7;115499;115499
 3385;Geringer Manatrank;5;760;950
-1203;Aegis von Sturmwind;1;89999;99999
 15970;Eingeborenenzweig;1;999;4999
 13045;Zäher Hammer;1;39200;49000
 9860;Bogenschützenumhang;1;7959;8900
@@ -103,8 +91,6 @@
 32230;Schattensangamethyst;1;435600;435600
 32230;Schattensangamethyst;1;875000;880000
 32230;Schattensangamethyst;1;875000;880000
-731;Geiferzahnschnauze;9;777;972
-731;Geiferzahnschnauze;10;864;1080
 2455;Schwacher Manatrank;5;276;345
 2455;Schwacher Manatrank;5;276;345
 2455;Schwacher Manatrank;5;276;345
@@ -123,21 +109,12 @@
 25050;Moldavitring;1;499999;499999
 14179;Hüterscape;1;2390;2988
 14179;Hüterscape;1;2390;2988
-25901;Bemerkenswerter Erdsturmdiamant;1;669733;676599
 22445;Arkaner Staub;20;330100;340000
 23631;Pläne: Teuflisch scharfe Kampfaxt;1;190130;291255
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
 23793;Schweres Knotenhautleder;2;68750;70000
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
-24062;Robuster Talasit;1;79152;79900
 32737;Pläne: Flinkstahlschultern;1;449999;449999
 32737;Pläne: Flinkstahlschultern;1;449999;449999
 13110;Schreckenswolfharnisch;1;118400;148000
@@ -173,7 +150,6 @@
 28103;Elixier des Adepten;5;109990;109990
 28103;Elixier des Adepten;5;109990;109990
 23489;Teufelseisenbrustplatte;1;90000;120000
-7360;Muster: Dunkle Lederhandschuhe;1;4000;5000
 17202;Schneeball;20;36500;39000
 17202;Schneeball;20;39200;39500
 17202;Schneeball;20;39200;39500
@@ -202,13 +178,9 @@
 27503;Rolle der Stärke V;5;189500;237500
 27503;Rolle der Stärke V;5;189500;237500
 27503;Rolle der Stärke V;5;189500;237500
-24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
-24197;Vorlage: Fragiler lebendiger Rubin;1;151600;189500
-24197;Vorlage: Fragiler lebendiger Rubin;1;279557;351072
 9260;Flüchtiger Rum;1;704;881
 9260;Flüchtiger Rum;2;1650;1750
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;490000;500000
-17200;Rezept: Lebkuchen;1;140100;150000
 33867;Gebratene Blutflosse;4;8896;9900
 33867;Gebratene Blutflosse;10;22240;24750
 33867;Gebratene Blutflosse;10;22240;24750
@@ -218,9 +190,6 @@
 33867;Gebratene Blutflosse;4;8000;10000
 33867;Gebratene Blutflosse;4;8000;10000
 13058;Khoospitze;1;32749;35000
-24204;Vorlage: Glatter Dämmerstein;1;490000;500000
-24210;Vorlage: Unbeständiges Nachtauge;1;330000;390000
-24210;Vorlage: Unbeständiges Nachtauge;1;299999;499999
 23095;Klobiger Blutgranat;1;19830;24256
 23095;Klobiger Blutgranat;1;19830;24256
 23095;Klobiger Blutgranat;1;19830;24256
@@ -253,11 +222,6 @@
 32228;Engelssaphir;1;315000;320000
 32228;Engelssaphir;1;315000;320000
 32228;Engelssaphir;1;315000;320000
-17062;Rezept: Mithrilkopfforelle;1;89999;99999
-24207;Vorlage: Kompakter Dämmerstein;1;201096;251370
-24207;Vorlage: Kompakter Dämmerstein;1;201096;251370
-24207;Vorlage: Kompakter Dämmerstein;1;211680;264600
-24201;Vorlage: Irisierender Stern der Elune;1;289999;299999
 25177;Tanjostab;1;123994;140000
 28538;Zickzackshuriken;1;69336;90000
 29534;Grollbalgbeinrüstung;1;849899;849899
@@ -315,10 +279,6 @@
 30419;Blitzende Halskette;1;3025;4500
 24202;Vorlage: Stürmischer Stern der Elune;1;99999;99999
 22825;Elixier der Heilkraft;20;480000;480000
-27502;Rolle der Ausdauer V;2;2572;3216
-27502;Rolle der Ausdauer V;5;17824;22280
-27502;Rolle der Ausdauer V;2;4227;4696
-27502;Rolle der Ausdauer V;2;3384;3386
 9786;Räuberumhang;1;2248;5536
 31861;Großer Dämmerstein;1;159679;167499
 31861;Großer Dämmerstein;1;159679;167499
@@ -344,9 +304,7 @@
 31672;Rippchen der Mok'Nathal;10;5000;7500
 31672;Rippchen der Mok'Nathal;7;3500;5250
 23448;Teufelsstahlbarren;3;301250;350000
-17195;Unechter Mistelzweig;20;320;700
 23154;Vorlage: Stürmischer Azurmondstein;1;42500;50000
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 27657;Schwarzgebratener Basilisk;20;594500;599900
 27657;Schwarzgebratener Basilisk;20;594500;599900
 27657;Schwarzgebratener Basilisk;20;594500;599900
@@ -354,8 +312,6 @@
 27657;Schwarzgebratener Basilisk;20;340999;340999
 9254;Cuergos Schatzkarte;1;389999;399999
 15518;Stachelkettenbrustplatte;1;10000;30000
-23529;Adamantitwetzstein;5;270000;300000
-23529;Adamantitwetzstein;5;270000;300000
 24047;Brillanter Dämmerstein;1;139999;159900
 33825;Schädelfischsuppe;4;100000;100000
 935;Kurzschwert der Nachtwache;1;67600;69000
@@ -365,32 +321,12 @@
 23784;Adamantitrahmen;1;63500;79000
 23784;Adamantitrahmen;1;63500;79000
 24987;Felsfaustbeinplatten;1;90999;90999
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;10;19435;21594
-2592;Wollstoff;2;3887;4318
 32062;Elixier der erheblichen Seelenstärke;20;356000;496800
 32062;Elixier der erheblichen Seelenstärke;9;160200;223560
 32062;Elixier der erheblichen Seelenstärke;9;160200;223560
 32062;Elixier der erheblichen Seelenstärke;20;356000;496800
 27515;Große Tüpfelteufelsfinne;5;57600;69500
 24199;Vorlage: Gediegener Stern der Elune;1;499524;504406
-24198;Vorlage: Scheinender lebendiger Rubin;1;385000;450000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;5;243500;260000
-27501;Rolle der Willenskraft V;3;146100;156000
-27501;Rolle der Willenskraft V;1;39244;43605
 33872;Feuriger Würztalbuk;5;20000;22500
 33872;Feuriger Würztalbuk;5;20000;22500
 33872;Feuriger Würztalbuk;5;20000;22500
@@ -409,9 +345,7 @@
 15248;Gleißendes Claymore;1;5731;7164
 29539;Kobraschuppen;20;3139999;3139999
 31673;Knusperschlange;5;62500;75000
-24205;Vorlage: Massiver Dämmerstein;1;585000;650000
 9298;Rezept: Elixier der Riesen;1;23375;30000
-1206;Moosachat;1;6100;6199
 5207;Undurchsichtiger Zauberstab;1;1621;3300
 9794;Efeustoffumhang;1;2652;3316
 15564;Unverwüstliches Rüstungsset;10;75000;80000

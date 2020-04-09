@@ -7,21 +7,9 @@
 21877;Netherstoff;20;34000;38000
 21877;Netherstoff;20;24000;34900
 14659;Skorpashigamaschen;1;19382;29300
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
-2453;Beulengras;20;4743;5270
 14554;Beinplatten des Wolkenbehüters;1;193180;200000
-17720;Bauplan: Schneemeister 9000;1;172480;215600
 30809;Mal des Sargeras;7;62100;70000
 30809;Mal des Sargeras;6;51800;68000
-23112;Golddraenit;20;240000;260000
-23112;Golddraenit;10;187500;190000
-23112;Golddraenit;20;336800;396000
-23112;Golddraenit;20;336800;396000
-23112;Golddraenit;1;7750;10000
-23112;Golddraenit;2;7500;0
 24051;Massiver Dämmerstein;1;130000;165000
 24051;Massiver Dämmerstein;1;130000;165000
 24051;Massiver Dämmerstein;1;130000;165000
@@ -81,10 +69,6 @@
 29460;Gefängnisschlüssel des Astraleums;1;127813;129017
 27671;Bussardfleisch;1;594;595
 27671;Bussardfleisch;1;594;595
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
-22456;Urschatten;1;42220;44420
 27655;Heißer Hetzer;20;386864;388580
 14746;Titanischer Gürtel;1;10000;25000
 23446;Adamantitbarren;20;216800;222000
@@ -108,7 +92,6 @@
 20748;Hervorragendes Manaöl;1;179999;179999
 19270;Elementar 3;1;48750;50000
 19270;Elementar 3;1;13220;29000
-31131;Schärpe der lautlosen Klingen;1;90000;100000
 14757;Töterhose;1;9542;12928
 19768;Urzeitliches Tigerleder;3;49000;50000
 16202;Geringe ewige Essenz;1;33318;38618
@@ -131,7 +114,6 @@
 31867;Verschleierter Edeltopas;1;143425;148982
 31867;Verschleierter Edeltopas;1;143425;148982
 31867;Verschleierter Edeltopas;1;143425;148982
-4414;Bauplan: Tragbarer bronzener Mörser;1;102948;102949
 19275;Elementar 8;1;549999;589999
 24028;Feingeschliffener lebendiger Rubin;1;212899;226124
 24028;Feingeschliffener lebendiger Rubin;1;212899;226124
@@ -149,7 +131,6 @@
 814;Fläschchen Öl;1;2075;2076
 814;Fläschchen Öl;1;2075;2076
 814;Fläschchen Öl;1;2075;2076
-31133;Gamaschen der undurchdringlichen Dunkelheit;1;299999;299999
 13135;Fürstliche Armschützer;1;101001;120000
 14580;Dokebiarmschienen;1;20000;40000
 37915;Muster: Ausgehschuhe;1;1875;10000
@@ -163,11 +144,9 @@
 24055;Unbeständiges Nachtauge;1;152512;165640
 24055;Unbeständiges Nachtauge;1;152512;165640
 24055;Unbeständiges Nachtauge;1;152512;165640
-23783;Eine Hand voll Teufelseisenbolzen;1;91068;101069
 25867;Erdsturmdiamant;1;660000;670000
 14552;Palisadenschulterstücke;1;50290;67700
 14552;Palisadenschulterstücke;1;40290;50000
-17709;Rezept: Elixier der Frostmacht;1;500000;1200000
 19274;Elementar 7;1;179999;199999
 19274;Elementar 7;1;179999;199999
 14553;Schärpe der Gnade;1;899999;999999
@@ -180,23 +159,6 @@
 7910;Sternrubin;1;17500;20000
 33052;Fischerschmaus;20;199900;199900
 33052;Fischerschmaus;5;49900;49900
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;1;90100;117000
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;1;90100;117000
-22446;Große Planaressenz;1;90100;117000
-22446;Große Planaressenz;1;90100;117000
-22446;Große Planaressenz;2;222500;234998
-22446;Große Planaressenz;1;90100;117000
 24167;Vorlage: Lebendiger Rubinanhänger;1;186800;196000
 19265;Kriegsfürst 8;1;40000;44500
 19265;Kriegsfürst 8;1;40000;44500
@@ -207,10 +169,7 @@
 21752;Thoriumfassung;3;13000;15000
 21752;Thoriumfassung;20;85000;100000
 29425;Mal von Kil'jaeden;22;216600;220000
-5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
-5787;Muster: Murlocschuppenbrustplatte;1;2056;3000
 13466;Pestblüte;9;23375;40000
-19277;Portalkartenset;1;13000000;14000000
 4655;Riesenmuschelfleisch;3;3019;7000
 31234;Kristallklinge der Draenei;1;181075;250000
 31234;Kristallklinge der Draenei;1;244802;279999
@@ -225,21 +184,15 @@
 14551;Handschützer des Klingenmeisters;1;114500;115500
 14551;Handschützer des Klingenmeisters;1;468908;521009
 14551;Handschützer des Klingenmeisters;1;110000;115000
-31137;Stulpen der Läuterung;1;156782;174202
 13067;Hydralickrüstung;1;67647;80000
 25802;Schreckensgiftbeutel;7;95750;100000
 25802;Schreckensgiftbeutel;1;12832;12833
 25700;Teufelsschuppen;14;166250;220000
 10560;Instabiler Auslöser;1;49998;49999
-3685;Raptorei;2;3013;4900
-3685;Raptorei;2;5373;5970
-3685;Raptorei;3;18279;20310
 15438;Oberste Handschuhe;1;66558;80000
-31126;Handschuhe der Wildheit;1;25975;99900
 27498;Rolle der Beweglichkeit V;1;58812;59713
 27498;Rolle der Beweglichkeit V;5;251996;269995
 4425;Rolle der Beweglichkeit III;1;9351;9899
-5786;Muster: Murlocschuppengürtel;1;1673;3000
 14744;Titanischer Brustschutz;1;7392;9240
 13091;Medaillon von Großmarschall Morris;1;62300;77876
 22861;Fläschchen des blendenden Lichts;1;224999;224999
@@ -274,12 +227,6 @@
 20749;Hervorragendes Zauberöl;1;139500;147500
 20749;Hervorragendes Zauberöl;1;145000;148000
 20749;Hervorragendes Zauberöl;1;145000;148000
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
-10559;Mithrilrohr;1;6786;8987
 27502;Rolle der Ausdauer V;2;3255;3257
 13094;Das Juwel der Königin;1;17377;26722
 13094;Das Juwel der Königin;1;9900;14900
@@ -350,8 +297,6 @@
 31222;Kopfputz des inneren Zorns;1;170403;194407
 2592;Wollstoff;20;30990;40000
 2592;Wollstoff;20;30990;40000
-23782;Teufelseisengehäuse;1;130692;143793
-23782;Teufelseisengehäuse;1;130692;143793
 12691;Pläne: Wilddornpanzerung;1;36176;47973
 12691;Pläne: Wilddornpanzerung;1;36176;47973
 24065;Schillernder Talasit;1;49592;51116
@@ -429,12 +374,6 @@
 31868;Tückischer Edeltopas;1;150000;170000
 31868;Tückischer Edeltopas;1;150000;170000
 22890;Foliant des Frostzauberschutzes V;1;45000;50000
-4337;Dicke Spinnenseide;5;5660;7075
-4337;Dicke Spinnenseide;2;6389;7099
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
-4337;Dicke Spinnenseide;1;2222;2322
 24477;Jaggalmuschelfleisch;5;1744;2180
 24033;Gediegener Stern der Elune;1;84000;86000
 24033;Gediegener Stern der Elune;1;84000;86000

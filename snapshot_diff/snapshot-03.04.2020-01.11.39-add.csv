@@ -1,14 +1,3 @@
-27682;Talbukwildbret;1;772;991
-27682;Talbukwildbret;10;3280;4100
-27682;Talbukwildbret;16;46080;57600
-27682;Talbukwildbret;7;2900;3626
-5342;Raptorpunsch;8;47000;51500
-5342;Raptorpunsch;5;18620;23275
-3369;Grabmoos;4;1062;1328
-3369;Grabmoos;5;1464;1630
-3369;Grabmoos;20;5000;7000
-3369;Grabmoos;20;7520;9400
-28498;Rabenwächterbandelier;1;68756;85946
 22926;Rezept: Elixier der Schwächung;1;889998;889999
 4305;Seidenstoffballen;10;75000;79500
 4305;Seidenstoffballen;6;15400;25000
@@ -18,9 +7,7 @@
 4305;Seidenstoffballen;10;75000;79500
 4305;Seidenstoffballen;10;75000;79500
 4305;Seidenstoffballen;3;11000;12000
-7481;Waldläuferstiefel;1;30000;40000
 4306;Seidenstoff;20;12000;39900
-27854;Geräuchertes Talbukwildbret;2;2864;3182
 22456;Urschatten;1;27000;29000
 22456;Urschatten;20;499980;599980
 22456;Urschatten;1;26000;28900
@@ -29,41 +16,11 @@
 22456;Urschatten;1;22000;25000
 22456;Urschatten;1;22000;25000
 22456;Urschatten;20;499980;599980
-2598;Muster: Rote Leinenrobe;1;783;979
-28279;Formel: Stiefel - Schnelligkeit der Katze;1;799999;999999
-22866;Fläschchen des reinen Todes;1;230000;230000
-22866;Fläschchen des reinen Todes;1;230000;230000
-22866;Fläschchen des reinen Todes;1;230000;230000
-22866;Fläschchen des reinen Todes;5;1150000;1150000
-7734;Sechsdämonentasche;1;44209;49121
-7734;Sechsdämonentasche;1;35082;38980
 5083;Muster: Kodobalgtasche;1;89999;99999
-3382;Schwaches Trollblutelixier;10;200;1200
 4711;Gleißender Umhang;1;25723;26359
-22445;Arkaner Staub;20;350100;359999
-22445;Arkaner Staub;20;350100;359999
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;3;39597;43998
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-22445;Arkaner Staub;20;292896;299920
-28596;Vorlage: Heller Blutgranat;1;198750;200000
 5465;Kleines Spinnenbein;4;649;812
 5465;Kleines Spinnenbein;10;1624;2030
-27678;Grollhuffleisch;20;143420;188120
-27678;Grollhuffleisch;15;52440;65550
-27678;Grollhuffleisch;17;121907;159902
-27678;Grollhuffleisch;17;76867;96084
 4696;Lapidis immervoller Humpen;1;45720;57151
-7910;Sternrubin;1;39000;70000
-7910;Sternrubin;2;95000;110000
-7910;Sternrubin;1;7500;99900
 4625;Feuerblüte;20;84999;85000
 4625;Feuerblüte;20;87500;0
 4625;Feuerblüte;20;84999;85000
@@ -71,114 +28,37 @@
 4625;Feuerblüte;20;87500;0
 5082;Dünnes Kodoleder;4;7472;9340
 5082;Dünnes Kodoleder;2;2171;2412
-21991;Schwerer Netherstoffverband;20;57760;72200
-21991;Schwerer Netherstoffverband;20;59900;79900
-21991;Schwerer Netherstoffverband;20;60000;88000
-21991;Schwerer Netherstoffverband;20;60000;80000
-21991;Schwerer Netherstoffverband;20;60000;80000
-21991;Schwerer Netherstoffverband;20;60000;80000
-21991;Schwerer Netherstoffverband;20;60000;80000
-21991;Schwerer Netherstoffverband;20;150000;180000
-7453;Muster: Hurtige Stiefel;1;43200;54000
-22907;Rezept: Erstklassiger Manatrank;1;265849;332312
-22907;Rezept: Erstklassiger Manatrank;1;299999;300000
-22914;Rezept: Zerstörungstrank;1;1440000;1550000
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-22914;Rezept: Zerstörungstrank;1;1499999;1999999
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;20375;30000
-2725;Die Grünen Hügel des Schlingendorntals - Seite 1;1;29962;29999
-28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
-28280;Formel: Stiefel - Flinkheit des Ebers;1;855000;950000
 4998;Blutring;1;99900;99900
-22902;Rezept: Elixier der erheblichen Frostmacht;1;117734;130816
-22913;Rezept: Hasttrank;1;300000;300000
-22913;Rezept: Hasttrank;1;300000;300000
-22913;Rezept: Hasttrank;1;419999;439999
 27666;Goldfischstäbchen;20;699999;724999
 5117;Farbenprächtiger Federbusch;2;2505;2783
-22393;Kodex: Gebet des Schattenschutzes;1;26395;32994
-22393;Kodex: Gebet des Schattenschutzes;1;89999;99999
-22393;Kodex: Gebet des Schattenschutzes;1;91219;103408
-28290;Glatter Golddraenit;1;27839;39799
-28290;Glatter Golddraenit;1;27839;39799
-28290;Glatter Golddraenit;1;27839;39799
-28290;Glatter Golddraenit;1;22480;35600
-28290;Glatter Golddraenit;1;22480;35600
-21940;Vorlage: Goldener Hase;1;334000;445000
 3383;Elixier der Weisheit;5;22499;29999
 3383;Elixier der Weisheit;5;22499;29999
 3383;Elixier der Weisheit;1;4999;7500
 29547;Windschuppen;20;899999;999899
-21949;Vorlage: Rubinschlange;1;2903750;4000000
-21949;Vorlage: Rubinschlange;1;4502500;4900000
-22919;Rezept: Elixier des erheblichen Magierbluts;1;215000;220000
-7451;Muster: Grünwelpenarmschienen;1;37635;47044
-7452;Muster: Schwärzliche Stiefel;1;11312;12000
 5183;Pulsierendes Hydraherz;1;99900;99900
-5214;Zauberstab der Abendzeit;1;11400;14250
-5214;Zauberstab der Abendzeit;1;10000;12000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;13000;19000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;13000;19000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
-2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;13000;19000
-3391;Elixier der Ogerstärke;3;2400;2400
-28270;Formel: Brust - Erhebliche Abhärtung;1;2989899;2989899
-28270;Formel: Brust - Erhebliche Abhärtung;1;2989900;2989900
 5498;Kleine irisierende Perle;1;866;1083
-22153;Foliant der arkanen Brillanz 2;1;140000;190000
-22153;Foliant der arkanen Brillanz 2;1;150000;200000
-22153;Foliant der arkanen Brillanz 2;1;150000;200000
 4715;Geschmückter Umhang;1;3283;4104
 7909;Aquamarin;1;3999;5599
-22220;Pläne: Dunkler Griff des Zerstörers;1;2999999;2999999
-28101;Instabiler Manatrank;2;15878;19848
 5075;Blutsplitter;10;33280;41600
 5075;Blutsplitter;5;6087;10000
-3389;Elixier der Verteidigung;8;67808;79760
-3389;Elixier der Verteidigung;10;80166;89074
 7613;Muster: Grüne Lederrüstung;1;15200;19000
-28595;Heller Blutgranat;1;59999;69999
-28595;Heller Blutgranat;1;59999;69999
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;24000;26500
-2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;24000;26500
 29425;Mal von Kil'jaeden;10;189999;199999
 29425;Mal von Kil'jaeden;10;189999;199999
 29425;Mal von Kil'jaeden;10;189999;199999
-23077;Blutgranat;1;5050;6000
-23077;Blutgranat;1;4997;4998
-23077;Blutgranat;1;7540;8378
-23077;Blutgranat;2;17500;19000
-23077;Blutgranat;2;17500;19000
-7527;Kabalistenbrustharnisch;1;36108;45136
-7443;Schildwachenhandschuhe;1;6963;8704
-5466;Skorpidstachel;2;3500;5000
 5572;Kleiner grüner Beutel;1;1600;2000
-22890;Foliant des Frostzauberschutzes V;1;59999;69999
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;20;45168;56460
 4304;Dickes Leder;12;45168;56460
 4304;Dickes Leder;8;29512;37640
 29539;Kobraschuppen;20;2999999;3499999
 29539;Kobraschuppen;20;2999999;3499999
-7554;Weidenzweig;1;5000;6000
-22912;Rezept: Heldentrank;1;220000;222222
-22912;Rezept: Heldentrank;1;288800;288900
-22912;Rezept: Heldentrank;1;280000;290000
-22912;Rezept: Heldentrank;1;299999;299999
 5134;Kleine pelzige Tatze;1;1148;1435
 5134;Kleine pelzige Tatze;1;1148;1435
-27684;Rezept: Bussardbissen;1;14112;17640
-27684;Rezept: Bussardbissen;1;15500;17000
 4611;Blaue Perle;1;2224;2280
 4611;Blaue Perle;1;1990;2100
 4611;Blaue Perle;1;700;2000
@@ -186,32 +66,8 @@
 4611;Blaue Perle;1;9856;10951
 4611;Blaue Perle;1;9856;10951
 4611;Blaue Perle;3;19605;21783
-7543;Championschulterstücke;1;12184;28500
-28291;Vorlage: Glatter Golddraenit;1;192500;200000
-7537;Gotischer Schild;1;21018;21499
 5469;Schreiterfleisch;2;6857;8572
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
-22457;Urmana;1;199999;200999
 4623;Geringer Steinschildtrank;3;12200;13700
 4623;Geringer Steinschildtrank;1;13062;13100
-3384;Schwacher Magiewiderstandstrank;5;33500;35000
 3357;Lebenswurz;1;191;192
 3358;Khadgars Schnurrbart;15;3615;3630

@@ -200,7 +200,6 @@
 20955;Goldener Drachenring;1;5500;6500
 9838;Bebänderter Umhang;1;4561;6000
 24307;Muster: Managewirkter Umhang;1;135000;150000
-21902;Muster: Seelenstoffhandschuhe;1;389999;399999
 22902;Rezept: Elixier der erheblichen Frostmacht;1;117734;130816
 31152;Brustschutz der Illumination;1;75528;100000
 31152;Brustschutz der Illumination;1;97696;122120
@@ -258,7 +257,6 @@
 765;Silberblatt;20;29999;30000
 31180;Stulpen der Schädelspalter;1;68002;70000
 4304;Dickes Leder;7;61500;65500
-13443;Überragender Manatrank;1;4000;4100
 3730;Großbärenfleisch;4;4000;5400
 3730;Großbärenfleisch;2;2000;2600
 10071;Rechtschaffener Umhang;1;9675;14500
@@ -329,7 +327,6 @@
 31837;Kodex: Gebet des Schattenschutzes II;1;38000;47500
 31837;Kodex: Gebet des Schattenschutzes II;1;22125;50000
 14789;Beschützerbrustplatte;1;45924;57406
-13146;Kugelspeiende Schrotflinte;1;71052;98816
 12808;Essenz des Untodes;10;385000;388888
 21547;Rezept: Elixier der großen Feuermacht;1;119676;149596
 22450;Kristall der Leere;5;187500;200000
@@ -458,11 +455,9 @@
 23488;Teufelseisenplattenhose;1;137207;140000
 23488;Teufelseisenplattenhose;1;137207;140000
 23488;Teufelseisenplattenhose;1;137207;140000
-21154;Festtagskleid;1;299999;499999
 809;Blutklinge;1;99000;99000
 11135;Große Mystikeressenz;10;35720;44650
 23103;Strahlender Tiefenperidot;1;7600;19500
-14091;Perlenrobe;1;984;2580
 31290;Band der Herrschaft;1;106063;200000
 3821;Golddorn;20;24500;30000
 3821;Golddorn;20;24500;30000
@@ -477,7 +472,6 @@
 9260;Flüchtiger Rum;4;3628;4031
 17058;Fischöl;5;19200;19500
 17058;Fischöl;10;20000;35000
-20870;Jaspisgötze;1;10000;20000
 22785;Teufelsgras;20;129999;139999
 22785;Teufelsgras;20;129999;139999
 22785;Teufelsgras;20;129999;139999
@@ -622,7 +616,6 @@
 2996;Leinenstoffballen;2;720;900
 929;Heiltrank;1;200;200
 29550;Foliant des Wasserherbeizauberns IX;1;42996;51107
-29550;Foliant des Wasserherbeizauberns IX;1;42996;51107
 13002;Fürstin Alizabeths Anhänger;1;39888;49861
 24047;Brillanter Dämmerstein;1;95000;99999
 24047;Brillanter Dämmerstein;1;57500;57500
@@ -641,8 +634,6 @@
 24047;Brillanter Dämmerstein;1;95000;99999
 24047;Brillanter Dämmerstein;1;57500;57500
 2798;Rethbanerz;3;3856;4821
-11736;Buchband der Abhärtung;1;17368;22631
-19715;Goldenes Schmuckstück der Hakkari;1;199840;249800
 8949;Elixier der Beweglichkeit;10;13000;22500
 8949;Elixier der Beweglichkeit;19;22800;22800
 8949;Elixier der Beweglichkeit;20;81920;102400
@@ -817,7 +808,6 @@
 2771;Zinnerz;20;7216;9020
 23625;Pläne: Helm der Eidestreue;1;177637;197374
 19259;Kriegsfürst 2;1;20000;25000
-20869;Bernsteingötze;1;10000;20000
 15981;Lunarsphäre;1;10822;40000
 2245;Helm von Narv;1;67865;77332
 16722;Armschienen des Lichts;1;21399;50000
@@ -953,7 +943,6 @@
 27422;Stachelkiemenforelle;20;18240;22599
 31196;Amulett der Weihung;1;95788;99000
 9807;Überragende Schultern;1;11882;12500
-14164;Heidengürtel;1;998;2548
 22575;Lebenspartikel;5;53000;80000
 22575;Lebenspartikel;2;11200;15000
 23154;Vorlage: Stürmischer Azurmondstein;1;58500;69900
@@ -1132,8 +1121,6 @@
 791;Knorriger Eschenstab;1;18903;29900
 3394;Rezept: Trank der Genesung;1;9362;10403
 31145;Kopfputz des Schläfers;1;59110;73888
-34622;Wirbelschnitter;1;2999600;2999900
-34622;Wirbelschnitter;1;1500000;2250000
 4247;Lederhandschuhe des Hügelwächters;1;11573;13099
 4247;Lederhandschuhe des Hügelwächters;1;11573;13099
 4247;Lederhandschuhe des Hügelwächters;1;11573;13099
@@ -1211,8 +1198,6 @@
 25896;Mächtiger Erdsturmdiamant;1;886281;930595
 25802;Schreckensgiftbeutel;10;109596;137870
 13093;Rotglutring;1;9971;14500
-13144;Gürtel der Beschaulichkeit;1;13968;17460
-13144;Gürtel der Beschaulichkeit;1;15509;17362
 33825;Schädelfischsuppe;20;953600;969500
 33825;Schädelfischsuppe;20;953600;969500
 23438;Stern der Elune;1;36237;60263
@@ -1314,7 +1299,6 @@
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;4332;5415
 31281;Maske des verhüllten Todes;1;334380;350000
 15243;Tödlicher Kris;1;11806;14500
-19708;Blaues Schmuckstück der Hakkari;2;255781;284201
 13028;Blutfelshammer;1;63999;72499
 32068;Elixier der Eisenhaut;5;249999;299999
 32068;Elixier der Eisenhaut;5;249999;299999
@@ -1335,7 +1319,6 @@
 25207;Schattenmondbeil;1;112993;115900
 7079;Kugel des Wassers;1;9500;9800
 7079;Kugel des Wassers;1;9500;9800
-32468;Netherstaubpollen;13;21236;26546
 7391;Hurtige Stiefel;1;87259;89974
 7391;Hurtige Stiefel;1;87259;89974
 7391;Hurtige Stiefel;1;87259;89974
@@ -1425,7 +1408,6 @@
 7373;Schwärzliche Ledergamaschen;1;7045;8099
 20909;Barbarischer Eisenhalsschmuck;1;10000;12000
 15336;Zänkergamaschen;1;4000;6000
-14096;Eingeborenenweste;1;20000;30000
 22527;Kern der Elemente;5;5000;10000
 22527;Kern der Elemente;20;70897;78775
 22527;Kern der Elemente;2;4331;5414
@@ -1494,7 +1476,6 @@
 23107;Schattendraenit;20;150000;189999
 23107;Schattendraenit;20;150000;189999
 23107;Schattendraenit;20;150000;189999
-14124;Rituelle Handschuhe;1;934;1168
 17720;Bauplan: Schneemeister 9000;1;98700;230000
 31240;Schuppen der Bestie;1;175492;194365
 6338;Silberrute;1;4600;4799
@@ -1502,15 +1483,6 @@
 7082;Essenz der Luft;1;10600;15000
 8836;Arthas' Tränen;10;71425;85000
 647;Schicksal;1;160000;190000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
 7076;Essenz der Erde;1;95000;99000
 7076;Essenz der Erde;1;95000;99000
 7076;Essenz der Erde;1;95000;99000
@@ -1708,14 +1680,6 @@
 2838;Schwerer Stein;2;2584;2871
 2838;Schwerer Stein;20;23999;27999
 2838;Schwerer Stein;20;23999;27999
-23449;Khoriumbarren;2;197500;199900
-23449;Khoriumbarren;2;197500;199900
-23449;Khoriumbarren;10;749999;750000
-23449;Khoriumbarren;10;749999;750000
-23449;Khoriumbarren;4;205000;300000
-23449;Khoriumbarren;2;197500;199900
-23449;Khoriumbarren;2;197500;199900
-23449;Khoriumbarren;10;697500;720000
 4611;Blaue Perle;1;1100;2200
 24478;Jaggalperle;1;4000;5500
 24478;Jaggalperle;1;10000;18000
@@ -1727,8 +1691,6 @@
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
 32062;Elixier der erheblichen Seelenstärke;5;199999;299999
-13145;Riesiger Ogergürtel;1;26729;29699
-13145;Riesiger Ogergürtel;1;17140;30000
 31308;Der Überbringer des Todes;1;267333;289900
 31308;Der Überbringer des Todes;1;257333;261100
 31308;Der Überbringer des Todes;1;257333;303344
@@ -1816,7 +1778,6 @@
 818;Tigerauge;1;50000;80000
 818;Tigerauge;1;50000;80000
 31186;Braxxis' Stab des Schlummers;1;135000;149000
-31186;Braxxis' Stab des Schlummers;1;135000;149000
 7911;Echtsilbererz;20;18000;25000
 7911;Echtsilbererz;20;18000;25000
 7911;Echtsilbererz;20;18000;25000
@@ -1879,12 +1840,6 @@
 27676;Seltsame Sporen;10;23750;29750
 27676;Seltsame Sporen;3;10056;11174
 4454;Kralle von Vultros;1;37960;39999
-12404;Verdichteter Wetzstein;17;4080;5100
-12404;Verdichteter Wetzstein;20;20909;30000
-12404;Verdichteter Wetzstein;20;20909;30000
-12404;Verdichteter Wetzstein;20;20909;30000
-12404;Verdichteter Wetzstein;20;20909;30000
-12404;Verdichteter Wetzstein;20;20909;30000
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7200;7495
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;7200;7495
 23441;Nachtauge;2;150000;163000
@@ -2252,7 +2207,6 @@
 7966;Robuster Schleifstein;20;96000;100000
 7966;Robuster Schleifstein;20;166000;170000
 21876;Urmondstofftasche;1;2450000;2490000
-22907;Rezept: Erstklassiger Manatrank;1;265849;332312
 11178;Großer strahlender Splitter;1;31500;38500
 30810;Siegel des Sonnenzorns;20;199999;229999
 30810;Siegel des Sonnenzorns;20;199999;229999
@@ -2351,7 +2305,6 @@
 32751;Muster: Lebendige Erdschultern;1;584976;649974
 27659;Doppelwarper;15;103375;280000
 27659;Doppelwarper;20;204500;350000
-20867;Onyxgötze;1;10000;20000
 12184;Raptorfleisch;3;1438;1598
 12184;Raptorfleisch;6;2800;3100
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;3799;4749
@@ -2538,7 +2491,6 @@
 25649;Knotenhautlederfetzen;20;50000;66000
 24401;Unbekannte Pflanzenteile;10;70000;70000
 24401;Unbekannte Pflanzenteile;1;7725;8800
-22903;Rezept: Trank der Wahnsinnsstärke;1;149999999;150000000
 23427;Eterniumerz;5;329375;400000
 13130;Windläuferbeinschützer;1;37597;50000
 16206;Arkanitrute;1;371500;415000
@@ -2669,8 +2621,6 @@
 19270;Elementar 3;1;66666;77777
 19270;Elementar 3;1;38750;49999
 24210;Vorlage: Unbeständiges Nachtauge;1;357470;397189
-9224;Elixier des Dämonentötens;20;682096;852620
-9224;Elixier des Dämonentötens;20;682096;852620
 27674;Felshetzerfleisch;5;11500;18800
 24479;Schattenperle;1;303000;350000
 25699;Kristalldurchdrungenes Leder;10;148750;149999
@@ -2914,8 +2864,6 @@
 4234;Schweres Leder;1;7500;7500
 4234;Schweres Leder;20;99900;111100
 4234;Schweres Leder;20;104000;110500
-19711;Grünes Schmuckstück der Hakkari;1;350000;400000
-19711;Grünes Schmuckstück der Hakkari;1;138569;153966
 29723;Muster: Kobraschuppenkapuze;1;120000;120000
 29723;Muster: Kobraschuppenkapuze;1;100000;110000
 20907;Robuster Bronzering;1;2050;2500

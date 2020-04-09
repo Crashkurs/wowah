@@ -11,7 +11,6 @@
 21877;Netherstoff;20;21648;27060
 21877;Netherstoff;20;21648;27060
 21877;Netherstoff;19;22800;28000
-22850;Erstklassiger Verjüngungstrank;5;122500;150000
 21884;Urfeuer;1;208000;219999
 21884;Urfeuer;1;208000;219999
 21884;Urfeuer;1;208000;219999
@@ -34,21 +33,12 @@
 32227;Purpurspinell;1;2900000;2950000
 32227;Purpurspinell;1;2900000;2950000
 24206;Vorlage: Schimmernder Dämmerstein;1;105000;120000
-14554;Beinplatten des Wolkenbehüters;1;193180;200000
 4402;Kleiner Flammenbeutel;3;20845;23161
 4402;Kleiner Flammenbeutel;5;34742;38603
 7909;Aquamarin;2;3000;0
 30036;Gürtel des langen Weges;1;7359999;9199999
 15992;Dichtes Sprengpulver;20;74500;75000
 31288;Des Meisters Treter;1;44962;100000
-21991;Schwerer Netherstoffverband;20;130000;132000
-21991;Schwerer Netherstoffverband;20;130000;132000
-21991;Schwerer Netherstoffverband;20;130000;150000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;62720;78400
-21991;Schwerer Netherstoffverband;20;60000;75000
 4338;Magiestoff;2;750;0
 4338;Magiestoff;7;2625;11000
 30810;Siegel des Sonnenzorns;13;53900;60000
@@ -57,8 +47,6 @@
 3864;Citrin;2;2400;0
 22574;Feuerpartikel;6;83600;90000
 22574;Feuerpartikel;3;31800;40000
-21949;Vorlage: Rubinschlange;1;4502500;4900000
-21949;Vorlage: Rubinschlange;1;3903750;4000000
 24401;Unbekannte Pflanzenteile;10;99900;109900
 24401;Unbekannte Pflanzenteile;10;99900;109900
 24401;Unbekannte Pflanzenteile;1;9990;10990
@@ -69,11 +57,8 @@
 20725;Nexuskristall;1;29570;38463
 31277;Band des Pfadfinders;1;175836;219795
 13093;Rotglutring;1;24158;26842
-22390;Pläne: Willensbrecher;1;3500000;4000000
-22390;Pläne: Willensbrecher;1;3500000;4000000
 7453;Muster: Hurtige Stiefel;1;23462;26069
 22448;Kleiner Prismasplitter;1;50100;53999
-2841;Bronzebarren;16;11916;14896
 22445;Arkaner Staub;20;206784;214080
 22445;Arkaner Staub;20;206784;214080
 22445;Arkaner Staub;20;219980;219980
@@ -124,10 +109,8 @@
 22849;Eisenschildtrank;5;179999;189999
 3486;Schwerer Schleifstein;7;1050;0
 24028;Feingeschliffener lebendiger Rubin;1;225000;229999
-13058;Khoospitze;1;23604;29506
 2080;Hügelkämpferaxt;1;9885;10000
 22575;Lebenspartikel;7;54200;56600
-14580;Dokebiarmschienen;1;20000;40000
 32229;Löwenauge;1;1700000;1850000
 32229;Löwenauge;1;1700000;1850000
 32229;Löwenauge;1;1700000;1850000
@@ -138,40 +121,18 @@
 32229;Löwenauge;1;1700000;1850000
 32229;Löwenauge;1;1700000;1850000
 22576;Manapartikel;8;54800;100000
-14506;Muster: Teufelsstoffrobe;1;30000;40000
-22309;Muster: Große Verzauberertasche;1;108750;120000
 11302;Uthers Kraft;1;47130;60000
-7730;Kobaltzermalmer;1;15219;24999
 2621;Gugel der Totenbeschwörung;1;13535;15500
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-32228;Engelssaphir;1;280000;290000
-14552;Palisadenschulterstücke;1;50290;67700
-14552;Palisadenschulterstücke;1;40290;50000
-14552;Palisadenschulterstücke;1;38000;47500
 11178;Großer strahlender Splitter;1;32000;34500
 11178;Großer strahlender Splitter;1;32000;34500
 11178;Großer strahlender Splitter;1;32000;34500
-14553;Schärpe der Gnade;1;899999;999999
 23736;Teufelseisenbombe;10;79600;99500
 23736;Teufelseisenbombe;10;79600;99500
 23736;Teufelseisenbombe;10;79600;99500
 23736;Teufelseisenbombe;10;79600;99500
 3867;Pläne: Goldener Eisenzerstörer;1;6000;6500
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;6703;8379
-23119;Funkelnder Azurmondstein;1;6703;8379
-23119;Funkelnder Azurmondstein;1;7056;8820
-23119;Funkelnder Azurmondstein;1;7056;8820
 14603;Aufsehermantel;1;6574;7700
 2566;Opferroben;1;3383;4400
-33052;Fischerschmaus;20;199900;199900
-33052;Fischerschmaus;5;49900;49900
 14114;Ureinwohnerfußlappen;1;363;750
 24167;Vorlage: Lebendiger Rubinanhänger;1;186800;196000
 16049;Bauplan: Dunkeleisenbombe;1;500000;600000
@@ -184,12 +145,7 @@
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
 7912;Robuster Stein;20;3000;0
-22393;Kodex: Gebet des Schattenschutzes;1;91219;103408
-22393;Kodex: Gebet des Schattenschutzes;1;39999;49999
 15982;Blutgewebte Rute;1;30000;40000
-14551;Handschützer des Klingenmeisters;1;110000;115000
-14551;Handschützer des Klingenmeisters;1;92808;105342
-14551;Handschützer des Klingenmeisters;1;114500;115500
 22572;Luftpartikel;5;33000;40000
 2318;Leichtes Leder;20;17550;19500
 2318;Leichtes Leder;20;17550;19500
@@ -205,14 +161,9 @@
 25649;Knotenhautlederfetzen;20;36000;37000
 31150;Handschuhe der Frömmigkeit;1;69559;88199
 13046;Blanchards Schädelbrecher;1;32563;35000
-16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
-16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
 19704;Münze der Sandwüter;1;39949;49937
-14555;Alcors Sonnenschneide;1;316350;320000
 31196;Amulett der Weihung;1;82937;98010
 7525;Hauchzarte Armschienen;1;4659;4900
-22851;Fläschchen der Stärkung;1;129999;130099
-22851;Fläschchen der Stärkung;1;129999;130099
 14047;Runenstoff;20;22000;23456
 14047;Runenstoff;20;22000;23456
 14047;Runenstoff;20;22000;23456
@@ -244,30 +195,15 @@
 774;Malachit;2;592;872
 774;Malachit;2;592;872
 774;Malachit;2;592;872
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
 19706;Münze der Blutskalpe;4;143660;179576
 4037;Silberfadenhose;1;29317;31566
 2447;Friedensblume;16;5440;5500
-22388;Pläne: Gamaschen der Titanen;1;650000;700000
-22220;Pläne: Dunkler Griff des Zerstörers;1;2999999;2999999
 31148;Dämonenbalgschiftung;1;41673;52000
 25896;Mächtiger Erdsturmdiamant;1;818857;859800
 31287;Ehrenwachenschild der Draenei;1;126735;130000
 23117;Azurmondstein;8;27000;29000
 2721;Heiliges Tuch;1;2973;6000
 2911;Kellers Gurt;1;116787;130110
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
-33093;Manatrankeinspritzung;20;580000;599980
 791;Knorriger Eschenstab;1;30603;47000
 2592;Wollstoff;20;9090;10000
 2592;Wollstoff;20;9590;9800
@@ -278,8 +214,6 @@
 16203;Große ewige Essenz;1;90000;94900
 16203;Große ewige Essenz;1;90000;94900
 24065;Schillernder Talasit;1;51199;61199
-14508;Muster: Teufelsstoffschultern;1;39959;39999
-14508;Muster: Teufelsstoffschultern;1;30000;40000
 32897;Mal der Illidari;5;45000;47500
 32897;Mal der Illidari;5;45000;47500
 32897;Mal der Illidari;5;45000;47500
@@ -288,7 +222,6 @@
 27501;Rolle der Willenskraft V;1;20150;30000
 14549;Stiefel der Vermeidung;1;1499999;1500000
 14549;Stiefel der Vermeidung;1;1499999;1500000
-8401;Muster: Feste Skorpidgamaschen;1;2062;4000
 19701;Münze der Gurubashi;1;37908;47385
 32231;Pyrostein;1;2400000;2500000
 32231;Pyrostein;1;2400000;2500000
@@ -306,6 +239,5 @@
 22573;Erdpartikel;5;3000;4000
 23449;Khoriumbarren;20;2505000;2550000
 23449;Khoriumbarren;20;2505000;2550000
-14505;Muster: Hexerzwirnturban;1;140000;150000
 24478;Jaggalperle;20;95000;99999
 24478;Jaggalperle;20;95000;99999

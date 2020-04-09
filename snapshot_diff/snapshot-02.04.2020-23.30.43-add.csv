@@ -24,28 +24,23 @@
 17200;Rezept: Lebkuchen;1;109555;138694
 17200;Rezept: Lebkuchen;1;109000;138000
 2245;Helm von Narv;1;72000;76500
-3019;Adligenrobe;1;49900;49900
 9832;Lederschuppenhandschuhe;1;47840;59800
 13444;Erheblicher Manatrank;1;12250;14000
 20827;Ring der Silbermacht;1;42964;53705
 20827;Ring der Silbermacht;1;42964;53705
-3020;Ausdauernde Kappe;1;9982;12900
 11177;Kleiner strahlender Splitter;19;10101;10101
 13101;Schuhe des Wolfsläufers;1;91477;100000
 18945;Dunkeleisenrückstände;100;31600;39500
 18945;Dunkeleisenrückstände;100;31600;39500
 18945;Dunkeleisenrückstände;100;31600;39500
 18945;Dunkeleisenrückstände;100;31600;39500
-3039;Kurzer Eschenbogen;1;8915;9500
 19278;Portal 2;1;18950;18999
 10939;Große Magieessenz;1;17000;17200
 11754;Schwarzer Diamant;2;100;0
 11754;Schwarzer Diamant;1;1010;1070
-24051;Massiver Dämmerstein;1;149475;154999
 16055;Bauplan: Arkane Bombe;1;259000;260000
 11175;Große Netheressenz;2;103500;109500
 11175;Große Netheressenz;1;54900;54920
-22835;Elixier der erheblichen Schattenmacht;20;350000;450000
 1725;Große Reisetasche;1;15500;15500
 1529;Jade;1;15000;30000
 1529;Jade;1;49999;49999
@@ -74,7 +69,6 @@
 23095;Klobiger Blutgranat;1;3750;49900
 15524;Wachpostenübermantel;1;49203;51504
 19270;Elementar 3;1;29950;29999
-23835;Gnomischer Geflügelisierer;1;4000000;4996700
 25649;Knotenhautlederfetzen;20;42000;44500
 25649;Knotenhautlederfetzen;20;42000;44500
 25649;Knotenhautlederfetzen;20;42000;44500
@@ -91,7 +85,6 @@
 4306;Seidenstoff;20;12704;15880
 4306;Seidenstoff;20;12704;15880
 4306;Seidenstoff;14;25500;27500
-9932;Brigadereif;1;11992;14999
 23436;Lebendiger Rubin;1;189998;193998
 23436;Lebendiger Rubin;1;175600;182000
 23436;Lebendiger Rubin;1;189998;193998
@@ -105,9 +98,6 @@
 22449;Großer Prismasplitter;1;148900;148999
 22449;Großer Prismasplitter;1;148900;148999
 22449;Großer Prismasplitter;1;148900;148999
-23737;Adamantitgranate;10;97500;100000
-9908;Königliches Cape;1;13052;16316
-9838;Bebänderter Umhang;1;6561;7500
 25699;Kristalldurchdrungenes Leder;4;29500;31500
 25699;Kristalldurchdrungenes Leder;5;141236;151545
 25699;Kristalldurchdrungenes Leder;5;141236;151545
@@ -134,8 +124,6 @@
 7613;Muster: Grüne Lederrüstung;1;15600;20000
 7613;Muster: Grüne Lederrüstung;1;15048;20000
 22450;Kristall der Leere;2;74500;79000
-9878;Zaubererhut;1;43425;50000
-15934;Weisenstock;1;20000;40000
 4304;Dickes Leder;1;3962;4953
 4304;Dickes Leder;14;27736;34671
 4304;Dickes Leder;20;127000;134500
@@ -220,7 +208,6 @@
 21755;Aquamarinanhänger des Kriegers;1;13176;16470
 12364;Gewaltiger Smaragd;4;75000;79500
 12364;Gewaltiger Smaragd;1;15000;20000
-3037;Peitschenholzdoppelbogen;1;17307;21634
 18335;Makelloser schwarzer Diamant;1;212500;224500
 12800;Azerothischer Diamant;1;115000;120000
 12800;Azerothischer Diamant;1;113500;120000
@@ -241,7 +228,6 @@
 25707;Teufelsbalg;1;18899;19999
 25707;Teufelsbalg;1;18899;19999
 23622;Pläne: Stahlgriffstulpen;1;209452;261815
-23536;Helm der Eidestreue;1;5503452;6000000
 21884;Urfeuer;1;226000;232900
 21884;Urfeuer;1;226000;232900
 21884;Urfeuer;1;226000;232900
@@ -275,9 +261,7 @@
 15580;Spiegelpanzerkopfband;1;45587;59484
 11135;Große Mystikeressenz;8;39000;39100
 11135;Große Mystikeressenz;8;31000;33000
-1484;Hexenstock;1;799900;799900
 3652;Jagdrundschild;1;25000;25000
-3018;Balg von Lupos;1;199900;199900
 14227;Eisenweberseide;1;60000;66600
 14227;Eisenweberseide;1;60000;66600
 19260;Kriegsfürst 3;1;30000;30000
@@ -296,7 +280,6 @@
 9251;Oberes Kartenfragment;1;89999;99999
 9841;Bebänderte Gamaschen;1;49521;52652
 11208;Formel: Waffe - Dämonentöten;1;9925;10000
-9836;Bebänderte Rüstung;1;6400;8000
 12052;Ring des Mondes;1;4800;6000
 2776;Golderz;10;6400;8000
 2776;Golderz;10;6400;8000
@@ -304,7 +287,6 @@
 2776;Golderz;20;15000;17000
 2776;Golderz;10;6400;8000
 2776;Golderz;10;6400;8000
-9853;Beschwörersattelgurt;1;7500;10000
 20964;Aquamarinsiegel;1;21267;46584
 20964;Aquamarinsiegel;1;21267;26584
 2318;Leichtes Leder;10;5864;7330
@@ -317,7 +299,6 @@
 2318;Leichtes Leder;10;5864;7330
 2318;Leichtes Leder;1;999;999
 2318;Leichtes Leder;20;15000;20000
-9898;Jazeraintumhang;1;20000;30000
 8846;Gromsblut;1;9775;9790
 6470;Deviatschuppe;17;6088;11360
 22794;Teufelslotus;1;32999;34999
@@ -340,7 +321,6 @@
 23633;Pläne: Runenverzierter Hammer;1;180000;180000
 11176;Traumstaub;14;11648;14560
 7428;Schattenkatzenbalg;1;930;990
-24303;Muster: Gurt der Zerstörung;1;767676;777777
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5262;5389
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5262;5389
 11083;Seelenstaub;20;64400;64444
@@ -439,7 +419,6 @@
 22832;Erstklassiger Manatrank;5;142500;142500
 22832;Erstklassiger Manatrank;5;142500;142500
 22832;Erstklassiger Manatrank;5;142500;142500
-15846;Salzstreuer;1;391250;400000
 22834;Elixier der erheblichen Verteidigung;5;23530;82890
 22834;Elixier der erheblichen Verteidigung;5;23530;82890
 22834;Elixier der erheblichen Verteidigung;5;23530;82890
@@ -502,7 +481,6 @@
 12808;Essenz des Untodes;1;11000;12000
 12808;Essenz des Untodes;1;11500;12000
 8398;Muster: Feste Skorpidhandschuhe;1;7987;7999
-9873;Renegatenschild;1;20000;30000
 9873;Renegatenschild;1;20000;30000
 11185;Grüner Machtkristall;10;70500;75000
 23079;Tiefenperidot;20;173460;194040
@@ -576,12 +554,10 @@
 10051;Rote Magiestofftasche;1;15550;15599
 10051;Rote Magiestofftasche;1;15550;15599
 10051;Rote Magiestofftasche;1;15550;15599
-9893;Jägersmanngamaschen;1;19000;25000
 8395;Muster: Feste Skorpidbrustplatte;1;6900;6999
 25700;Teufelsschuppen;5;97220;106525
 25700;Teufelsschuppen;12;241500;255000
 25700;Teufelsschuppen;5;85220;106525
-9929;Brigadeumhang;1;20000;30000
 7910;Sternrubin;5;260000;274500
 7910;Sternrubin;5;260000;274500
 7910;Sternrubin;5;260000;274500
@@ -617,7 +593,6 @@
 1705;Geringer Mondstein;1;37000;39500
 1705;Geringer Mondstein;1;37000;39500
 1705;Geringer Mondstein;1;37000;39500
-9891;Jägersmanngürtel;1;20000;30000
 11993;Tonring;1;3000;4500
 6037;Echtsilberbarren;20;89980;99980
 6037;Echtsilberbarren;20;89980;99980
@@ -629,8 +604,6 @@
 6037;Echtsilberbarren;14;62986;69986
 6037;Echtsilberbarren;20;37500;50000
 1455;Schwarzfelsheldenaxt;1;14051;20089
-9941;Bannzauberermantel;1;19573;26092
-9957;Kriegstreiberbrustharnisch;1;39500;51001
 8146;Tückische Klaue;5;3750;9900
 21881;Netherweberseide;10;166140;175770
 21881;Netherweberseide;10;166140;175770
@@ -653,9 +626,6 @@
 21881;Netherweberseide;5;49900;55000
 21881;Netherweberseide;5;49900;55000
 21881;Netherweberseide;10;179900;198700
-23426;Khoriumerz;5;174975;199975
-23426;Khoriumerz;5;174975;199975
-23426;Khoriumerz;5;174975;199975
 23077;Blutgranat;1;3750;4500
 23077;Blutgranat;1;3750;4500
 23077;Blutgranat;16;143984;159984
@@ -670,7 +640,6 @@
 7911;Echtsilbererz;6;5697;7122
 25697;Armschienen des Teufelspirschers;1;209999;209999
 25697;Armschienen des Teufelspirschers;1;209999;209999
-9882;Zauberersphäre;1;19276;24095
 12359;Thoriumbarren;20;28000;30000
 12359;Thoriumbarren;17;15300;0
 12359;Thoriumbarren;20;28000;35000
@@ -699,6 +668,5 @@
 12691;Pläne: Wilddornpanzerung;1;12500;13500
 5785;Dicke Murlocschuppe;10;29990;39990
 12202;Tigerfleisch;4;670;712
-27676;Seltsame Sporen;10;23750;29750
 24055;Unbeständiges Nachtauge;1;156655;159998
 24055;Unbeständiges Nachtauge;1;109999;158899

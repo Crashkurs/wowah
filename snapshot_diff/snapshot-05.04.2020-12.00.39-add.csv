@@ -1,6 +1,5 @@
 7363;Muster: Langfingerhandschuhe;1;4000;0
 13011;Silbergefütterter Gürtel;1;18261;20290
-7736;Gefechtskeule;1;30000;44500
 21929;Flammenspessarit;18;170910;179532
 21929;Flammenspessarit;20;189900;199480
 21929;Flammenspessarit;20;189900;199480
@@ -9,44 +8,7 @@
 21929;Flammenspessarit;20;189900;199480
 21929;Flammenspessarit;20;189900;199480
 7086;Muster: Irdener Seidengürtel;1;10562;19000
-14659;Skorpashigamaschen;1;19382;29300
-14554;Beinplatten des Wolkenbehüters;1;193180;200000
 7070;Elementarwasser;1;8900;9500
-7527;Kabalistenbrustharnisch;1;36108;45136
-14661;Bewahrerkordel;1;10991;15999
-15966;Giftschleierkugel;1;32724;48405
-21991;Schwerer Netherstoffverband;20;130000;132000
-21991;Schwerer Netherstoffverband;20;130000;132000
-21991;Schwerer Netherstoffverband;20;62720;78400
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;60000;75000
-21991;Schwerer Netherstoffverband;20;130000;150000
-21991;Schwerer Netherstoffverband;20;60000;75000
-15947;Blutroter Stern;1;20000;29900
-7492;Hauptmannsumhang;1;9648;12060
-15760;Muster: Eisenfederbrustplatte;1;45500;60000
-14499;Muster: Mondstofftasche;1;20000;20000
-14499;Muster: Mondstofftasche;1;11250;30000
-15757;Muster: Tückische Lederhose;1;12351;15439
-7479;Waldläuferhelm;1;15593;19492
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;45000;50000
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;45000;50000
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;20;39184;48980
-2871;Schwerer Wetzstein;17;33306;41633
-21949;Vorlage: Rubinschlange;1;3903750;4000000
-21949;Vorlage: Rubinschlange;1;4502500;4900000
-15970;Eingeborenenzweig;1;6000;8000
-7734;Sechsdämonentasche;1;25028;39542
-7734;Sechsdämonentasche;1;25028;39542
-7734;Sechsdämonentasche;1;35231;39146
-7734;Sechsdämonentasche;1;35090;38989
-15846;Salzstreuer;1;391250;400000
-13045;Zäher Hammer;1;46213;89000
-13045;Zäher Hammer;1;83500;88500
 2835;Rauer Stein;1;473;526
 22839;Zerstörungstrank;5;174395;174395
 22839;Zerstörungstrank;5;174395;174395
@@ -57,174 +19,43 @@
 22839;Zerstörungstrank;5;174395;174395
 22839;Zerstörungstrank;5;174395;174395
 6149;Großer Manatrank;5;8700;10000
-14419;Seidensandarmschienen;1;29000;30000
-14669;Bewahrermantel;1;29771;37214
 14581;Dokebibrustschutz;1;7004;8755
-13040;Herzsuchende Armbrust;1;75999;94999
-13040;Herzsuchende Armbrust;1;74166;80000
-13040;Herzsuchende Armbrust;1;63579;70644
-13040;Herzsuchende Armbrust;1;44166;90000
-13040;Herzsuchende Armbrust;1;89999;99999
-13040;Herzsuchende Armbrust;1;75999;94999
-14459;Elunarischer Umhang;1;38872;43192
-8490;Katzentransportkorb (Siamkatze);1;199900;199900
-8490;Katzentransportkorb (Siamkatze);1;250000;280000
-22390;Pläne: Willensbrecher;1;3500000;4000000
-22390;Pläne: Willensbrecher;1;3500000;4000000
 783;Leichter Balg;2;3050;3900
-857;Großer roter Sack;1;3750;5500
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;11;8000;10061
-2841;Bronzebarren;20;13680;17100
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;1;723;724
-2841;Bronzebarren;1;723;724
-2841;Bronzebarren;20;13500;14500
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-2841;Bronzebarren;20;11500;15000
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;14902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-14485;Muster: Hexerzwirngamaschen;1;150000;160000
-14746;Titanischer Gürtel;1;10000;25000
 14470;Muster: Runenstofftunika;1;6000;6000
 23439;Edeltopas;20;2222222;2333333
-14492;Muster: Teufelsstoffstiefel;1;9900;9900
-2863;Grober Wetzstein;9;10128;11254
-2862;Rauer Wetzstein;20;10000;12000
-2862;Rauer Wetzstein;20;9408;11760
-8399;Muster: Feste Skorpidstiefel;1;1875;9900
 14507;Muster: Mondstoffschultern;1;15000;35000
-14407;Steinstoffweste;1;13651;17064
-14407;Steinstoffweste;1;13651;17064
-13042;Schwert des Magistraten;1;26394;40000
 720;Muskelprotzhandschuhe;1;3500;0
 7360;Muster: Dunkle Lederhandschuhe;1;4000;4900
-14484;Muster: Hellstoffumhang;1;21722;25000
-14484;Muster: Hellstoffumhang;1;34960;43700
-14484;Muster: Hellstoffumhang;1;32800;46000
-14484;Muster: Hellstoffumhang;1;6000;8800
-14504;Muster: Runenstoffschultern;1;30000;40000
 6612;Weisenstiefel;1;4500;6000
-15745;Muster: Runenverzierter Ledergürtel;1;14800;14900
 15551;Dickschuppenbeinschützer;1;6657;7900
 13455;Großer Steinschildtrank;1;30000;40000
 13455;Großer Steinschildtrank;1;30000;40000
-19275;Elementar 8;1;549999;589999
-19275;Elementar 8;1;559947;599934
-14580;Dokebiarmschienen;1;20000;40000
 34330;Schweres Knotenhautrüstungsset;4;195000;235000
 34330;Schweres Knotenhautrüstungsset;4;195000;235000
-14477;Muster: Geisterzwirnhandschuhe;1;140000;150000
-14374;Blutrote Sandalen;1;220000;230000
-14374;Blutrote Sandalen;1;199900;199900
-15772;Muster: Teufelssauriergamaschen;1;45599;56699
-15772;Muster: Teufelssauriergamaschen;1;45600;57000
-14506;Muster: Teufelsstoffrobe;1;30000;40000
-22309;Muster: Große Verzauberertasche;1;108750;120000
-8394;Basiliskengehirn;1;3650;4563
-15975;Regenmacherszepter;1;7747;9684
-15975;Regenmacherszepter;1;7747;9684
-7730;Kobaltzermalmer;1;15219;24999
-15737;Muster: Schimärenstiefel;1;18759;20843
-15737;Muster: Schimärenstiefel;1;6530;8163
-15761;Muster: Frostsäblerhandschuhe;1;9375;15000
-14552;Palisadenschulterstücke;1;50290;67700
-14552;Palisadenschulterstücke;1;40290;50000
-14552;Palisadenschulterstücke;1;38000;47500
 17709;Rezept: Elixier der Frostmacht;1;790750;800000
 19274;Elementar 7;1;120000;150000
-14553;Schärpe der Gnade;1;899999;999999
 19279;Portal 3;1;29548;37810
-15742;Muster: Kriegsbärenharnisch;1;89999;99999
-15742;Muster: Kriegsbärenharnisch;1;78199;87999
-14466;Muster: Froststofftunika;1;39600;42000
-15928;Silberfadenrute;1;2387;10000
-14453;Hochgeborenenroben;1;23515;27900
-14453;Hochgeborenenroben;1;15677;28000
 11137;Visionenstaub;5;29975;32740
 11137;Visionenstaub;5;29975;32740
-14583;Dokebihandschuhe;1;1999;4000
 6358;Öliges Schwarzmaul;20;249999;249999
-8398;Muster: Feste Skorpidhandschuhe;1;4581;5727
-8398;Muster: Feste Skorpidhandschuhe;1;4823;6029
-15930;Imperiales rotes Szepter;1;13719;28000
-15930;Imperiales rotes Szepter;1;9146;30000
 6381;Heller Umhang;1;4000;5000
 6381;Heller Umhang;1;5937;6900
 2842;Silberbarren;13;59280;74100
-13038;Windhauch;1;17365;21707
-15731;Muster: Runenverzierte Lederstulpen;1;6000;6000
-15731;Muster: Runenverzierte Lederstulpen;1;4560;5700
-15731;Muster: Runenverzierte Lederstulpen;1;6399;7999
-15894;Borstenlederrundschild;1;5766;7208
 6399;Geschmückte Schultern;1;2458;4500
-22393;Kodex: Gebet des Schattenschutzes;1;39999;49999
-22393;Kodex: Gebet des Schattenschutzes;1;91219;103408
-19277;Portalkartenset;1;13000000;14000000
-2877;Mitstreiterclaymore;1;12292;15366
-2877;Mitstreiterclaymore;1;11677;14597
-2877;Mitstreiterclaymore;1;11677;14597
-14431;Handschützer des Windhetzers;1;9206;11508
 6271;Muster: Rote Leinenweste;1;7523;8359
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;72250;85000
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;154999;154999
-22522;Überragendes Zauberöl;1;112030;115000
-22522;Überragendes Zauberöl;1;112030;115000
-22522;Überragendes Zauberöl;1;112030;115000
-22522;Überragendes Zauberöl;1;112030;115000
-22522;Überragendes Zauberöl;1;116650;117300
-22522;Überragendes Zauberöl;1;116650;117300
-14551;Handschützer des Klingenmeisters;1;92808;105342
-14551;Handschützer des Klingenmeisters;1;114500;115500
-14551;Handschützer des Klingenmeisters;1;110000;115000
-16112;Handbuch: Schwerer Seidenverband;1;30825;50000
 8402;Muster: Fester Skorpidhelm;1;3062;5000
-7465;Ritterwappen;1;21590;26988
 6263;Blauer Overall;1;2883;3900
 6263;Blauer Overall;1;2883;3900
-16113;Handbuch: Magiestoffverband;1;31875;50000
-16113;Handbuch: Magiestoffverband;1;31875;50000
-8836;Arthas' Tränen;20;39950;40000
-8836;Arthas' Tränen;12;21696;25188
-8836;Arthas' Tränen;20;36160;41980
-14744;Titanischer Brustschutz;1;7392;9240
-8397;Muster: Feste Skorpidarmschienen;1;2280;2850
 22861;Fläschchen des blendenden Lichts;5;797996;997495
 22861;Fläschchen des blendenden Lichts;5;997490;997490
 22861;Fläschchen des blendenden Lichts;5;997490;997490
 22861;Fläschchen des blendenden Lichts;5;999999;1049999
 22861;Fläschchen des blendenden Lichts;5;999999;1049999
 22861;Fläschchen des blendenden Lichts;5;999999;1049999
-14725;Kriegsbemalungsgürtelbund;1;19900;19900
-16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
-16056;Bauplan: Fehlerloses Arkanitgewehr;1;1400000;1500000
-14555;Alcors Sonnenschneide;1;316350;320000
 8170;Unverwüstliches Leder;2;11500;17000
 5775;Muster: Schwarzes Seidenpack;1;92992;116241
 13124;Ravasaurusschuppenstiefel;1;12000;0
 15752;Muster: Lebendige Gamaschen;1;149360;169317
-14429;Manschetten des Windhetzers;1;7660;9576
 22838;Hasttrank;5;217000;229799
 22838;Hasttrank;5;217000;229799
 22838;Hasttrank;5;217000;229799
@@ -250,12 +81,7 @@
 22838;Hasttrank;5;217000;229799
 22838;Hasttrank;5;217000;229799
 7067;Elementarerde;1;23997;29997
-14585;Dokebigamaschen;1;13939;15487
-13043;Klinge der Titanen;1;39960;49950
-13043;Klinge der Titanen;1;39960;49950
-14408;Steinstoffstiefel;1;3412;7000
 8831;Lila Lotus;19;8550;75000
-14494;Muster: Hellstoffhose;1;12202;15253
 22840;Elixier des erheblichen Magierbluts;20;499999;559999
 7556;Zwielichtkugel;1;38080;69000
 774;Malachit;5;3027;3363
@@ -272,83 +98,22 @@
 11175;Große Netheressenz;1;39000;49900
 11175;Große Netheressenz;1;39000;49900
 11175;Große Netheressenz;1;39000;49900
-8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
-8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
-8494;Papageienkäfig (Hyazinthara);1;6500000;7000000
-8494;Papageienkäfig (Hyazinthara);1;6499900;6499900
 12974;Der schwarze Ritter;1;23723;26359
-7742;Bauplan: Gnomische Tarnvorrichtung;1;200000;250000
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
 6572;Verteidigungsstarker Schild;1;11984;13500
-14587;Dokebimantel;1;7545;10505
-14445;Giftschleierseidenroben;1;18529;30000
-15755;Muster: Schimärenweste;1;145000;150000
-22388;Pläne: Gamaschen der Titanen;1;650000;700000
-22220;Pläne: Dunkler Griff des Zerstörers;1;2999999;2999999
-14412;Steinstoffschulterklappen;1;7353;9192
-15747;Muster: Frostsäblergamaschen;1;7950;7950
-15747;Muster: Frostsäblergamaschen;1;8000;10000
-15747;Muster: Frostsäblergamaschen;1;8641;10711
-15747;Muster: Frostsäblergamaschen;1;19021;21134
-15747;Muster: Frostsäblergamaschen;1;8641;10711
-15747;Muster: Frostsäblergamaschen;1;19021;21134
-15747;Muster: Frostsäblergamaschen;1;7900;7900
 2838;Schwerer Stein;2;1272;1413
 12800;Azerothischer Diamant;1;35000;35000
-14497;Muster: Mondstoffgamaschen;1;76929;96162
-14491;Muster: Runenstoffhose;1;26719;38576
-14491;Muster: Runenstoffhose;1;14000;14000
-14491;Muster: Runenstoffhose;1;14500;18000
-14491;Muster: Runenstoffhose;1;15000;18300
-7476;Majestätische Schärpe;1;30000;40000
 791;Knorriger Eschenstab;1;10603;12000
-15976;Distelfellzweig;1;13267;16584
-19273;Elementar 6;1;988750;999999
-8827;Elixier des Wasserwandelns;20;15000;19000
-7522;Hauchzarte Stiefel;1;15881;19852
 6419;Glyphenverzierte Fäustlinge;1;5448;7500
-14508;Muster: Teufelsstoffschultern;1;39959;39999
-14508;Muster: Teufelsstoffschultern;1;30000;40000
-8393;Skorpokzange;6;22800;28500
-14467;Muster: Froststoffrobe;1;30109;41233
-15768;Muster: Tückischer Ledergürtel;1;89999;99999
 818;Tigerauge;4;3474;3860
-8401;Muster: Feste Skorpidgamaschen;1;2062;4000
-15892;Töterschild;1;11462;14328
 13492;Rezept: Läuterungstrank;1;13500;17000
 33872;Feuriger Würztalbuk;20;114500;128000
 13016;Killerschredder;1;7156;9999
-13044;Dämonentöter;1;62720;78400
-13044;Dämonentöter;1;79200;160000
 15577;Spiegelpanzerarmschienen;1;4475;6900
-13041;Wächterklinge;1;14896;18620
-13041;Wächterklinge;1;9500;18500
-8395;Muster: Feste Skorpidbrustplatte;1;1500;9900
-8395;Muster: Feste Skorpidbrustplatte;1;6236;6929
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
 5764;Grünes Seidenpack;1;8000;10000
 5498;Kleine irisierende Perle;4;5980;6644
 4306;Seidenstoff;20;12500;13500
 4306;Seidenstoff;20;12500;13500
 4306;Seidenstoff;20;12500;13500
-14505;Muster: Hexerzwirnturban;1;140000;150000
 14344;Großer glänzender Splitter;1;44540;55495
-7517;Hauchzarte Tunika;1;30000;40000
-14399;Widerstandsfähige Stiefel;1;2197;4500
-15935;Haltbare Rute;1;9533;13292
-14479;Muster: Hellstoffhandschuhe;1;5257;5841
-14479;Muster: Hellstoffhandschuhe;1;4438;5548
-14479;Muster: Hellstoffhandschuhe;1;3500;5900
 4337;Dicke Spinnenseide;10;11250;12000
 8318;Alabasterplattengamaschen;1;33933;68000
-14478;Muster: Hellstoffrobe;1;89999;99999
-15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000
-15763;Muster: Blaue Drachenschuppenschultern;1;900000;1000000
-14418;Seidensandstiefel;1;9913;12392

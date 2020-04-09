@@ -1,19 +1,15 @@
-7561;Bauplan: Goblinüberbrückungskabel;1;1600;2000
 11174;Geringe Netheressenz;1;21560;26950
 11174;Geringe Netheressenz;1;21560;26950
 11177;Kleiner strahlender Splitter;4;4262;5328
 24243;Adamantitpulver;5;14800;18500
 21884;Urfeuer;1;178200;198000
 21884;Urfeuer;1;178200;198000
-14447;Hochgeborenenfußpolster;1;28163;35204
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
 24048;Glatter Dämmerstein;1;120000;169999
-14398;Widerstandsfähige Tunika;1;11637;14499
-7415;Derwischschiftung;1;20000;30000
 4338;Magiestoff;20;120000;149900
 4338;Magiestoff;20;120000;149900
 4338;Magiestoff;3;2400;3000
@@ -26,69 +22,31 @@
 30810;Siegel des Sonnenzorns;10;79990;99990
 30810;Siegel des Sonnenzorns;10;79990;99990
 30810;Siegel des Sonnenzorns;10;79990;99990
-1716;Robe der Weisen;1;7600;20000
-1716;Robe der Weisen;1;39700;39800
-1716;Robe der Weisen;1;39644;49556
-7428;Schattenkatzenbalg;7;8585;9539
-7428;Schattenkatzenbalg;1;850;910
 14499;Muster: Mondstofftasche;1;11250;20000
 11207;Formel: Waffe - Feurige Waffe;1;200000;300000
-7424;Phalanxschiftung;1;4063;8000
-25650;Knotenhautrüstungsset;1;43327;56659
-25650;Knotenhautrüstungsset;1;43327;56659
-25650;Knotenhautrüstungsset;1;43327;56659
-7734;Sechsdämonentasche;1;34999;38979
 7559;Runenverzierter Stock;1;999;2000
-14419;Seidensandarmschienen;1;29000;30000
 32230;Schattensangamethyst;1;410000;420000
 32230;Schattensangamethyst;1;410000;420000
 32230;Schattensangamethyst;1;410000;420000
-14459;Elunarischer Umhang;1;38872;43192
 2140;Schnitzmesser;1;484;1000
-7453;Muster: Hurtige Stiefel;1;45600;57000
-1718;Basiliskenbalghose;1;22060;30000
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
-7613;Muster: Grüne Lederrüstung;1;16902;21128
 32420;Nachtend;1;1980517;1990000
 14474;Muster: Froststoffhandschuhe;1;4500;4500
-4611;Blaue Perle;1;2385;2982
-4611;Blaue Perle;1;2385;2982
 4461;Raptorbalg;5;948;1185
 4461;Raptorbalg;10;1896;2370
-14470;Muster: Runenstofftunika;1;5000;6000
-14470;Muster: Runenstofftunika;1;5000;6000
-14470;Muster: Runenstofftunika;1;5000;6000
-1714;Caliseas Halskette;1;10002;10101
-1714;Caliseas Halskette;1;29500;38000
-1714;Caliseas Halskette;1;22800;28500
-14492;Muster: Teufelsstoffstiefel;1;7500;10000
 23094;Tränenförmiger Blutgranat;1;9544;13680
 15420;Eisenfeder;1;150;160
-7421;Phalanxhandschuhe;1;20000;30000
 13512;Fläschchen der obersten Macht;1;129900;149900
 13512;Fläschchen der obersten Macht;1;129900;149900
 13512;Fläschchen der obersten Macht;1;129900;149900
 13512;Fläschchen der obersten Macht;1;129900;149900
 13512;Fläschchen der obersten Macht;1;129900;149900
 13512;Fläschchen der obersten Macht;1;129900;149900
-7483;Waldläuferumhang;1;10000;20000
-14484;Muster: Hellstoffumhang;1;8800;18800
-14484;Muster: Hellstoffumhang;1;16751;18612
-7448;Schildwachengurt;1;52835;66044
 4582;Weicher buschiger Schwanz;1;1680;2100
 31867;Verschleierter Edeltopas;1;130000;189999
 31867;Verschleierter Edeltopas;1;130000;189999
 31867;Verschleierter Edeltopas;1;130000;189999
 31867;Verschleierter Edeltopas;1;130000;189999
 31867;Verschleierter Edeltopas;1;130000;189999
-31863;Ausbalanciertes Nachtauge;1;102336;127920
-31863;Ausbalanciertes Nachtauge;1;150000;159900
-31863;Ausbalanciertes Nachtauge;1;150000;159900
-31863;Ausbalanciertes Nachtauge;1;150000;159900
-31863;Ausbalanciertes Nachtauge;1;150000;159900
-31863;Ausbalanciertes Nachtauge;1;150000;159900
-31863;Ausbalanciertes Nachtauge;1;99999;127799
 2251;Klebriges Spinnenbein;1;38;48
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
@@ -101,43 +59,18 @@
 32229;Löwenauge;1;2480000;2490000
 32229;Löwenauge;1;1420000;1430000
 32229;Löwenauge;1;1420000;1430000
-14506;Muster: Teufelsstoffrobe;1;19727;24659
-7558;Schimmernder Stock;1;10000;20000
 14552;Palisadenschulterstücke;1;38400;48000
 11178;Großer strahlender Splitter;4;79040;98800
 14553;Schärpe der Gnade;1;125687;129900
-14466;Muster: Froststofftunika;1;7000;8000
-14466;Muster: Froststofftunika;1;7000;8000
-14466;Muster: Froststofftunika;1;31920;39900
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
 32249;Gischtsmaragd;1;384900;390000
-14513;Muster: Robe des Erzmagiers;1;3202500;3250000
-7455;Ritterbeinschützer;1;10000;20000
-7523;Hauchzarte Schulterpolster;1;7500;15000
-7462;Rittergurt;1;9523;11900
 1720;Wirrholzstab;1;31523;39404
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;215000;219900
 31186;Braxxis' Stab des Schlummers;1;98800;123500
-13754;Roher glänzender Machtfisch;2;2000;3000
 14555;Alcors Sonnenschneide;1;246350;250000
-7456;Ritterkopfschutz;1;13244;16556
-1713;Ankh des Lebens;1;22040;27550
-1713;Ankh des Lebens;1;29999;39999
-1713;Ankh des Lebens;1;29399;29400
-7487;Hauptmannsgamaschen;1;12999;13000
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;159679;167499
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
-14408;Steinstoffstiefel;1;6912;7500
 11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;104900;109226
 11754;Schwarzer Diamant;1;104900;109226
@@ -145,60 +78,30 @@
 11754;Schwarzer Diamant;1;104900;109226
 2099;Zwergische Handkanone;1;157560;159900
 32392;Armschienen der Seelenwache;1;2008148;2200000
-14494;Muster: Hellstoffhose;1;42080;55100
 24050;Schimmernder Dämmerstein;1;120000;169999
 24050;Schimmernder Dämmerstein;1;120000;169999
 24171;Vorlage: Kette der Nebeleule;1;92500;99900
-7452;Muster: Schwärzliche Stiefel;1;1312;3000
 11175;Große Netheressenz;2;139184;140980
 11175;Große Netheressenz;3;188131;235164
-14445;Giftschleierseidenroben;1;18529;30000
 24047;Brillanter Dämmerstein;1;120000;169999
 24047;Brillanter Dämmerstein;1;120000;169999
 24047;Brillanter Dämmerstein;1;120000;169999
 24047;Brillanter Dämmerstein;1;120000;169999
 24047;Brillanter Dämmerstein;1;120000;169999
 31148;Dämonenbalgschiftung;1;82032;102541
-14373;Blutroter Gürtel;1;9999;9999
 14343;Kleiner glänzender Splitter;6;13300;14988
 31903;Furien 5;1;16999999;24999999
 14491;Muster: Runenstoffhose;1;9540;13300
-7476;Majestätische Schärpe;1;30000;40000
-7524;Hauchzartes Cape;1;13750;17188
-7522;Hauchzarte Stiefel;1;15563;19454
-7528;Kabalistengamaschen;1;14841;30000
 20960;Gravierter Echtsilberring;1;14940;16175
 20960;Gravierter Echtsilberring;1;14940;16175
 20960;Gravierter Echtsilberring;1;15998;17498
 31837;Kodex: Gebet des Schattenschutzes II;1;22125;50000
-14467;Muster: Froststoffrobe;1;30109;41233
-14489;Muster: Froststoffhose;1;7264;9081
-14489;Muster: Froststoffhose;1;5000;7500
-7420;Phalanxkopfschutz;1;10000;20000
-7432;Zwielichtgugel;1;4077;10000
-7553;Band des Einhorns;1;17654;19568
 31175;Handgelenksschützer des Klingentänzers;1;74541;93177
-13757;Zitteraal;1;20100;21000
-7443;Schildwachenhandschuhe;1;6916;8645
-14501;Muster: Mondstoffweste;1;23600;29500
 31901;Furien Ass;1;109511;138389
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
 32231;Pyrostein;1;2180000;2270000
-14416;Steinstoffbindungen;1;19976;23049
-1717;Doppelverbundtunika;1;12865;14294
-1717;Doppelverbundtunika;1;4662;12500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-14344;Großer glänzender Splitter;5;402000;413500
-7517;Hauchzarte Tunika;1;30000;40000
-14399;Widerstandsfähige Stiefel;1;2197;3500
 31152;Brustschutz der Illumination;1;98318;122898
 11176;Traumstaub;16;79900;79900
-14478;Muster: Hellstoffrobe;1;5250;10000

@@ -13,21 +13,9 @@
 29739;Arkaner Foliant;1;119000;139000
 29739;Arkaner Foliant;1;119000;139000
 22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;2;45515;56894
-22574;Feuerpartikel;9;216000;225000
 22574;Feuerpartikel;1;23162;24999
 22574;Feuerpartikel;1;23162;24999
 22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
-22529;Wildwedel;7;42100;46000
-22529;Wildwedel;7;7500;40000
-22529;Wildwedel;4;10000;10000
-22529;Wildwedel;1;2499;2499
-22529;Wildwedel;5;5300;28500
-22529;Wildwedel;1;2499;2499
 24401;Unbekannte Pflanzenteile;12;63500;79999
 22839;Zerstörungstrank;5;159999;173999
 22839;Zerstörungstrank;5;174999;199999
@@ -42,51 +30,25 @@
 22839;Zerstörungstrank;5;159999;173999
 22839;Zerstörungstrank;5;159999;173999
 22839;Zerstörungstrank;5;159999;173999
-22557;Formel: Waffe - Meister des Kampfes;1;799900;799900
-22557;Formel: Waffe - Meister des Kampfes;1;449900;499900
-22557;Formel: Waffe - Meister des Kampfes;1;297841;372302
-22557;Formel: Waffe - Meister des Kampfes;1;200000;300000
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
 22791;Netherblüte;20;289999;304999
-23487;Teufelseisenplattenstiefel;1;50128;99900
 22824;Elixier der erheblichen Stärke;7;96250;99999
-22532;Formel: Armschiene - Mana wiederherstellen;1;232500;240000
-22532;Formel: Armschiene - Mana wiederherstellen;1;222500;250000
 24105;Geröstete Mondweidenlenden;11;1300;1375
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;2;11916;14896
-22527;Kern der Elemente;2;4331;5414
-22527;Kern der Elemente;4;17082;18981
-22527;Kern der Elemente;2;9900;9999
-22527;Kern der Elemente;21;96300;100000
-22527;Kern der Elemente;51;180789;200877
-22527;Kern der Elemente;2;9160;10177
-22527;Kern der Elemente;3;8997;14997
-22527;Kern der Elemente;7;27434;34293
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
 22541;Formel: Schild - Widerstand;1;289512;362891
 25153;Gladiatorengroßschwert;1;99999;119999
-27662;Teufelsfinne Supreme;1;699;999
-27662;Teufelsfinne Supreme;20;15836;17596
 23079;Tiefenperidot;20;90000;140000
-25708;Dickes Grollhufleder;20;500000;500000
 28103;Elixier des Adepten;5;99950;109900
 28103;Elixier des Adepten;5;99950;109900
-23489;Teufelseisenbrustplatte;1;63640;79550
-23489;Teufelseisenbrustplatte;1;90000;140000
 27503;Rolle der Stärke V;5;314500;332000
 27503;Rolle der Stärke V;5;314500;332000
 27503;Rolle der Stärke V;5;314500;332000
 27503;Rolle der Stärke V;5;314500;332000
 27503;Rolle der Stärke V;5;314500;332000
 27503;Rolle der Stärke V;5;314500;332000
-22558;Formel: Waffe - Zauberflut;1;297500;299999
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;604477;671641
 32229;Löwenauge;1;1489999;1499999
 32229;Löwenauge;1;1489999;1499999
@@ -96,11 +58,6 @@
 24114;Geflochtene Eterniumkette;1;399999;499999
 19441;Riesiger Giftbeutel;1;2414;2493
 23524;Khoriumgürtel;1;271103;290000
-22563;Formel: Überragendes Zauberöl;1;246250;299090
-22528;Dunkeleisenfragmente;68;245645;272939
-22528;Dunkeleisenfragmente;44;43200;90000
-22528;Dunkeleisenfragmente;10;23305;25895
-22528;Dunkeleisenfragmente;11;19536;24420
 22837;Heldentrank;3;42894;52794
 22837;Heldentrank;5;71490;87990
 22837;Heldentrank;5;71490;87990
@@ -123,29 +80,6 @@
 27439;Grimmiger Flusskrebs;1;59999;79950
 27439;Grimmiger Flusskrebs;10;599990;799500
 27439;Grimmiger Flusskrebs;5;299995;399750
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;84444;84444
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
 25802;Schreckensgiftbeutel;1;10043;11792
 22793;Manadistel;13;63700;64220
 27498;Rolle der Beweglichkeit V;5;283000;298500
@@ -155,7 +89,6 @@
 27498;Rolle der Beweglichkeit V;5;283000;298500
 29547;Windschuppen;1;34892;39600
 29547;Windschuppen;20;697840;792000
-13927;Gekochter glänzender Machtfisch;20;3600;4000
 31308;Der Überbringer des Todes;1;139900;169900
 22825;Elixier der Heilkraft;20;749999;774999
 22825;Elixier der Heilkraft;1;33750;33999
@@ -163,9 +96,6 @@
 22825;Elixier der Heilkraft;20;749999;774999
 22825;Elixier der Heilkraft;20;749999;774999
 22825;Elixier der Heilkraft;20;749999;774999
-22542;Formel: Stiefel - Vitalität;1;445000;450000
-22542;Formel: Stiefel - Vitalität;1;342000;427500
-22542;Formel: Stiefel - Vitalität;1;342000;427500
 22452;Urerde;20;800000;899999
 14047;Runenstoff;20;42000;50000
 14047;Runenstoff;12;24828;26400
@@ -226,9 +156,6 @@
 27657;Schwarzgebratener Basilisk;20;253240;279380
 27657;Schwarzgebratener Basilisk;20;253240;279380
 22912;Rezept: Heldentrank;1;69859;69899
-22539;Formel: Schild - Intelligenz;1;52500;54500
-22539;Formel: Schild - Intelligenz;1;174999;199999
-22539;Formel: Schild - Intelligenz;1;174999;199999
 23117;Azurmondstein;20;75000;0
 23117;Azurmondstein;20;75000;0
 30155;Muschelriegel;20;29512;36140
@@ -262,12 +189,6 @@
 21887;Knotenhautleder;20;135620;167300
 21887;Knotenhautleder;20;135620;167300
 21887;Knotenhautleder;20;135620;167300
-22573;Erdpartikel;5;27072;33840
-22573;Erdpartikel;1;5700;7125
-22573;Erdpartikel;5;15000;18000
-22573;Erdpartikel;8;104800;108000
-22573;Erdpartikel;10;56000;70000
-22573;Erdpartikel;10;57000;71250
 24478;Jaggalperle;1;7199;8299
 24478;Jaggalperle;1;7199;8299
 22794;Teufelslotus;20;924999;949999
@@ -282,10 +203,6 @@
 22790;Urflechte;20;36380;38480
 22790;Urflechte;20;36380;38480
 22790;Urflechte;1;1819;1924
-22565;Formel: Großer Prismasplitter;1;129360;161700
-22565;Formel: Großer Prismasplitter;1;250000;270000
-22565;Formel: Großer Prismasplitter;1;82500;90000
-22565;Formel: Großer Prismasplitter;1;250000;275000
 25238;Höllenfeuerkriegsspeer;1;144444;159999
 24052;Kompakter Dämmerstein;1;95000;99900
 24052;Kompakter Dämmerstein;1;95000;99900

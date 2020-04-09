@@ -3,8 +3,6 @@
 7971;Schwarze Perle;1;70000;75000
 7971;Schwarze Perle;1;100000;109999
 7971;Schwarze Perle;1;69999;80000
-28279;Formel: Stiefel - Schnelligkeit der Katze;1;455600;569500
-31887;Segen 6;1;12500000;15350000
 32464;Netheriterz;5;25754;28616
 32464;Netheriterz;20;103018;114465
 14343;Kleiner glänzender Splitter;2;1361;1702
@@ -14,62 +12,9 @@
 23573;Gehärteter Adamantitbarren;1;135000;150000
 23573;Gehärteter Adamantitbarren;1;135000;150000
 23573;Gehärteter Adamantitbarren;5;655000;750000
-31883;Segen 8;1;7360000;9210000
-31883;Segen 8;1;7360000;9210000
-28100;Flüchtiger Heiltrank;5;25000;30000
-28100;Flüchtiger Heiltrank;5;22800;28500
-28100;Flüchtiger Heiltrank;5;22800;28500
 23119;Funkelnder Azurmondstein;1;7600;9500
 23119;Funkelnder Azurmondstein;1;7600;9500
-31867;Verschleierter Edeltopas;1;164500;167300
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;164500;167300
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;160127;167499
-31867;Verschleierter Edeltopas;1;155980;179822
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;135624;169530
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31867;Verschleierter Edeltopas;1;130000;189999
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;42429;49432
-31882;Segen Ass;1;41000;46200
-31882;Segen Ass;1;41000;46200
-31882;Segen Ass;1;41000;46200
-31882;Segen Ass;1;35000;35000
-31882;Segen Ass;1;45000;50000
-31882;Segen Ass;1;26600;33250
-28104;Elixier des Meisters;20;655000;750000
-28104;Elixier des Meisters;2;70000;74500
 11134;Geringe Mystikeressenz;4;80228;88120
-31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
-31878;Vorlage: Verschleierter Edeltopas;1;273236;341546
-31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
-31878;Vorlage: Verschleierter Edeltopas;1;287618;359523
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;9017;29934
 23117;Azurmondstein;4;33760;37511
 23117;Azurmondstein;4;33760;37511
@@ -88,17 +33,6 @@
 22861;Fläschchen des blendenden Lichts;1;209999;209999
 22861;Fläschchen des blendenden Lichts;1;209999;209999
 22861;Fläschchen des blendenden Lichts;1;209999;209999
-28103;Elixier des Adepten;20;299999;350000
-28103;Elixier des Adepten;5;89950;99900
-28103;Elixier des Adepten;4;50000;68000
-28103;Elixier des Adepten;5;62500;85000
-28103;Elixier des Adepten;5;62500;85000
-28103;Elixier des Adepten;5;62500;85000
-28103;Elixier des Adepten;5;99995;129995
-28103;Elixier des Adepten;5;62500;85000
-28103;Elixier des Adepten;5;89950;99900
-28103;Elixier des Adepten;5;89995;99995
-28103;Elixier des Adepten;5;99995;129995
 32833;Geläuterte Jaggalperle;1;16947;21184
 32833;Geläuterte Jaggalperle;1;16947;21184
 32833;Geläuterte Jaggalperle;1;16947;21184
@@ -108,15 +42,11 @@
 24033;Gediegener Stern der Elune;1;159633;177370
 24033;Gediegener Stern der Elune;1;159633;177370
 24033;Gediegener Stern der Elune;1;159633;177370
-27736;Meisterkochbuch;1;71541;79490
 23118;Gediegener Azurmondstein;1;12500;17500
 23118;Gediegener Azurmondstein;1;12500;17500
 23118;Gediegener Azurmondstein;1;12500;17500
-31877;Vorlage: Energieerfülltes Nachtauge;1;174500;184500
-31875;Vorlage: Großer Dämmerstein;1;341005;426257
 29529;Trommeln der Schlacht;1;299898;299898
 19700;Münze der Hakkari;1;31360;39200
-27854;Geräuchertes Talbukwildbret;2;2867;3185
 10620;Thoriumerz;1;4139;4599
 19704;Münze der Sandwüter;1;31360;39200
 23793;Schweres Knotenhautleder;4;159996;159996
@@ -132,30 +62,17 @@
 27678;Grollhuffleisch;9;33120;41400
 10318;Muster: Admiralshut;1;2625;10000
 13032;Schwert der Verderbnis;1;23241;36552
-31884;Segen 5;1;820000;1000000
-31884;Segen 5;1;999799;999899
-27681;Phasenverschobenes Fleisch;3;13689;17112
 31220;Amethystfarbenes Betrachterauge;1;40000;50000
 22866;Fläschchen des reinen Todes;2;393200;399999
 24057;Königliches Nachtauge;1;87500;87500
 24057;Königliches Nachtauge;1;87500;87500
 24057;Königliches Nachtauge;1;87500;87500
-28270;Formel: Brust - Erhebliche Abhärtung;1;3002499;3249999
-28270;Formel: Brust - Erhebliche Abhärtung;1;2999900;2999900
 32409;Unerbittlicher Erdsturmdiamant;1;830465;830465
 28291;Vorlage: Glatter Golddraenit;1;192500;200000
 29548;Netherdrachenschuppe;2;49998;49998
 29548;Netherdrachenschuppe;2;49998;49998
 29548;Netherdrachenschuppe;2;49998;49998
 25868;Himmelsfeuerdiamant;1;955000;960000
-28595;Heller Blutgranat;1;11110;11111
-28595;Heller Blutgranat;1;11011;11111
-28595;Heller Blutgranat;1;11011;11111
-28595;Heller Blutgranat;1;11011;11111
-28595;Heller Blutgranat;1;11011;11111
-28595;Heller Blutgranat;1;59999;69999
-28595;Heller Blutgranat;1;11110;11111
-28595;Heller Blutgranat;1;11110;11111
 21929;Flammenspessarit;15;85004;94449
 21929;Flammenspessarit;1;13750;13800
 7909;Aquamarin;2;10000;10000
@@ -173,27 +90,9 @@
 25708;Dickes Grollhufleder;5;174370;174370
 25708;Dickes Grollhufleder;5;174370;174370
 13027;Knochenquetscher;1;45000;55000
-28498;Rabenwächterbandelier;1;69560;87700
-31868;Tückischer Edeltopas;1;255000;255000
-31868;Tückischer Edeltopas;1;255000;255000
-31868;Tückischer Edeltopas;1;230000;240000
-31868;Tückischer Edeltopas;1;230000;240000
 27682;Talbukwildbret;20;86000;99900
 27682;Talbukwildbret;20;86000;99900
-28101;Instabiler Manatrank;5;30000;37500
-28101;Instabiler Manatrank;5;30000;37500
-28101;Instabiler Manatrank;5;30000;37500
 25896;Mächtiger Erdsturmdiamant;1;996900;996900
 25896;Mächtiger Erdsturmdiamant;1;996908;996908
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-28421;Adamantitgewichtsstein;5;149995;149995
-31879;Vorlage: Tückischer Edeltopas;1;199999;199999
-31879;Vorlage: Tückischer Edeltopas;1;145000;150000
 27655;Heißer Hetzer;15;22396;27995
-27700;Rezept: Würziger Flusskrebs;1;245027;306284
 22832;Erstklassiger Manatrank;3;71997;71997

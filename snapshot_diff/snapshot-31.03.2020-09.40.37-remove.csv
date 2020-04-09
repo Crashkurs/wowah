@@ -15,10 +15,6 @@
 13465;Bergsilbersalbei;20;119999;120000
 13465;Bergsilbersalbei;20;111213;115000
 13465;Bergsilbersalbei;20;111213;115000
-4304;Dickes Leder;12;45400;50000
-4304;Dickes Leder;20;159000;165000
-4304;Dickes Leder;6;48000;54000
-4304;Dickes Leder;18;102585;128232
 19268;Elementar Ass;1;1850000;2300000
 19268;Elementar Ass;1;1748000;2185000
 19268;Elementar Ass;1;1850000;2300000
@@ -46,10 +42,8 @@
 13466;Pestblüte;20;79980;99980
 19274;Elementar 7;1;99999;299999
 2319;Mittleres Leder;10;9900;10500
-3734;Rezept: Großes Bärensteak;1;126694;158368
 21886;Urleben;5;599999;649999
 19279;Portal 3;1;202500;239900
-19264;Kriegsfürst 7;1;113660;142076
 14256;Teufelsstoff;1;185119;193899
 14256;Teufelsstoff;1;183119;193899
 14256;Teufelsstoff;1;200000;210000
@@ -57,8 +51,6 @@
 19269;Elementar 2;1;39600;49500
 19269;Elementar 2;1;120336;133707
 19269;Elementar 2;1;48750;50000
-2407;Muster: Weißes Lederwams;1;1600;2000
-2407;Muster: Weißes Lederwams;1;1600;2000
 23117;Azurmondstein;2;13500;14500
 23117;Azurmondstein;1;7600;9500
 23117;Azurmondstein;2;13000;14000
@@ -82,8 +74,6 @@
 3821;Golddorn;20;14500;14500
 3821;Golddorn;20;14500;14500
 3821;Golddorn;20;14500;14500
-19267;Elementarkartenset;1;3039999;3799999
-19267;Elementarkartenset;1;3999993;3999999
 22861;Fläschchen des blendenden Lichts;1;239999;239999
 22861;Fläschchen des blendenden Lichts;1;239999;239999
 22861;Fläschchen des blendenden Lichts;1;239999;239999
@@ -121,22 +111,6 @@
 22861;Fläschchen des blendenden Lichts;1;209997;209997
 22861;Fläschchen des blendenden Lichts;1;209997;209997
 2776;Golderz;20;9800;9900
-2447;Friedensblume;5;499;999
-2447;Friedensblume;3;381;423
-2447;Friedensblume;2;294;327
-2447;Friedensblume;20;500;500
-2447;Friedensblume;5;499;999
-2447;Friedensblume;20;2000;2000
-2447;Friedensblume;5;499;999
-2447;Friedensblume;5;499;999
-2447;Friedensblume;5;499;999
-2447;Friedensblume;20;2000;3950
-2447;Friedensblume;6;912;1140
-2447;Friedensblume;20;2500;5000
-2447;Friedensblume;20;9898;990000
-2447;Friedensblume;20;300;1200
-2447;Friedensblume;20;300;1200
-2447;Friedensblume;20;300;1200
 14255;Lunargürtel;1;3943;0
 22457;Urmana;1;201000;202000
 22457;Urmana;1;201000;202000
@@ -154,45 +128,13 @@
 22457;Urmana;1;195000;205000
 22457;Urmana;1;195000;205000
 22457;Urmana;10;1990000;2000000
-2772;Eisenerz;20;88888;99999
-2772;Eisenerz;20;88888;99999
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;70000;90000
-2772;Eisenerz;20;71600;89500
-2772;Eisenerz;20;71600;89500
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;49556;63320
-2772;Eisenerz;20;47632;59540
-2772;Eisenerz;1;2816;3520
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;54500;55000
-2772;Eisenerz;20;49556;63320
 21099;Rezept: Geräucherter Weisenfisch;1;17546;21933
 21099;Rezept: Geräucherter Weisenfisch;1;15628;19536
-3819;Winterbiss;1;1195;1494
 2555;Rezept: Hurtigkeitstrank;1;126616;158270
-2409;Muster: Dunkle Ledertunika;1;3000;3000
-2406;Muster: Feine Lederstiefel;1;9900;19900
-2406;Muster: Feine Lederstiefel;1;38676;48346
 20967;Citrinanhänger der goldenen Heilung;1;95082;99000
 14241;Graunebelhandschützer;1;30000;50000
-3712;Schildkrötenfleisch;10;45608;57010
 3818;Blassblatt;20;23750;30000
 22793;Manadistel;17;80546;80563
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;15000;20000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
 14227;Eisenweberseide;1;97499;98999
 14227;Eisenweberseide;1;97499;98999
 14227;Eisenweberseide;1;97499;98999
@@ -201,17 +143,10 @@
 14227;Eisenweberseide;1;64900;74900
 14227;Eisenweberseide;1;97499;98999
 19441;Riesiger Giftbeutel;1;1442;1803
-3730;Großbärenfleisch;2;1800;2000
-3730;Großbärenfleisch;10;10000;13500
 16203;Große ewige Essenz;1;62720;78400
 19275;Elementar 8;1;646187;807734
 19270;Elementar 3;1;88750;89900
 19270;Elementar 3;1;88750;90000
-3685;Raptorei;5;3884;4315
-3685;Raptorei;5;3900;4200
-3685;Raptorei;5;3900;4200
-3685;Raptorei;10;20235;25210
-3685;Raptorei;1;2476;3096
 2775;Silbererz;20;34850;34900
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
@@ -219,26 +154,6 @@
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
-2408;Muster: Feine Lederhandschuhe;1;2987;2999
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;207500;250000
-21887;Knotenhautleder;5;69375;78600
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;257500;260000
-21887;Knotenhautleder;20;247500;250000
-21887;Knotenhautleder;20;247500;250000
-3745;Rune des Öffnens;3;2863;3579
-19265;Kriegsfürst 8;1;57593;57599
-19265;Kriegsfürst 8;1;14800;39500
-19265;Kriegsfürst 8;1;28750;40000
 21071;Roher Weisenfisch;10;30000;50000
 19278;Portal 2;1;21500;23000
 19278;Portal 2;1;22950;23000
@@ -255,12 +170,6 @@
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
 21151;Schwarzer Rumsey Rum;10;48990;49990
-19262;Kriegsfürst 5;1;170000;175000
-19262;Kriegsfürst 5;1;174964;174982
-19262;Kriegsfürst 5;1;299999;299999
-19262;Kriegsfürst 5;1;156560;169999
-19262;Kriegsfürst 5;1;100000;170000
-19261;Kriegsfürst 4;1;65612;81138
 13468;Schwarzer Lotus;2;53000;60000
 13468;Schwarzer Lotus;2;53000;60000
 13468;Schwarzer Lotus;20;1299999;1499999

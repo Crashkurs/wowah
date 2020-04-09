@@ -39,7 +39,6 @@
 7070;Elementarwasser;1;4487;13129
 7070;Elementarwasser;1;4487;13129
 7909;Aquamarin;1;1500;8800
-10593;Unvollständiges Draenethystfragment;1;5036;6062
 3569;Vikarsrobe;1;20000;40000
 3039;Kurzer Eschenbogen;1;7220;9025
 2450;Wilddornrose;10;41070;45770
@@ -59,26 +58,10 @@
 4338;Magiestoff;20;77900;108560
 11082;Große Astralessenz;1;5000;6000
 6889;Kleines Ei;7;1327;1659
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;2;45515;56894
-22574;Feuerpartikel;9;216000;225000
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
-22574;Feuerpartikel;1;23162;24999
 3385;Geringer Manatrank;1;153;188
 16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;45000;50000
 5543;Pläne: Schillernder Hammer;1;3040;3800
 15230;Kammspaltbeil;1;30000;40000
-22529;Wildwedel;1;2499;2499
-22529;Wildwedel;4;10000;10000
-22529;Wildwedel;5;5300;28500
-22529;Wildwedel;7;7500;40000
-22529;Wildwedel;7;42100;46000
-22529;Wildwedel;1;2499;2499
-22557;Formel: Waffe - Meister des Kampfes;1;200000;300000
-22557;Formel: Waffe - Meister des Kampfes;1;799900;799900
-22557;Formel: Waffe - Meister des Kampfes;1;449900;499900
-22557;Formel: Waffe - Meister des Kampfes;1;297841;372302
 13131;Spiegelpanzermantel;1;31381;75294
 6211;Rezept: Elixier der Ogerstärke;1;15124;18905
 3827;Manatrank;3;1122;1485
@@ -97,23 +80,7 @@
 2449;Erdwurzel;10;3340;3840
 7453;Muster: Hurtige Stiefel;1;43320;54150
 25901;Bemerkenswerter Erdsturmdiamant;1;929559;969220
-7078;Essenz des Feuers;3;29307;29898
-22532;Formel: Armschiene - Mana wiederherstellen;1;222500;250000
-22532;Formel: Armschiene - Mana wiederherstellen;1;232500;240000
 4611;Blaue Perle;3;17282;19202
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;2;9160;10177
-22527;Kern der Elemente;20;78384;97980
-22527;Kern der Elemente;7;27434;34293
-22527;Kern der Elemente;3;8997;14997
-22527;Kern der Elemente;2;11916;14896
-22527;Kern der Elemente;51;180789;200877
-22527;Kern der Elemente;21;96300;100000
-22527;Kern der Elemente;2;9900;9999
-22527;Kern der Elemente;4;17082;18981
-22527;Kern der Elemente;2;4331;5414
 809;Blutklinge;1;88473;95592
 13110;Schreckenswolfharnisch;1;188480;235600
 6585;Späherumhang;1;10000;30000
@@ -122,16 +89,9 @@
 720;Muskelprotzhandschuhe;1;12800;18500
 13039;Schädelspalterarmbrust;1;19560;25450
 5578;Pläne: Bronzene Brustplatte mit Versilberung;1;12366;15458
-22558;Formel: Waffe - Zauberflut;1;297500;299999
-7079;Kugel des Wassers;1;5195;6883
 14580;Dokebiarmschienen;1;20000;40000
 23573;Gehärteter Adamantitbarren;20;1919600;2399500
 15269;Massive Streitaxt;1;9715;12144
-22563;Formel: Überragendes Zauberöl;1;246250;299090
-22528;Dunkeleisenfragmente;10;23305;25895
-22528;Dunkeleisenfragmente;44;43200;90000
-22528;Dunkeleisenfragmente;68;245645;272939
-22528;Dunkeleisenfragmente;11;19536;24420
 19231;Bestien 3;1;86324;107906
 14583;Dokebihandschuhe;1;1999;4000
 9797;Efeustoffhose;1;5000;7000
@@ -142,40 +102,13 @@
 9803;Überragende Armschienen;1;2332;2916
 27439;Grimmiger Flusskrebs;5;100100;150000
 27439;Grimmiger Flusskrebs;5;100100;150000
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;82202;82222
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;152099;165099
-22522;Überragendes Zauberöl;1;84444;84444
 22572;Luftpartikel;3;49560;62700
 9811;Befestigte Armschienen;1;20000;40000
 5786;Muster: Murlocschuppengürtel;1;1920;2400
 6578;Verteidigungsstarke Gamaschen;1;20000;40000
 1210;Schattenedelstein;1;559;1140
 1210;Schattenedelstein;1;559;1140
-13927;Gekochter glänzender Machtfisch;20;3600;4000
 5753;Gesträubter Kranz;1;3701;4627
-22542;Formel: Stiefel - Vitalität;1;342000;427500
-22542;Formel: Stiefel - Vitalität;1;445000;450000
-22542;Formel: Stiefel - Vitalität;1;342000;427500
 2825;Bogen der Sengpfeile;1;109546;121718
 12804;Mächtiges Mojo;1;80972;96902
 12804;Mächtiges Mojo;1;80972;96902
@@ -190,9 +123,6 @@
 6338;Silberrute;1;4115;4652
 6338;Silberrute;1;4115;4652
 15518;Stachelkettenbrustplatte;1;28241;51037
-22539;Formel: Schild - Intelligenz;1;52500;54500
-22539;Formel: Schild - Intelligenz;1;174999;199999
-22539;Formel: Schild - Intelligenz;1;174999;199999
 3198;Beulenhammer;1;7654;9568
 25896;Mächtiger Erdsturmdiamant;1;829174;840452
 2256;Skelettkeule;1;95169;98062
@@ -203,24 +133,12 @@
 12990;Messers Schneide;1;101845;157108
 4349;Muster: Phönixhose;1;69559;88199
 7080;Essenz des Wassers;3;232997;258886
-11134;Geringe Mystikeressenz;4;80228;88120
 8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
 8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
 8395;Muster: Feste Skorpidbrustplatte;1;5265;6582
-5498;Kleine irisierende Perle;7;13300;14168
-22573;Erdpartikel;5;15000;18000
-22573;Erdpartikel;10;57000;71250
-22573;Erdpartikel;5;27072;33840
-22573;Erdpartikel;1;5700;7125
-22573;Erdpartikel;10;56000;70000
-22573;Erdpartikel;8;104800;108000
 2633;Dschungelarznei;1;5574;6968
 6663;Rezept: Elixier des Riesenwuchses;1;199528;219536
 13021;Einfädler;1;22040;27550
 25897;Starker Erdsturmdiamant;1;946695;966846
 10998;Geringe Astralessenz;8;23366;25963
 4353;Muster: Spinnengürtel;1;7524;9405
-22565;Formel: Großer Prismasplitter;1;250000;275000
-22565;Formel: Großer Prismasplitter;1;250000;270000
-22565;Formel: Großer Prismasplitter;1;82500;90000
-22565;Formel: Großer Prismasplitter;1;129360;161700

@@ -7,21 +7,15 @@
 33782;Beständiger Talasit;1;85000;89900
 33782;Beständiger Talasit;1;85000;89900
 13011;Silbergefütterter Gürtel;1;15435;17150
-24297;Muster: Armschienen der Verwüstung;1;278076;347596
 2878;Hakenknochenaxt;1;17714;20000
-4231;Geschmeidiger leichter Balg;1;1747;1941
 10940;Seltsamer Staub;18;30100;38000
 10940;Seltsamer Staub;20;30100;40000
 10940;Seltsamer Staub;20;30100;40000
 2244;Krolklinge;1;178532;223165
-16222;Formel: Schild - Erhebliche Willenskraft;1;99999;199999
-2246;Myrmidonensignet;1;45000;60000
 4625;Feuerblüte;20;63860;74240
 4625;Feuerblüte;20;63860;74240
 4625;Feuerblüte;20;63860;74240
 4625;Feuerblüte;20;63860;74240
-9233;Elixier der Dämonenentdeckung;2;3000;3000
-25907;Vorlage: Zerstörerischer Himmelsfeuerdiamant;1;140000;150000
 2450;Wilddornrose;2;2591;2879
 4338;Magiestoff;7;30000;35000
 4338;Magiestoff;12;61500;65500
@@ -42,23 +36,8 @@
 9224;Elixier des Dämonentötens;5;140000;150000
 9224;Elixier des Dämonentötens;5;140000;150000
 2835;Rauer Stein;1;691;768
-24401;Unbekannte Pflanzenteile;26;159250;180000
-24401;Unbekannte Pflanzenteile;16;77777;88888
-24401;Unbekannte Pflanzenteile;20;99999;100000
-24401;Unbekannte Pflanzenteile;10;54864;66330
-24401;Unbekannte Pflanzenteile;10;54864;66330
-24401;Unbekannte Pflanzenteile;10;54864;66330
-24401;Unbekannte Pflanzenteile;20;99999;100000
-24401;Unbekannte Pflanzenteile;20;99999;100000
-24401;Unbekannte Pflanzenteile;54;200750;250000
-24401;Unbekannte Pflanzenteile;1;11125;12000
-24401;Unbekannte Pflanzenteile;20;99999;100000
-24401;Unbekannte Pflanzenteile;39;233875;239900
 4424;Rolle der Willenskraft III;1;410;440
 7992;Pläne: Blaue glitzernde Axt;1;11090;12323
-4369;Tödliche Donnerbüchse;1;29581;37999
-24300;Muster: Umhang der Ewigkeit;1;450000;590000
-24300;Muster: Umhang der Ewigkeit;1;590999;599999
 8845;Geisterpilz;11;56342;65340
 22456;Urschatten;1;26000;39900
 22456;Urschatten;1;26000;39900
@@ -83,11 +62,6 @@
 2841;Bronzebarren;20;41500;44000
 2841;Bronzebarren;20;41500;44000
 25901;Bemerkenswerter Erdsturmdiamant;1;668051;674900
-24306;Muster: Wickeltuch der Vergeltung;1;183510;203900
-24306;Muster: Wickeltuch der Vergeltung;1;163120;203900
-14470;Muster: Runenstofftunika;1;5000;6000
-14470;Muster: Runenstofftunika;1;5000;6000
-14470;Muster: Runenstofftunika;1;5000;6000
 3869;Pläne: Schattensichelaxt;1;6075;7500
 30040;Gürtel der tiefen Schatten;1;9500000;9750000
 3866;Pläne: Jadeschlangenklinge;1;10159;11287
@@ -111,13 +85,7 @@
 33867;Gebratene Blutflosse;4;8000;10000
 33867;Gebratene Blutflosse;4;8000;10000
 33867;Gebratene Blutflosse;4;8000;10000
-4360;Raue Kupferbombe;3;599;1199
-4360;Raue Kupferbombe;3;599;1199
 7610;Aurorasphäre;1;18269;20298
-24303;Muster: Gurt der Zerstörung;1;2600000;2990000
-24303;Muster: Gurt der Zerstörung;1;337509;395010
-24303;Muster: Gurt der Zerstörung;1;369507;375259
-24303;Muster: Gurt der Zerstörung;1;531312;590346
 22451;Urluft;1;136000;149900
 22451;Urluft;1;136000;149900
 22451;Urluft;1;179798;179799
@@ -132,74 +100,19 @@
 22451;Urluft;1;179798;179799
 22451;Urluft;1;179798;179799
 22451;Urluft;1;179798;179799
-4350;Muster: Spinnenseidenslipper;1;4000;5000
-4363;Kupfermodulator;1;160;500
-25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;190000;200000
-25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;210000;255500
-25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;215600;251370
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;6;10794;11964
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;35999;39899
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
-27422;Stachelkiemenforelle;20;29504;37880
 3871;Pläne: Goldene Schuppenschultern;1;9075;10000
 29740;Teuflische Waffen;19;3378667;3754074
 29740;Teuflische Waffen;20;3952800;3952800
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;199900;199900
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;114500;199500
-11137;Visionenstaub;20;199900;199900
 2589;Leinenstoff;20;2000;2250
 2589;Leinenstoff;20;2000;2250
 2589;Leinenstoff;20;2000;2250
 3867;Pläne: Goldener Eisenzerstörer;1;5025;7000
-12364;Gewaltiger Smaragd;1;41384;45983
-4361;Kupferrohr;1;1184;2980
-27659;Doppelwarper;20;214500;220000
 30282;Muster: Stiefel der Zauberwucht;1;1648653;1715998
 30282;Muster: Stiefel der Zauberwucht;1;1117001;1121252
 30282;Muster: Stiefel der Zauberwucht;1;1695000;1790000
-4348;Muster: Phönixhandschuhe;1;16132;18040
-4357;Raues Sprengpulver;7;499;1399
-24302;Muster: Gurt des Unerschütterlichen;1;200000;257110
-24302;Muster: Gurt des Unerschütterlichen;1;134115;167644
 4234;Schweres Leder;8;1800;10000
 2877;Mitstreiterclaymore;1;18690;20766
-12363;Arkankristall;1;31360;69200
-12363;Arkankristall;1;64500;68500
-12363;Arkankristall;1;64500;68500
-12363;Arkankristall;1;64500;68500
-12363;Arkankristall;1;64500;68500
-12363;Arkankristall;1;64500;68500
-12363;Arkankristall;1;64500;68500
 7463;Schildwachenrundschild;1;9303;19000
-24305;Muster: Cape der Entschlossenheit;1;105396;131746
 2318;Leichtes Leder;20;50000;53500
 2318;Leichtes Leder;20;50000;53500
 2318;Leichtes Leder;20;50000;53500
@@ -217,39 +130,12 @@
 3203;Handfester Dreiecksstreitkolben;1;14954;19900
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;23336;25929
 3914;Gesellenrucksack;1;9375;15000
-24298;Muster: Schwarzgestreifte Armschienen;1;599999;599999
-6661;Rezept: Pikantes Deviat Supreme;1;474000;499999
-6661;Rezept: Pikantes Deviat Supreme;1;100000;500000
 30038;Gürtel der Zauberwucht;1;10500000;10500000
 30038;Gürtel der Zauberwucht;1;11250000;14990000
 30038;Gürtel der Zauberwucht;1;11250000;14990000
 30038;Gürtel der Zauberwucht;1;11000321;11500000
 30419;Blitzende Halskette;1;6400;8000
 30419;Blitzende Halskette;1;3025;4500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;20;10000;12000
-27660;Talbuksteak;20;9800;14700
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;20;29998;29998
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;9;4500;6750
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
-27660;Talbuksteak;10;5000;7500
 20520;Dunkelrune;1;187500;198000
 20520;Dunkelrune;1;187500;198000
 20520;Dunkelrune;1;187500;198000
@@ -262,8 +148,6 @@
 20520;Dunkelrune;1;187500;198000
 3860;Mithrilbarren;20;182000;192500
 4417;Bauplan: Große Zephyriumladung;1;31109;34566
-6657;Pikantes Deviat Supreme;10;99999;149999
-6657;Pikantes Deviat Supreme;10;99999;149999
 8831;Lila Lotus;15;56750;60000
 8831;Lila Lotus;20;59000;80000
 31672;Rippchen der Mok'Nathal;20;29832;29940
@@ -279,59 +163,24 @@
 30307;Muster: Stiefel des Purpurfalken;1;220000;250000
 30307;Muster: Stiefel des Purpurfalken;1;227600;247000
 30307;Muster: Stiefel des Purpurfalken;1;230000;270000
-9179;Elixier der großen Intelligenz;12;47040;58800
 12974;Der schwarze Ritter;1;22792;25325
-25905;Vorlage: Harter Erdsturmdiamant;1;60000;65000
-25905;Vorlage: Harter Erdsturmdiamant;1;119644;129556
-25905;Vorlage: Harter Erdsturmdiamant;1;151076;188845
-25905;Vorlage: Harter Erdsturmdiamant;1;60006;65000
-25905;Vorlage: Harter Erdsturmdiamant;1;67600;69500
 11039;Formel: Umhang - Schwache Beweglichkeit;1;29999;39999
 2447;Friedensblume;20;4300;4400
 33825;Schädelfischsuppe;20;979500;979800
 33825;Schädelfischsuppe;4;100000;100000
-6584;Spähertunika;1;4531;5664
-6584;Spähertunika;1;3924;4500
-11128;Goldrute;1;35048;37461
-11128;Goldrute;1;29900;29900
-11128;Goldrute;1;35048;39561
-11128;Goldrute;1;29900;29900
 16224;Formel: Umhang - Überragende Verteidigung;1;229999;269999
-6610;Weisenrobe;1;3234;4400
 11135;Große Mystikeressenz;8;50100;65000
-12365;Verdichteter Stein;20;26224;37780
-12365;Verdichteter Stein;4;6044;7556
-12365;Verdichteter Stein;20;26224;37780
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;49999;49999
-12365;Verdichteter Stein;20;40000;50000
-12365;Verdichteter Stein;20;40000;50000
 33122;Umhang der Dunkelheit;1;4497600;4509500
 33122;Umhang der Dunkelheit;1;4497600;4509500
 33122;Umhang der Dunkelheit;1;4609599;4995999
 30155;Muschelriegel;20;22736;28420
-9187;Elixier der großen Beweglichkeit;14;39617;49522
-9187;Elixier der großen Beweglichkeit;6;22386;22572
-9187;Elixier der großen Beweglichkeit;6;22386;22572
-2245;Helm von Narv;1;41454;60000
-2245;Helm von Narv;1;57165;57332
 14761;Ausdauernder Gürtel;1;3036;6000
 7069;Elementarluft;2;18000;20000
 7069;Elementarluft;2;18000;20000
 7069;Elementarluft;2;18000;20000
-9251;Oberes Kartenfragment;1;89999;99999
-24304;Muster: Schwarzer Gürtel des Wissens;1;110000;120000
 3358;Khadgars Schnurrbart;11;3357;3731
-24301;Muster: Weißer Arzneikittel;1;390000;400000
 11083;Seelenstaub;20;20100;30000
 11083;Seelenstaub;20;20100;30000
-4347;Muster: Verstärkte Wollschultern;1;2634;3293
 33872;Feuriger Würztalbuk;5;20000;22500
 33872;Feuriger Würztalbuk;5;20000;22500
 33872;Feuriger Würztalbuk;5;20000;22500
@@ -344,14 +193,9 @@
 33872;Feuriger Würztalbuk;20;59864;60000
 33872;Feuriger Würztalbuk;20;59864;60000
 33872;Feuriger Würztalbuk;20;59864;60000
-4377;Schweres Sprengpulver;1;5082;6047
 33874;Kiblers Häppchen;13;29250;39000
 33874;Kiblers Häppchen;10;19900;24900
 3873;Pläne: Goldener Schuppenkürass;1;10286;11429
-24307;Muster: Managewirkter Umhang;1;380357;442619
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
-6662;Elixier des Riesenwuchses;5;49999;59999
 5498;Kleine irisierende Perle;2;1540;1978
 30306;Muster: Stiefel der totalen Finsternis;1;290000;350000
 6663;Rezept: Elixier des Riesenwuchses;1;179999;189999
@@ -362,4 +206,3 @@
 4345;Muster: Rote Wollstiefel;1;29999;39999
 30032;Roter Gürtel der Schlacht;1;14406305;15540000
 30032;Roter Gürtel der Schlacht;1;9999999;14000000
-6609;Weisenstoff;1;7922;8500
