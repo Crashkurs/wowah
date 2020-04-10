@@ -1,14 +1,7 @@
-14852;Sonnenschuppenschild;1;19420;50000
-9836;Bebänderte Rüstung;1;30000;60000
 24669;Eldr'naangürtel;1;93000;96500
-13082;Berghangbeschützer;1;19576;25721
 6358;Öliges Schwarzmaul;20;151456;194320
 23446;Adamantitbarren;20;174208;217760
-13067;Hydralickrüstung;1;59999;69999
-13067;Hydralickrüstung;1;58520;73150
 15533;Wachpostenkopfputz;1;2990;9900
-4077;Gepanzerter Gefechtskopfschutz;1;10000;30000
-4715;Geschmückter Umhang;1;3216;4021
 22451;Urluft;10;1965400;1999400
 22451;Urluft;20;3750000;4000000
 22451;Urluft;10;1965400;1999400
@@ -26,12 +19,6 @@
 22451;Urluft;1;196540;199940
 22451;Urluft;1;196540;199940
 22451;Urluft;1;196540;199940
-20960;Gravierter Echtsilberring;1;12580;14000
-20960;Gravierter Echtsilberring;1;12580;14000
-20960;Gravierter Echtsilberring;1;9500;13000
-15347;Pfadfindergürtel;1;1432;2000
-13058;Khoospitze;1;32749;33500
-13058;Khoospitze;1;26600;33250
 15249;Polierter Bidenhänder;1;7706;15508
 23440;Dämmerstein;1;45000;60000
 23440;Dämmerstein;1;45000;60000
@@ -40,53 +27,15 @@
 23440;Dämmerstein;1;45000;60000
 12184;Raptorfleisch;6;3174;3876
 22450;Kristall der Leere;1;59500;70000
-22450;Kristall der Leere;1;29999;39999
-5075;Blutsplitter;10;375;900
-23793;Schweres Knotenhautleder;2;69400;81750
-23793;Schweres Knotenhautleder;2;57000;71250
 23793;Schweres Knotenhautleder;20;587500;599900
 23793;Schweres Knotenhautleder;20;587500;599900
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-20967;Citrinanhänger der goldenen Heilung;1;95082;99000
-7463;Schildwachenrundschild;1;9303;19000
 6348;Formel: Waffe - Schwacher Wildtiertöter;1;11827;14784
 17056;Leichte Feder;10;16000;19500
 17056;Leichte Feder;10;16000;19500
-17056;Leichte Feder;7;8800;10000
-17056;Leichte Feder;20;39980;43980
-17056;Leichte Feder;10;18594;20660
-17056;Leichte Feder;13;24699;24699
 17056;Leichte Feder;5;5428;6785
-13054;Gevatter Tod;1;25163;31454
-13054;Gevatter Tod;1;28025;31139
-15155;Nächtliche Handschuhe;1;39667;49584
-7909;Aquamarin;1;8000;8500
 7558;Schimmernder Stock;1;10000;20000
 7480;Waldläuferhandschuhe;1;10000;20000
-15233;Wilde Axt;1;19614;23900
 3818;Blassblatt;20;9312;11640
-3818;Blassblatt;8;13291;13299
-3818;Blassblatt;3;1740;1840
-3818;Blassblatt;15;8832;11040
-3818;Blassblatt;17;9683;10504
-3818;Blassblatt;4;2531;3164
-20964;Aquamarinsiegel;1;61267;76584
-20964;Aquamarinsiegel;1;19541;26052
-20964;Aquamarinsiegel;1;10000;40000
-20964;Aquamarinsiegel;1;10000;40000
-20964;Aquamarinsiegel;1;10000;40000
-20964;Aquamarinsiegel;1;10000;40000
-20964;Aquamarinsiegel;1;10000;40000
-20964;Aquamarinsiegel;1;10000;40000
-14923;Festliche Armschützer;1;26400;33000
 9327;DELTA-Daten-Sicherheitszugangskarte;1;645;1200
 21886;Urleben;1;136000;145000
 21886;Urleben;1;136000;145000
@@ -100,16 +49,8 @@
 21886;Urleben;1;136000;145000
 21886;Urleben;10;911992;1139990
 7495;Hauptmannsrundschild;1;14337;16000
-13073;Mugthols Helm;1;49500;60000
-2318;Leichtes Leder;20;28220;39200
-2318;Leichtes Leder;20;28220;39200
-2318;Leichtes Leder;20;20150;20200
-2318;Leichtes Leder;20;20450;25000
-2318;Leichtes Leder;20;20450;25000
-13053;Verhängnisbringer;1;189999;199999
 24479;Schattenperle;1;333000;399000
 9718;Neugeschmiedete Klinge der Helden;1;57131;60000
-13074;Golemsplittergamaschen;1;101064;150000
 11137;Visionenstaub;20;130000;199500
 11137;Visionenstaub;20;130000;199500
 11137;Visionenstaub;20;130000;199500
@@ -118,125 +59,35 @@
 23445;Teufelseisenbarren;10;100000;150000
 23445;Teufelseisenbarren;10;100000;150000
 23445;Teufelseisenbarren;20;180000;265000
-15136;Halsabschneidergürtel;1;3916;4896
-15526;Wachpostencape;1;24000;36000
-13071;Plattenfaust von Hakoo;1;25022;33000
-4625;Feuerblüte;20;107600;109900
-4625;Feuerblüte;20;118000;126000
-4625;Feuerblüte;16;48888;49999
-4625;Feuerblüte;20;107600;109900
-4625;Feuerblüte;7;37660;38465
-4625;Feuerblüte;16;16000;41000
 15345;Pfadfinderschulterpolster;1;10000;20000
 3860;Mithrilbarren;10;76000;115000
 3860;Mithrilbarren;10;76000;115000
-14919;Jadereif;1;44000;55000
-13059;Steinrabe;1;58719;80000
-4044;Aurorahose;1;14436;29093
 4810;Felspolster;1;28758;34184
-14941;Kriegshetzerarmsplinte;1;6640;19900
-7453;Muster: Hurtige Stiefel;1;21600;29500
-6578;Verteidigungsstarke Gamaschen;1;24000;60000
-4722;Insignienumhang;1;9507;11692
 15161;Imposanter Gürtel;1;10000;20000
-15127;Robuste Schultern;1;5164;6456
 21881;Netherweberseide;1;10400;13900
-5007;Band der Dornen;1;5222;10101
 11965;Quarzring;1;1484;1856
-14920;Jadebeinplatten;1;27053;40000
-7734;Sechsdämonentasche;1;34999;38979
-7734;Sechsdämonentasche;1;200000;300000
 2319;Mittleres Leder;20;21500;30000
 2319;Mittleres Leder;20;21500;35000
 2319;Mittleres Leder;20;21500;30000
-15152;Nächtliche Schuhe;1;20000;40000
-15224;Kampfzerkracher;1;4042;8000
-7787;Prächtiger Wächter;1;50000;60000
-23110;Unbeständiger Schattendraenit;1;14999;24999
-23110;Unbeständiger Schattendraenit;1;14999;24999
-23110;Unbeständiger Schattendraenit;1;14999;24999
 7483;Waldläuferumhang;1;10000;20000
-5373;Glücksbringer;2;4000;6000
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-21877;Netherstoff;20;44000;44900
-15177;Potente Schultern;1;27280;34100
-17057;Glänzende Fischschuppen;20;1104;1380
-17057;Glänzende Fischschuppen;18;792;990
-17057;Glänzende Fischschuppen;7;324;406
-17057;Glänzende Fischschuppen;20;1104;1380
-17057;Glänzende Fischschuppen;20;816;1020
 17057;Glänzende Fischschuppen;20;768;960
 17057;Glänzende Fischschuppen;20;768;960
-15370;Wolfreiterstiefel;1;19999;29999
-13072;Stulpen des steinernen Griffs;1;70000;80000
-13072;Stulpen des steinernen Griffs;1;70000;80000
-23787;Teufelsstahlstabilisator;1;198000;199900
-23787;Teufelsstahlstabilisator;1;150000;150000
-13057;Blutpike;1;12906;19900
 6037;Echtsilberbarren;20;33000;38000
-13070;Saphirons Schuppenstiefel;1;41944;52430
-14842;Schild des Tyrannen;1;28724;37999
 5079;Kaltes Basiliskenauge;1;99999;99999
-27662;Teufelsfinne Supreme;2;2050;4000
-13076;Riesentöterarmschienen;1;32450;60000
-13076;Riesentöterarmschienen;1;32450;60000
 17058;Fischöl;5;19228;24035
 17058;Fischöl;20;90000;101200
 17058;Fischöl;16;72000;90400
-17058;Fischöl;11;49551;62689
-4037;Silberfadenhose;1;29317;31566
 7476;Majestätische Schärpe;1;10000;20000
 21884;Urfeuer;1;286000;299900
-7522;Hauchzarte Stiefel;1;15407;19259
-15251;Treffsicheres Schwert;1;55600;69500
 11128;Goldrute;1;149980;159975
 11128;Goldrute;1;79980;99975
 5342;Raptorpunsch;4;12000;23500
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-20966;Jadeanhänger der Zauberwucht;1;95000;99000
-15248;Gleißendes Claymore;1;2686;5000
 5029;Talisman des Nagalords;1;7923;9900
 21885;Urwasser;1;96000;100000
 21885;Urwasser;5;480000;500000
 21885;Urwasser;5;480000;500000
 7455;Ritterbeinschützer;1;10000;20000
-13081;Schild der leeren Augen;1;24172;26858
-13081;Schild der leeren Augen;1;59837;62041
-7456;Ritterkopfschutz;1;12979;16224
-23786;Khoriumkraftkern;1;288000;290000
-13066;Wyrmtöterschiftung;1;33816;38685
-13066;Wyrmtöterschiftung;1;33816;38685
-13060;Der Nadler;1;189999;199999
-13052;Kriegstreiber;1;61936;87420
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19997;19997
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;19999;19999
-11288;Großer Magiezauberstab;1;18000;19998
-11288;Großer Magiezauberstab;1;18000;19998
-11288;Großer Magiezauberstab;1;19997;19997
-11288;Großer Magiezauberstab;1;19997;19997
-11288;Großer Magiezauberstab;1;19997;19997
-11288;Großer Magiezauberstab;1;19997;19997
 15230;Kammspaltbeil;1;30000;40000
 13122;Dunkles Phantomcape;1;39999;49999
 15352;Kopfjägerrundschild;1;15087;19497
-14916;Jadedeflektor;1;27254;35000
 9385;Archaischer Verteidiger;1;15604;19505
-21099;Rezept: Geräucherter Weisenfisch;1;39200;49000
-21099;Rezept: Geräucherter Weisenfisch;1;39200;49000
-3819;Winterbiss;6;1920;9900
