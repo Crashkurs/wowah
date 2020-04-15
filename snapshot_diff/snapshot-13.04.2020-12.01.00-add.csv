@@ -13,7 +13,6 @@
 4232;Mittlerer Balg;1;4587;5000
 4421;Rolle des Schutzes III;1;224;590
 3358;Khadgars Schnurrbart;20;4496;5620
-2592;Wollstoff;8;9000;11000
 2592;Wollstoff;20;18736;23420
 2592;Wollstoff;20;18736;23420
 2592;Wollstoff;20;18736;23420
@@ -30,21 +29,13 @@
 10050;Magiestofftasche;1;17500;17500
 10050;Magiestofftasche;1;17500;17500
 10050;Magiestofftasche;1;17500;17500
-6390;Muster: Modisches blaues Hemd;1;7473;9342
-6390;Muster: Modisches blaues Hemd;1;8460;9400
-6390;Muster: Modisches blaues Hemd;1;7334;9271
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;4500;9899
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;4500;9899
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;4500;9899
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;2;10400;11798
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5200;5899
-3384;Schwacher Magiewiderstandstrank;4;27600;28400
 3384;Schwacher Magiewiderstandstrank;5;34500;35500
-3384;Schwacher Magiewiderstandstrank;5;34500;35500
-2598;Muster: Rote Leinenrobe;1;600;700
-3385;Geringer Manatrank;2;201;223
 3612;Pläne: Grüne Eisenstulpen;1;29500;38000
-6383;Waldrundschild;1;2500;3500
 4496;Kleiner brauner Beutel;1;499;500
 4235;Schwerer Balg;2;138999;139999
 4235;Schwerer Balg;2;138999;139999
@@ -60,7 +51,6 @@
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;5;45000;49000
 4461;Raptorbalg;10;8880;9990
 4461;Raptorbalg;10;8880;9990
-1203;Aegis von Sturmwind;1;89999;99999
 7069;Elementarluft;4;20000;40000
 4480;Donnernder Glücksbringer;8;5020;10000
 7079;Kugel des Wassers;1;5500;6600
@@ -76,12 +66,6 @@
 4338;Magiestoff;1;2575;3000
 4338;Magiestoff;20;87500;95000
 4338;Magiestoff;18;86750;90000
-4338;Magiestoff;20;95000;97500
-4338;Magiestoff;20;97500;99900
-4338;Magiestoff;11;64125;70000
-4338;Magiestoff;20;95000;97500
-4338;Magiestoff;20;95000;97500
-4338;Magiestoff;20;68032;85040
 4338;Magiestoff;20;60000;75000
 4338;Magiestoff;20;60000;75000
 4338;Magiestoff;20;60000;75000
@@ -90,8 +74,6 @@
 4240;Wolltasche;1;5040;5041
 10130;Klagegeistgurt;1;12424;24999
 3745;Rune des Öffnens;6;6666;8888
-6359;Feuerflossenschnapper;10;89990;99990
-6382;Waldledergürtel;1;6984;6999
 6309;17-pfündiger Wels;1;179;900
 3821;Golddorn;3;1475;1500
 2449;Erdwurzel;20;9900;9999

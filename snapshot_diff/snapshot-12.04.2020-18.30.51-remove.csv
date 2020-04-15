@@ -63,7 +63,6 @@
 4603;Roher Tüpfelgelbschwanz;5;21270;23635
 2824;Hurrikan;1;55644;69555
 4496;Kleiner brauner Beutel;1;187;200
-6362;Roher Steinschuppenkabeljau;20;74464;93080
 7079;Kugel des Wassers;1;9680;10755
 7079;Kugel des Wassers;1;9680;10755
 3358;Khadgars Schnurrbart;15;4470;4485
@@ -75,7 +74,6 @@
 24271;Zauberstoff;1;473500;499000
 2776;Golderz;20;13664;17080
 2776;Golderz;20;13664;17080
-2776;Golderz;10;15880;19950
 2776;Golderz;10;15880;19950
 2776;Golderz;10;15880;19950
 2776;Golderz;9;6148;7686
@@ -135,7 +133,6 @@
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
-13758;Roher Rotkiemen;20;51072;63840
 12689;Pläne: Strahlende Brustplatte;1;25250;29941
 24055;Unbeständiges Nachtauge;1;188840;199975
 24055;Unbeständiges Nachtauge;1;188840;199975
@@ -249,9 +246,6 @@
 14047;Runenstoff;20;42640;47380
 14047;Runenstoff;20;42640;47380
 3355;Wildstahlblume;1;4900;4999
-29460;Gefängnisschlüssel des Astraleums;1;125000;125000
-29460;Gefängnisschlüssel des Astraleums;1;125000;125000
-29460;Gefängnisschlüssel des Astraleums;1;125000;125000
 20749;Hervorragendes Zauberöl;1;185500;196000
 20749;Hervorragendes Zauberöl;1;185500;196000
 20749;Hervorragendes Zauberöl;1;185500;196000
@@ -312,7 +306,6 @@
 22446;Große Planaressenz;1;103500;109500
 22446;Große Planaressenz;1;103500;109500
 22446;Große Planaressenz;1;103500;109500
-21864;Seelenstoffschultern;1;774008;967511
 21864;Seelenstoffschultern;1;774008;967511
 31147;Anhänger der List;1;45600;57000
 4500;Reiserucksack;1;139999;149999
@@ -476,7 +469,6 @@
 22445;Arkaner Staub;4;63000;67000
 24217;Vorlage: Robuster Talasit;1;506416;599999
 13926;Goldene Perle;1;13072;14524
-31297;Robe des Purpurordens;1;259153;300000
 22448;Kleiner Prismasplitter;6;463861;476994
 22448;Kleiner Prismasplitter;4;309241;317996
 22448;Kleiner Prismasplitter;4;309241;317996
@@ -585,9 +577,6 @@
 23784;Adamantitrahmen;1;59000;63000
 23784;Adamantitrahmen;1;59000;63000
 23784;Adamantitrahmen;1;59000;63000
-14466;Muster: Froststofftunika;1;33600;42000
-19232;Bestien 4;1;39600;49500
-19232;Bestien 4;1;39600;49500
 22574;Feuerpartikel;1;27189;29345
 22574;Feuerpartikel;1;27189;29345
 22574;Feuerpartikel;1;27189;29345
@@ -787,10 +776,7 @@
 29535;Netherkobrabeinrüstung;1;2513323;2764499
 24039;Stürmischer Stern der Elune;1;37240;46550
 22854;Fläschchen des unerbittlichen Angriffs;2;345000;364000
-13492;Rezept: Läuterungstrank;1;39600;49500
 15214;Adelsmarke;1;26339;45424
-1710;Großer Heiltrank;1;490;530
-1710;Großer Heiltrank;3;912;1140
 13049;Claymore des Dekanats;1;9424;11780
 22578;Wasserpartikel;5;94000;99500
 11188;Gelber Machtkristall;3;14500;17500
@@ -815,8 +801,6 @@
 4377;Schweres Sprengpulver;2;1030;1144
 10286;Herz der Wildnis;4;29043;32270
 11612;Pläne: Dunkeleisenplatte;1;4500;20000
-7453;Muster: Hurtige Stiefel;1;44727;55909
-3369;Grabmoos;20;9360;11700
 3369;Grabmoos;20;11080;12320
 3369;Grabmoos;20;11080;12320
 11754;Schwarzer Diamant;20;25000;50000

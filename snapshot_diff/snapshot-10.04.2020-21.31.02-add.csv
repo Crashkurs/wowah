@@ -60,7 +60,6 @@
 2770;Kupfererz;20;16499;16499
 2770;Kupfererz;20;16499;16499
 5963;Barbarische Gamaschen;1;4726;6900
-31917;Delirium 3;1;139532;175916
 22890;Foliant des Frostzauberschutzes V;1;15000;18000
 25707;Teufelsbalg;5;50115;55685
 25707;Teufelsbalg;5;50115;55685
@@ -76,8 +75,6 @@
 16243;Formel: Runenverzierte Arkanitrute;1;202408;207120
 7912;Robuster Stein;20;13000;20000
 27659;Doppelwarper;20;288888;299999
-31912;Delirium 5;1;2215000;2220000
-31912;Delirium 5;1;1987500;2210000
 27665;Gedünstete Blauflosse;5;77495;77495
 27665;Gedünstete Blauflosse;5;77495;77495
 27665;Gedünstete Blauflosse;5;77495;77495
@@ -87,7 +84,6 @@
 21887;Knotenhautleder;20;157500;160000
 16113;Handbuch: Magiestoffverband;1;31875;50000
 13489;Rezept: Erde in Leben transmutieren;1;5625;20000
-32063;Erdelixier;10;72500;99900
 23425;Adamantiterz;20;121600;154400
 24053;Mystischer Dämmerstein;1;159999;174499
 22456;Urschatten;5;133640;148490
@@ -113,45 +109,16 @@
 24054;Stattliches Nachtauge;1;142000;142000
 23096;Runenverzierter Blutgranat;1;30000;40000
 23096;Runenverzierter Blutgranat;1;30000;40000
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 32062;Elixier der erheblichen Seelenstärke;20;329999;339999
 32062;Elixier der erheblichen Seelenstärke;20;329999;339999
 32062;Elixier der erheblichen Seelenstärke;20;329999;339999
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;9;125395;156744
-32062;Elixier der erheblichen Seelenstärke;20;278656;348320
-32062;Elixier der erheblichen Seelenstärke;10;200000;200000
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 31292;Pulsierender Kristallschild;1;188888;189999
 3486;Schwerer Schleifstein;20;13000;20000
 3486;Schwerer Schleifstein;20;13000;20000
-31911;Delirium 8;1;2323776;2904720
-31911;Delirium 8;1;2371200;2964000
 31867;Verschleierter Edeltopas;1;143425;148982
 31867;Verschleierter Edeltopas;1;143425;148982
 31867;Verschleierter Edeltopas;1;143425;148982
 31867;Verschleierter Edeltopas;1;143425;148982
-31918;Delirium 2;1;37500;41800
-31918;Delirium 2;1;30000;40000
-31918;Delirium 2;1;37500;37900
-31916;Delirium 6;1;1750000;3120000
-31916;Delirium 6;1;2531536;3164420
 12990;Messers Schneide;1;33883;44999
 12990;Messers Schneide;1;33883;44999
 32215;Leuchtender Schattensangamethyst;1;699999;699999
@@ -171,7 +138,6 @@
 22788;Flammenkappe;20;172500;180000
 29460;Gefängnisschlüssel des Astraleums;1;127813;139017
 8839;Blindkraut;5;7012;8000
-31910;Delirium Ass;1;33419;37132
 24296;Muster: Armschienen des Unerschütterlichen;1;108300;135375
 6660;Julies Dolch;1;24235;30000
 28270;Formel: Brust - Erhebliche Abhärtung;1;2195554;2744443
@@ -225,11 +191,6 @@
 23427;Eterniumerz;4;113120;117900
 23427;Eterniumerz;1;28280;29475
 22532;Formel: Armschiene - Mana wiederherstellen;1;183456;229320
-31913;Delirium 4;1;93100;96824
-31913;Delirium 4;1;95000;100000
-31913;Delirium 4;1;75088;93860
-31913;Delirium 4;1;75088;93860
-31913;Delirium 4;1;99900;99900
 14343;Kleiner glänzender Splitter;5;9265;10295
 14343;Kleiner glänzender Splitter;5;9265;10295
 14343;Kleiner glänzender Splitter;5;9265;10295
@@ -267,10 +228,6 @@
 29529;Trommeln der Schlacht;1;355601;385110
 11039;Formel: Umhang - Schwache Beweglichkeit;1;5000;10000
 4625;Feuerblüte;2;6050;7500
-2449;Erdwurzel;20;656;820
-2449;Erdwurzel;20;656;820
-2449;Erdwurzel;20;15200;16880
-2449;Erdwurzel;20;14940;16600
 25896;Mächtiger Erdsturmdiamant;1;954399;954399
 19282;Portal 6;1;78750;80000
 4084;Schwarzschmiedegamaschen;1;15204;20000
@@ -333,7 +290,6 @@
 4562;Abspalteraxt;1;20447;25000
 11084;Großer gleißender Splitter;1;3769;4712
 11084;Großer gleißender Splitter;1;4188;5236
-2318;Leichtes Leder;16;14768;16000
 23436;Lebendiger Rubin;1;148567;185709
 22790;Urflechte;20;59500;63500
 22790;Urflechte;20;59500;63500

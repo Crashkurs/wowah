@@ -1,4 +1,3 @@
-31306;Gamaschen des heiligen Wappens;1;180064;183200
 24050;Schimmernder Dämmerstein;1;100000;107000
 24050;Schimmernder Dämmerstein;1;100000;107000
 24050;Schimmernder Dämmerstein;1;100000;107000
@@ -9,16 +8,11 @@
 20749;Hervorragendes Zauberöl;1;167777;177499
 29733;Muster: Netherdrachenhandschuhe;1;40000;60000
 29733;Muster: Netherdrachenhandschuhe;1;110000;160000
-7522;Hauchzarte Stiefel;1;15407;19259
 22912;Rezept: Heldentrank;1;110000;120000
 22912;Rezept: Heldentrank;1;110000;120000
 2455;Schwacher Manatrank;5;500;2000
 2455;Schwacher Manatrank;5;500;2000
 14950;Blutgeschmiedeter Gürtel;1;10000;20000
-31298;Beinschützer der Zerschmetterten Hand;1;174000;182500
-31298;Beinschützer der Zerschmetterten Hand;1;148101;150000
-31298;Beinschützer der Zerschmetterten Hand;1;178152;192100
-31298;Beinschützer der Zerschmetterten Hand;1;178152;192100
 24192;Vorlage: Heller lebendiger Rubin;1;230000;250000
 9837;Bebänderte Armschienen;1;1930;5500
 7992;Pläne: Blaue glitzernde Axt;1;5128;6410
@@ -86,21 +80,6 @@
 2589;Leinenstoff;20;5600;9500
 2589;Leinenstoff;20;5600;9500
 2589;Leinenstoff;20;7090;7400
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;2480000;2490000
-32229;Löwenauge;1;1837100;1949999
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1837100;1949999
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;1800000;1930000
-32229;Löwenauge;1;2480000;2490000
-32229;Löwenauge;1;2480000;2490000
-32229;Löwenauge;1;2480000;2490000
-32229;Löwenauge;1;2480000;2490000
 14192;Regenmacherrobe;1;2919;10000
 1529;Jade;1;9900;10000
 1529;Jade;1;9900;10000
@@ -162,8 +141,6 @@
 31293;Gurt des Sturms;1;129504;163255
 31293;Gurt des Sturms;1;129504;163255
 31293;Gurt des Sturms;1;129504;163255
-31293;Gurt des Sturms;1;125000;125000
-31293;Gurt des Sturms;1;137343;152603
 31293;Gurt des Sturms;1;129504;163255
 31293;Gurt des Sturms;1;129504;163255
 23445;Teufelseisenbarren;2;12912;16140
@@ -188,7 +165,6 @@
 11168;Formel: Schild - Geringes Blocken;1;1021325;1135472
 4090;Becher des Schmerzes;1;31104;37000
 4090;Becher des Schmerzes;1;31104;50000
-7483;Waldläuferumhang;1;10000;20000
 22794;Teufelslotus;5;150000;157500
 22794;Teufelslotus;20;600000;666000
 22794;Teufelslotus;5;150000;157500
@@ -233,13 +209,8 @@
 13055;Knochenkauer;1;54050;70000
 24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
 23634;Pläne: Teufelsgehärteter Schlägel;1;210000;220000
-31297;Robe des Purpurordens;1;272769;290000
-31297;Robe des Purpurordens;1;249153;300000
-31297;Robe des Purpurordens;1;272769;290000
-31297;Robe des Purpurordens;1;259153;300000
 31297;Robe des Purpurordens;1;70000;100000
 31297;Robe des Purpurordens;1;199153;200000
-31297;Robe des Purpurordens;1;280000;295000
 31297;Robe des Purpurordens;1;79600;99500
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;10562;15000
 811;Axt des Tiefwaldes;1;81184;100000
@@ -256,8 +227,6 @@
 24027;Klobiger lebendiger Rubin;1;219000;219000
 31289;Stab der göttlichen Eingebung;1;178600;223250
 31289;Stab der göttlichen Eingebung;1;165177;167903
-31289;Stab der göttlichen Eingebung;1;135679;169599
-31289;Stab der göttlichen Eingebung;1;175049;179999
 9926;Brigadestiefel;1;9552;14600
 12704;Pläne: Thoriumgamaschen;1;11250;15000
 12704;Pläne: Thoriumgamaschen;1;11250;15000
@@ -267,11 +236,7 @@
 785;Maguskönigskraut;20;800;1000
 13100;Furens Stiefel;1;8131;14000
 24654;Konsortiumstiefel;1;1441035;1460000
-7542;Championschienbeinschützer;1;24999;39999
 2633;Dschungelarznei;7;20262;40000
-31303;Valanos' Langbogen;1;129959;162449
-31303;Valanos' Langbogen;1;213460;224326
-31303;Valanos' Langbogen;1;134460;143075
 31303;Valanos' Langbogen;1;142733;169289
 22824;Elixier der erheblichen Stärke;9;103750;109999
 6149;Großer Manatrank;2;598;824
@@ -316,10 +281,6 @@
 7488;Hauptmannsreif;1;10000;20000
 7478;Waldläufergamaschen;1;10486;17500
 3820;Würgetang;20;33000;40000
-7476;Majestätische Schärpe;1;10000;20000
-31295;Brustschutz des Dunkelpirschers;1;133759;167199
-31295;Brustschutz des Dunkelpirschers;1;151441;155000
-31295;Brustschutz des Dunkelpirschers;1;133759;167199
 25708;Dickes Grollhufleder;20;483000;509000
 25708;Dickes Grollhufleder;20;483000;509000
 4705;Züngelnde Schuppenschulterstücke;1;3999;8999
@@ -342,25 +303,17 @@
 24662;Schattenratstiefel;1;1430619;1440000
 31308;Der Überbringer des Todes;1;194889;200000
 13003;Lord Alexanders Streitaxt;1;74460;100000
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
-32228;Engelssaphir;1;499999;799999
 23079;Tiefenperidot;1;5910;7388
 4338;Magiestoff;4;21500;40000
-31304;Essenzfokussierer;1;298836;350000
 31304;Essenzfokussierer;1;174817;207543
 31304;Essenzfokussierer;1;224999;249999
 31304;Essenzfokussierer;1;174817;207543
 31304;Essenzfokussierer;1;215891;220000
 14552;Palisadenschulterstücke;1;120290;150000
-7487;Hauptmannsgamaschen;1;27728;34660
 29740;Teuflische Waffen;1;119600;149500
 16051;Bauplan: Thoriumpatronen;1;7500;10000
 5504;Würziges Muschelfleisch;9;49900;49900
 23819;Elementare Zephyriumladung;4;327683;330004
-31291;Kristallgeschmiedete Kriegsaxt;1;251924;289905
 31291;Kristallgeschmiedete Kriegsaxt;1;227599;230000
 31291;Kristallgeschmiedete Kriegsaxt;1;217598;220000
 31282;Tuch der spirituellen Reinheit;1;145065;150000
@@ -372,10 +325,6 @@
 8400;Muster: Feste Skorpidschulterstücke;1;7993;9712
 8311;Alabasterplattenunterarmschienen;1;15430;22500
 24028;Feingeschliffener lebendiger Rubin;1;192899;196024
-31287;Ehrenwachenschild der Draenei;1;136735;145000
-31287;Ehrenwachenschild der Draenei;1;186735;190000
-31287;Ehrenwachenschild der Draenei;1;76735;150000
-31287;Ehrenwachenschild der Draenei;1;136735;145000
 31287;Ehrenwachenschild der Draenei;1;139900;139900
 31287;Ehrenwachenschild der Draenei;1;221157;230000
 31287;Ehrenwachenschild der Draenei;1;166813;208517
@@ -386,8 +335,6 @@
 31190;Schulterpolster des Träumers;1;55984;69980
 18653;Bauplan: Goblinüberbrückungskabel XL;1;126000;150000
 24199;Vorlage: Gediegener Stern der Elune;1;455600;569500
-7539;Championgamaschen;1;10000;30000
-7539;Championgamaschen;1;39654;49568
 24033;Gediegener Stern der Elune;1;35000;40000
 24033;Gediegener Stern der Elune;1;35000;40000
 24033;Gediegener Stern der Elune;1;35000;40000
@@ -415,16 +362,9 @@
 25700;Teufelsschuppen;10;108750;110000
 25700;Teufelsschuppen;20;200000;205000
 25700;Teufelsschuppen;20;200000;205000
-31294;Schulterstücke der Manawoge;1;107216;134020
 31294;Schulterstücke der Manawoge;1;112859;141074
 31294;Schulterstücke der Manawoge;1;129999;149999
 31294;Schulterstücke der Manawoge;1;112859;141074
-31299;Der Schwurbewahrer;1;118888;148610
-31299;Der Schwurbewahrer;1;148026;149000
-31299;Der Schwurbewahrer;1;199800;200000
-31299;Der Schwurbewahrer;1;158026;179999
-31299;Der Schwurbewahrer;1;118888;148610
-31299;Der Schwurbewahrer;1;118888;148610
 12425;Imperiale Plattenarmschienen;1;15957;20000
 24054;Stattliches Nachtauge;1;135000;140000
 24054;Stattliches Nachtauge;1;135000;140000
@@ -441,7 +381,6 @@
 24171;Vorlage: Kette der Nebeleule;1;115000;120000
 2456;Schwacher Verjüngungstrank;1;100;1000
 25158;Skelettbreitschwert;1;108022;120000
-7455;Ritterbeinschützer;1;10000;20000
 31288;Des Meisters Treter;1;39600;49500
 31288;Des Meisters Treter;1;30000;50000
 31288;Des Meisters Treter;1;219500;278900
@@ -507,4 +446,3 @@
 2840;Kupferbarren;10;9650;12320
 2840;Kupferbarren;10;9650;12320
 12979;Flammenfluchumhang;1;3999;8999
-16702;Gürtel der Furcht;1;84617;105772
