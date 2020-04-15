@@ -13,13 +13,6 @@
 21877;Netherstoff;20;24000;33300
 23140;Vorlage: Strahlender Tiefenperidot;1;195000;200000
 15755;Muster: Schimärenweste;1;8250;15000
-34330;Schweres Knotenhautrüstungsset;1;41250;49000
-34330;Schweres Knotenhautrüstungsset;10;352500;400000
-34330;Schweres Knotenhautrüstungsset;10;352500;400000
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;1;181250;210000
-34330;Schweres Knotenhautrüstungsset;1;181250;210000
 25649;Knotenhautlederfetzen;20;17500;21500
 25649;Knotenhautlederfetzen;10;9950;10800
 24207;Vorlage: Kompakter Dämmerstein;1;159600;199500
@@ -69,11 +62,6 @@
 33092;Heiltrankeinspritzung;20;490000;530000
 33092;Heiltrankeinspritzung;20;490000;530000
 13139;Bauchripper;1;40465;47945
-5498;Kleine irisierende Perle;5;3100;4450
-32833;Geläuterte Jaggalperle;1;15199;18999
-32833;Geläuterte Jaggalperle;1;15199;18999
-32833;Geläuterte Jaggalperle;1;15199;18999
-17414;Kodex: Gebet der Seelenstärke II;1;22125;40000
 13126;Kriegsruferstulpen;1;15561;38800
 24840;Zornflossenrüstung;1;55198;71100
 25867;Erdsturmdiamant;1;712122;737421
@@ -93,27 +81,9 @@
 25868;Himmelsfeuerdiamant;1;926100;940702
 14489;Muster: Froststoffhose;1;7500;15000
 23766;Geeichtes Eterniumzielfernrohr;1;1933612;1933806
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
 34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
 34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1033000;1033500
-34220;Wechselhafter Himmelsfeuerdiamant;1;1033000;1033500
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029900;1033800
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029900;1033800
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029900;1033800
-34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1449924;1596598
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
-34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
 34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
 34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
 34220;Wechselhafter Himmelsfeuerdiamant;1;1029924;1033898
@@ -141,17 +111,6 @@
 23441;Nachtauge;5;225000;500000
 13926;Goldene Perle;1;13249;16562
 5500;Schillernde Perle;1;35000;55000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;645000;645000
-32836;Geläuterte Schattenperle;1;545000;599000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
-32836;Geläuterte Schattenperle;1;550000;595000
 24200;Vorlage: Funkelnder Stern der Elune;1;221629;277036
 33872;Feuriger Würztalbuk;20;121999;128999
 33872;Feuriger Würztalbuk;11;22475;25000
@@ -197,7 +156,6 @@
 11754;Schwarzer Diamant;20;7500;15000
 11754;Schwarzer Diamant;2;20022;21424
 20826;Schwerer silberner Ring;1;5010;9900
-5468;Weiches Frenzyfleisch;1;145;200
 33825;Schädelfischsuppe;20;979500;979800
 18781;Untere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;5000;15000
 31127;Halsberge des Totemzorns;1;62559;71100

@@ -635,9 +635,6 @@
 22456;Urschatten;5;133640;148490
 22456;Urschatten;2;42000;55000
 22456;Urschatten;1;26728;29698
-3712;Schildkrötenfleisch;10;20000;20000
-3712;Schildkrötenfleisch;10;20000;20000
-3712;Schildkrötenfleisch;10;20000;20000
 3712;Schildkrötenfleisch;2;874;1000
 24210;Vorlage: Unbeständiges Nachtauge;1;266778;333473
 2011;Verdrehter Säbel;1;29900;39900
@@ -937,7 +934,6 @@
 21929;Flammenspessarit;1;5264;6080
 21929;Flammenspessarit;1;5264;6080
 21929;Flammenspessarit;1;5264;6080
-21929;Flammenspessarit;1;6383;7979
 21929;Flammenspessarit;1;5264;6080
 21929;Flammenspessarit;20;151515;161616
 22824;Elixier der erheblichen Stärke;20;299500;299800
@@ -1309,8 +1305,6 @@
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
 32745;Muster: Schulterpolster des erneuerten Lebens;1;349128;436410
-8153;Wildranke;1;4665;4665
-8153;Wildranke;1;4665;4665
 14778;Khans Binden;1;15785;19732
 13026;Himmelslicht;1;29161;50000
 3821;Golddorn;5;11125;15500
@@ -1329,7 +1323,6 @@
 4278;Geringes Blutsteinerz;20;152880;191100
 4278;Geringes Blutsteinerz;11;84084;105105
 15994;Thoriumapparat;3;11250;0
-1979;Mauer der Toten;1;144600;144600
 13036;Auftragsmordklinge;1;64500;80000
 24051;Massiver Dämmerstein;1;75000;80000
 24051;Massiver Dämmerstein;1;75000;80000
@@ -1432,7 +1425,6 @@
 8836;Arthas' Tränen;10;11425;20000
 8836;Arthas' Tränen;12;21696;25188
 8836;Arthas' Tränen;20;36160;41980
-8836;Arthas' Tränen;1;1250;1250
 22521;Überragendes Manaöl;1;151600;157000
 22521;Überragendes Manaöl;1;151600;157000
 30420;Schwerer Jadering;1;5600;7000
@@ -1471,13 +1463,10 @@
 16203;Große ewige Essenz;1;88000;93500
 16203;Große ewige Essenz;1;88000;93500
 16203;Große ewige Essenz;1;88000;93500
-769;Brocken Eberfleisch;10;20000;20000
-769;Brocken Eberfleisch;10;20000;20000
 769;Brocken Eberfleisch;5;1000;1000
 29157;Goldring der Macht;1;19670;24078
 29157;Goldring der Macht;1;19670;24078
 5498;Kleine irisierende Perle;1;1007;1119
-5833;Induriumerz;4;40000;40000
 33874;Kiblers Häppchen;20;79999;99999
 33874;Kiblers Häppchen;20;28800;36000
 33874;Kiblers Häppchen;20;44500;50000
@@ -1652,9 +1641,6 @@
 2318;Leichtes Leder;20;18460;20000
 3823;Geringer Unsichtbarkeitstrank;1;16584;20038
 3823;Geringer Unsichtbarkeitstrank;1;16584;20038
-3823;Geringer Unsichtbarkeitstrank;1;16584;20038
-3823;Geringer Unsichtbarkeitstrank;1;16584;20038
-3823;Geringer Unsichtbarkeitstrank;1;16584;20038
 3823;Geringer Unsichtbarkeitstrank;4;100000;100000
 2555;Rezept: Hurtigkeitstrank;1;20000;29999
 22838;Hasttrank;5;177500;179900
@@ -1747,7 +1733,6 @@
 2452;Flitzdistel;20;19496;21663
 2452;Flitzdistel;14;13961;15512
 2452;Flitzdistel;20;19944;22160
-2452;Flitzdistel;3;2042;2553
 21885;Urwasser;1;148899;159997
 29729;Muster: Lebendiger Drachenschuppenhelm;1;106400;133000
 29729;Muster: Lebendiger Drachenschuppenhelm;1;101080;126350
@@ -1801,10 +1786,8 @@
 11082;Große Astralessenz;1;9443;9443
 11082;Große Astralessenz;1;9443;9443
 11082;Große Astralessenz;1;9443;9443
-3358;Khadgars Schnurrbart;20;6016;7520
 3358;Khadgars Schnurrbart;1;262;300
 3358;Khadgars Schnurrbart;11;3327;3697
-3358;Khadgars Schnurrbart;19;5715;7144
 6416;Aurorastiefel;1;7144;8930
 29425;Mal von Kil'jaeden;3;21000;22500
 29425;Mal von Kil'jaeden;13;33900;100000
@@ -1968,7 +1951,6 @@
 22791;Netherblüte;20;349999;379999
 22791;Netherblüte;20;349999;379999
 22791;Netherblüte;20;366500;366600
-3859;Stahlbarren;9;34200;42750
 23793;Schweres Knotenhautleder;2;78750;80000
 23793;Schweres Knotenhautleder;2;78750;80000
 23793;Schweres Knotenhautleder;2;78750;80000
@@ -2332,12 +2314,9 @@
 2319;Mittleres Leder;20;34820;35460
 2319;Mittleres Leder;20;34820;35460
 2319;Mittleres Leder;20;34820;35460
-2319;Mittleres Leder;20;35480;35480
 2319;Mittleres Leder;20;34820;35460
 2319;Mittleres Leder;16;25000;32000
 2319;Mittleres Leder;20;33000;40000
-2319;Mittleres Leder;20;35480;35480
-2319;Mittleres Leder;20;35480;35480
 2319;Mittleres Leder;20;34820;35460
 2319;Mittleres Leder;20;21500;25000
 2319;Mittleres Leder;20;21500;25000
@@ -2631,7 +2610,6 @@
 8839;Blindkraut;20;23168;28960
 8839;Blindkraut;20;23296;29120
 8839;Blindkraut;3;4980;5460
-8839;Blindkraut;6;23894;29868
 8839;Blindkraut;5;8300;9100
 8839;Blindkraut;3;5000;5500
 8839;Blindkraut;20;21250;30000
@@ -3026,9 +3004,7 @@
 7974;Scharfes Muschelfleisch;1;1500;2900
 7974;Scharfes Muschelfleisch;9;53640;53910
 7974;Scharfes Muschelfleisch;10;59600;59900
-7974;Scharfes Muschelfleisch;10;30000;30000
 7974;Scharfes Muschelfleisch;10;33950;34900
-7974;Scharfes Muschelfleisch;10;30000;30000
 7974;Scharfes Muschelfleisch;10;44840;56050
 7974;Scharfes Muschelfleisch;9;39999;43201
 23120;Stürmischer Azurmondstein;1;11199;12299
@@ -3174,7 +3150,6 @@
 3429;Gardistengürtel;1;275000;300000
 25700;Teufelsschuppen;4;27500;30000
 1705;Geringer Mondstein;1;7500;10000
-1705;Geringer Mondstein;1;40000;40000
 16676;Bestienjägerhandschuhe;1;45657;57072
 1529;Jade;9;19450;21000
 13454;Großes Arkanelixier;6;94896;118620

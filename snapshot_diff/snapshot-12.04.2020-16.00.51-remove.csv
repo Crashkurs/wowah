@@ -18,11 +18,6 @@
 22794;Teufelslotus;10;389990;498990
 13031;Kugel des Dunstmantels;1;37452;41613
 29550;Foliant des Wasserherbeizauberns IX;1;80000;80000
-34440;Trank des verrückten Alchemisten;1;27686;30762
-34440;Trank des verrückten Alchemisten;5;138430;153810
-34440;Trank des verrückten Alchemisten;5;138430;153810
-34440;Trank des verrückten Alchemisten;5;138430;153810
-34440;Trank des verrückten Alchemisten;5;138430;153810
 31912;Delirium 5;1;2215000;2220000
 12365;Verdichteter Stein;20;19595;25119
 12365;Verdichteter Stein;20;19595;25119
@@ -44,16 +39,9 @@
 32249;Gischtsmaragd;1;399999;499999
 32249;Gischtsmaragd;1;399999;499999
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;6000;7300
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;6000;9500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;6000;9500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;6000;9500
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;14720;15900
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;10000;11000
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;9000;9800
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;5000;5000
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;4600;4900
 34861;Geschärfter Angelhaken;20;19152;23940
-34861;Geschärfter Angelhaken;20;14110;20000
 6381;Heller Umhang;1;1100;2200
 24029;Tränenförmiger lebendiger Rubin;1;45000;0
 24029;Tränenförmiger lebendiger Rubin;1;45000;0
@@ -61,7 +49,6 @@
 24029;Tränenförmiger lebendiger Rubin;1;45000;0
 24029;Tränenförmiger lebendiger Rubin;1;45000;0
 24029;Tränenförmiger lebendiger Rubin;1;45000;0
-858;Geringer Heiltrank;1;591;1026
 24662;Schattenratstiefel;1;1430619;1440000
 24192;Vorlage: Heller lebendiger Rubin;1;230000;250000
 31287;Ehrenwachenschild der Draenei;1;190000;199999
@@ -98,27 +85,12 @@
 3819;Winterbiss;1;1494;1660
 10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;1312;10000
 31304;Essenzfokussierer;1;215891;220000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;19200;21500
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;9000;11499
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;11200;11500
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;18500;19900
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;18500;19900
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;10562;20000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;10562;20000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;10562;20000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;10562;20000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;10000;11000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;3362;9900
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;9000;9899
 2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;9000;9899
 27651;Bussardbissen;20;15099;28699
 27651;Bussardbissen;20;15099;28699
 27651;Bussardbissen;20;15099;28699
 16245;Formel: Stiefel - Große Beweglichkeit;1;216000;220000
 31878;Vorlage: Verschleierter Edeltopas;1;299999;499999
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;12000;17500
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;12000;17500
-2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;17300;19125
 14499;Muster: Mondstofftasche;1;15000;24000
 14499;Muster: Mondstofftasche;1;25999;29999
 31901;Furien Ass;1;97729;122162
@@ -367,10 +339,7 @@
 11137;Visionenstaub;5;25000;37500
 22542;Formel: Stiefel - Vitalität;1;440000;590000
 22542;Formel: Stiefel - Vitalität;1;440000;590000
-35562;Bärenflanke;10;289999;299999
-35562;Bärenflanke;10;289999;299999
 19282;Portal 6;1;68750;70000
-2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;3362;30000
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;3362;30000
 25708;Dickes Grollhufleder;5;175625;189999
 25708;Dickes Grollhufleder;5;175625;189999
@@ -390,12 +359,6 @@
 1982;Nachtklinge;1;50000;80000
 6289;Roher langzahniger Matschschnapper;5;304;380
 14530;Schwerer Runenstoffverband;20;10000;20000
-34622;Wirbelschnitter;1;3500000;4000000
-34622;Wirbelschnitter;1;1899500;1999900
-34622;Wirbelschnitter;1;3500000;4000000
-34622;Wirbelschnitter;1;3500000;4000000
-34622;Wirbelschnitter;1;1809999;1949999
-34622;Wirbelschnitter;1;1850001;1888888
 3858;Mithrilerz;4;20176;22417
 22831;Elixier der erheblichen Beweglichkeit;20;548704;685880
 24067;Gezackter Talasit;1;45000;60000
@@ -425,7 +388,6 @@
 24401;Unbekannte Pflanzenteile;8;49588;63360
 3820;Würgetang;1;637;708
 6291;Roher glänzender Kleinfisch;6;417;522
-34330;Schweres Knotenhautrüstungsset;1;45500;48500
 25105;Arachnidendolch;1;94272;0
 19281;Portal 5;1;45600;57000
 5766;Geringe Hexerrobe;1;5600;7000
@@ -507,14 +469,7 @@
 19707;Rotes Schmuckstück der Hakkari;1;130000;140000
 19707;Rotes Schmuckstück der Hakkari;1;130000;140000
 7069;Elementarluft;1;6080;7600
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;14400;15501
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;13448;14311
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;9000;13000
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;9000;13000
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;10000;11000
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;9000;10500
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;7;63000;73500
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;9000;10500
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;9000;10500
 6037;Echtsilberbarren;1;1799;2499
 6037;Echtsilberbarren;1;1799;2499
@@ -529,10 +484,6 @@
 4245;Kleines Seidenpack;1;12282;19000
 4245;Kleines Seidenpack;1;12282;19000
 4245;Kleines Seidenpack;1;3000;5000
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12963;13704
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12963;13704
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12963;13704
-2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12963;13704
 24296;Muster: Armschienen des Unerschütterlichen;1;210000;220000
 7992;Pläne: Blaue glitzernde Axt;1;10961;12179
 31289;Stab der göttlichen Eingebung;1;149874;0
@@ -557,16 +508,6 @@
 23575;Geringer Zauberschutz der Abschirmung;5;13027;16198
 23575;Geringer Zauberschutz der Abschirmung;5;13027;16198
 23575;Geringer Zauberschutz der Abschirmung;5;13027;16198
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
 1710;Großer Heiltrank;2;375;900
 2576;Weißes Leinenhemd;1;80000;100000
 3608;Pläne: Mächtiger Eisenhammer;1;6999;7777
@@ -592,18 +533,6 @@
 23199;Totem des Sturms;1;75809;94762
 10286;Herz der Wildnis;2;15361;17068
 2084;Dunkelstahlbastardschwert;1;18400;23000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4499
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4499
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4499
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;13419;14274
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;7;22400;27993
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;562;4000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;13419;14274
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;562;4000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;562;4000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;13419;14274
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;10000;11000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;3999
 15529;Wachpostengamaschen;1;7920;9900
 5575;Großer grüner Sack;1;3750;7500
 15409;Raffiniertes Tiefsteinsalz;5;350000;380000
@@ -620,7 +549,6 @@
 31298;Beinschützer der Zerschmetterten Hand;1;141414;151515
 24197;Vorlage: Fragiler lebendiger Rubin;1;220000;230000
 3075;Flammenauge;1;90000;120000
-34535;Azurblauer Welpling;1;18000000;20000000
 19261;Kriegsfürst 4;1;18750;20000
 21990;Netherstoffverband;18;24425;30000
 21990;Netherstoffverband;20;28250;30000
@@ -639,7 +567,6 @@
 27665;Gedünstete Blauflosse;20;303030;313131
 27665;Gedünstete Blauflosse;20;303030;313131
 27665;Gedünstete Blauflosse;20;303030;313131
-10075;Rechtschaffene Schiftung;1;13980;17476
 31143;Tuch der Raserei;1;70000;97400
 22565;Formel: Großer Prismasplitter;1;212500;239090
 21877;Netherstoff;20;29999;39999

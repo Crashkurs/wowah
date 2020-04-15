@@ -48,7 +48,6 @@
 8170;Unverwüstliches Leder;20;195000;198000
 8170;Unverwüstliches Leder;20;195000;198000
 8170;Unverwüstliches Leder;20;195000;198000
-31900;Sturm 2;1;76993;96242
 33872;Feuriger Würztalbuk;5;57245;57245
 33872;Feuriger Würztalbuk;5;57245;57245
 14801;Kampfrauschcape;1;30000;30000
@@ -56,8 +55,6 @@
 27515;Große Tüpfelteufelsfinne;1;7524;9405
 27515;Große Tüpfelteufelsfinne;2;7524;9405
 2243;Hand von Edward dem Seltsamen;1;218674;250000
-2243;Hand von Edward dem Seltsamen;1;332654;369616
-2243;Hand von Edward dem Seltsamen;1;689999;699999
 23574;Rezept: Urmacht transmutieren;1;122537;136152
 23574;Rezept: Urmacht transmutieren;1;122537;136152
 15639;Eisenhautarmschienen;1;10000;30000
@@ -119,7 +116,6 @@
 29739;Arkaner Foliant;1;129924;139955
 730;Murlocauge;1;281;313
 7424;Phalanxschiftung;1;10000;30000
-31896;Sturm 7;1;191200;510000
 13011;Silbergefütterter Gürtel;1;31546;45000
 13468;Schwarzer Lotus;3;30000;40000
 12360;Arkanitbarren;1;70500;70900
@@ -138,7 +134,6 @@
 12360;Arkanitbarren;1;70500;70900
 15567;Marodeurstunika;1;10000;30000
 2565;Rute des flüssigen Feuers;1;3277;4851
-2296;Große Geiferzahnschnauze;8;2521;3152
 3356;Königsblut;17;3196;3196
 25849;Formel: Runenverzierte Eterniumrute;1;261760;277200
 2452;Flitzdistel;17;10098;10098
@@ -230,7 +225,6 @@
 31153;Axt der Legion;1;427865;475406
 10086;Gotische Plattenrüstung;1;10000;30000
 24220;Vorlage: Gezackter Talasit;1;425000;450000
-1997;Gebügelte Filzrobe;1;3808;7500
 2459;Hurtigkeitstrank;5;9500;11875
 31291;Kristallgeschmiedete Kriegsaxt;1;190560;211733
 23784;Adamantitrahmen;1;63000;63900
@@ -246,7 +240,6 @@
 11082;Große Astralessenz;7;81900;88928
 23117;Azurmondstein;1;3028;3861
 23117;Azurmondstein;1;3028;3861
-31879;Vorlage: Tückischer Edeltopas;1;445000;450000
 21841;Netherstofftasche;1;150000;150000
 21841;Netherstofftasche;1;150000;150000
 21841;Netherstofftasche;1;150000;150000
@@ -256,9 +249,6 @@
 21841;Netherstofftasche;1;150000;150000
 21841;Netherstofftasche;1;150000;150000
 21841;Netherstofftasche;1;150000;150000
-31905;Furien 7;1;1099999;1199999
-31905;Furien 7;1;837500;840000
-31905;Furien 7;1;1200000;1200000
 17007;Steinreißerstulpen;1;75000;100000
 27676;Seltsame Sporen;5;15409;17121
 25897;Starker Erdsturmdiamant;1;895000;898800
@@ -381,17 +371,8 @@
 12799;Großer Opal;1;10500;19999
 7091;Muster: Handschuhe des wahren Glaubens;1;6460;8075
 19231;Bestien 3;1;59524;75905
-31882;Segen Ass;1;37430;44360
 31882;Segen Ass;1;89715;89944
 31882;Segen Ass;1;27000;29000
-31882;Segen Ass;1;45000;50000
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;37430;44360
-31882;Segen Ass;1;23601;29502
 1447;Ring der Retter;1;120000;120000
 27435;Feigenschimmers Matschflosser;20;189544;237680
 9036;Magiewiderstandstrank;1;79999;79999
@@ -426,7 +407,6 @@
 3655;Brünierter Schild;1;5000;5100
 5500;Schillernde Perle;1;68900;69900
 5500;Schillernde Perle;1;64296;75370
-5500;Schillernde Perle;1;90000;90000
 31672;Rippchen der Mok'Nathal;20;29832;29940
 31672;Rippchen der Mok'Nathal;20;29832;29940
 31672;Rippchen der Mok'Nathal;20;29832;29940
@@ -445,18 +425,9 @@
 24290;Reifer Sporenbeutel;6;85788;85788
 24305;Muster: Cape der Entschlossenheit;1;169417;208241
 32067;Elixier der draenischen Weisheit;5;63680;75400
-32067;Elixier der draenischen Weisheit;20;255000;300000
-32067;Elixier der draenischen Weisheit;5;89425;97995
-32067;Elixier der draenischen Weisheit;10;182500;190000
-32067;Elixier der draenischen Weisheit;10;182500;190000
-32067;Elixier der draenischen Weisheit;10;199990;199990
-32067;Elixier der draenischen Weisheit;10;199990;199990
-32067;Elixier der draenischen Weisheit;5;89999;99999
 12009;Tundraring;1;10000;30000
 14911;Derbe Stiefel;1;10000;30000
-2244;Krolklinge;1;271858;290000
 2244;Krolklinge;1;274500;289500
-2244;Krolklinge;1;271858;290000
 23635;Pläne: Runenverzierte Eterniumklinge;1;2207697;2502996
 23787;Teufelsstahlstabilisator;1;594473;594619
 31190;Schulterpolster des Träumers;1;130321;144801
@@ -512,9 +483,6 @@
 22839;Zerstörungstrank;5;179999;182999
 22839;Zerstörungstrank;5;179999;182999
 22839;Zerstörungstrank;5;179999;182999
-2318;Leichtes Leder;20;14900;19900
-2318;Leichtes Leder;20;14900;19900
-2318;Leichtes Leder;20;14900;19900
 2318;Leichtes Leder;20;30180;37560
 2318;Leichtes Leder;10;11400;13000
 2318;Leichtes Leder;20;22800;26000
@@ -630,8 +598,6 @@
 24272;Schattenstoff;1;306000;350000
 24272;Schattenstoff;1;306000;350000
 1461;Streitaxt des Töters;1;15000;15000
-31883;Segen 8;1;5980000;8850000
-31883;Segen 8;1;5980000;8850000
 29535;Netherkobrabeinrüstung;1;2079900;2719999
 29535;Netherkobrabeinrüstung;1;2079900;2719999
 1752;Gekettelte Schulterpolster;1;15000;15000
@@ -639,18 +605,10 @@
 22447;Geringe Planaressenz;1;36823;38749
 22447;Geringe Planaressenz;1;36823;38749
 22447;Geringe Planaressenz;1;36823;38749
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;779999;979999
-31876;Vorlage: Ausbalanciertes Nachtauge;1;299999;299999
 7357;Ältestenhut;1;2812;9900
 5504;Würziges Muschelfleisch;9;9999;9999
 14491;Muster: Runenstoffhose;1;9880;12350
 29533;Kobrahautbeinrüstung;1;1371000;1372000
-2099;Zwergische Handkanone;1;151999;189999
-2099;Zwergische Handkanone;1;179000;189000
 22832;Erstklassiger Manatrank;5;113400;119990
 22832;Erstklassiger Manatrank;5;114995;114995
 22832;Erstklassiger Manatrank;5;113400;119990
@@ -693,18 +651,6 @@
 13067;Hydralickrüstung;1;37647;40000
 31143;Tuch der Raserei;1;78678;87420
 31143;Tuch der Raserei;1;71000;75500
-2021;Grüner Knochenpanzerschild;1;5000;6000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
 3357;Lebenswurz;7;487;500
 22452;Urerde;2;12000;85000
 22452;Urerde;1;54412;54912
@@ -769,8 +715,6 @@
 871;Wirbelwindaxt;1;755033;757565
 3871;Pläne: Goldene Schuppenschultern;1;22800;28500
 11996;Basaltring;1;20000;30000
-31892;Sturm Ass;1;74100;92625
-31892;Sturm Ass;1;46999;68999
 31285;Brustschutz der Kralle;1;167899;186555
 31285;Brustschutz der Kralle;1;167899;186555
 4337;Dicke Spinnenseide;1;1499;1599
@@ -786,33 +730,10 @@
 14474;Muster: Froststoffhandschuhe;1;4500;10000
 25898;Harter Erdsturmdiamant;1;995000;999900
 32062;Elixier der erheblichen Seelenstärke;8;84000;105920
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;105000;132400
-32062;Elixier der erheblichen Seelenstärke;10;105000;132400
-32062;Elixier der erheblichen Seelenstärke;2;21000;26480
-32062;Elixier der erheblichen Seelenstärke;20;254999;279999
-32062;Elixier der erheblichen Seelenstärke;7;111994;139993
 32062;Elixier der erheblichen Seelenstärke;20;439984;449980
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 23446;Adamantitbarren;20;190000;201500
 23446;Adamantitbarren;5;38000;47500
 31237;Elekkbalggamaschen;1;179892;227075
-4090;Becher des Schmerzes;1;31104;50000
 13512;Fläschchen der obersten Macht;1;129900;169900
 13512;Fläschchen der obersten Macht;1;129900;169900
 13512;Fläschchen der obersten Macht;1;129900;169900
@@ -888,7 +809,6 @@
 4625;Feuerblüte;20;37500;45500
 23575;Geringer Zauberschutz der Abschirmung;5;12160;15200
 23621;Pläne: Stulpen des eisernen Turms;1;680000;680000
-2313;Mittleres Rüstungsset;10;367608;459510
 3860;Mithrilbarren;20;152000;185000
 3860;Mithrilbarren;20;152000;185000
 3860;Mithrilbarren;20;152000;185000
@@ -897,9 +817,6 @@
 31186;Braxxis' Stab des Schlummers;1;140863;156515
 31290;Band der Herrschaft;1;177634;197371
 27663;Schwarzgebratener Sporenfisch;18;61210;68011
-2175;Schattenfellstreitaxt;1;7472;9341
-32063;Erdelixier;10;52500;100000
-32063;Erdelixier;5;89995;99995
 8836;Arthas' Tränen;15;18876;23595
 31203;Arkanschleife;1;149900;149900
 22785;Teufelsgras;20;45584;56980
@@ -921,10 +838,6 @@
 30323;Pläne: Stiefel des Beschützers;1;241998;307998
 25896;Mächtiger Erdsturmdiamant;1;1015000;1119900
 25896;Mächtiger Erdsturmdiamant;1;1026483;1119800
-31910;Delirium Ass;1;37500;43344
-31910;Delirium Ass;1;37500;43344
-31910;Delirium Ass;1;37500;43000
-31910;Delirium Ass;1;35000;40000
 31910;Delirium Ass;1;29500;38000
 4476;Bestienwandlerrobe;1;4101;9900
 2319;Mittleres Leder;3;13304;14131
@@ -960,8 +873,6 @@
 2589;Leinenstoff;20;390;3000
 2589;Leinenstoff;20;390;3000
 31878;Vorlage: Verschleierter Edeltopas;1;375000;400000
-31878;Vorlage: Verschleierter Edeltopas;1;320000;339999
-31878;Vorlage: Verschleierter Edeltopas;1;299909;299999
 12994;Thorbias' Stulpen;1;50000;60000
 8398;Muster: Feste Skorpidhandschuhe;1;2892;3960
 8398;Muster: Feste Skorpidhandschuhe;1;2892;3960
@@ -979,9 +890,6 @@
 22448;Kleiner Prismasplitter;4;286022;294120
 22448;Kleiner Prismasplitter;1;71505;73530
 22448;Kleiner Prismasplitter;4;286022;294120
-32215;Leuchtender Schattensangamethyst;1;450000;490000
-32215;Leuchtender Schattensangamethyst;1;619899;619899
-32215;Leuchtender Schattensangamethyst;1;619900;619900
 22788;Flammenkappe;5;152445;152445
 22788;Flammenkappe;5;152445;152445
 22788;Flammenkappe;5;152445;152445
@@ -1043,7 +951,6 @@
 21877;Netherstoff;20;34000;35800
 21877;Netherstoff;20;34000;35800
 13025;Vorschlaghammer der Totenwaldfelle;1;15696;39900
-31887;Segen 6;1;8750000;12980000
 3355;Wildstahlblume;2;1862;2328
 23107;Schattendraenit;1;7365;9850
 23107;Schattendraenit;5;18750;41100
@@ -1084,7 +991,6 @@
 2800;Schwarze Samtroben;1;22287;40000
 24303;Muster: Gurt der Zerstörung;1;200000;200000
 24303;Muster: Gurt der Zerstörung;1;515468;572743
-13058;Khoospitze;1;32749;33000
 24056;Leuchtendes Nachtauge;1;116964;119999
 24056;Leuchtendes Nachtauge;1;116964;119999
 24056;Leuchtendes Nachtauge;1;116964;119999
@@ -1097,7 +1003,6 @@
 27503;Rolle der Stärke V;1;41735;46373
 27503;Rolle der Stärke V;5;216518;240575
 31127;Halsberge des Totemzorns;1;80479;89421
-31889;Segen 2;1;2600000;4000000
 14343;Kleiner glänzender Splitter;5;11416;14895
 14343;Kleiner glänzender Splitter;20;45664;59580
 20828;Ring des Zwielichts;1;10000;20000
@@ -1114,15 +1019,11 @@
 29740;Teuflische Waffen;20;3947480;3947480
 29740;Teuflische Waffen;20;3947480;3947480
 24666;Schattenrathose;1;120000;129999
-13122;Dunkles Phantomcape;1;17233;20000
 13122;Dunkles Phantomcape;1;49999;59999
 2409;Muster: Dunkle Ledertunika;1;1097;1372
-31888;Segen 3;1;186199;232749
 24478;Jaggalperle;1;7498;7499
 24478;Jaggalperle;1;7498;7499
 29536;Netherkluftbeinrüstung;1;1430000;1439900
-2299;Brennende Kriegsaxt;1;19020;23776
-2299;Brennende Kriegsaxt;1;28698;35873
 2815;Bogenklingenreißer;1;119667;149500
 6211;Rezept: Elixier der Ogerstärke;1;57178;71473
 8152;Fläschchen großes Mojo;1;1338;1487
@@ -1171,32 +1072,18 @@
 21884;Urfeuer;1;336000;350000
 21884;Urfeuer;1;359998;359998
 21884;Urfeuer;1;359998;359998
-1990;Ballastschlägel;1;15115;30000
 9872;Renegatenschulterstücke;1;6151;9900
 9872;Renegatenschulterstücke;1;6151;9900
 11018;Erde von Un'Goro;46;29999;29999
 6572;Verteidigungsstarker Schild;1;31984;50000
 22786;Traumwinde;20;121584;151980
 22786;Traumwinde;20;121584;151980
-31901;Furien Ass;1;139365;165794
-31901;Furien Ass;1;170000;184500
-31901;Furien Ass;1;95454;119318
-31901;Furien Ass;1;139365;165794
-31901;Furien Ass;1;89999;95000
 31901;Furien Ass;1;79867;94050
 31901;Furien Ass;1;99567;124459
-31901;Furien Ass;1;139365;165794
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;74999;95999
-31901;Furien Ass;1;115000;120000
 31901;Furien Ass;1;99552;125316
-31901;Furien Ass;1;125000;130000
-31901;Furien Ass;1;139365;165794
-31901;Furien Ass;1;139365;165794
 10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;1900;2375
 14232;Glutseidenmantel;1;10000;30000
 31297;Robe des Purpurordens;1;200508;222787
-31913;Delirium 4;1;95000;100000
 22457;Urmana;1;229921;234877
 22457;Urmana;1;229921;234877
 22457;Urmana;1;229921;234877
@@ -1272,12 +1159,8 @@
 23425;Adamantiterz;10;54345;60384
 3197;Steinfräserclaymore;1;23600;29500
 22794;Teufelslotus;1;15000;30000
-31884;Segen 5;1;994940;995040
-31884;Segen 5;1;887500;890000
-31884;Segen 5;1;260000;800000
 2100;Präzise kalibriertes Schießeisen;1;69999;79999
 2100;Präzise kalibriertes Schießeisen;1;46810;80000
-2100;Präzise kalibriertes Schießeisen;1;226810;249900
 4249;Dunkler Ledergürtel;1;18249;22812
 4249;Dunkler Ledergürtel;1;18249;22812
 4249;Dunkler Ledergürtel;1;18249;22812
@@ -1408,7 +1291,6 @@
 22575;Lebenspartikel;1;13963;15554
 13008;Beinkleider der Talwinde;1;18507;29106
 16254;Formel: Waffe - Lebensdiebstahl;1;117000;124000
-2163;Schattenklinge;1;70065;110000
 29534;Grollbalgbeinrüstung;1;810000;815000
 29534;Grollbalgbeinrüstung;1;810000;815500
 25867;Erdsturmdiamant;1;670000;670000
@@ -1419,7 +1301,6 @@
 31178;Amulett der unbeständigen Macht;1;161616;171717
 31178;Amulett der unbeständigen Macht;1;58162;120000
 25905;Vorlage: Harter Erdsturmdiamant;1;450000;550000
-2245;Helm von Narv;1;148852;186066
 2245;Helm von Narv;1;69999;129999
 8845;Geisterpilz;2;17725;19000
 27499;Rolle der Intelligenz V;5;20728;23031

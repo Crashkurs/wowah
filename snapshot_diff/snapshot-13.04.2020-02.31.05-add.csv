@@ -12,10 +12,8 @@
 34330;Schweres Knotenhautrüstungsset;1;45000;48000
 34330;Schweres Knotenhautrüstungsset;1;45000;48000
 34330;Schweres Knotenhautrüstungsset;1;45500;48500
-4722;Insignienumhang;1;10095;12346
 14190;Regenmacherweste;1;20000;30000
 29725;Muster: Windschuppenkapuze;1;90000;130000
-24274;Runenverzierter Zauberfaden;1;2699500;2739500
 8167;Schildkrötenschuppe;20;100000;120000
 11186;Roter Machtkristall;10;80000;100000
 7974;Scharfes Muschelfleisch;10;19596;26120
@@ -26,17 +24,11 @@
 9294;Rezept: Wildrankentrank;1;31495;42772
 9294;Rezept: Wildrankentrank;1;15654;19568
 9294;Rezept: Wildrankentrank;1;3000;9900
-4810;Felspolster;1;29224;34702
 24206;Vorlage: Schimmernder Dämmerstein;1;177777;178888
 31336;Klinge der Zauberei;1;20809423;22500000
-4625;Feuerblüte;16;96000;99900
-4625;Feuerblüte;20;117999;155979
-4625;Feuerblüte;20;87500;100000
-4625;Feuerblüte;20;87500;100000
 24478;Jaggalperle;2;8000;12200
 29425;Mal von Kil'jaeden;1;990300;999999
 14791;Beschützercape;1;38910;39900
-24273;Mystischer Zauberfaden;1;1524500;1549500
 5498;Kleine irisierende Perle;1;2354;2943
 5498;Kleine irisierende Perle;2;3138;3487
 2592;Wollstoff;11;15000;20000
@@ -58,9 +50,6 @@
 24304;Muster: Schwarzer Gürtel des Wissens;1;905000;999999
 22907;Rezept: Erstklassiger Manatrank;1;15000000;17500000
 6390;Muster: Modisches blaues Hemd;1;8460;9400
-32388;Schattenstaub;1;13500;14500
-32388;Schattenstaub;1;13500;14500
-32388;Schattenstaub;7;94500;101500
 22459;Sphäre der Leere;1;3800;4750
 10939;Große Magieessenz;1;19796;21996
 10939;Große Magieessenz;1;19796;21996
@@ -68,7 +57,6 @@
 10939;Große Magieessenz;1;19796;21996
 10939;Große Magieessenz;1;19796;21996
 10939;Große Magieessenz;1;19796;21996
-4787;Brennendes Pech;2;3031;10000
 31905;Furien 7;1;800000;849999
 4711;Gleißender Umhang;1;25723;26359
 22562;Formel: Überragendes Manaöl;1;400000;450000
@@ -95,22 +83,15 @@
 27657;Schwarzgebratener Basilisk;20;332280;369200
 27657;Schwarzgebratener Basilisk;20;332280;369200
 27657;Schwarzgebratener Basilisk;20;332280;369200
-4716;Gefechtsumhang;1;2487;3000
 34535;Azurblauer Welpling;1;18000000;20000000
 15511;Grunzerbeinschützer;1;60000;65000
 27674;Felshetzerfleisch;4;2352;2940
-32409;Unerbittlicher Erdsturmdiamant;1;950000;1000000
-32409;Unerbittlicher Erdsturmdiamant;1;950000;1000000
-32409;Unerbittlicher Erdsturmdiamant;1;725000;725000
 22797;Alptraumsaat;20;224500;237000
 22797;Alptraumsaat;20;224500;237000
 22797;Alptraumsaat;20;224500;237000
 12695;Pläne: Strahlende Handschuhe;1;7500;19999
 11184;Blauer Machtkristall;10;80000;100000
 11971;Amethystband;1;250000;250000
-4696;Lapidis immervoller Humpen;1;19999;29999
-4696;Lapidis immervoller Humpen;1;20000;20000
-4729;Auroramantel;1;35972;41991
 3369;Grabmoos;11;3520;4400
 22788;Flammenkappe;7;69132;86415
 22788;Flammenkappe;20;252500;259900
@@ -145,15 +126,10 @@
 21886;Urleben;2;229999;239999
 5543;Pläne: Schillernder Hammer;1;5285;5872
 7976;Pläne: Mithrilschildstachel;1;193000;200000
-4705;Züngelnde Schuppenschulterstücke;1;3999;8999
 7989;Pläne: Mithrilsporen;1;173750;250000
 27651;Bussardbissen;20;23333;25555
 6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
 6663;Rezept: Elixier des Riesenwuchses;1;232545;258384
-4304;Dickes Leder;12;71500;76000
-4304;Dickes Leder;6;16500;18000
-4304;Dickes Leder;1;4900;5445
-4304;Dickes Leder;3;16350;16497
 11203;Formel: Handschuhe - Hochentwickelter Bergbau;1;73643;79603
 22838;Hasttrank;5;159000;168899
 22838;Hasttrank;5;159000;168899
@@ -175,8 +151,6 @@
 29740;Teuflische Waffen;1;155555;157777
 29740;Teuflische Waffen;1;155555;157777
 17056;Leichte Feder;20;18888;19999
-4727;Oberbrigadiergurt;1;9999;12000
-4727;Oberbrigadiergurt;1;8886;20000
 13019;Harpyienklauenkurzbogen;1;58139;60155
 22831;Elixier der erheblichen Beweglichkeit;20;500000;540000
 9873;Renegatenschild;1;20000;30000
@@ -203,7 +177,6 @@
 23438;Stern der Elune;1;34000;36500
 12202;Tigerfleisch;4;1236;1373
 15752;Muster: Lebendige Gamaschen;1;87500;110000
-4733;Schwarzschmiedeschulterstücke;1;25462;31828
 11185;Grüner Machtkristall;10;80000;100000
 10075;Rechtschaffene Schiftung;1;20000;30000
 21840;Netherstoffballen;5;84600;94000

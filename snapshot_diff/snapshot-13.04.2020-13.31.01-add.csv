@@ -51,10 +51,6 @@
 9956;Kriegstreiberarmschienen;1;30000;40000
 16705;Wickeltücher der Furcht;1;78400;98000
 24801;Drachenfalkenhandschuhe;1;80000;90000
-6533;Aquadynamischer Fischanlocker;20;14352;22940
-6533;Aquadynamischer Fischanlocker;20;14352;22940
-6533;Aquadynamischer Fischanlocker;20;14352;22940
-6533;Aquadynamischer Fischanlocker;20;14352;22940
 6889;Kleines Ei;3;3000;3500
 11225;Formel: Armschiene - Große Ausdauer;1;53200;66500
 9891;Jägersmanngürtel;1;20000;30000
@@ -69,8 +65,6 @@
 14950;Blutgeschmiedeter Gürtel;1;30000;40000
 7068;Elementarfeuer;3;17698;19664
 8315;Alabasterplattengurt;1;20213;22459
-13757;Zitteraal;8;7720;10000
-13757;Zitteraal;20;10300;20000
 15937;Sphäre des Winterschlafs;1;11883;20000
 24783;Finsterblutstiefel;1;1500810;1800000
 24786;Finsterblutbedeckung;1;130000;140000
@@ -100,7 +94,6 @@
 23489;Teufelseisenbrustplatte;1;65000;140000
 23489;Teufelseisenbrustplatte;1;65000;140000
 10057;Dämmergewirkte Tunika;1;40000;50000
-15491;Blutbespritzte Handschuhe;1;675;844
 21882;Seelenessenz;9;132764;147516
 22447;Geringe Planaressenz;10;374355;415950
 19818;Durchstochene Voodoopuppe;1;219128;273910
@@ -138,7 +131,6 @@
 12809;Wächterstein;1;55000;60000
 7067;Elementarerde;1;30638;34042
 814;Fläschchen Öl;5;7664;9580
-6401;Muster: Dunkles Seidenhemd;1;1500;34500
 24478;Jaggalperle;5;47870;53189
 24478;Jaggalperle;1;5600;7000
 21929;Flammenspessarit;2;17500;25000
@@ -165,7 +157,6 @@
 22574;Feuerpartikel;3;103089;111210
 22574;Feuerpartikel;7;159785;177539
 25194;Schlangenreißer;1;180000;200000
-15518;Stachelkettenbrustplatte;1;20000;30000
 1973;Täuschungskugel;1;150018;182500
 1973;Täuschungskugel;1;150018;182500
 1973;Täuschungskugel;1;150018;182500
@@ -186,9 +177,6 @@
 27503;Rolle der Stärke V;5;283500;299000
 27503;Rolle der Stärke V;5;283500;299000
 17414;Kodex: Gebet der Seelenstärke II;1;42559;53199
-4245;Kleines Seidenpack;1;12282;18000
-4245;Kleines Seidenpack;1;12282;18000
-4245;Kleines Seidenpack;1;12282;18000
 24795;Expeditionshose;1;114174;126861
 15417;Teufelssaurierleder;6;51122;56802
 16043;Bauplan: Thoriumgewehr;1;25932;36591
@@ -204,8 +192,6 @@
 8173;Dickes Rüstungsset;10;529120;632360
 8173;Dickes Rüstungsset;10;529120;632360
 2835;Rauer Stein;6;1708;2136
-6424;Schwarzschmiedecape;1;5737;10000
-6424;Schwarzschmiedecape;1;10000;30000
 19279;Portal 3;1;202500;239900
 8171;Unverwüstlicher Balg;9;17971;19968
 8171;Unverwüstlicher Balg;10;16091;17879
@@ -246,16 +232,10 @@
 21841;Netherstofftasche;1;105000;150000
 21841;Netherstofftasche;1;105000;150000
 21841;Netherstofftasche;1;105000;150000
-21841;Netherstofftasche;1;105000;150000
-21841;Netherstofftasche;1;105000;150000
 14304;Knochenwerfers Gürtel;1;30000;40000
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;3;23144;25716
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;3;23144;25716
 15148;Geistwandlergürtel;1;20000;30000
-9262;Schwarzes Vitriol;6;9000;20000
-9262;Schwarzes Vitriol;11;41298;51623
-9262;Schwarzes Vitriol;1;9032;9966
-9262;Schwarzes Vitriol;1;9032;9966
 23766;Geeichtes Eterniumzielfernrohr;1;1930000;1933300
 23766;Geeichtes Eterniumzielfernrohr;1;1900021;2220000
 7910;Sternrubin;1;22854;25393
@@ -285,26 +265,15 @@
 24719;Lumpenpackbrustharnisch;1;50000;60000
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;13062;19200
 22448;Kleiner Prismasplitter;13;950387;1055985
-6470;Deviatschuppe;20;10600;24900
-6470;Deviatschuppe;20;10600;24900
 7081;Odem des Windes;1;52591;58434
 7081;Odem des Windes;9;287035;318928
 25056;Almandinring;1;855854;950000
-6522;Deviatfisch;20;150000;200000
-6522;Deviatfisch;20;150000;200000
 6522;Deviatfisch;1;14500;15500
 3712;Schildkrötenfleisch;3;1821;2023
 13465;Bergsilbersalbei;20;84224;95280
 13465;Bergsilbersalbei;13;54038;67548
 13465;Bergsilbersalbei;7;11575;27500
 19702;Münze der Blutfratzen;10;550000;585000
-13926;Goldene Perle;1;9581;13227
-13926;Goldene Perle;1;10000;11111
-13926;Goldene Perle;1;14798;14799
-13926;Goldene Perle;2;26680;29644
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
 13926;Goldene Perle;1;14900;16900
 13926;Goldene Perle;1;14900;16900
 13926;Goldene Perle;1;14900;16900
@@ -317,15 +286,6 @@
 13926;Goldene Perle;1;14900;16900
 13926;Goldene Perle;1;14900;16900
 13926;Goldene Perle;1;14900;16900
-13926;Goldene Perle;1;9516;13520
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13760;Roher Sonnenschuppenlachs;20;399600;399600
-13760;Roher Sonnenschuppenlachs;18;359640;359640
-13760;Roher Sonnenschuppenlachs;20;80300;99999
-13760;Roher Sonnenschuppenlachs;20;80300;99999
-4235;Schwerer Balg;1;60300;69900
 4235;Schwerer Balg;1;49999;59999
 4235;Schwerer Balg;1;49999;59999
 25132;Thrallmarkriegshammer;1;120000;130000
@@ -342,8 +302,6 @@
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;24000;27500
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;24000;27500
 13492;Rezept: Läuterungstrank;1;90235;94706
-15511;Grunzerbeinschützer;1;60000;65000
-4247;Lederhandschuhe des Hügelwächters;1;14822;15357
 11175;Große Netheressenz;1;50000;60000
 11175;Große Netheressenz;1;50000;60000
 11175;Große Netheressenz;1;50000;60000
@@ -419,7 +377,6 @@
 4461;Raptorbalg;10;2884;3205
 24950;Sumpfschlägergürtel;1;50000;60000
 4293;Muster: Lederweste des Hügelwächters;1;13309;14787
-4293;Muster: Lederweste des Hügelwächters;1;2400;3000
 13885;34-pfündiger Rotkiemen;1;330050;379500
 27498;Rolle der Beweglichkeit V;5;450625;491500
 27498;Rolle der Beweglichkeit V;5;283500;299000
@@ -440,8 +397,6 @@
 24401;Unbekannte Pflanzenteile;5;25625;34999
 24401;Unbekannte Pflanzenteile;10;51250;70000
 24401;Unbekannte Pflanzenteile;10;51250;70000
-13876;40-pfündiger Zackenbarsch;1;10089;20098
-13876;40-pfündiger Zackenbarsch;1;10089;20098
 14459;Elunarischer Umhang;1;38872;43192
 12359;Thoriumbarren;4;9900;19900
 12808;Essenz des Untodes;1;11552;14440
@@ -454,7 +409,6 @@
 16252;Formel: Waffe - Kreuzfahrer;1;2000000;2000000
 4611;Blaue Perle;2;19712;21903
 8264;Ebenhölzerne Handgelenksschützer;1;27000;30000
-6431;Imperiale Lederstiefel;1;18154;20000
 22146;Buch: Gabe der Wildnis III;1;153435;170483
 24166;Vorlage: Dicke Teufelsstahlhalskette;1;212899;236555
 22786;Traumwinde;1;5937;6597
@@ -480,7 +434,6 @@
 21881;Netherweberseide;10;159800;159800
 21881;Netherweberseide;9;92754;103060
 13066;Wyrmtöterschiftung;1;55792;61991
-16254;Formel: Waffe - Lebensdiebstahl;1;56000;59500
 22837;Heldentrank;5;189999;199999
 22837;Heldentrank;5;189999;199999
 22837;Heldentrank;5;189999;199999
@@ -492,34 +445,22 @@
 11083;Seelenstaub;20;60000;70000
 11083;Seelenstaub;20;60000;70000
 11083;Seelenstaub;20;140000;159400
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;5;300000;325000
 16039;Ta'Kierthan Arkanklinge;1;153598;159500
 19711;Grünes Schmuckstück der Hakkari;1;350000;400000
 23623;Pläne: Helm des Sturms;1;151600;189500
-6433;Imperialer Lederhelm;1;17429;29999
-6433;Imperialer Lederhelm;1;10761;26366
 13007;Magieflammenumhang;1;74574;82860
 20498;Silithidenchitin;7;37204;41338
-13756;Roher Sommerbarsch;10;47112;58890
-13756;Roher Sommerbarsch;8;32583;36203
-13756;Roher Sommerbarsch;20;81457;90508
 22449;Großer Prismasplitter;1;166219;184687
 22449;Großer Prismasplitter;1;166219;184687
 22449;Großer Prismasplitter;1;166219;184687
 22449;Großer Prismasplitter;1;166219;184687
 22449;Großer Prismasplitter;1;166219;184687
 22449;Großer Prismasplitter;20;3229307;3588119
-6427;Blaunebelrobe;1;21140;26426
 19768;Urzeitliches Tigerleder;5;125000;137500
 24927;Ango'roshsabatons;1;99900;100000
 14206;Vitale Armreife;1;20000;30000
-2447;Friedensblume;3;324;360
 19441;Riesiger Giftbeutel;1;2355;2617
 19441;Riesiger Giftbeutel;2;5895;6550
-6512;Jüngerrobe;1;10000;15000
 9395;Handschuhe der Vergangenheit;1;44546;58384
 21886;Urleben;1;111099;129799
 21886;Urleben;1;116000;120000
@@ -539,7 +480,6 @@
 24062;Robuster Talasit;1;58800;73500
 16202;Geringe ewige Essenz;1;22500;25000
 16202;Geringe ewige Essenz;1;22500;25000
-4251;Schultern des Hügelwächters;1;1800;3500
 4251;Schultern des Hügelwächters;1;6080;9000
 4251;Schultern des Hügelwächters;1;6080;9000
 2459;Hurtigkeitstrank;5;24900;24900
@@ -548,8 +488,6 @@
 11137;Visionenstaub;20;125000;150000
 14416;Steinstoffbindungen;1;20000;30000
 23781;Elementarsprengpulver;1;18629;19588
-15510;Grunzergürtel;1;1353;1692
-4304;Dickes Leder;6;39000;41400
 15947;Blutroter Stern;1;20000;29900
 22576;Manapartikel;4;57760;72200
 22576;Manapartikel;1;25368;28187
@@ -561,19 +499,6 @@
 19706;Münze der Blutskalpe;1;55000;59500
 11178;Großer strahlender Splitter;1;25561;28401
 14498;Muster: Runenstoffstirnband;1;14792;18490
-4338;Magiestoff;18;86750;90000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;1;2575;3000
-4338;Magiestoff;20;87500;95000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;20;65000;79000
-4338;Magiestoff;8;41624;47848
 4338;Magiestoff;20;100000;110000
 4338;Magiestoff;20;50000;84000
 4338;Magiestoff;6;39666;44073
@@ -595,20 +520,15 @@
 2770;Kupfererz;20;25050;26522
 2770;Kupfererz;20;25050;26522
 2770;Kupfererz;20;25050;26522
-4240;Wolltasche;1;5040;5041
 24303;Muster: Gurt der Zerstörung;1;2600000;2990000
 12363;Arkankristall;1;40000;40000
 12363;Arkankristall;1;40000;40000
-9293;Rezept: Magiewiderstandstrank;1;18800;33200
 9293;Rezept: Magiewiderstandstrank;1;18800;19800
-9293;Rezept: Magiewiderstandstrank;1;18975;19900
 22445;Arkaner Staub;4;77141;85713
 22445;Arkaner Staub;5;96427;107141
 22445;Arkaner Staub;5;96427;107141
 6406;Nachthauchstiefel;1;20000;30000
 14280;Opulentes Cape;1;8878;16000
-13759;Roher Nachtflossenschnapper;14;139930;139930
-13759;Roher Nachtflossenschnapper;20;199900;199900
 1607;Seelenbewahrer;1;68049;85062
 1607;Seelenbewahrer;1;203420;224500
 16673;Kordel der Elemente;1;42147;52684
@@ -632,7 +552,6 @@
 25699;Kristalldurchdrungenes Leder;4;11833;13148
 22572;Luftpartikel;1;26152;29058
 14491;Muster: Runenstoffhose;1;26719;38576
-6405;Nachthauchbeinkleider;1;14752;22500
 8146;Tückische Klaue;5;12610;15455
 8146;Tückische Klaue;5;12610;15455
 14344;Großer glänzender Splitter;1;70000;70000
@@ -683,13 +602,6 @@
 23448;Teufelsstahlbarren;1;63750;80000
 14959;Oberhäuptlingsstulpen;1;30000;40000
 1726;Knochenspeer mit Giftspitze;1;24099;26777
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;51072;63840
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
 24982;Felsfaustgürtel;1;71638;89548
 19705;Münze der Schädelspalter;3;210000;252000
 21887;Knotenhautleder;20;109999;139999
@@ -744,16 +656,6 @@
 16245;Formel: Stiefel - Große Beweglichkeit;1;185000;225500
 25306;Dauerfrostdolch;1;270000;300000
 14553;Schärpe der Gnade;1;164000;173500
-3576;Zinnbarren;20;31050;40000
-3576;Zinnbarren;7;15954;19943
-3576;Zinnbarren;3;6837;8547
-3576;Zinnbarren;20;31050;40000
-3576;Zinnbarren;20;21050;30000
-3576;Zinnbarren;19;30997;40000
-3576;Zinnbarren;20;21050;30000
-9291;Feldplattengamaschen;1;40000;45000
-3575;Eisenbarren;8;8600;11808
-3575;Eisenbarren;20;21615;29519
 15546;Dickschuppenbrustplatte;1;20000;30000
 7071;Eiserne Gürtelschnalle;1;500;1400
 7071;Eiserne Gürtelschnalle;4;2000;5600
@@ -770,13 +672,6 @@
 13467;Eiskappe;20;17500;76600
 13467;Eiskappe;20;17500;56600
 4278;Geringes Blutsteinerz;3;9000;11000
-4278;Geringes Blutsteinerz;4;15544;17324
-4278;Geringes Blutsteinerz;5;19430;21655
-4278;Geringes Blutsteinerz;5;19430;21655
-4278;Geringes Blutsteinerz;4;10150;17500
-4278;Geringes Blutsteinerz;4;10150;17500
-4278;Geringes Blutsteinerz;4;10150;17500
-4278;Geringes Blutsteinerz;11;84084;105105
 4278;Geringes Blutsteinerz;20;100000;100000
 17057;Glänzende Fischschuppen;10;786;873
 22577;Schattenpartikel;10;33108;36787
@@ -792,11 +687,7 @@
 6311;22-pfündiger Wels;1;110187;120000
 2840;Kupferbarren;16;25000;29000
 2840;Kupferbarren;10;9950;15000
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4899
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4899
-2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;3200;4899
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;9041;10045
-4265;Schweres Rüstungsset;6;7560;8400
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;10562;14400
 21843;Magieerfüllte Netherstofftasche;1;450000;500000
 21843;Magieerfüllte Netherstofftasche;1;450000;500000

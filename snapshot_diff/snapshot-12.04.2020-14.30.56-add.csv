@@ -82,7 +82,6 @@
 24728;Deliriumshandschuhe;1;39244;41556
 32229;Löwenauge;1;1837100;1949999
 32229;Löwenauge;1;1837100;1949999
-2842;Silberbarren;20;100000;120000
 6381;Heller Umhang;1;1100;2200
 8170;Unverwüstliches Leder;17;162750;169250
 8170;Unverwüstliches Leder;20;198900;198999
@@ -174,7 +173,6 @@
 24047;Brillanter Dämmerstein;1;75000;79999
 24047;Brillanter Dämmerstein;1;75000;79999
 21845;Urmondstoff;2;600000;710000
-23782;Teufelseisengehäuse;1;135000;143000
 25707;Teufelsbalg;20;212920;236580
 25707;Teufelsbalg;6;56250;61000
 25707;Teufelsbalg;20;212920;236580
@@ -300,7 +298,6 @@
 22445;Arkaner Staub;20;224999;225000
 22445;Arkaner Staub;20;224999;225000
 17057;Glänzende Fischschuppen;13;507;559
-30810;Siegel des Sonnenzorns;10;93000;98500
 13926;Goldene Perle;1;14798;14799
 13926;Goldene Perle;1;5000;10000
 13926;Goldene Perle;1;9998;9999
@@ -464,12 +461,6 @@
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;9900;9999
 15116;Starre Schultern;1;3321;4452
 1705;Geringer Mondstein;3;5900;5999
-1705;Geringer Mondstein;2;17500;20000
-1705;Geringer Mondstein;10;9000;20000
-1705;Geringer Mondstein;2;13437;14930
-1705;Geringer Mondstein;1;40000;40000
-1705;Geringer Mondstein;1;450000;500000
-1705;Geringer Mondstein;2;1800;4000
 31889;Segen 2;1;2800000;4000000
 13074;Golemsplittergamaschen;1;31064;58000
 8152;Fläschchen großes Mojo;1;1150;1199
@@ -539,30 +530,8 @@
 24479;Schattenperle;1;404575;449528
 8845;Geisterpilz;20;121250;159900
 8845;Geisterpilz;12;66750;129900
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;21500;22222
 2841;Bronzebarren;2;2050;2099
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;20;11500;16199
-2841;Bronzebarren;1;1109;1110
-2841;Bronzebarren;20;14640;16266
-2841;Bronzebarren;20;14640;16266
-2841;Bronzebarren;6;4392;4880
-2841;Bronzebarren;20;11500;16199
 2841;Bronzebarren;20;14639;16265
-2841;Bronzebarren;12;9532;12540
-2841;Bronzebarren;2;2235;3344
-2841;Bronzebarren;3;2583;3267
-2841;Bronzebarren;1;1109;1110
-2841;Bronzebarren;20;14639;16265
-2841;Bronzebarren;20;21200;24000
-2841;Bronzebarren;20;21200;24000
-2841;Bronzebarren;20;11500;16199
 8171;Unverwüstlicher Balg;3;5999;5999
 16684;Handschuhe des Magisters;1;43639;50000
 7971;Schwarze Perle;1;299985;299999
@@ -593,14 +562,9 @@
 4421;Rolle des Schutzes III;2;1480;1570
 25102;Jaedenidsdolch;1;62275;77844
 14555;Alcors Sonnenschneide;1;216350;300000
-1607;Seelenbewahrer;1;203420;224500
-1607;Seelenbewahrer;1;76244;95305
-1607;Seelenbewahrer;1;75130;120000
 1607;Seelenbewahrer;1;71631;89539
-1607;Seelenbewahrer;1;99999;149999
 15755;Muster: Schimärenweste;1;18250;19999
 1710;Großer Heiltrank;1;490;530
-1710;Großer Heiltrank;2;375;900
 7912;Robuster Stein;6;3400;3499
 22578;Wasserpartikel;1;18620;18676
 22578;Wasserpartikel;1;18620;18676
@@ -660,9 +624,6 @@
 6597;Schlachtschmiedeschulterschutz;1;3362;4428
 31187;Stiefel des Pfadfinders;1;61099;62000
 13057;Blutpike;1;11780;14725
-1625;Exquisiter Flamberg;1;47200;59000
-1625;Exquisiter Flamberg;1;47200;59000
-1625;Exquisiter Flamberg;1;27212;39016
 6045;Pläne: Eisengegengewicht;1;8075;8075
 21877;Netherstoff;20;33000;33500
 21877;Netherstoff;20;33000;33500
@@ -673,32 +634,6 @@
 7909;Aquamarin;1;1500;3000
 7909;Aquamarin;1;1500;3000
 31299;Der Schwurbewahrer;1;199800;200000
-15275;Thaumaturgiestab;1;114284;142856
-2453;Beulengras;20;3980;4420
-2453;Beulengras;3;129;264
-2453;Beulengras;10;430;880
-2453;Beulengras;20;3980;4420
-2453;Beulengras;10;430;880
-2453;Beulengras;10;430;880
-2453;Beulengras;10;430;880
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;10;430;880
-2453;Beulengras;20;3980;4420
-2453;Beulengras;20;3980;4420
-2453;Beulengras;11;2189;2431
-2453;Beulengras;1;208;231
-2453;Beulengras;20;1704;1780
-2453;Beulengras;20;1704;1780
-2453;Beulengras;10;430;880
-2453;Beulengras;10;430;880
-2453;Beulengras;10;430;880
-2453;Beulengras;10;430;880
 4338;Magiestoff;20;120000;125000
 4338;Magiestoff;7;42000;43750
 4338;Magiestoff;20;120000;125000

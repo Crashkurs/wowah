@@ -33,25 +33,11 @@
 24368;Waffen des Echsenkessels;3;196360;245451
 24368;Waffen des Echsenkessels;3;140880;153600
 13120;Armschienen des tiefen Zorns;1;31651;39564
-31865;Energieerfülltes Nachtauge;1;71287;89109
-31865;Energieerfülltes Nachtauge;1;71287;89109
-31865;Energieerfülltes Nachtauge;1;71287;89109
-29534;Grollbalgbeinrüstung;1;945547;956934
-29534;Grollbalgbeinrüstung;1;945547;956934
-29534;Grollbalgbeinrüstung;1;784000;864000
-29534;Grollbalgbeinrüstung;1;784399;864499
-29534;Grollbalgbeinrüstung;1;655600;819500
 15389;Jadefeuersabatons;1;31667;39584
 24688;Elementaristenhandschuhe;1;72927;91159
 13049;Claymore des Dekanats;1;9384;11280
 23113;Glänzender Golddraenit;1;5204;6505
 23113;Glänzender Golddraenit;1;4500;6000
-31863;Ausbalanciertes Nachtauge;1;140000;157900
-31863;Ausbalanciertes Nachtauge;1;169999;189999
-31863;Ausbalanciertes Nachtauge;1;140000;157900
-31863;Ausbalanciertes Nachtauge;1;140000;157900
-31863;Ausbalanciertes Nachtauge;1;140000;157900
-31863;Ausbalanciertes Nachtauge;1;140000;157900
 24702;Haal'eshistiefel;1;63651;79564
 23425;Adamantiterz;20;135000;149900
 23425;Adamantiterz;20;135000;149900
@@ -80,8 +66,6 @@
 23425;Adamantiterz;20;114400;114444
 23425;Adamantiterz;20;114400;114444
 31867;Verschleierter Edeltopas;1;139999;149999
-31867;Verschleierter Edeltopas;1;213679;229599
-31867;Verschleierter Edeltopas;1;125000;129999
 24272;Schattenstoff;1;376000;380000
 24272;Schattenstoff;1;376000;380000
 10285;Schattenseide;9;9489;11862
@@ -116,19 +100,12 @@
 10407;Räuberschulterpolster;1;9948;9999
 14825;Symbolwappen;1;12892;17900
 9864;Renegatenstiefel;1;10000;20000
-31876;Vorlage: Ausbalanciertes Nachtauge;1;175000;179999
 15731;Muster: Runenverzierte Lederstulpen;1;4241;5302
 15731;Muster: Runenverzierte Lederstulpen;1;4241;5302
 3712;Schildkrötenfleisch;10;7576;9470
 3712;Schildkrötenfleisch;10;7576;9470
 3712;Schildkrötenfleisch;5;4736;5920
 13465;Bergsilbersalbei;18;92160;115200
-29539;Kobraschuppen;1;199900;199900
-29539;Kobraschuppen;1;199900;199900
-29539;Kobraschuppen;1;199900;199900
-29539;Kobraschuppen;1;199900;199900
-29539;Kobraschuppen;1;199900;199900
-29539;Kobraschuppen;1;199900;199900
 24271;Zauberstoff;1;450000;450000
 24271;Zauberstoff;1;450000;450000
 32836;Geläuterte Schattenperle;1;645000;645000
@@ -157,14 +134,8 @@
 16204;Illusionsstaub;20;169500;199900
 13013;Hexerältestenmantel;1;124107;155134
 24965;Khan'aisharmschienen;1;118844;148555
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;150000;180000
 23632;Pläne: Teufelsstahlschneide;1;122493;138109
 35759;Kraftvoller Gischtsmaragd;1;266000;332500
-29536;Netherkluftbeinrüstung;1;1750000;1980000
-29536;Netherkluftbeinrüstung;1;1513999;1595999
-29536;Netherkluftbeinrüstung;1;1353360;1444200
-29536;Netherkluftbeinrüstung;1;1353360;1444200
 22446;Große Planaressenz;1;98500;104500
 22446;Große Planaressenz;1;98500;104500
 22446;Große Planaressenz;1;98500;104500
@@ -178,14 +149,7 @@
 1710;Großer Heiltrank;3;912;1140
 1710;Großer Heiltrank;1;437;486
 1710;Großer Heiltrank;1;629;699
-24027;Klobiger lebendiger Rubin;1;175000;180000
 12014;Arktischer Ring;1;19524;25156
-29535;Netherkobrabeinrüstung;1;2800000;3226000
-29535;Netherkobrabeinrüstung;1;2709999;2729999
-29535;Netherkobrabeinrüstung;1;2513323;2764499
-29535;Netherkobrabeinrüstung;1;2705000;2725000
-29535;Netherkobrabeinrüstung;1;2724454;2724727
-29535;Netherkobrabeinrüstung;1;2724400;2724700
 29535;Netherkobrabeinrüstung;1;2724400;2724700
 2633;Dschungelarznei;7;20262;40000
 31303;Valanos' Langbogen;1;96270;110000
@@ -232,10 +196,6 @@
 25691;Schwere Grollhufstiefel;1;180589;199990
 19441;Riesiger Giftbeutel;2;5028;6286
 29533;Kobrahautbeinrüstung;1;1550000;1745000
-29533;Kobrahautbeinrüstung;1;1594999;1739999
-29533;Kobrahautbeinrüstung;1;1371000;1372000
-29533;Kobrahautbeinrüstung;1;1595000;1775000
-29533;Kobrahautbeinrüstung;1;1373399;1373399
 7079;Kugel des Wassers;1;4900;4900
 22854;Fläschchen des unerbittlichen Angriffs;2;324400;329999
 22854;Fläschchen des unerbittlichen Angriffs;2;324400;329999
@@ -250,8 +210,6 @@
 30420;Schwerer Jadering;1;1015;9900
 24214;Vorlage: Mächtiger Edeltopas;1;195000;299900
 13003;Lord Alexanders Streitaxt;1;85000;109500
-31868;Tückischer Edeltopas;1;269999;289999
-31868;Tückischer Edeltopas;1;155000;200000
 4338;Magiestoff;4;21500;40000
 13024;Beazels Berster;1;27294;29800
 14552;Palisadenschulterstücke;1;141500;149500

@@ -70,17 +70,12 @@
 11225;Formel: Armschiene - Große Ausdauer;1;58968;73710
 7911;Echtsilbererz;20;21648;27060
 24274;Runenverzierter Zauberfaden;1;2699999;2829999
-13757;Zitteraal;8;7720;10000
-13757;Zitteraal;20;10300;20000
-29534;Grollbalgbeinrüstung;1;784000;864000
 13049;Claymore des Dekanats;1;9286;15000
 6271;Muster: Rote Leinenweste;1;100;900
 27659;Doppelwarper;20;279000;294500
 27659;Doppelwarper;20;279000;294500
-15491;Blutbespritzte Handschuhe;1;675;844
 22829;Erstklassiger Heiltrank;5;100000;100000
 22829;Erstklassiger Heiltrank;5;100000;100000
-6043;Eisengegengewicht;1;20750;30000
 9036;Magiewiderstandstrank;5;474999;499999
 9036;Magiewiderstandstrank;5;474999;499999
 9036;Magiewiderstandstrank;5;474999;499999
@@ -110,9 +105,6 @@
 24478;Jaggalperle;1;5311;6639
 24478;Jaggalperle;2;8000;12200
 21929;Flammenspessarit;2;7152;8940
-13468;Schwarzer Lotus;9;102528;128160
-13468;Schwarzer Lotus;20;290000;310000
-13468;Schwarzer Lotus;5;78387;87097
 24273;Mystischer Zauberfaden;1;1554999;1579999
 22793;Manadistel;20;126700;127700
 22793;Manadistel;20;126700;127700
@@ -124,19 +116,12 @@
 33092;Heiltrankeinspritzung;20;490000;530000
 32772;Blitzendes Perlenband;1;199999;199999
 12836;Pläne: Frostwache;1;30000;40000
-15518;Stachelkettenbrustplatte;1;20000;30000
 27500;Rolle des Schutzes V;5;191996;239995
 25707;Teufelsbalg;9;84375;90000
 3864;Citrin;7;21224;26530
 11176;Traumstaub;11;49500;55000
 11176;Traumstaub;20;90000;100000
 13022;Greifenflügellangbogen;1;41899;58999
-21841;Netherstofftasche;1;105000;150000
-21841;Netherstofftasche;1;105000;150000
-9262;Schwarzes Vitriol;11;41298;51623
-9262;Schwarzes Vitriol;6;9000;20000
-9262;Schwarzes Vitriol;1;9032;9966
-9262;Schwarzes Vitriol;1;9032;9966
 13018;Henkerspaltbeil;1;49600;62000
 31173;Stiefel der Unbändigkeit;1;41634;50000
 31173;Stiefel der Unbändigkeit;1;37240;46550
@@ -178,24 +163,7 @@
 22448;Kleiner Prismasplitter;1;59518;75523
 13097;Ring der Donnerbraue;1;33246;40000
 13006;Masse von McGowan;1;76698;90000
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;9581;13227
 13926;Goldene Perle;1;10000;11111
-13926;Goldene Perle;1;10000;11111
-13926;Goldene Perle;1;14798;14799
-13926;Goldene Perle;2;26680;29644
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;13203;14671
-13926;Goldene Perle;1;9516;13520
-13760;Roher Sonnenschuppenlachs;20;80300;99999
-13760;Roher Sonnenschuppenlachs;20;80300;99999
-13760;Roher Sonnenschuppenlachs;18;359640;359640
-13760;Roher Sonnenschuppenlachs;20;399600;399600
-13518;Rezept: Fläschchen der Versteinerung;1;568000;599000
-13518;Rezept: Fläschchen der Versteinerung;1;271014;338768
 29539;Kobraschuppen;4;473500;499000
 29539;Kobraschuppen;4;473500;499000
 29539;Kobraschuppen;2;240000;245000
@@ -211,8 +179,6 @@
 29539;Kobraschuppen;4;473500;499000
 29539;Kobraschuppen;4;473500;499000
 24215;Vorlage: Glänzender Edeltopas;1;224999;249999
-13493;Rezept: Großes Arkanelixier;1;37631;47039
-13493;Rezept: Großes Arkanelixier;1;39612;49515
 24200;Vorlage: Funkelnder Stern der Elune;1;221629;277036
 25725;Muster: Reitgerte;1;76831;96039
 25725;Muster: Reitgerte;1;76831;96039
@@ -240,15 +206,10 @@
 20827;Ring der Silbermacht;1;1312;9900
 20827;Ring der Silbermacht;1;1312;9900
 20827;Ring der Silbermacht;1;1312;9900
-13492;Rezept: Läuterungstrank;1;13374;16718
-13492;Rezept: Läuterungstrank;1;39600;49500
-15511;Grunzerbeinschützer;1;60000;65000
 11175;Große Netheressenz;1;59280;74100
 11175;Große Netheressenz;1;59280;74100
 11175;Große Netheressenz;1;59280;74100
 31142;Klinge des gefangenen Wissens;1;209013;210000
-4337;Dicke Spinnenseide;3;2370;2619
-857;Großer roter Sack;1;7410;9900
 32409;Unerbittlicher Erdsturmdiamant;1;715504;724400
 22539;Formel: Schild - Intelligenz;1;349999;399999
 22539;Formel: Schild - Intelligenz;1;349999;399999
@@ -349,17 +310,10 @@
 22788;Flammenkappe;20;250500;264500
 22788;Flammenkappe;20;199999;210000
 25689;Schwere Grollhufweste;1;597515;699990
-13545;Schalentier;4;350000;350000
 29727;Muster: Handschuhe der lebendigen Berührung;1;540000;550000
-13476;Rezept: Mächtiger Wuttrank;1;84500;86600
-13476;Rezept: Mächtiger Wuttrank;1;84500;86600
-13476;Rezept: Mächtiger Wuttrank;1;30000;71000
-13476;Rezept: Mächtiger Wuttrank;1;54500;60000
 24027;Klobiger lebendiger Rubin;1;276900;276900
 27678;Grollhuffleisch;20;104500;111000
 27678;Grollhuffleisch;14;73000;77700
-13876;40-pfündiger Zackenbarsch;1;10089;20098
-13876;40-pfündiger Zackenbarsch;1;10089;20098
 20520;Dunkelrune;1;189999;199999
 20520;Dunkelrune;1;189999;199999
 20520;Dunkelrune;1;189999;199999
@@ -380,20 +334,6 @@
 20520;Dunkelrune;10;1895000;1999990
 20520;Dunkelrune;20;3780000;3999980
 20520;Dunkelrune;20;3780000;3999980
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
-24051;Massiver Dämmerstein;1;120000;169999
 24051;Massiver Dämmerstein;1;120000;169999
 22146;Buch: Gabe der Wildnis III;1;154865;172073
 22786;Traumwinde;20;105000;117000
@@ -416,18 +356,12 @@
 22786;Traumwinde;20;94992;118740
 22786;Traumwinde;20;94992;118740
 6044;Pläne: Eisenschildstachel;1;1000;2000
-6044;Pläne: Eisenschildstachel;1;675;39900
 22790;Urflechte;20;62800;63100
 22790;Urflechte;20;62800;63100
 22825;Elixier der Heilkraft;20;575000;579900
 22825;Elixier der Heilkraft;20;575000;579900
 22825;Elixier der Heilkraft;20;575000;579900
 25905;Vorlage: Harter Erdsturmdiamant;1;175000;179999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
-22828;Trank der Wahnsinnsstärke;5;239999;249999
 29550;Foliant des Wasserherbeizauberns IX;1;274999;299999
 29550;Foliant des Wasserherbeizauberns IX;1;274999;299999
 21845;Urmondstoff;2;371220;399025
@@ -435,32 +369,12 @@
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
 16254;Formel: Waffe - Lebensdiebstahl;1;56000;59500
-16254;Formel: Waffe - Lebensdiebstahl;1;56000;59500
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
 31151;Gurt der Belagerung;1;50000;50000
 11083;Seelenstaub;3;9552;10000
-13511;Fläschchen der destillierten Weisheit;1;179000;189000
-13511;Fläschchen der destillierten Weisheit;1;137500;143000
-13511;Fläschchen der destillierten Weisheit;2;275000;285000
-13511;Fläschchen der destillierten Weisheit;1;137500;139999
-13511;Fläschchen der destillierten Weisheit;1;137500;139999
-13511;Fläschchen der destillierten Weisheit;1;179000;189000
-13511;Fläschchen der destillierten Weisheit;1;139098;139099
-13511;Fläschchen der destillierten Weisheit;1;139098;139099
-13511;Fläschchen der destillierten Weisheit;1;139098;139099
-13511;Fläschchen der destillierten Weisheit;1;139098;139099
-13511;Fläschchen der destillierten Weisheit;1;137500;138000
-13511;Fläschchen der destillierten Weisheit;1;137500;138000
-13511;Fläschchen der destillierten Weisheit;1;137500;138000
-13511;Fläschchen der destillierten Weisheit;1;130000;130000
-13511;Fläschchen der destillierten Weisheit;1;130000;130000
-13511;Fläschchen der destillierten Weisheit;5;699999;719999
 24055;Unbeständiges Nachtauge;1;111212;112040
 27666;Goldfischstäbchen;20;474999;499999
 30038;Gürtel der Zauberwucht;1;10999999;10999999
-13756;Roher Sommerbarsch;8;32583;36203
-13756;Roher Sommerbarsch;20;81457;90508
-13756;Roher Sommerbarsch;10;47112;58890
 25708;Dickes Grollhufleder;10;340000;340000
 25708;Dickes Grollhufleder;20;483000;509000
 25708;Dickes Grollhufleder;20;650032;690040
@@ -481,28 +395,10 @@
 13011;Silbergefütterter Gürtel;1;11546;15500
 29533;Kobrahautbeinrüstung;1;1594999;1789999
 12365;Verdichteter Stein;20;3500;4000
-13494;Rezept: Großer Feuerschutztrank;1;364558;405064
-13494;Rezept: Großer Feuerschutztrank;1;377500;398000
-13494;Rezept: Großer Feuerschutztrank;1;377500;398000
-13512;Fläschchen der obersten Macht;1;199999;219999
-13512;Fläschchen der obersten Macht;1;119900;159900
-13512;Fläschchen der obersten Macht;1;119900;159900
-13512;Fläschchen der obersten Macht;1;119900;159900
 13512;Fläschchen der obersten Macht;1;119900;159900
 13512;Fläschchen der obersten Macht;1;119900;159900
 13512;Fläschchen der obersten Macht;1;119900;149900
-13490;Rezept: Großer Steinschildtrank;1;53311;66639
-13490;Rezept: Großer Steinschildtrank;1;46000;50000
-13490;Rezept: Großer Steinschildtrank;1;62719;78399
-13490;Rezept: Großer Steinschildtrank;1;55648;69560
-13490;Rezept: Großer Steinschildtrank;1;55648;69560
 13091;Medaillon von Großmarschall Morris;1;49482;54353
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
-24052;Kompakter Dämmerstein;1;120000;169999
 24052;Kompakter Dämmerstein;1;120000;169999
 24052;Kompakter Dämmerstein;1;120000;169999
 24052;Kompakter Dämmerstein;1;120000;169999
@@ -510,12 +406,9 @@
 24052;Kompakter Dämmerstein;1;120000;169999
 16202;Geringe ewige Essenz;1;27360;34200
 11137;Visionenstaub;1;5999;6599
-15510;Grunzergürtel;1;1353;1692
 22838;Hasttrank;5;170000;172500
 22838;Hasttrank;5;170000;172500
 9293;Rezept: Magiewiderstandstrank;1;18800;33200
-9293;Rezept: Magiewiderstandstrank;1;18800;33200
-9293;Rezept: Magiewiderstandstrank;1;18975;19900
 29740;Teuflische Waffen;1;135000;159000
 29740;Teuflische Waffen;1;150000;158500
 29740;Teuflische Waffen;1;150000;158500
@@ -534,8 +427,6 @@
 17056;Leichte Feder;20;14960;21200
 17056;Leichte Feder;20;14960;21200
 17056;Leichte Feder;20;14960;21200
-13759;Roher Nachtflossenschnapper;20;199900;199900
-13759;Roher Nachtflossenschnapper;14;139930;139930
 23819;Elementare Zephyriumladung;4;326000;328000
 22452;Urerde;2;60000;80000
 22452;Urerde;1;36000;44000
@@ -555,7 +446,6 @@
 14047;Runenstoff;20;39300;54600
 14047;Runenstoff;20;39300;54600
 14047;Runenstoff;20;42000;50000
-13486;Rezept: Untod zu Wasser transmutieren;1;67676;84595
 1979;Mauer der Toten;1;144600;144600
 4306;Seidenstoff;20;22000;29900
 22866;Fläschchen des reinen Todes;1;237400;237400
@@ -595,13 +485,6 @@
 27660;Talbuksteak;10;8990;9490
 32067;Elixier der draenischen Weisheit;11;54750;70000
 13043;Klinge der Titanen;1;68583;89999
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;40120;45678
-13758;Roher Rotkiemen;20;51072;63840
 29529;Trommeln der Schlacht;1;364500;384500
 29529;Trommeln der Schlacht;1;364500;384500
 29529;Trommeln der Schlacht;1;364500;384500
@@ -613,7 +496,6 @@
 25653;Reitgerte;1;689999;749999
 25653;Reitgerte;1;689999;749999
 14553;Schärpe der Gnade;1;189999;190999
-9291;Feldplattengamaschen;1;40000;45000
 3860;Mithrilbarren;20;52000;52400
 24196;Vorlage: Runenverzierter lebendiger Rubin;1;699999;899999
 20748;Hervorragendes Manaöl;1;169000;178500

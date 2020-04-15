@@ -21,7 +21,6 @@
 22851;Fläschchen der Stärkung;1;162999;172999
 22851;Fläschchen der Stärkung;1;162999;172999
 6889;Kleines Ei;7;9999;19999
-13017;Streitaxt des Höllenschlächters;1;89999;99999
 31298;Beinschützer der Zerschmetterten Hand;1;148101;150000
 29534;Grollbalgbeinrüstung;1;930000;935000
 2244;Krolklinge;1;21000000;26000000
@@ -79,7 +78,6 @@
 23636;Pläne: Todeslied;1;262905;289055
 23636;Pläne: Todeslied;1;262905;289055
 23636;Pläne: Todeslied;1;262905;289055
-8151;Fläschchen Mojo;5;21875;30000
 23425;Adamantiterz;20;135050;145050
 23425;Adamantiterz;20;135050;145050
 2243;Hand von Edward dem Seltsamen;1;329999;359999
@@ -87,13 +85,6 @@
 10035;Smokinghose;1;499999;499999
 16710;Armschienen der Schattenkunst;1;106129;132662
 16710;Armschienen der Schattenkunst;1;106129;132662
-15994;Thoriumapparat;3;56997;59997
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
-15994;Thoriumapparat;10;189990;199990
 22839;Zerstörungstrank;5;194999;214999
 22839;Zerstörungstrank;5;194999;214999
 22839;Zerstörungstrank;5;194999;214999
@@ -148,14 +139,6 @@
 24210;Vorlage: Unbeständiges Nachtauge;1;699999;699999
 24210;Vorlage: Unbeständiges Nachtauge;1;699999;699999
 11128;Goldrute;1;35050;45000
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
-25707;Teufelsbalg;1;18899;19999
 31882;Segen Ass;1;38082;45057
 31882;Segen Ass;1;38082;45057
 31882;Segen Ass;1;38082;45057
@@ -251,15 +234,11 @@
 23572;Urnether;1;34427;38043
 23572;Urnether;1;34427;38043
 17010;Feuerkern;10;5500000;6000000
-6390;Muster: Modisches blaues Hemd;1;7473;9342
-6390;Muster: Modisches blaues Hemd;1;8460;9400
-6390;Muster: Modisches blaues Hemd;1;7334;9271
 23529;Adamantitwetzstein;5;149995;149995
 23529;Adamantitwetzstein;5;149995;149995
 23529;Adamantitwetzstein;5;149995;149995
 23445;Teufelseisenbarren;20;181818;191919
 1315;Lilienkranz;1;389999;399999
-24066;Strahlender Talasit;1;89999;99999
 19271;Elementar 4;1;181818;191919
 23766;Geeichtes Eterniumzielfernrohr;1;1930000;1934000
 11174;Geringe Netheressenz;1;20000;20000
@@ -282,11 +261,8 @@
 16684;Handschuhe des Magisters;1;129465;161832
 27667;Würziger Flusskrebs;10;60000;70000
 27667;Würziger Flusskrebs;1;6000;7000
-6383;Waldrundschild;1;2500;3500
 16203;Große ewige Essenz;10;759999;800000
 31876;Vorlage: Ausbalanciertes Nachtauge;1;299999;299999
-4096;Grobes Gorillahaar;10;8880;9990
-4096;Grobes Gorillahaar;10;8880;9990
 32718;Vakkiz' Schuppe;1;450000;500000
 8172;Geschmeidiger dicker Balg;7;70000;101500
 29731;Muster: Windstoßhandschuhe;1;179900;180000
@@ -440,7 +416,6 @@
 8170;Unverwüstliches Leder;20;113900;123900
 8170;Unverwüstliches Leder;20;113900;123900
 8170;Unverwüstliches Leder;20;113900;123900
-1203;Aegis von Sturmwind;1;89999;99999
 21881;Netherweberseide;5;138235;154780
 21881;Netherweberseide;5;138235;154780
 21881;Netherweberseide;5;138235;154780
@@ -635,7 +610,6 @@
 31308;Der Überbringer des Todes;1;189969;199000
 31308;Der Überbringer des Todes;1;157333;160000
 940;Roben der Einsicht;1;149999;159999
-16736;Gürtel der Ehre;1;289999;299999
 4304;Dickes Leder;20;189980;189980
 4304;Dickes Leder;20;189980;189980
 4304;Dickes Leder;20;189980;189980
@@ -779,12 +753,6 @@
 4338;Magiestoff;20;65000;79900
 4338;Magiestoff;20;65000;79900
 4338;Magiestoff;20;65000;79900
-4338;Magiestoff;20;68032;85040
-4338;Magiestoff;20;95000;97500
-4338;Magiestoff;20;95000;97500
-4338;Magiestoff;11;64125;70000
-4338;Magiestoff;20;97500;99900
-4338;Magiestoff;20;95000;97500
 17195;Unechter Mistelzweig;20;320;675
 31134;Klinge des Unglücks;1;164315;169499
 13024;Beazels Berster;1;29999;39999
@@ -846,7 +814,6 @@
 14047;Runenstoff;20;42000;46000
 14047;Runenstoff;20;42000;46000
 19235;Bestien 7;1;2500000;2799999
-8146;Tückische Klaue;5;3798;4220
 2915;Taraneisbrecher;1;199999;199999
 3745;Rune des Öffnens;6;6828;8532
 9254;Cuergos Schatzkarte;1;389999;399999
@@ -867,7 +834,6 @@
 24028;Feingeschliffener lebendiger Rubin;1;194530;199999
 24028;Feingeschliffener lebendiger Rubin;1;194530;199999
 31287;Ehrenwachenschild der Draenei;1;186735;190000
-6359;Feuerflossenschnapper;10;89990;99990
 22866;Fläschchen des reinen Todes;1;239999;239999
 22866;Fläschchen des reinen Todes;1;239999;239999
 22866;Fläschchen des reinen Todes;1;239999;239999
@@ -881,11 +847,6 @@
 22866;Fläschchen des reinen Todes;1;239999;239999
 22866;Fläschchen des reinen Todes;1;239999;239999
 31190;Schulterpolster des Träumers;1;68000;85000
-8150;Tiefsteinsalz;20;599700;599999
-8150;Tiefsteinsalz;14;199999;200000
-8150;Tiefsteinsalz;6;52250;60000
-8150;Tiefsteinsalz;1;8000;9900
-6382;Waldledergürtel;1;6984;6999
 2836;Grober Stein;10;660;700
 24033;Gediegener Stern der Elune;1;160000;185000
 24033;Gediegener Stern der Elune;1;160000;185000
@@ -1065,7 +1026,6 @@
 23620;Pläne: Teufelszornstulpen;1;201235;240828
 9834;Lederschuppenschultern;1;6636;8296
 31276;Stiefel des Zeloten;1;19000000;20000000
-25337;Tobender Stachelstab;1;456762;490000
 25653;Reitgerte;1;700000;750000
 25653;Reitgerte;1;700000;750000
 25653;Reitgerte;1;700000;750000
@@ -1102,7 +1062,6 @@
 11082;Große Astralessenz;10;50000;60000
 31891;Sturmkartenset;1;72000000;75000000
 1722;Dornsteinvorschlaghammer;1;49999;59999
-12527;Rippenspalter;1;289999;299999
 12703;Pläne: Sturmstulpen;1;39999;74999
 29549;Kodex: Gebet der Seelenstärke III;1;144562;178102
 29549;Kodex: Gebet der Seelenstärke III;1;144562;178102
