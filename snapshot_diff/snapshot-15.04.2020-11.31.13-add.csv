@@ -6,8 +6,6 @@
 21881;Netherweberseide;4;26000;26400
 9385;Archaischer Verteidiger;1;12928;16224
 9819;Haltbare Tunika;1;10000;30000
-31230;Stiefel des Abysswandlers;1;250249;278055
-31230;Stiefel des Abysswandlers;1;154858;250000
 25699;Kristalldurchdrungenes Leder;9;26875;29000
 8395;Muster: Feste Skorpidbrustplatte;1;5025;6250
 19227;Bestien Ass;1;7999999;9999999
@@ -42,13 +40,6 @@
 4338;Magiestoff;20;48240;55000
 4338;Magiestoff;20;48240;55000
 4338;Magiestoff;20;48240;55000
-23517;Teufelsstahlhandschuhe;1;255465;256899
-23517;Teufelsstahlhandschuhe;1;255465;256899
-23517;Teufelsstahlhandschuhe;1;255465;256899
-23517;Teufelsstahlhandschuhe;1;255465;256899
-23517;Teufelsstahlhandschuhe;1;255466;256900
-23517;Teufelsstahlhandschuhe;1;299900;299900
-23517;Teufelsstahlhandschuhe;1;299900;299900
 21882;Seelenessenz;12;245000;250000
 21882;Seelenessenz;20;445000;450000
 15580;Spiegelpanzerkopfband;1;10000;30000
@@ -79,22 +70,12 @@
 8400;Muster: Feste Skorpidschulterstücke;1;7892;9600
 6358;Öliges Schwarzmaul;20;99600;139500
 6358;Öliges Schwarzmaul;6;33480;41850
-29292;Hölleneberspeck;5;19261;21401
-29292;Hölleneberspeck;5;21511;23901
-29292;Hölleneberspeck;5;16522;18357
 15555;Plündererstiefel;1;10000;20000
 12363;Arkankristall;1;23885;29857
 11175;Große Netheressenz;5;277082;307869
-31226;Gamaschen des Durchtriebenen;1;55473;0
-31226;Gamaschen des Durchtriebenen;1;175168;194631
-31226;Gamaschen des Durchtriebenen;1;130000;130000
 870;Feurige Kriegsaxt;1;227945;279327
-1680;Kopffäller;1;23333;29999
 24301;Muster: Weißer Arzneikittel;1;380000;400000
-29111;Schachtel mit abgestandenen Süßigkeiten;1;5000;7500
-24054;Stattliches Nachtauge;1;137794;153104
 17722;Muster: Handschuhe des Altvaters;1;151050;160000
-28596;Vorlage: Heller Blutgranat;1;198750;200000
 32067;Elixier der draenischen Weisheit;20;287700;292400
 32067;Elixier der draenischen Weisheit;20;287700;292400
 1529;Jade;1;9900;10000
@@ -160,8 +141,6 @@
 22456;Urschatten;1;10080;11520
 22456;Urschatten;2;20160;23040
 22456;Urschatten;2;20160;23040
-2453;Beulengras;20;750;250000
-2453;Beulengras;20;750;250000
 1705;Geringer Mondstein;1;9900;10000
 1705;Geringer Mondstein;1;9900;10000
 1705;Geringer Mondstein;1;9900;10000
@@ -198,7 +177,6 @@
 25690;Schwere Grollhufgamaschen;1;997212;1100000
 22446;Große Planaressenz;5;498329;553699
 11174;Geringe Netheressenz;2;42913;47681
-31237;Elekkbalggamaschen;1;179892;227075
 21151;Schwarzer Rumsey Rum;1;1900;2375
 16245;Formel: Stiefel - Große Beweglichkeit;1;216000;220000
 23445;Teufelseisenbarren;11;113000;120000
@@ -218,7 +196,6 @@
 2772;Eisenerz;20;28800;28920
 31290;Band der Herrschaft;1;126324;157906
 6512;Jüngerrobe;1;10000;15000
-31240;Schuppen der Bestie;1;74221;130000
 1726;Knochenspeer mit Giftspitze;1;12825;17820
 12361;Blauer Saphir;1;10500;25000
 13465;Bergsilbersalbei;11;37500;50000
@@ -234,7 +211,6 @@
 4305;Seidenstoffballen;10;78500;83500
 4305;Seidenstoffballen;10;78500;83500
 4305;Seidenstoffballen;10;78500;83500
-1645;Mondbeerensaft;3;1040;1155
 22825;Elixier der Heilkraft;20;486640;498400
 22825;Elixier der Heilkraft;20;486640;498400
 11139;Großer leuchtender Splitter;4;10972;12191
@@ -300,21 +276,9 @@
 8949;Elixier der Beweglichkeit;2;2560;3999
 8949;Elixier der Beweglichkeit;6;2560;3999
 8949;Elixier der Beweglichkeit;1;1599;1900
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;5;45000;49000
-2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;7032;8013
 22574;Feuerpartikel;2;31200;40000
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;10;3070;3410
-24477;Jaggalmuschelfleisch;6;1879;2087
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;10;4595;5106
-24477;Jaggalmuschelfleisch;10;1960;2450
-24477;Jaggalmuschelfleisch;2;385;482
-24477;Jaggalmuschelfleisch;4;3600;3996
 21305;Rote Helferbox;1;30100;35000
 13075;Beinschützer der Düsterschwinge;1;111344;139180
-29204;Flüsternde Teufelsstahlklingen;1;1190000;1200000
 10308;Rolle der Intelligenz IV;1;358;448
 8401;Muster: Feste Skorpidgamaschen;1;3123;4386
 15152;Nächtliche Schuhe;1;20000;40000
@@ -336,10 +300,4 @@
 13760;Roher Sonnenschuppenlachs;20;139314;199100
 13760;Roher Sonnenschuppenlachs;17;135388;169235
 23793;Schweres Knotenhautleder;20;707500;730000
-27499;Rolle der Intelligenz V;5;840;10000
-27499;Rolle der Intelligenz V;5;16779;18643
-27499;Rolle der Intelligenz V;2;7623;8470
-27499;Rolle der Intelligenz V;5;20728;23031
-27499;Rolle der Intelligenz V;5;10004;19900
-27499;Rolle der Intelligenz V;5;20728;23031
 3383;Elixier der Weisheit;5;720;900

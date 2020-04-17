@@ -67,7 +67,6 @@
 22790;Urflechte;20;39960;39980
 24212;Vorlage: Königliches Nachtauge;1;588392;735490
 2770;Kupfererz;1;16;20
-2770;Kupfererz;4;6420;7600
 31281;Maske des verhüllten Todes;1;196000;245000
 14494;Muster: Hellstoffhose;1;10000;35000
 2592;Wollstoff;3;1516;1896
@@ -82,7 +81,6 @@
 10413;Handschuhe des Giftzahns;1;553;20000
 24297;Muster: Armschienen der Verwüstung;1;317556;396946
 22900;Rezept: Elixier der Tarnung;1;57500;69900
-2318;Leichtes Leder;18;11880;11880
 13013;Hexerältestenmantel;1;108532;110000
 19265;Kriegsfürst 8;1;19535;26169
 22851;Fläschchen der Stärkung;1;79900;89000
@@ -111,9 +109,7 @@
 24062;Robuster Talasit;1;64000;68000
 3356;Königsblut;1;96;120
 15187;Prätorianerschulterstücke;1;16377;30000
-34622;Wirbelschnitter;1;2800000;2850000
 34622;Wirbelschnitter;1;2507448;2759310
-34622;Wirbelschnitter;1;2800000;2850000
 19274;Elementar 7;1;18750;99900
 24368;Waffen des Echsenkessels;10;1230000;1297500
 4235;Schwerer Balg;1;30300;40000
@@ -121,35 +117,6 @@
 32067;Elixier der draenischen Weisheit;20;205000;250000
 32067;Elixier der draenischen Weisheit;20;205000;250000
 32067;Elixier der draenischen Weisheit;20;204000;248000
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1024000;1029800
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1024000;1029800
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1552398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1552398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1552398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1119924;1552398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1002220;1017725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
-34220;Wechselhafter Himmelsfeuerdiamant;1;1002220;1017725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1002220;1017725
-34220;Wechselhafter Himmelsfeuerdiamant;1;1017724;1017724
-34220;Wechselhafter Himmelsfeuerdiamant;1;1229924;1392398
 35759;Kraftvoller Gischtsmaragd;1;300000;350000
 35759;Kraftvoller Gischtsmaragd;1;300000;350000
 35759;Kraftvoller Gischtsmaragd;1;300000;350000
@@ -314,9 +281,6 @@
 22456;Urschatten;1;45080;48020
 22456;Urschatten;1;45080;48020
 22456;Urschatten;1;45080;48020
-33954;Pläne: Hammer der rechtschaffenen Macht;1;160025;166139
-33954;Pläne: Hammer der rechtschaffenen Macht;1;210000;220000
-33954;Pläne: Hammer der rechtschaffenen Macht;1;150000;159999
 20520;Dunkelrune;3;343640;429550
 20520;Dunkelrune;6;687279;859000
 13126;Kriegsruferstulpen;1;10000;26000
@@ -333,17 +297,8 @@
 35758;Beständiger Gischtsmaragd;1;300000;350000
 13121;Flügel des Welplings;1;5142;20000
 9385;Archaischer Verteidiger;1;15600;19500
-3577;Goldbarren;20;18000;25000
-3577;Goldbarren;20;18000;25000
-3577;Goldbarren;18;34560;43200
-3577;Goldbarren;1;4084;4506
-3577;Goldbarren;18;50000;56000
-3577;Goldbarren;20;50000;59500
 13035;Schlangenschnitzler;1;31640;39550
 16684;Handschuhe des Magisters;1;114920;143650
-34060;Steuerung für eine Flugmaschine;1;480100;499900
-34060;Steuerung für eine Flugmaschine;1;480100;499900
-34060;Steuerung für eine Flugmaschine;1;490100;500000
 13101;Schuhe des Wolfsläufers;1;89900;119900
 11134;Geringe Mystikeressenz;1;9825;11953
 11134;Geringe Mystikeressenz;4;39300;47812
@@ -353,7 +308,6 @@
 23625;Pläne: Helm der Eidestreue;1;175673;219592
 8188;Explosive Schrotflinte;1;19524;25656
 13085;Halsreif des Horizonts;1;21756;27195
-34207;Handschuhverstärkung;1;291250;300000
 31237;Elekkbalggamaschen;1;159600;199500
 7288;Muster: Unverwüstliche Lederhose;1;400;500
 13084;Kaleidoskopkette;1;30000;30000
@@ -390,19 +344,10 @@
 23118;Gediegener Azurmondstein;1;8900;9499
 23118;Gediegener Azurmondstein;1;8900;9499
 23118;Gediegener Azurmondstein;1;8900;9499
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
-34068;Gewichtige Kürbislaterne;19;3135000;3610000
-34068;Gewichtige Kürbislaterne;20;3300000;3800000
 22825;Elixier der Heilkraft;5;168750;169900
 22825;Elixier der Heilkraft;5;168750;169900
 22825;Elixier der Heilkraft;5;168750;169900
 22825;Elixier der Heilkraft;2;57500;60000
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 13118;Serpentinschärpe;1;62092;77616
 21877;Netherstoff;20;33500;39500
 21877;Netherstoff;20;33500;39500
@@ -428,13 +373,6 @@
 14957;Oberhäuptlingssabatons;1;39654;49568
 7086;Muster: Irdener Seidengürtel;1;1200;1500
 8951;Elixier der großen Verteidigung;5;15200;19000
-34440;Trank des verrückten Alchemisten;4;32000;40000
-34440;Trank des verrückten Alchemisten;5;40000;50000
-34440;Trank des verrückten Alchemisten;1;7999;9999
-34440;Trank des verrückten Alchemisten;5;39999;49999
-34440;Trank des verrückten Alchemisten;5;39999;49999
-34440;Trank des verrückten Alchemisten;5;39999;49999
-34440;Trank des verrückten Alchemisten;5;39999;49999
 13054;Gevatter Tod;1;23908;29885
 31148;Dämonenbalgschiftung;1;99440;124301
 13007;Magieflammenumhang;1;20000;45000
@@ -450,7 +388,6 @@
 29739;Arkaner Foliant;1;100565;106065
 29739;Arkaner Foliant;1;100565;106065
 29739;Arkaner Foliant;1;100565;106065
-34099;Munitionsbeutel aus Knotenhautleder;1;393750;400000
 22789;Terozapfen;20;148340;153940
 22789;Terozapfen;20;148340;153940
 22789;Terozapfen;20;148340;153940

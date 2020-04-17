@@ -65,22 +65,6 @@
 22449;Großer Prismasplitter;1;139999;149999
 22449;Großer Prismasplitter;1;139999;149999
 22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
-22449;Großer Prismasplitter;1;139999;149999
 3075;Flammenauge;1;205073;209500
 1720;Wirrholzstab;1;38782;43091
 23437;Talasit;20;900000;990000
@@ -168,8 +152,6 @@
 27515;Große Tüpfelteufelsfinne;3;11286;14100
 6037;Echtsilberbarren;20;87500;100000
 6037;Echtsilberbarren;19;85625;98000
-4304;Dickes Leder;1;6399;7999
-4304;Dickes Leder;20;89000;90000
 22457;Urmana;1;205958;205979
 22457;Urmana;1;205958;205979
 22457;Urmana;1;205958;205979
@@ -210,7 +192,6 @@
 24401;Unbekannte Pflanzenteile;3;15828;17587
 22577;Schattenpartikel;8;41948;46609
 31126;Handschuhe der Wildheit;1;85244;94716
-2318;Leichtes Leder;10;11400;13000
 32580;Flinkschlagarmschienen;1;4504533;5500000
 32580;Flinkschlagarmschienen;1;4609000;4955000
 24276;Goldener Zauberfaden;1;1699999;1869999
@@ -226,20 +207,9 @@
 4306;Seidenstoff;20;34500;34899
 4306;Seidenstoff;20;34500;34899
 4306;Seidenstoff;20;19960;19980
-4306;Seidenstoff;20;33000;38000
 4306;Seidenstoff;20;19960;19980
-4306;Seidenstoff;2;300;440
-4306;Seidenstoff;20;33000;38000
-4306;Seidenstoff;20;33000;38000
-4306;Seidenstoff;14;9038;11298
-4306;Seidenstoff;15;17952;22440
-4306;Seidenstoff;20;14000;216000
 4306;Seidenstoff;20;19960;19980
 12207;Riesenei;1;10000;12500
-3712;Schildkrötenfleisch;10;10000;20000
-3712;Schildkrötenfleisch;1;1000;2000
-3712;Schildkrötenfleisch;10;10000;20000
-3712;Schildkrötenfleisch;3;1821;2023
 34861;Geschärfter Angelhaken;20;14287;19999
 32068;Elixier der Eisenhaut;20;899999;949999
 32068;Elixier der Eisenhaut;20;899999;949999
@@ -265,11 +235,6 @@
 1607;Seelenbewahrer;1;203420;224500
 31147;Anhänger der List;1;83193;92436
 24780;Knochenfresserhandgelenksschützer;1;55628;69536
-24062;Robuster Talasit;1;57799;72299
-24062;Robuster Talasit;1;50000;70000
-24062;Robuster Talasit;1;99960;103200
-24062;Robuster Talasit;1;99960;103200
-24062;Robuster Talasit;1;57799;69999
 3356;Königsblut;1;222;247
 3356;Königsblut;2;430;478
 3608;Pläne: Mächtiger Eisenhammer;1;6990;7766
@@ -453,10 +418,6 @@
 24053;Mystischer Dämmerstein;1;159999;179999
 24053;Mystischer Dämmerstein;1;159999;179999
 2771;Zinnerz;2;2057;2286
-2771;Zinnerz;16;13000;14000
-2771;Zinnerz;20;25280;31600
-2771;Zinnerz;20;25280;31600
-2771;Zinnerz;18;28800;36000
 25696;Brustplatte des Teufelspirschers;1;3995174;4000000
 24968;Krallenwachenrüstung;1;234566;339500
 23440;Dämmerstein;1;64674;71860
@@ -572,7 +533,6 @@
 13126;Kriegsruferstulpen;1;23518;26131
 29425;Mal von Kil'jaeden;10;503824;809780
 14474;Muster: Froststoffhandschuhe;1;4800;8095
-23112;Golddraenit;2;11500;12500
 19705;Münze der Schädelspalter;3;210000;252000
 4096;Grobes Gorillahaar;10;8080;8500
 4096;Grobes Gorillahaar;8;6464;6800

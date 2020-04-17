@@ -1,7 +1,6 @@
 6454;Handbuch: Starkes Gegengift;1;5020;8000
 8153;Wildranke;16;32998;41248
 31288;Des Meisters Treter;1;193745;242182
-25331;Vergeltungsstab;1;135670;169588
 9854;Bogenschützenwams;1;19092;29740
 13084;Kaleidoskopkette;1;35000;40000
 21887;Knotenhautleder;20;148400;149900
@@ -26,13 +25,9 @@
 16203;Große ewige Essenz;1;112500;119000
 16203;Große ewige Essenz;1;112500;119000
 4338;Magiestoff;2;6050;7500
-29739;Arkaner Foliant;10;1220000;1245500
-29739;Arkaner Foliant;10;1220000;1245500
 29739;Arkaner Foliant;1;112500;119000
 29739;Arkaner Foliant;1;112500;119000
 29739;Arkaner Foliant;1;112500;119000
-29739;Arkaner Foliant;10;1220000;1245500
-29739;Arkaner Foliant;1;100100;120000
 21876;Urmondstofftasche;1;2318000;2897500
 1076;Renegatenring der Defias;1;2080;2600
 12360;Arkanitbarren;5;350000;380000
@@ -45,9 +40,6 @@
 24035;Funkelnder Stern der Elune;1;57000;67000
 24035;Funkelnder Stern der Elune;1;57000;67000
 24035;Funkelnder Stern der Elune;1;56699;66699
-2452;Flitzdistel;1;1699;1888
-2452;Flitzdistel;17;10098;10098
-2452;Flitzdistel;11;4963;6204
 24058;Gravierter Edeltopas;1;100000;130000
 24058;Gravierter Edeltopas;1;100000;130000
 24058;Gravierter Edeltopas;1;100000;130000
@@ -62,14 +54,7 @@
 12983;Rakzurkeule;1;7407;9259
 6470;Deviatschuppe;9;270;1800
 2842;Silberbarren;4;18000;20000
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 6471;Perfekte Deviatschuppe;3;2250;4500
-25327;Blutrauschstab;1;170000;170000
-23108;Leuchtender Schattendraenit;1;9050;10000
-23108;Leuchtender Schattendraenit;1;7600;19500
-23108;Leuchtender Schattendraenit;1;7600;19500
-23108;Leuchtender Schattendraenit;1;14937;16597
-942;Band der Eiseskälte;1;122655;145819
 11082;Große Astralessenz;6;24500;36500
 2770;Kupfererz;20;10150;14000
 2770;Kupfererz;2;1500;2000
@@ -77,9 +62,6 @@
 21841;Netherstofftasche;1;55000;75000
 31905;Furien 7;1;1099999;1169999
 22831;Elixier der erheblichen Beweglichkeit;2;40998;47998
-27676;Seltsame Sporen;5;15409;17121
-27676;Seltsame Sporen;1;3800;4750
-27676;Seltsame Sporen;2;8000;10000
 13139;Bauchripper;1;25000;35000
 10940;Seltsamer Staub;10;45990;49990
 10940;Seltsamer Staub;10;45990;49990
@@ -105,7 +87,6 @@
 4304;Dickes Leder;20;89900;104900
 4304;Dickes Leder;20;89900;104900
 4304;Dickes Leder;3;16350;16497
-22890;Foliant des Frostzauberschutzes V;1;15000;17500
 3577;Goldbarren;9;50000;52000
 3188;Korallenclaymore;1;10879;20000
 14344;Großer glänzender Splitter;1;92500;98000
@@ -143,7 +124,6 @@
 727;Schartiges Kurzschwert;1;2525;5050
 727;Schartiges Kurzschwert;1;2525;5050
 8178;Ausbildungsschwert;1;10306;20000
-25321;Göttlicher Hammer;1;76035;80000
 8180;Jagdbogen;1;768;2560
 27682;Talbukwildbret;20;10000;11000
 27682;Talbukwildbret;14;10000;11000
@@ -161,11 +141,7 @@
 12009;Tundraring;1;16956;18696
 1529;Jade;1;11264;14080
 1529;Jade;2;12000;14000
-27678;Grollhuffleisch;1;3101;3445
 27678;Grollhuffleisch;20;124500;132000
-27678;Grollhuffleisch;10;47000;58750
-27678;Grollhuffleisch;20;106320;132900
-27678;Grollhuffleisch;20;106320;132900
 27678;Grollhuffleisch;20;124500;132000
 27678;Grollhuffleisch;20;124500;132000
 27678;Grollhuffleisch;20;124500;132000
@@ -175,9 +151,6 @@
 1973;Täuschungskugel;1;85000;90000
 1973;Täuschungskugel;1;85000;90000
 22562;Formel: Überragendes Manaöl;1;420000;450000
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
 13511;Fläschchen der destillierten Weisheit;1;175000;175000
 13511;Fläschchen der destillierten Weisheit;1;175000;175000
 13511;Fläschchen der destillierten Weisheit;1;175000;175000
@@ -286,24 +259,8 @@
 22838;Hasttrank;5;184000;194999
 22838;Hasttrank;5;184000;194999
 22838;Hasttrank;5;184000;194999
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
 12184;Raptorfleisch;10;18890;19990
 12184;Raptorfleisch;10;18890;19990
-23112;Golddraenit;1;17075;17076
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;1;29999;39999
-23112;Golddraenit;20;336800;396000
-23112;Golddraenit;20;336800;396000
 1705;Geringer Mondstein;20;180000;190000
 1705;Geringer Mondstein;3;22700;25000
 12034;Marmorhalskette;1;17518;20000
@@ -343,51 +300,15 @@
 22452;Urerde;1;43000;45500
 22452;Urerde;1;43000;45500
 1982;Nachtklinge;1;80000;120000
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;6000;6999
-2738;Die Grünen Hügel des Schlingendorntals - Seite 14;1;6000;6999
 3685;Raptorei;10;19990;29990
 3685;Raptorei;10;76000;95000
 3685;Raptorei;10;19990;29990
 22829;Erstklassiger Heiltrank;5;53120;66400
 8006;Der Ziggler;1;45284;56606
-27498;Rolle der Beweglichkeit V;5;299995;299995
-27498;Rolle der Beweglichkeit V;5;299995;299995
-27498;Rolle der Beweglichkeit V;5;299995;299995
 13057;Blutpike;1;12160;15200
 24051;Massiver Dämmerstein;1;80000;90000
 24051;Massiver Dämmerstein;1;80000;90000
 21929;Flammenspessarit;1;5692;5692
-27671;Bussardfleisch;14;14456;16063
-27671;Bussardfleisch;8;7954;12968
-27671;Bussardfleisch;20;25680;29600
-27671;Bussardfleisch;1;1012;1450
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;199900
-22866;Fläschchen des reinen Todes;5;850000;1000000
-22866;Fläschchen des reinen Todes;5;850000;1000000
-22866;Fläschchen des reinen Todes;5;900000;1000000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;199900
-22866;Fläschchen des reinen Todes;1;210000;220000
-22866;Fläschchen des reinen Todes;1;190000;199900
-22866;Fläschchen des reinen Todes;1;199099;199899
-22866;Fläschchen des reinen Todes;1;190000;199900
-22866;Fläschchen des reinen Todes;1;199099;199899
-22866;Fläschchen des reinen Todes;1;199099;199899
-22866;Fläschchen des reinen Todes;1;199099;199899
-22866;Fläschchen des reinen Todes;1;199099;199899
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;190000;197500
-22866;Fläschchen des reinen Todes;1;210000;220000
 940;Roben der Einsicht;1;39651;49564
 940;Roben der Einsicht;1;35049;45000
 10329;Scharlachroter Gürtel;1;47622;59528
@@ -409,7 +330,6 @@
 10200;Kreuzfahrerschulterstücke;1;18471;20000
 805;Kleiner roter Beutel;1;5050;7575
 805;Kleiner roter Beutel;1;5050;7575
-25319;Gelassenheitsstreitkolben;1;60209;70000
 12361;Blauer Saphir;1;18699;18699
 12361;Blauer Saphir;1;18699;18699
 13465;Bergsilbersalbei;16;117296;126560
@@ -422,9 +342,6 @@
 1933;Stab der Herbeizauberei;1;2896;3620
 27674;Felshetzerfleisch;20;49000;52000
 27674;Felshetzerfleisch;20;49000;52000
-27674;Felshetzerfleisch;16;73040;79552
-27674;Felshetzerfleisch;20;30500;52500
-27674;Felshetzerfleisch;20;30500;52500
 27674;Felshetzerfleisch;4;9800;10400
 22825;Elixier der Heilkraft;20;472000;497500
 22788;Flammenkappe;20;474000;499500
@@ -489,15 +406,7 @@
 21877;Netherstoff;20;39999;49999
 21877;Netherstoff;20;39999;49999
 21877;Netherstoff;20;39999;49999
-22846;Erheblicher Schattenschutztrank;5;71636;89545
 21895;Muster: Urmondstoff;1;151600;259500
-2450;Wilddornrose;20;30000;40000
-2450;Wilddornrose;1;1093;1214
-23107;Schattendraenit;2;12494;15618
-23107;Schattendraenit;7;55000;58500
-23107;Schattendraenit;1;7900;8400
-23107;Schattendraenit;5;18750;41100
-23107;Schattendraenit;1;7365;9850
 14298;Knochenwerfers Schiftung;1;14443;20000
 21213;Konservierter Tannenzweig;1;3999;4999
 21213;Konservierter Tannenzweig;1;3999;4999
@@ -515,7 +424,6 @@
 4234;Schweres Leder;20;79900;84900
 4234;Schweres Leder;20;79900;84900
 4234;Schweres Leder;20;79900;84900
-10166;Templergurt;1;15598;20000
 5750;Kriegshäuptlingsgurt;1;12051;12564
 21884;Urfeuer;1;264500;279000
 21884;Urfeuer;1;264500;279000
@@ -529,46 +437,7 @@
 13444;Erheblicher Manatrank;1;9975;9975
 4481;Schäumender Glücksbringer;1;39989;49999
 4480;Donnernder Glücksbringer;1;39999;49999
-23573;Gehärteter Adamantitbarren;1;105000;120000
-23573;Gehärteter Adamantitbarren;1;113000;119500
-23573;Gehärteter Adamantitbarren;1;113000;119500
-23573;Gehärteter Adamantitbarren;1;113000;119500
 3864;Citrin;1;5000;6000
-23440;Dämmerstein;1;99999;104999
-23440;Dämmerstein;1;99999;104999
-23440;Dämmerstein;1;99999;104999
-23440;Dämmerstein;1;99999;104999
-23440;Dämmerstein;5;499995;524995
-23440;Dämmerstein;1;99999;104999
-23440;Dämmerstein;5;499995;524995
-23440;Dämmerstein;5;499995;524995
-23440;Dämmerstein;1;125000;130000
-23441;Nachtauge;20;1989898;1999999
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-23441;Nachtauge;1;114900;149900
-35759;Kraftvoller Gischtsmaragd;1;300000;350000
-35759;Kraftvoller Gischtsmaragd;1;300000;350000
-35759;Kraftvoller Gischtsmaragd;1;300000;350000
-35759;Kraftvoller Gischtsmaragd;1;300000;350000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;135000;139000
-23425;Adamantiterz;20;125000;139900
-23425;Adamantiterz;20;125000;139900
-23425;Adamantiterz;20;125000;139900
-23425;Adamantiterz;20;125000;139900
-23425;Adamantiterz;4;25584;31980
-23425;Adamantiterz;17;186881;186881
-23425;Adamantiterz;20;219860;219860
-23425;Adamantiterz;20;219860;219860
-23425;Adamantiterz;10;54345;60384
-23425;Adamantiterz;20;125000;139900
 22792;Alptraumranke;3;5625;40000
 2771;Zinnerz;10;7575;10500
 2771;Zinnerz;20;15050;21000
@@ -582,19 +451,9 @@
 16204;Illusionsstaub;20;165980;174000
 16204;Illusionsstaub;10;82990;87000
 5751;Netzschwingenumhang;1;12630;23288
-22849;Eisenschildtrank;5;179000;189000
-22849;Eisenschildtrank;5;179000;189000
-22849;Eisenschildtrank;5;179000;189000
 783;Leichter Balg;3;3025;4000
 22790;Urflechte;20;45500;48500
 8831;Lila Lotus;1;4868;6086
-22450;Kristall der Leere;2;162266;163996
-22450;Kristall der Leere;2;162266;163996
-22450;Kristall der Leere;2;162266;163996
-22450;Kristall der Leere;6;486798;491988
-22450;Kristall der Leere;6;486798;491988
-22450;Kristall der Leere;8;649064;655984
-22450;Kristall der Leere;6;486798;491988
 7067;Elementarerde;1;26508;33135
 5571;Kleiner schwarzer Beutel;1;5050;7575
 5571;Kleiner schwarzer Beutel;1;5050;7575
@@ -606,31 +465,6 @@
 6037;Echtsilberbarren;1;1799;2499
 11986;Thalliumreifen;1;5584;6980
 7761;Stahlklauenhäscher;1;30000;35000
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;4;142000;150200
-23793;Schweres Knotenhautleder;5;176875;180000
-23793;Schweres Knotenhautleder;2;70050;75000
-23793;Schweres Knotenhautleder;3;108125;110000
-23793;Schweres Knotenhautleder;5;176875;180000
-23793;Schweres Knotenhautleder;3;108125;110000
-23793;Schweres Knotenhautleder;5;176875;180000
-23793;Schweres Knotenhautleder;3;108125;110000
-23793;Schweres Knotenhautleder;2;70050;75000
-23793;Schweres Knotenhautleder;2;70050;75000
-23793;Schweres Knotenhautleder;2;70050;75000
-23793;Schweres Knotenhautleder;2;70050;75000
 22527;Kern der Elemente;1;2999;4999
 22527;Kern der Elemente;1;2999;4999
 22527;Kern der Elemente;1;2999;4999

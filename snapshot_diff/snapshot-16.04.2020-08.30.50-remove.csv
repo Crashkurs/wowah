@@ -1,8 +1,5 @@
 22563;Formel: Überragendes Zauberöl;1;425000;450000
 9405;Gurt der Golemstärke;1;32115;37024
-27676;Seltsame Sporen;2;8000;10000
-32586;Armschienen des flinken Gedankens;1;5499999;5999999
-13493;Rezept: Großes Arkanelixier;1;39616;49521
 32067;Elixier der draenischen Weisheit;5;89425;97995
 8006;Der Ziggler;1;31312;46490
 13027;Knochenquetscher;1;58550;65055
@@ -55,7 +52,6 @@
 22452;Urerde;1;35000;37951
 22452;Urerde;1;35000;37951
 22452;Urerde;1;35000;37951
-32428;Herz der Dunkelheit;8;1070910;1189900
 10285;Schattenseide;10;18900;19780
 10285;Schattenseide;10;18900;19780
 10285;Schattenseide;10;18900;19780
@@ -68,7 +64,6 @@
 13057;Blutpike;1;10302;14502
 4090;Becher des Schmerzes;1;32390;35989
 2564;Elfengeistklauen;1;27026;38740
-32508;Halskette der Tiefen;1;145250;149900
 4306;Seidenstoff;20;9999;14999
 4306;Seidenstoff;20;9999;14999
 4306;Seidenstoff;20;9999;14999
@@ -114,30 +109,17 @@
 29539;Kobraschuppen;4;499999;599999
 25744;Auge eines Dunstschuppenbasilisken;1;8076;9500
 31294;Schulterstücke der Manawoge;1;110602;138253
-24035;Funkelnder Stern der Elune;1;56699;66699
 25689;Schwere Grollhufweste;1;597515;699990
 25689;Schwere Grollhufweste;1;597515;699990
 4611;Blaue Perle;3;17078;18976
-32620;Zeitverlorene Schriftrolle;5;49564;63455
-32620;Zeitverlorene Schriftrolle;2;50447;56052
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1799999;1999999
-32747;Muster: Flinkschlagschultern;1;1758750;1800000
 11135;Große Mystikeressenz;4;33276;41596
 11178;Großer strahlender Splitter;4;245648;264052
 11138;Kleiner leuchtender Splitter;14;15412;17124
 11138;Kleiner leuchtender Splitter;6;3638;4548
 22557;Formel: Waffe - Meister des Kampfes;1;100000;150000
 3575;Eisenbarren;5;11500;12500
-31861;Großer Dämmerstein;1;162062;169999
-31861;Großer Dämmerstein;1;150000;180000
-31861;Großer Dämmerstein;1;162062;169999
 22445;Arkaner Staub;20;259900;259999
 22445;Arkaner Staub;20;259900;259999
-27674;Felshetzerfleisch;16;73040;79552
 10938;Geringe Magieessenz;3;23472;26080
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;17632;19591
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;17632;19591
@@ -146,17 +128,11 @@
 10998;Geringe Astralessenz;2;4534;5038
 10998;Geringe Astralessenz;1;1462;1828
 27660;Talbuksteak;20;24000;25500
-32737;Pläne: Flinkstahlschultern;1;300000;300000
-27503;Rolle der Stärke V;5;290625;295000
-27503;Rolle der Stärke V;5;290625;295000
-27503;Rolle der Stärke V;5;290625;295000
 31186;Braxxis' Stab des Schlummers;1;135000;149000
 31186;Braxxis' Stab des Schlummers;1;135000;149000
 29528;Trommeln des Krieges;1;199999;199999
 25896;Mächtiger Erdsturmdiamant;1;1092719;1107581
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;11873;13193
-32739;Pläne: Morgenstahlschultern;1;1999999;2249999
-32739;Pläne: Morgenstahlschultern;1;1959999;2204999
 28290;Glatter Golddraenit;1;18000;19999
 29531;Trommeln der Wiederherstellung;1;399403;449999
 29531;Trommeln der Wiederherstellung;1;399403;449999
@@ -164,17 +140,12 @@
 29531;Trommeln der Wiederherstellung;1;399403;449999
 23571;Urmacht;1;824010;869999
 23100;Glitzernder Flammenspessarit;1;12000;13398
-13511;Fläschchen der destillierten Weisheit;1;177500;184999
-13511;Fläschchen der destillierten Weisheit;3;692500;699999
-13511;Fläschchen der destillierten Weisheit;1;177500;184999
 8190;Hanzos Schwert;1;54810;68600
 13144;Gürtel der Beschaulichkeit;1;10091;20000
 31289;Stab der göttlichen Eingebung;1;113620;142025
 14047;Runenstoff;10;29900;45000
 23113;Glänzender Golddraenit;1;9900;10999
-23113;Glänzender Golddraenit;1;9900;10999
 7080;Essenz des Wassers;3;228334;253704
-24217;Vorlage: Robuster Talasit;1;699999;699999
 31295;Brustschutz des Dunkelpirschers;1;128812;137200
 23099;Glänzender Flammenspessarit;1;37000;39998
 23099;Glänzender Flammenspessarit;1;37000;39998
@@ -193,12 +164,8 @@
 23427;Eterniumerz;20;748000;789000
 23427;Eterniumerz;20;748000;789000
 7078;Essenz des Feuers;1;40000;50000
-24214;Vorlage: Mächtiger Edeltopas;1;205000;249999
 31290;Band der Herrschaft;1;167200;209000
 24059;Mächtiger Edeltopas;1;160500;169999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;499999;799999
-32745;Muster: Schulterpolster des erneuerten Lebens;1;752500;770000
 24799;Drachenfalkenstiefel;1;2458084;2490000
 31222;Kopfputz des inneren Zorns;1;170080;180039
 13082;Berghangbeschützer;1;27243;34887
@@ -206,37 +173,6 @@
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4693;5215
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4693;5215
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;1;4693;5215
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;6;13200;14994
-21877;Netherstoff;20;35600;42000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;36000;45000
-21877;Netherstoff;20;36000;45000
-21877;Netherstoff;20;36000;45000
-21877;Netherstoff;20;36000;45000
-21877;Netherstoff;20;39920;45000
-21877;Netherstoff;4;11500;12500
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
-21877;Netherstoff;20;34000;40000
 21877;Netherstoff;20;34000;40000
 21877;Netherstoff;20;34000;40000
 21877;Netherstoff;20;34000;40000
@@ -263,8 +199,6 @@
 4338;Magiestoff;20;39999;49999
 4338;Magiestoff;20;39999;49999
 31136;Brustplatte des Klingendrehs;1;84965;91206
-30810;Siegel des Sonnenzorns;5;21500;40000
-30810;Siegel des Sonnenzorns;14;112000;119000
 11084;Großer gleißender Splitter;5;15180;17645
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;6696;7440
 2750;Die Grünen Hügel des Schlingendorntals - Seite 26;1;6696;7440
@@ -275,18 +209,12 @@
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;1066;2584
 23111;Stattlicher Schattendraenit;1;12500;13999
 23111;Stattlicher Schattendraenit;1;12500;13999
-23111;Stattlicher Schattendraenit;1;12500;13999
-13492;Rezept: Läuterungstrank;1;90235;94706
 11177;Kleiner strahlender Splitter;5;9651;10723
 11177;Kleiner strahlender Splitter;4;7721;8579
 23110;Unbeständiger Schattendraenit;1;18000;19999
 23110;Unbeständiger Schattendraenit;1;18000;19999
 23110;Unbeständiger Schattendraenit;1;18000;19999
 23110;Unbeständiger Schattendraenit;1;18000;19999
-31863;Ausbalanciertes Nachtauge;1;87674;109593
-31863;Ausbalanciertes Nachtauge;1;87674;109593
-31863;Ausbalanciertes Nachtauge;1;87674;109593
-31863;Ausbalanciertes Nachtauge;1;99999;108899
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;8511;9456
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;8511;9456
 10978;Kleiner gleißender Splitter;6;1513;1681
@@ -298,8 +226,6 @@
 22794;Teufelslotus;20;729999;729999
 21886;Urleben;1;150000;150000
 21886;Urleben;1;110000;110000
-32658;Abzeichen der Hartnäckigkeit;1;8500000;8900000
-32658;Abzeichen der Hartnäckigkeit;1;8554000;8855000
 22449;Großer Prismasplitter;5;894999;944999
 22449;Großer Prismasplitter;5;894999;944999
 22449;Großer Prismasplitter;1;130000;130000
@@ -309,7 +235,5 @@
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;6367;7075
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;6367;7075
 3075;Flammenauge;1;205073;209500
-32753;Muster: Flinkheilmantelung;1;999999;1499999
-32655;Kristallgewebte Armschienen;1;2499900;2499900
 13040;Herzsuchende Armbrust;1;62638;69481
 23529;Adamantitwetzstein;20;299900;299900

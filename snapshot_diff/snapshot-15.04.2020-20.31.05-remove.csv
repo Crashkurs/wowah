@@ -19,8 +19,6 @@
 8173;Dickes Rüstungsset;10;529120;632360
 8173;Dickes Rüstungsset;10;529120;632360
 2798;Rethbanerz;1;8000;9000
-2798;Rethbanerz;3;7512;10000
-2798;Rethbanerz;2;8000;10000
 31230;Stiefel des Abysswandlers;1;154858;250000
 25699;Kristalldurchdrungenes Leder;4;11833;13148
 7428;Schattenkatzenbalg;7;8585;9539
@@ -139,9 +137,6 @@
 11138;Kleiner leuchtender Splitter;1;833;948
 22572;Luftpartikel;1;26152;29058
 14230;Glutseidentunika;1;20000;30000
-24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;169999;189999
 10199;Kreuzfahrergamaschen;1;30000;40000
 12800;Azerothischer Diamant;3;120000;180000
 12800;Azerothischer Diamant;2;100000;150000
@@ -156,15 +151,6 @@
 3182;Spinnenseide;1;1836;2295
 11987;Iridiumreif;1;20000;30000
 23781;Elementarsprengpulver;1;18629;19588
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
 4387;Eisenstrebe;3;3485;3872
 9260;Flüchtiger Rum;7;10989;12210
 9260;Flüchtiger Rum;5;4535;5039
@@ -222,12 +208,10 @@
 11083;Seelenstaub;4;10179;11310
 11186;Roter Machtkristall;10;100000;120000
 9830;Schuppiger Schild;1;4999;7999
-2802;Loderflammenemblem;1;2437;10000
 16251;Formel: Armschiene - Überragende Ausdauer;1;189999;199999
 28501;Felshetzeromelett;5;7286;8095
 25221;Geisterhafte Streitaxt;1;85858;90000
 25194;Schlangenreißer;1;180000;200000
-31275;Trophäenhalskette;1;213817;237574
 27678;Grollhuffleisch;1;3101;3445
 10375;Magieerfüllte Plattenunterarmschienen;1;30000;40000
 9395;Handschuhe der Vergangenheit;1;44546;58384
@@ -367,7 +351,6 @@
 22789;Terozapfen;20;169999;179999
 29548;Netherdrachenschuppe;1;23180;48975
 3712;Schildkrötenfleisch;3;1821;2023
-31143;Tuch der Raserei;1;87838;97598
 8390;Muster: Großer Voodooumhang;1;20340;31489
 3357;Lebenswurz;1;101;102
 3357;Lebenswurz;20;2020;2040
@@ -378,12 +361,7 @@
 22452;Urerde;1;46000;46000
 22452;Urerde;1;46000;46000
 22452;Urerde;1;46000;46000
-4235;Schwerer Balg;5;200000;200000
 4235;Schwerer Balg;1;39900;49875
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
 4235;Schwerer Balg;1;39900;49875
 4235;Schwerer Balg;1;39900;49875
 4235;Schwerer Balg;1;39900;49875
@@ -405,16 +383,6 @@
 22446;Große Planaressenz;2;150100;189900
 15148;Geistwandlergürtel;1;20000;30000
 6889;Kleines Ei;4;1900;1999
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-2447;Friedensblume;3;192;240
-2447;Friedensblume;20;2988;3320
-2447;Friedensblume;3;285;317
-2447;Friedensblume;1;64;80
 15647;Eisenhautschulterstücke;1;43216;48018
 14963;Oberhäuptlingsschulterstücke;1;49038;54487
 31892;Sturm Ass;1;74100;92625
@@ -452,7 +420,6 @@
 23445;Teufelseisenbarren;5;29300;30000
 24051;Massiver Dämmerstein;1;85000;95000
 24051;Massiver Dämmerstein;1;85000;95000
-13115;Schafsledermantel;1;12500;13500
 9956;Kriegstreiberarmschienen;1;30000;40000
 22578;Wasserpartikel;1;27074;28972
 15366;Schwindlergamaschen;1;10000;20000
@@ -475,7 +442,6 @@
 4377;Schweres Sprengpulver;1;5082;6047
 2772;Eisenerz;1;1457;1619
 14555;Alcors Sonnenschneide;1;303345;350383
-2824;Hurrikan;1;66640;83300
 10095;Ratsherrenstiefel;1;40000;50000
 25132;Thrallmarkriegshammer;1;120000;130000
 31290;Band der Herrschaft;1;157916;197396
@@ -530,14 +496,8 @@
 2319;Mittleres Leder;8;17722;19691
 2319;Mittleres Leder;20;14900;17900
 2319;Mittleres Leder;20;14900;17900
-2319;Mittleres Leder;20;14900;17900
-2319;Mittleres Leder;20;11500;20000
-2319;Mittleres Leder;13;9075;11000
 12361;Blauer Saphir;1;10000;10013
-31150;Handschuhe der Frömmigkeit;1;79635;88483
 23528;Teuflischer Wetzstein;7;16378;18198
-28104;Elixier des Meisters;20;650000;688000
-28104;Elixier des Meisters;7;227500;240800
 28104;Elixier des Meisters;1;34011;35090
 28104;Elixier des Meisters;1;34011;35090
 11184;Blauer Machtkristall;10;100000;120000
@@ -545,7 +505,6 @@
 24992;Totschlägerbrustplatte;1;190000;200000
 13007;Magieflammenumhang;1;74574;82860
 20670;Abyssische Panzerklammer;1;69612;79516
-31289;Stab der göttlichen Eingebung;1;244852;272058
 23766;Geeichtes Eterniumzielfernrohr;1;1914299;1924599
 23489;Teufelseisenbrustplatte;1;100000;160000
 14303;Knochenwerfers Tuch;1;30000;40000
@@ -642,9 +601,7 @@
 8151;Fläschchen Mojo;7;38465;42739
 21900;Muster: Magieerfüllte Netherstoffrobe;1;378435;382359
 15250;Gleißender Flamberg;1;20000;30000
-2800;Schwarze Samtroben;1;30000;49500
 2800;Schwarze Samtroben;1;39987;49999
-2800;Schwarze Samtroben;1;22287;40000
 5498;Kleine irisierende Perle;2;3138;3487
 5498;Kleine irisierende Perle;1;19999;29999
 5498;Kleine irisierende Perle;1;1097;1372
@@ -682,13 +639,6 @@
 29740;Teuflische Waffen;3;551121;629025
 29740;Teuflische Waffen;3;532912;592124
 10282;Smaragdunterarmschienen;1;30000;40000
-2409;Muster: Dunkle Ledertunika;1;1097;1372
-2409;Muster: Dunkle Ledertunika;1;1120;1400
-4234;Schweres Leder;20;69999;79999
-4234;Schweres Leder;20;69999;79999
-4234;Schweres Leder;16;53600;60000
-4234;Schweres Leder;20;74500;78000
-31888;Segen 3;1;186199;232749
 24478;Jaggalperle;1;6307;7884
 24478;Jaggalperle;5;47821;53135
 23121;Irisierender Azurmondstein;1;23128;25698
@@ -697,9 +647,7 @@
 25668;Dicke draenische Stiefel;1;50035;55595
 25668;Dicke draenische Stiefel;1;50035;55595
 14304;Knochenwerfers Gürtel;1;30000;40000
-2815;Bogenklingenreißer;1;119667;149500
 2815;Bogenklingenreißer;1;89667;150000
-2815;Bogenklingenreißer;1;141000;149000
 4416;Bauplan: Goblinlandmine;1;13127;14586
 10592;Katzenaugenelixier;1;10947;21052
 10592;Katzenaugenelixier;1;10947;21052
@@ -710,7 +658,6 @@
 10592;Katzenaugenelixier;1;10947;21052
 10592;Katzenaugenelixier;1;10947;21052
 6605;Derwischhandschuhe;1;9999;14999
-31304;Essenzfokussierer;1;205246;228052
 30282;Muster: Stiefel der Zauberwucht;1;1000000;1000000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;16858;18731
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;16858;18731
@@ -830,7 +777,6 @@
 22457;Urmana;1;201052;201073
 13444;Erheblicher Manatrank;5;61272;68080
 13444;Erheblicher Manatrank;1;9975;9975
-2321;Feiner Faden;1;80;100
 9860;Bogenschützenumhang;1;20000;30000
 32388;Schattenstaub;3;46407;51564
 14211;Vitale Handlappen;1;20000;30000
@@ -892,14 +838,6 @@
 23490;Teufelseisenkettentunika;1;85000;100000
 23490;Teufelseisenkettentunika;1;70000;80000
 23490;Teufelseisenkettentunika;1;70000;80000
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
 2100;Präzise kalibriertes Schießeisen;1;46810;80000
 4249;Dunkler Ledergürtel;1;12249;22812
 3037;Peitschenholzdoppelbogen;1;21496;22773
@@ -925,14 +863,6 @@
 8264;Ebenhölzerne Handgelenksschützer;1;27000;30000
 15151;Geistwandlerbeinschützer;1;20000;30000
 13109;Cape der schwarzen Flamme;1;35891;39878
-2776;Golderz;20;31264;36580
-2776;Golderz;2;3200;4000
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31600;39500
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31000;36000
-2776;Golderz;11;15730;15730
 6373;Elixier der Feuermacht;1;2539;2821
 6373;Elixier der Feuermacht;1;2539;2821
 6373;Elixier der Feuermacht;1;2539;2821
@@ -970,7 +900,6 @@
 6149;Großer Manatrank;1;1115;1239
 14957;Oberhäuptlingssabatons;1;30000;40000
 13044;Dämonentöter;1;110000;130000
-2732;Die Grünen Hügel des Schlingendorntals - Seite 8;4;30859;34288
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;3;23144;25716
 22575;Lebenspartikel;1;20962;22180
 7085;Muster: Azurblaue Schultern;1;28316;39240

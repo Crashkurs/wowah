@@ -138,25 +138,8 @@
 12365;Verdichteter Stein;20;5280;6600
 12365;Verdichteter Stein;10;2640;3300
 12365;Verdichteter Stein;13;4000;4000
-24276;Goldener Zauberfaden;1;1699999;1869999
 24291;Sumpflordranke;40;166000;175500
 31153;Axt der Legion;1;300000;350000
-12363;Arkankristall;5;125000;130000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;19760;24700
-12363;Arkankristall;2;37544;46930
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;50500;54000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;29900;30000
-12363;Arkankristall;1;3000;30000
-12363;Arkankristall;1;30000;39999
-12363;Arkankristall;1;50500;54000
-12363;Arkankristall;3;159000;172500
-12363;Arkankristall;2;113850;113850
 23575;Geringer Zauberschutz der Abschirmung;5;12159;15199
 23575;Geringer Zauberschutz der Abschirmung;5;12159;15199
 23575;Geringer Zauberschutz der Abschirmung;5;12159;15199
@@ -244,22 +227,10 @@
 23112;Golddraenit;6;34000;36000
 31885;Segen 4;1;457500;550000
 25906;Vorlage: Brutaler Erdsturmdiamant;1;172371;191524
-13120;Armschienen des tiefen Zorns;1;33587;41984
-13120;Armschienen des tiefen Zorns;1;129516;138020
-13120;Armschienen des tiefen Zorns;1;31907;39884
 20869;Bernsteingötze;1;10000;20000
 23571;Urmacht;1;854000;880000
 23571;Urmacht;1;854000;880000
-4234;Schweres Leder;20;84500;85000
-4234;Schweres Leder;20;84500;85000
-4234;Schweres Leder;18;81715;90795
-4234;Schweres Leder;20;90795;100883
-4234;Schweres Leder;20;129999;139999
-4234;Schweres Leder;20;129999;139999
-4234;Schweres Leder;20;84500;85000
-4234;Schweres Leder;20;84500;85000
 31895;Sturm 4;1;250000;300000
-13885;34-pfündiger Rotkiemen;1;330050;379500
 16216;Formel: Umhang - Großer Widerstand;1;7499;17499
 23094;Tränenförmiger Blutgranat;1;7072;8841
 23094;Tränenförmiger Blutgranat;1;7072;8841
@@ -279,9 +250,7 @@
 23517;Teufelsstahlhandschuhe;1;193139;239010
 23517;Teufelsstahlhandschuhe;1;193139;239010
 23517;Teufelsstahlhandschuhe;1;193139;239010
-13890;Panzerfisch;6;1860;2532
 13890;Panzerfisch;1;310;415
-13890;Panzerfisch;20;8437;9375
 29158;Echtsilberring des Kommandanten;1;39900;49875
 29158;Echtsilberring des Kommandanten;1;39900;49875
 29158;Echtsilberring des Kommandanten;1;39900;49875
@@ -290,9 +259,6 @@
 29158;Echtsilberring des Kommandanten;1;39900;49875
 29158;Echtsilberring des Kommandanten;1;39900;49875
 16202;Geringe ewige Essenz;1;17500;20000
-13759;Roher Nachtflossenschnapper;8;79960;79960
-13759;Roher Nachtflossenschnapper;20;199900;199900
-13759;Roher Nachtflossenschnapper;20;199900;199900
 27671;Bussardfleisch;20;15632;19540
 27502;Rolle der Ausdauer V;1;168;1500
 21929;Flammenspessarit;4;9300;9900
@@ -336,9 +302,6 @@
 23446;Adamantitbarren;20;178000;185000
 4611;Blaue Perle;3;6168;7752
 31203;Arkanschleife;1;300000;310000
-13126;Kriegsruferstulpen;1;21010;26263
-13126;Kriegsruferstulpen;1;10000;26000
-13126;Kriegsruferstulpen;1;15561;28000
 20964;Aquamarinsiegel;1;71267;76584
 20964;Aquamarinsiegel;1;71267;76584
 28270;Formel: Brust - Erhebliche Abhärtung;1;222500;228888
@@ -357,8 +320,6 @@
 25700;Teufelsschuppen;16;85000;100000
 19265;Kriegsfürst 8;1;17000;20000
 19265;Kriegsfürst 8;1;17000;20000
-13760;Roher Sonnenschuppenlachs;18;359640;359640
-13760;Roher Sonnenschuppenlachs;20;399600;399600
 23436;Lebendiger Rubin;1;187500;198000
 23436;Lebendiger Rubin;1;187500;198000
 23100;Glitzernder Flammenspessarit;1;9347;11684
@@ -369,7 +330,6 @@
 19281;Portal 5;1;37500;50000
 13877;47-pfündiger Zackenbarsch;1;109414;136768
 12364;Gewaltiger Smaragd;1;120000;120000
-13133;Schulterklappen des Drachenfeuers;1;73794;92243
 8193;Hose des Nachtschleichers;1;49545;54932
 21877;Netherstoff;20;34000;38800
 21877;Netherstoff;20;34000;38800
@@ -382,8 +342,6 @@
 6037;Echtsilberbarren;4;6092;7616
 6037;Echtsilberbarren;20;29516;38520
 24214;Vorlage: Mächtiger Edeltopas;1;441106;465674
-12361;Blauer Saphir;2;21657;27072
-12361;Blauer Saphir;2;29046;36308
 27666;Goldfischstäbchen;20;709999;809999
 27666;Goldfischstäbchen;20;709999;809999
 7080;Essenz des Wassers;3;224979;249977
@@ -395,8 +353,6 @@
 32228;Engelssaphir;1;499999;799999
 32228;Engelssaphir;1;499999;799999
 13129;Feuermähnengamaschen;1;97581;124952
-13119;Verzauberte Kodoarmschienen;1;33119;34576
-13119;Verzauberte Kodoarmschienen;1;19244;24056
 29725;Muster: Windschuppenkapuze;1;145768;182210
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;660071;663856
 19270;Elementar 3;1;40000;50000
@@ -458,7 +414,6 @@
 16204;Illusionsstaub;2;9536;12920
 23449;Khoriumbarren;13;953750;1000000
 13926;Goldene Perle;1;12493;13881
-13926;Goldene Perle;1;31600;39500
 31918;Delirium 2;1;30000;40000
 3860;Mithrilbarren;8;60000;60000
 3860;Mithrilbarren;13;75285;94107
@@ -471,17 +426,8 @@
 4306;Seidenstoff;20;28840;32000
 4306;Seidenstoff;20;28840;32000
 4306;Seidenstoff;20;28840;32000
-13121;Flügel des Welplings;1;5142;20000
-13121;Flügel des Welplings;1;22463;24959
-13121;Flügel des Welplings;1;15200;19000
 21881;Netherweberseide;10;98999;99899
 14491;Muster: Runenstoffhose;1;26718;38575
-13758;Roher Rotkiemen;5;5600;6000
-13758;Roher Rotkiemen;5;5600;6000
-13758;Roher Rotkiemen;5;5600;6000
-13758;Roher Rotkiemen;5;5600;6000
-13758;Roher Rotkiemen;5;5600;6000
-13758;Roher Rotkiemen;15;13680;17100
 25901;Bemerkenswerter Erdsturmdiamant;1;689435;696500
 25897;Starker Erdsturmdiamant;1;943983;1029800
 15286;Rotholzlangbogen;1;8352;11088
@@ -489,8 +435,6 @@
 7971;Schwarze Perle;1;138928;154365
 7971;Schwarze Perle;1;191640;229550
 24170;Vorlage: Zärtliche Morgenröte;1;103940;129925
-13130;Windläuferbeinschützer;1;58329;72912
-13130;Windläuferbeinschützer;1;80599;97333
 23079;Tiefenperidot;13;83500;88562
 22853;Fläschchen der mächtigen Wiederherstellung;5;736865;763185
 19284;Portal 8;1;95000;120000

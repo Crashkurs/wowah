@@ -14,8 +14,6 @@
 21881;Netherweberseide;5;121125;134490
 21881;Netherweberseide;5;121125;134490
 15157;Nächtliche Gamaschen;1;19840;25000
-2798;Rethbanerz;3;7512;10000
-2798;Rethbanerz;2;8000;10000
 25699;Kristalldurchdrungenes Leder;2;3900;4200
 13119;Verzauberte Kodoarmschienen;1;20010;30000
 13446;Erheblicher Heiltrank;5;17500;20000
@@ -99,20 +97,8 @@
 22831;Elixier der erheblichen Beweglichkeit;5;90890;113390
 22831;Elixier der erheblichen Beweglichkeit;5;90890;113390
 25649;Knotenhautlederfetzen;3;7700;8200
-24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;169999;189999
-24060;Glänzender Edeltopas;1;169999;189999
 4251;Schultern des Hügelwächters;1;3763;4704
 10423;Bronzene Gamaschen mit Versilberung;1;4263;8500
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
 13049;Claymore des Dekanats;1;5519;7599
 23437;Talasit;1;41000;43500
 23437;Talasit;1;40000;42222
@@ -125,7 +111,6 @@
 4247;Lederhandschuhe des Hügelwächters;1;3289;4112
 25163;Elexorische Klinge;1;88339;97924
 4785;Schwefelgürtel;1;1500;1876
-2802;Loderflammenemblem;1;2437;10000
 9822;Haltbares Cape;1;3814;4768
 7354;Ältestenstiefel;1;6400;8000
 30038;Gürtel der Zauberwucht;1;10000000;12000000
@@ -231,11 +216,6 @@
 22452;Urerde;1;34999;34999
 22452;Urerde;1;34999;34999
 22452;Urerde;1;34999;34999
-4235;Schwerer Balg;5;200000;200000
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
-4235;Schwerer Balg;1;45000;45000
 10034;Smokinghemd;1;88000;92000
 22446;Große Planaressenz;1;100100;109900
 22829;Erstklassiger Heiltrank;3;31500;49800
@@ -243,16 +223,6 @@
 9172;Unsichtbarkeitstrank;5;123980;157475
 9172;Unsichtbarkeitstrank;5;123980;157475
 9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-9172;Unsichtbarkeitstrank;5;123980;157475
-2447;Friedensblume;1;64;80
-2447;Friedensblume;3;192;240
-2447;Friedensblume;20;2988;3320
-2447;Friedensblume;3;285;317
 2447;Friedensblume;15;725;0
 6303;Rohe Glitschhautmakrele;2;288;360
 5964;Barbarische Schultern;1;21096;24520
@@ -280,20 +250,16 @@
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
 24051;Massiver Dämmerstein;1;200000;250000
-13115;Schafsledermantel;1;12500;13500
 21929;Flammenspessarit;3;10500;11500
 5637;Großer Fangzahn;2;1925;1999
 2997;Wollstoffballen;1;1280;1550
 22866;Fläschchen des reinen Todes;5;892200;1000000
 29550;Foliant des Wasserherbeizauberns IX;1;31600;39500
 23447;Eterniumbarren;5;249999;279999
-2824;Hurrikan;1;66640;83300
 31290;Band der Herrschaft;1;116063;120000
 22451;Urluft;1;169500;179000
 22739;Foliant der Verwandlung: Schildkröte;1;12999999;14999999
 1713;Ankh des Lebens;1;17120;25000
-28104;Elixier des Meisters;7;227500;240800
-28104;Elixier des Meisters;20;650000;688000
 6404;Gepanzerte Gefechtsschiftung;1;24863;24999
 2589;Leinenstoff;20;4020;4900
 2589;Leinenstoff;20;4020;4900
@@ -403,8 +369,6 @@
 2450;Wilddornrose;20;25000;30000
 22793;Manadistel;11;44444;47777
 14661;Bewahrerkordel;1;17475;22000
-2800;Schwarze Samtroben;1;30000;49500
-2800;Schwarze Samtroben;1;22287;40000
 2800;Schwarze Samtroben;1;29999;39999
 24056;Leuchtendes Nachtauge;1;109999;114999
 14756;Töterschuhe;1;4552;6440
@@ -412,12 +376,7 @@
 23571;Urmacht;1;824010;869999
 29740;Teuflische Waffen;1;140100;149900
 29740;Teuflische Waffen;1;140100;149900
-2409;Muster: Dunkle Ledertunika;1;1097;1372
-2409;Muster: Dunkle Ledertunika;1;1120;1400
-4234;Schweres Leder;16;53600;60000
 4234;Schweres Leder;11;61000;65000
-2815;Bogenklingenreißer;1;141000;149000
-2815;Bogenklingenreißer;1;119667;149500
 6211;Rezept: Elixier der Ogerstärke;1;29599;37999
 21884;Urfeuer;1;226000;240000
 21884;Urfeuer;1;226000;240000
@@ -634,14 +593,6 @@
 23425;Adamantiterz;20;159999;179999
 23425;Adamantiterz;20;159999;179999
 23425;Adamantiterz;20;159999;179999
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
-7391;Hurtige Stiefel;1;40000;49900
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
 24037;Irisierender Stern der Elune;1;80000;120000
@@ -663,12 +614,6 @@
 16204;Illusionsstaub;20;150100;160000
 24734;Sonnenrocstiefel;1;35628;47036
 24219;Vorlage: Schillernder Talasit;1;191600;239500
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31000;36000
-2776;Golderz;20;31600;39500
-2776;Golderz;11;15730;15730
 27658;Gerösteter Grollhuf;20;74500;89999
 27658;Gerösteter Grollhuf;20;74500;89999
 27658;Gerösteter Grollhuf;20;74500;89999
