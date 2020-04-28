@@ -14,9 +14,6 @@
 7676;Disteltee;10;44450;50000
 7676;Disteltee;10;44450;50000
 7676;Disteltee;10;44450;50000
-23783;Eine Hand voll Teufelseisenbolzen;3;33023;36693
-23781;Elementarsprengpulver;1;7777;8999
-23781;Elementarsprengpulver;2;13008;15086
 22794;Teufelslotus;20;850000;900000
 22794;Teufelslotus;20;850000;900000
 22794;Teufelslotus;20;850000;900000
@@ -30,29 +27,14 @@
 2835;Rauer Stein;12;1920;2400
 2835;Rauer Stein;20;128;160
 2835;Rauer Stein;9;57;72
-23768;Weißes Rauchsignal;6;13689;22112
-23768;Weißes Rauchsignal;5;111875;120000
-23768;Weißes Rauchsignal;5;111875;120000
 20828;Ring des Zwielichts;1;9999;19999
 20828;Ring des Zwielichts;1;9999;19999
-23883;Bauplan: Heiltrankeinspritzung;1;456250;550000
-23883;Bauplan: Heiltrankeinspritzung;1;418000;522500
-23810;Bauplan: Krachbummroboter;1;20000;30000
-23810;Bauplan: Krachbummroboter;1;24795;29700
-23810;Bauplan: Krachbummroboter;1;24795;29700
-23810;Bauplan: Krachbummroboter;1;24795;29700
 21876;Urmondstofftasche;1;2806000;3002500
 23077;Blutgranat;20;130000;159999
 15755;Muster: Schimärenweste;1;29999;39999
 943;Stab des Aufsehers;1;64294;0
 23112;Golddraenit;20;336800;396000
 23112;Golddraenit;20;150000;199999
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;217500;229500
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;217500;229500
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;95907;119884
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;78399;97999
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;66250;79999
 13442;Mächtiger Wuttrank;1;22250;22800
 727;Schartiges Kurzschwert;1;784;980
 12360;Arkanitbarren;1;66900;66999
@@ -102,13 +84,6 @@
 21841;Netherstofftasche;1;95600;119500
 19265;Kriegsfürst 8;1;15197;18997
 18653;Bauplan: Goblinüberbrückungskabel XL;1;496000;499999
-23819;Elementare Zephyriumladung;2;358000;360000
-23819;Elementare Zephyriumladung;2;358000;360000
-23784;Adamantitrahmen;10;750000;800000
-23784;Adamantitrahmen;2;170000;180000
-23784;Adamantitrahmen;2;170000;180000
-23784;Adamantitrahmen;2;170000;180000
-23784;Adamantitrahmen;1;95000;100000
 23784;Adamantitrahmen;1;95000;100000
 23784;Adamantitrahmen;1;95000;100000
 23784;Adamantitrahmen;1;95000;100000
@@ -121,10 +96,6 @@
 24028;Feingeschliffener lebendiger Rubin;1;255000;270000
 24028;Feingeschliffener lebendiger Rubin;1;255000;270000
 24028;Feingeschliffener lebendiger Rubin;1;255000;270000
-24028;Feingeschliffener lebendiger Rubin;1;261011;269998
-24028;Feingeschliffener lebendiger Rubin;1;261011;269998
-24028;Feingeschliffener lebendiger Rubin;1;261011;269998
-24028;Feingeschliffener lebendiger Rubin;1;261011;269998
 7391;Hurtige Stiefel;1;40000;49900
 7391;Hurtige Stiefel;1;40000;49900
 7391;Hurtige Stiefel;1;40000;49900
@@ -144,24 +115,6 @@
 4306;Seidenstoff;20;37666;38888
 4306;Seidenstoff;20;37666;38888
 4625;Feuerblüte;20;157600;159999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;265000;270000
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;265000;270000
 4338;Magiestoff;20;97500;99999
 4338;Magiestoff;20;97500;99999
 4338;Magiestoff;20;97500;99999
@@ -170,14 +123,3 @@
 4338;Magiestoff;2;7500;9999
 21900;Muster: Magieerfüllte Netherstoffrobe;1;100000;100000
 23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;579980;619980
-23793;Schweres Knotenhautleder;20;687500;750000
-23793;Schweres Knotenhautleder;20;687500;750000
-23793;Schweres Knotenhautleder;20;687500;750000
-23793;Schweres Knotenhautleder;20;687500;750000
-23793;Schweres Knotenhautleder;20;687500;750000
-23793;Schweres Knotenhautleder;20;687500;750000

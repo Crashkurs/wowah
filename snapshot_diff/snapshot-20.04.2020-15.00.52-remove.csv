@@ -3,7 +3,6 @@
 4352;Muster: Stiefel des Verzauberers;1;12901;14334
 22825;Elixier der Heilkraft;20;429980;429980
 22825;Elixier der Heilkraft;20;429980;429980
-31861;Großer Dämmerstein;1;150000;180000
 9900;Jazeraintstulpen;1;25000;29000
 23771;Grünes Rauchsignal;11;222972;247747
 13020;Bogen des Himmelsstürmers;1;14529;18162
@@ -20,63 +19,6 @@
 22452;Urerde;1;19999;20000
 22452;Urerde;1;19999;20000
 22452;Urerde;1;19999;20000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
-22792;Alptraumranke;20;280000;300000
 22792;Alptraumranke;20;280000;300000
 22792;Alptraumranke;20;280000;300000
 22792;Alptraumranke;20;280000;300000
@@ -103,8 +45,6 @@
 31304;Essenzfokussierer;1;200000;220000
 17200;Rezept: Lebkuchen;1;133930;148811
 22557;Formel: Waffe - Meister des Kampfes;1;107500;130000
-23628;Pläne: Gesegnete Armschienen;1;242398;273797
-23628;Pläne: Gesegnete Armschienen;1;242398;273797
 2318;Leichtes Leder;20;5050;10000
 2318;Leichtes Leder;20;5050;10000
 2318;Leichtes Leder;20;8990;8990
@@ -124,17 +64,6 @@
 2840;Kupferbarren;20;29000;29000
 27501;Rolle der Willenskraft V;1;41518;46650
 20866;Azurgötze;2;89998;99998
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
-32201;Funkelnder Engelssaphir;1;500000;600000
 34828;Antiker Silbermanschettenknopf;1;388246;431385
 16251;Formel: Armschiene - Überragende Ausdauer;1;212800;266000
 35758;Beständiger Gischtsmaragd;1;300000;350000
@@ -151,8 +80,6 @@
 31672;Rippchen der Mok'Nathal;1;380;475
 22146;Buch: Gabe der Wildnis III;1;165957;184397
 9298;Rezept: Elixier der Riesen;1;50125;55694
-31153;Axt der Legion;1;600000;650000
-31153;Axt der Legion;1;600000;650000
 15225;Mammutbaumhammer;1;9999;19999
 20828;Ring des Zwielichts;1;23017;25574
 14343;Kleiner glänzender Splitter;20;20100;30000
@@ -181,7 +108,6 @@
 25653;Reitgerte;1;706250;749800
 25653;Reitgerte;1;706250;749800
 25653;Reitgerte;1;706250;749800
-32409;Unerbittlicher Erdsturmdiamant;1;950000;1000000
 21842;Magieerfüllter Netherstoffballen;10;4300000;4490000
 21842;Magieerfüllter Netherstoffballen;5;2230000;2249900
 32751;Muster: Lebendige Erdschultern;1;393413;437126
@@ -247,27 +173,8 @@
 31901;Furien Ass;1;132057;156413
 31901;Furien Ass;1;132057;156413
 27662;Teufelsfinne Supreme;20;9782;10868
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;152500;161498
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;151500;161498
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
-24033;Gediegener Stern der Elune;1;160000;185000
 24033;Gediegener Stern der Elune;1;94000;96000
 24033;Gediegener Stern der Elune;1;94000;96000
-24033;Gediegener Stern der Elune;1;149999;159999
-24033;Gediegener Stern der Elune;1;149999;159999
 24033;Gediegener Stern der Elune;1;94000;96000
 24033;Gediegener Stern der Elune;1;94000;96000
 25168;Langschwert der Sha'tari;1;126029;151515
@@ -291,15 +198,7 @@
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;22623;25136
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;22623;25136
 12431;E'ko der Winterfelle;3;100;199
-30038;Gürtel der Zauberwucht;1;10000000;12000000
-30038;Gürtel der Zauberwucht;1;10000000;12000000
 11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;8884;9871
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
-32200;Gediegener Engelssaphir;1;500000;600000
 10286;Herz der Wildnis;1;6575;8219
 8153;Wildranke;5;18960;23700
 27515;Große Tüpfelteufelsfinne;1;13264;14738
@@ -347,30 +246,13 @@
 22577;Schattenpartikel;3;12284;13649
 20498;Silithidenchitin;2;10590;11766
 13106;Leuchtende magische Armreife;1;15324;19999
-32226;Gezackter Gischtsmaragd;1;300000;350000
-32226;Gezackter Gischtsmaragd;1;300000;350000
-32226;Gezackter Gischtsmaragd;1;300000;350000
 9301;Rezept: Elixier der Schattenmacht;1;47600;59500
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
-24051;Massiver Dämmerstein;1;200000;250000
 24871;Eisenrückenschienbeinschützer;1;44830;70707
 4233;Geschmeidiger mittlerer Balg;15;9600;12000
-32225;Schillernder Gischtsmaragd;1;300000;350000
-32225;Schillernder Gischtsmaragd;1;300000;350000
-32225;Schillernder Gischtsmaragd;1;300000;350000
-32225;Schillernder Gischtsmaragd;1;300000;350000
 3075;Flammenauge;1;46720;58400
 31134;Klinge des Unglücks;1;125000;140000
 31134;Klinge des Unglücks;1;125000;140000
 28270;Formel: Brust - Erhebliche Abhärtung;1;2469599;2506999
-23625;Pläne: Helm der Eidestreue;1;210540;243258
-23625;Pläne: Helm der Eidestreue;1;210540;243258
 31673;Knusperschlange;20;258720;279980
 10560;Instabiler Auslöser;2;85562;95069
 10560;Instabiler Auslöser;2;85562;95069
@@ -398,10 +280,6 @@
 23100;Glitzernder Flammenspessarit;1;9999;10099
 23100;Glitzernder Flammenspessarit;1;9999;10099
 8171;Unverwüstlicher Balg;4;6400;8000
-24037;Irisierender Stern der Elune;1;80000;120000
-24037;Irisierender Stern der Elune;1;80000;120000
-24037;Irisierender Stern der Elune;1;80000;120000
-24037;Irisierender Stern der Elune;1;80000;120000
 29727;Muster: Handschuhe der lebendigen Berührung;1;200570;222856
 8391;Kicherfangunterkiefer;3;2898;3220
 8391;Kicherfangunterkiefer;3;2898;3220
@@ -430,76 +308,12 @@
 4461;Raptorbalg;1;301;335
 4461;Raptorbalg;6;1809;2010
 4461;Raptorbalg;6;1809;2010
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
-21886;Urleben;1;145000;150000
 21886;Urleben;1;76000;95000
 8168;Pechschwarze Feder;2;3756;4174
 8168;Pechschwarze Feder;2;3756;4174
 12024;Vanadiumtalisman;1;8094;10000
 31194;Gronngesegnete Kriegsperlen;1;80000;80000
 16204;Illusionsstaub;6;40100;50000
-27499;Rolle der Intelligenz V;5;10000;10000
 27499;Rolle der Intelligenz V;5;19956;22174
 13047;Zweig des Weltenbaums;1;181081;226352
 4409;Bauplan: Kleine Zephyriumladung;1;3879;4310
@@ -571,8 +385,6 @@
 34440;Trank des verrückten Alchemisten;5;114379;127088
 34440;Trank des verrückten Alchemisten;5;114379;127088
 34440;Trank des verrückten Alchemisten;5;114379;127088
-24059;Mächtiger Edeltopas;1;220000;260000
-24059;Mächtiger Edeltopas;1;220000;260000
 24059;Mächtiger Edeltopas;1;220000;260000
 21900;Muster: Magieerfüllte Netherstoffrobe;1;150000;150000
 21900;Muster: Magieerfüllte Netherstoffrobe;1;150000;150000

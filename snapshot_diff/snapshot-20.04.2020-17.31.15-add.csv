@@ -178,7 +178,6 @@
 31284;Armschienen der Tollkühnheit;1;80000;90000
 14467;Muster: Froststoffrobe;1;15787;17542
 29734;Muster: Dicke Netherschuppenbrustplatte;1;699999;699999
-10380;Kommandantenstulpen;1;22356;40000
 4359;Eine Hand voll Kupferbolzen;10;10180;20000
 4359;Eine Hand voll Kupferbolzen;10;10180;20000
 23107;Schattendraenit;4;40407;44896
@@ -369,8 +368,6 @@
 31672;Rippchen der Mok'Nathal;20;99980;99980
 31672;Rippchen der Mok'Nathal;20;99980;99980
 31672;Rippchen der Mok'Nathal;20;99980;99980
-22838;Hasttrank;5;187385;189385
-22838;Hasttrank;5;187385;189385
 22838;Hasttrank;5;187385;189385
 22838;Hasttrank;5;187385;189385
 22838;Hasttrank;5;187385;189385
@@ -590,9 +587,6 @@
 31276;Stiefel des Zeloten;1;130922;142850
 22839;Zerstörungstrank;5;157500;160000
 15330;Zänkerstiefel;1;4400;5500
-29533;Kobrahautbeinrüstung;1;1200000;1400000
-29533;Kobrahautbeinrüstung;1;1200000;1395000
-29533;Kobrahautbeinrüstung;1;1445000;1455000
 24300;Muster: Umhang der Ewigkeit;1;699999;699999
 4389;Gyrochronatom;10;71250;80000
 4389;Gyrochronatom;10;71250;80000
@@ -641,8 +635,6 @@
 4404;Silberkontakt;20;30750;40000
 4404;Silberkontakt;20;30750;40000
 3305;Brackwassergamaschen;1;6600;7700
-943;Stab des Aufsehers;1;98420;128025
-943;Stab des Aufsehers;1;90000;120000
 18401;Forors Kompendium des Drachentötens;1;899900;899900
 32851;Kessel des erheblichen Naturschutzes;1;351125;400000
 9294;Rezept: Wildrankentrank;1;11633;12925
@@ -754,8 +746,6 @@
 14344;Großer glänzender Splitter;1;52920;58800
 18945;Dunkeleisenrückstände;40;23832;26480
 12996;Band der Läuterung;1;8800;9900
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
-34330;Schweres Knotenhautrüstungsset;1;41250;49000
 19235;Bestien 7;1;2500000;2799999
 22459;Sphäre der Leere;1;2463;2737
 22459;Sphäre der Leere;1;2463;2737
@@ -792,7 +782,6 @@
 27498;Rolle der Beweglichkeit V;5;473500;499000
 27498;Rolle der Beweglichkeit V;1;63974;89968
 27498;Rolle der Beweglichkeit V;5;473500;499000
-25696;Brustplatte des Teufelspirschers;1;3495174;3999900
 32227;Purpurspinell;1;2005000;2050000
 29425;Mal von Kil'jaeden;1;10320;11467
 16202;Geringe ewige Essenz;2;52425;58250
@@ -925,7 +914,6 @@
 10998;Geringe Astralessenz;1;1108;1232
 3868;Pläne: Frosttigerklinge;1;47299;52555
 12978;Gürtel des Sturmbringers;1;28952;32169
-14966;Glorreiche Brustplatte;1;45124;80000
 14445;Giftschleierseidenroben;1;24297;26997
 4233;Geschmeidiger mittlerer Balg;15;54810;60900
 3388;Starkes Trollblutelixier;5;43492;48325
@@ -978,14 +966,6 @@
 6889;Kleines Ei;10;12180;13870
 809;Blutklinge;1;78687;90000
 21569;Zünder für Feuerwerk;1;12000100;12500000
-2452;Flitzdistel;13;9860;10956
-2452;Flitzdistel;20;14950;19900
-2452;Flitzdistel;20;12736;19500
-2452;Flitzdistel;20;26160;29060
-2452;Flitzdistel;20;26160;29060
-2452;Flitzdistel;14;18312;20342
-2452;Flitzdistel;20;15170;16856
-2452;Flitzdistel;20;14950;19900
 23426;Khoriumerz;5;250519;278355
 6211;Rezept: Elixier der Ogerstärke;1;9999;14999
 13111;Sandalen des Aufrührers;1;20989;40000
@@ -995,7 +975,6 @@
 2319;Mittleres Leder;20;21500;24000
 2319;Mittleres Leder;20;21500;24000
 2319;Mittleres Leder;20;21500;24000
-25695;Gürtel des Teufelspirschers;1;2996844;3499900
 11139;Großer leuchtender Splitter;15;24543;27270
 23622;Pläne: Stahlgriffstulpen;1;180000;300000
 4371;Bronzeröhre;10;23000;30000
@@ -1071,9 +1050,6 @@
 16204;Illusionsstaub;1;5292;5880
 16204;Illusionsstaub;20;100100;110000
 16204;Illusionsstaub;20;199980;199980
-34622;Wirbelschnitter;1;2800000;2850000
-34622;Wirbelschnitter;1;2800000;2850000
-34622;Wirbelschnitter;1;1453600;1500000
 12684;Pläne: Thoriumarmschienen;1;31932;35481
 27499;Rolle der Intelligenz V;5;24995;24995
 27499;Rolle der Intelligenz V;5;24995;24995
@@ -1217,22 +1193,6 @@
 13758;Roher Rotkiemen;20;99980;99980
 13758;Roher Rotkiemen;20;40120;50000
 13758;Roher Rotkiemen;20;40120;50000
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
 20520;Dunkelrune;5;948000;999995
 20520;Dunkelrune;5;948000;999995
 20520;Dunkelrune;5;948000;999995
@@ -1243,14 +1203,6 @@
 20520;Dunkelrune;5;948000;999995
 20520;Dunkelrune;5;948000;999995
 20520;Dunkelrune;5;948000;999995
-20520;Dunkelrune;10;1895000;1999990
-20520;Dunkelrune;10;1895000;1999990
-20520;Dunkelrune;10;1895000;1999990
-20520;Dunkelrune;10;1895000;1999990
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
-20520;Dunkelrune;1;189000;199999
 13011;Silbergefütterter Gürtel;1;6174;6860
 8309;Heldengamaschen;1;38065;70000
 8401;Muster: Feste Skorpidgamaschen;1;4832;5369
@@ -1440,12 +1392,6 @@
 34440;Trank des verrückten Alchemisten;5;134430;134645
 34440;Trank des verrückten Alchemisten;5;134430;134645
 34440;Trank des verrückten Alchemisten;5;134430;134645
-34440;Trank des verrückten Alchemisten;5;127083;127083
-34440;Trank des verrückten Alchemisten;5;127083;127083
-34440;Trank des verrückten Alchemisten;5;127083;127083
-34440;Trank des verrückten Alchemisten;5;127083;127083
-34440;Trank des verrückten Alchemisten;5;127083;127083
-34440;Trank des verrückten Alchemisten;5;127083;127083
 34440;Trank des verrückten Alchemisten;5;134430;134645
 34440;Trank des verrückten Alchemisten;5;134430;134645
 34440;Trank des verrückten Alchemisten;5;134430;134645

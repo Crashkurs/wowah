@@ -25,7 +25,6 @@
 20827;Ring der Silbermacht;1;2646;2940
 20827;Ring der Silbermacht;1;2646;2940
 20827;Ring der Silbermacht;1;2646;2940
-29548;Netherdrachenschuppe;20;945000;995000
 32062;Elixier der erheblichen Seelenstärke;3;41997;59997
 32062;Elixier der erheblichen Seelenstärke;5;69995;99995
 32062;Elixier der erheblichen Seelenstärke;5;69995;99995
@@ -82,7 +81,6 @@
 24274;Runenverzierter Zauberfaden;1;2519999;2529999
 24478;Jaggalperle;3;14999;22999
 14467;Muster: Froststoffrobe;1;22065;24517
-6468;Deviatschuppengürtel;1;137058;149000
 23107;Schattendraenit;2;13916;13916
 27658;Gerösteter Grollhuf;20;93600;104500
 12990;Messers Schneide;1;35279;39199
@@ -102,7 +100,6 @@
 10601;Bauplan: Hellaugenschutzbrille;1;19800;19800
 27501;Rolle der Willenskraft V;1;51810;51810
 31875;Vorlage: Großer Dämmerstein;1;205000;250000
-32658;Abzeichen der Hartnäckigkeit;1;8500000;8900000
 17414;Kodex: Gebet der Seelenstärke II;1;22903;25448
 16245;Formel: Stiefel - Große Beweglichkeit;1;17274;19194
 16245;Formel: Stiefel - Große Beweglichkeit;1;17274;19194
@@ -320,7 +317,6 @@
 21929;Flammenspessarit;1;3861;3861
 21929;Flammenspessarit;1;2807;4785
 10978;Kleiner gleißender Splitter;1;224;249
-24210;Vorlage: Unbeständiges Nachtauge;1;450000;490000
 6401;Muster: Dunkles Seidenhemd;1;40682;45203
 6401;Muster: Dunkles Seidenhemd;1;40682;45203
 6401;Muster: Dunkles Seidenhemd;1;40682;45203
@@ -342,23 +338,13 @@
 4304;Dickes Leder;20;49000;59000
 4304;Dickes Leder;12;26460;29400
 4304;Dickes Leder;20;79999;89999
-22577;Schattenpartikel;8;26487;29430
-22577;Schattenpartikel;1;3275;3639
 11177;Kleiner strahlender Splitter;1;601;668
 11177;Kleiner strahlender Splitter;1;601;668
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
-22831;Elixier der erheblichen Beweglichkeit;5;85495;89995
 31336;Klinge der Zauberei;1;79999999;80000000
 31336;Klinge der Zauberei;1;89999999;89999999
 25744;Auge eines Dunstschuppenbasilisken;3;2427;2697
 25744;Auge eines Dunstschuppenbasilisken;5;4045;4495
 25744;Auge eines Dunstschuppenbasilisken;5;4045;4495
-25041;Wegelagerers Umhang;1;1951119;1990000
 25041;Wegelagerers Umhang;1;1951119;1990000
 3868;Pläne: Frosttigerklinge;1;6615;7350
 10998;Geringe Astralessenz;1;1155;1284
@@ -444,7 +430,6 @@
 6037;Echtsilberbarren;20;37500;50000
 6037;Echtsilberbarren;1;1799;2499
 30040;Gürtel der tiefen Schatten;1;9444444;9777777
-22578;Wasserpartikel;1;25000;25000
 22832;Erstklassiger Manatrank;5;144444;149999
 22832;Erstklassiger Manatrank;5;144444;149999
 22832;Erstklassiger Manatrank;5;144444;149999
@@ -462,7 +447,6 @@
 24028;Feingeschliffener lebendiger Rubin;1;205000;209000
 24028;Feingeschliffener lebendiger Rubin;1;205000;209000
 27666;Goldfischstäbchen;20;499900;499900
-16051;Bauplan: Thoriumpatronen;1;8999;9999
 25110;Scharfes Bowiemesser;1;196414;245518
 7078;Essenz des Feuers;1;53360;62222
 7078;Essenz des Feuers;1;53360;62222
@@ -521,7 +505,6 @@
 7911;Echtsilbererz;20;15000;20000
 11734;Buchband der Hartnäckigkeit;1;25488;28321
 2299;Brennende Kriegsaxt;1;13135;20000
-12717;Pläne: Löwenherzhelm;1;3499999;3999999
 21881;Netherweberseide;5;37500;50000
 21881;Netherweberseide;10;75000;100000
 14849;Sonnenschuppenhelm;1;21672;21700

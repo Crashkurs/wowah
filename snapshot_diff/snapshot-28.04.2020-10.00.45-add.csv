@@ -48,7 +48,6 @@
 13493;Rezept: Großes Arkanelixier;1;38824;48530
 13493;Rezept: Großes Arkanelixier;1;73754;81949
 24031;Heller lebendiger Rubin;1;282500;298898
-24031;Heller lebendiger Rubin;1;283000;298898
 24031;Heller lebendiger Rubin;1;282500;298898
 24031;Heller lebendiger Rubin;1;282500;298898
 24031;Heller lebendiger Rubin;1;282500;298898
@@ -210,18 +209,10 @@
 17202;Schneeball;3;29994;29997
 17202;Schneeball;20;199960;199980
 17202;Schneeball;20;199960;199980
-24055;Unbeständiges Nachtauge;1;129500;137798
 6661;Rezept: Pikantes Deviat Supreme;1;399999;471150
 6600;Derwischgürtel;1;15000;19000
-24065;Schillernder Talasit;1;36500;38999
-24065;Schillernder Talasit;1;36500;38999
 24065;Schillernder Talasit;1;36000;38999
 24065;Schillernder Talasit;1;36000;38999
-24065;Schillernder Talasit;1;36500;38999
-24065;Schillernder Talasit;1;36500;38999
-24065;Schillernder Talasit;1;36500;38999
-24065;Schillernder Talasit;1;36500;38999
-24065;Schillernder Talasit;1;36500;38999
 23437;Talasit;13;485089;538988
 2046;Kukri der Blaukiemen;1;15091;19000
 11176;Traumstaub;20;169488;188320
@@ -341,7 +332,6 @@
 24048;Glatter Dämmerstein;1;120000;127798
 23117;Azurmondstein;1;5328;5920
 23117;Azurmondstein;1;5328;5920
-23117;Azurmondstein;20;85984;94980
 28290;Glatter Golddraenit;1;42000;44999
 28290;Glatter Golddraenit;1;42000;44999
 28290;Glatter Golddraenit;1;42000;44999
@@ -437,10 +427,6 @@
 6889;Kleines Ei;1;1100;1900
 24062;Robuster Talasit;1;55500;59998
 24062;Robuster Talasit;1;55500;59998
-24062;Robuster Talasit;1;56000;59998
-24062;Robuster Talasit;1;56000;59998
-24062;Robuster Talasit;1;56000;59998
-24062;Robuster Talasit;1;56000;59998
 8151;Fläschchen Mojo;1;1250;4500
 8151;Fläschchen Mojo;2;2500;9000
 31909;Furien 2;1;1455000;1500000
@@ -456,7 +442,6 @@
 31330;Krone der Blitze;1;1501524;1502000
 13446;Erheblicher Heiltrank;1;9742;10824
 24901;Gepeinigte Armschienen;1;119999;129999
-25038;Waldtuch;1;62025;77532
 22452;Urerde;1;33999;34847
 23111;Stattlicher Schattendraenit;1;19500;21559
 23111;Stattlicher Schattendraenit;1;19500;21559
@@ -589,9 +574,6 @@
 13465;Bergsilbersalbei;1;5018;5576
 28501;Felshetzeromelett;1;1457;1619
 28501;Felshetzeromelett;1;1457;1619
-23108;Leuchtender Schattendraenit;1;42000;44999
-23108;Leuchtender Schattendraenit;1;42000;44999
-23115;Kompakter Golddraenit;1;47000;49999
 23115;Kompakter Golddraenit;1;46500;49999
 23115;Kompakter Golddraenit;1;46500;49999
 23793;Schweres Knotenhautleder;5;99750;149500

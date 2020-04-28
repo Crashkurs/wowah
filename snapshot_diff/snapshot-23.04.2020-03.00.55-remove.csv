@@ -1,12 +1,6 @@
 22825;Elixier der Heilkraft;5;78750;99900
-21861;Magieerfüllte Netherstoffrobe;1;276630;311901
-21861;Magieerfüllte Netherstoffrobe;1;276630;311901
-21861;Magieerfüllte Netherstoffrobe;1;276630;311901
-21862;Magieerfüllte Netherstofftunika;1;187841;234802
-21862;Magieerfüllte Netherstofftunika;1;187841;234802
 20748;Hervorragendes Manaöl;1;168080;168888
 23574;Rezept: Urmacht transmutieren;1;120000;126000
-6271;Muster: Rote Leinenweste;1;2457;3072
 33093;Manatrankeinspritzung;20;599980;599980
 33093;Manatrankeinspritzung;20;599980;599980
 33093;Manatrankeinspritzung;20;599980;599980
@@ -24,14 +18,11 @@
 11999;Leitsteinreifen;1;8307;19900
 25649;Knotenhautlederfetzen;9;12644;14049
 25649;Knotenhautlederfetzen;18;26750;30000
-33782;Beständiger Talasit;1;59999;68899
 29734;Muster: Dicke Netherschuppenbrustplatte;1;405013;450015
 29734;Muster: Dicke Netherschuppenbrustplatte;1;699999;699999
 22829;Erstklassiger Heiltrank;5;52500;83000
 22829;Erstklassiger Heiltrank;5;52500;83000
-22829;Erstklassiger Heiltrank;5;57500;60000
 22829;Erstklassiger Heiltrank;5;52500;83000
-22829;Erstklassiger Heiltrank;5;57500;60000
 22829;Erstklassiger Heiltrank;5;52500;83000
 27500;Rolle des Schutzes V;1;42499;44999
 27500;Rolle des Schutzes V;1;45599;56999
@@ -45,19 +36,11 @@
 27500;Rolle des Schutzes V;1;50238;58975
 27500;Rolle des Schutzes V;5;170750;180000
 27500;Rolle des Schutzes V;1;41759;46465
-6289;Roher langzahniger Matschschnapper;14;3953;4942
 27501;Rolle der Willenskraft V;1;47957;47957
 27501;Rolle der Willenskraft V;1;44999;49999
 27501;Rolle der Willenskraft V;1;44999;49999
 27501;Rolle der Willenskraft V;1;44999;49999
 31328;Gamaschen der Tierherrschaft;1;2854677;3050000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
-33867;Gebratene Blutflosse;2;1000;1000
 24212;Vorlage: Königliches Nachtauge;1;553788;692235
 31672;Rippchen der Mok'Nathal;20;40000;49900
 31672;Rippchen der Mok'Nathal;20;40000;49900
@@ -66,15 +49,10 @@
 31672;Rippchen der Mok'Nathal;20;99980;99980
 31672;Rippchen der Mok'Nathal;20;99980;99980
 31672;Rippchen der Mok'Nathal;20;40000;49900
-33208;Fläschchen des chromatischen Wunders;5;674999;721999
-33208;Fläschchen des chromatischen Wunders;5;674999;721999
 23575;Geringer Zauberschutz der Abschirmung;2;6400;6400
 23575;Geringer Zauberschutz der Abschirmung;5;16000;16000
 23575;Geringer Zauberschutz der Abschirmung;5;16000;16000
 11018;Erde von Un'Goro;40;16048;27560
-11018;Erde von Un'Goro;63;9021;11277
-11018;Erde von Un'Goro;86;18700;19999
-11018;Erde von Un'Goro;4;700;900
 23573;Gehärteter Adamantitbarren;1;115000;125000
 23573;Gehärteter Adamantitbarren;5;593996;637495
 23573;Gehärteter Adamantitbarren;5;593996;637495
@@ -86,7 +64,6 @@
 23573;Gehärteter Adamantitbarren;1;105000;124000
 23573;Gehärteter Adamantitbarren;5;593996;637495
 31670;Raptorrippchen;20;126000;149000
-23572;Urnether;1;29967;33838
 25653;Reitgerte;1;506250;650000
 25653;Reitgerte;1;506250;650000
 25653;Reitgerte;1;506250;650000
@@ -98,31 +75,6 @@
 24207;Vorlage: Kompakter Dämmerstein;1;279300;293999
 24207;Vorlage: Kompakter Dämmerstein;1;145000;150000
 24207;Vorlage: Kompakter Dämmerstein;1;120000;149909
-22449;Großer Prismasplitter;5;800100;859900
-22449;Großer Prismasplitter;2;357670;359870
-22449;Großer Prismasplitter;4;715340;719740
-22449;Großer Prismasplitter;4;715340;719740
-22449;Großer Prismasplitter;5;894175;899675
-22449;Großer Prismasplitter;1;159900;159900
-22449;Großer Prismasplitter;2;357670;359870
-22449;Großer Prismasplitter;20;2931600;3039500
-22449;Großer Prismasplitter;20;2931600;3039500
-22449;Großer Prismasplitter;2;300000;320000
-22449;Großer Prismasplitter;2;300000;320000
-22449;Großer Prismasplitter;2;300000;320000
-22449;Großer Prismasplitter;2;300000;320000
-22449;Großer Prismasplitter;2;300000;320000
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;200000;200000
-22789;Terozapfen;2;15200;19000
-22789;Terozapfen;20;199980;213980
-22789;Terozapfen;20;199980;213980
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;206512;223140
-22789;Terozapfen;20;206512;223140
 22789;Terozapfen;20;206512;223140
 22450;Kristall der Leere;1;59900;59900
 10403;Geschwärzter Gürtel der Defias;1;49999;49999
@@ -140,13 +92,6 @@
 27667;Würziger Flusskrebs;10;46352;57940
 27667;Würziger Flusskrebs;20;91000;130000
 27667;Würziger Flusskrebs;5;39995;59995
-9294;Rezept: Wildrankentrank;1;74999;99999
-9294;Rezept: Wildrankentrank;1;74999;99999
-9294;Rezept: Wildrankentrank;1;9281;11602
-9294;Rezept: Wildrankentrank;1;11506;12784
-9294;Rezept: Wildrankentrank;1;9252;11566
-9294;Rezept: Wildrankentrank;1;18566;20629
-9294;Rezept: Wildrankentrank;1;74999;99999
 30032;Roter Gürtel der Schlacht;1;8999999;9249999
 33122;Umhang der Dunkelheit;1;4609599;4995999
 30038;Gürtel der Zauberwucht;1;10550000;11950000
@@ -162,11 +107,6 @@
 31335;Hose des lebendigen Wachstums;1;3800890;4000000
 33048;Gedämpfte Forelle;10;9588;12610
 24211;Vorlage: Leuchtendes Nachtauge;1;293514;368485
-9293;Rezept: Magiewiderstandstrank;1;17500;27000
-9293;Rezept: Magiewiderstandstrank;1;21748;27185
-9293;Rezept: Magiewiderstandstrank;1;27566;30629
-9293;Rezept: Magiewiderstandstrank;1;24999;29999
-9293;Rezept: Magiewiderstandstrank;1;29260;32512
 27671;Bussardfleisch;5;11196;13995
 27671;Bussardfleisch;9;10656;11840
 27671;Bussardfleisch;14;14456;16063
@@ -189,7 +129,6 @@
 24206;Vorlage: Schimmernder Dämmerstein;1;205600;309500
 24206;Vorlage: Schimmernder Dämmerstein;1;699999;699999
 24206;Vorlage: Schimmernder Dämmerstein;1;225000;450000
-24206;Vorlage: Schimmernder Dämmerstein;1;147999;149999
 31323;Don Santos' berühmtes Jagdgewehr;1;6500000;6900000
 27677;Basiliskbrocken;1;10300;15088
 27677;Basiliskbrocken;1;12160;15200
@@ -217,7 +156,6 @@
 22832;Erstklassiger Manatrank;5;112885;116385
 22832;Erstklassiger Manatrank;5;112885;116385
 22832;Erstklassiger Manatrank;5;112885;116385
-27666;Goldfischstäbchen;20;350000;350000
 22828;Trank der Wahnsinnsstärke;5;236500;249999
 22828;Trank der Wahnsinnsstärke;5;236500;249999
 22828;Trank der Wahnsinnsstärke;5;236500;249999
@@ -270,11 +208,6 @@
 27499;Rolle der Intelligenz V;5;24995;24995
 27499;Rolle der Intelligenz V;5;24995;24995
 27499;Rolle der Intelligenz V;5;24995;24995
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;20;933600;959500
 33052;Fischerschmaus;20;386000;390000
 33052;Fischerschmaus;20;386000;390000
 33052;Fischerschmaus;20;386000;390000
@@ -331,13 +264,7 @@
 4338;Magiestoff;20;119999;139999
 4338;Magiestoff;20;119999;139999
 4338;Magiestoff;20;119999;139999
-4338;Magiestoff;20;119999;139999
-4338;Magiestoff;20;119999;139999
-4338;Magiestoff;20;119999;139999
-4338;Magiestoff;20;119999;139999
 13139;Bauchripper;1;31543;38000
-33872;Feuriger Würztalbuk;20;71198;79898
-24215;Vorlage: Glänzender Edeltopas;1;199999;200000
 32902;Flasche mit Nethergonenergie;8;80000;80000
 32902;Flasche mit Nethergonenergie;15;50000;59000
 32902;Flasche mit Nethergonenergie;2;9129;10143

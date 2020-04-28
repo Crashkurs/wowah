@@ -8,17 +8,13 @@
 22792;Alptraumranke;20;300000;300000
 22528;Dunkeleisenfragmente;30;395024;399999
 22528;Dunkeleisenfragmente;30;395024;399999
-3430;Heckenschützengewehr;1;34580;43225
 27658;Gerösteter Grollhuf;20;125500;133000
 27658;Gerösteter Grollhuf;20;125500;133000
 27658;Gerösteter Grollhuf;20;125500;133000
 7992;Pläne: Blaue glitzernde Axt;1;3000;7400
-25802;Schreckensgiftbeutel;8;86595;96217
-6512;Jüngerrobe;1;10000;15000
 29535;Netherkobrabeinrüstung;1;2769628;2769628
 29535;Netherkobrabeinrüstung;1;2769628;2769628
 7070;Elementarwasser;1;600;5000
-2565;Rute des flüssigen Feuers;1;3500;5700
 2771;Zinnerz;20;9999;10000
 2771;Zinnerz;20;9999;10000
 2771;Zinnerz;11;4999;5000
@@ -38,10 +34,6 @@
 22838;Hasttrank;5;230500;243500
 22838;Hasttrank;5;230500;243500
 29529;Trommeln der Schlacht;1;378500;399000
-11018;Erde von Un'Goro;32;4900;5300
-11018;Erde von Un'Goro;50;7050;9900
-11018;Erde von Un'Goro;7;4665;5183
-11018;Erde von Un'Goro;40;60726;67474
 32409;Unerbittlicher Erdsturmdiamant;1;605344;672605
 32409;Unerbittlicher Erdsturmdiamant;1;605344;672605
 22839;Zerstörungstrank;5;148455;165450
@@ -54,7 +46,6 @@
 22839;Zerstörungstrank;5;148455;165450
 22839;Zerstörungstrank;5;148455;165450
 22839;Zerstörungstrank;5;148455;165450
-22525;Teile einer Gruftbestie;8;39520;49400
 12800;Azerothischer Diamant;5;399999;449999
 13468;Schwarzer Lotus;20;348800;349999
 13468;Schwarzer Lotus;20;348800;349999
@@ -67,51 +58,24 @@
 16203;Große ewige Essenz;10;662000;698000
 16203;Große ewige Essenz;10;662000;698000
 16203;Große ewige Essenz;10;662000;698000
-2564;Elfengeistklauen;1;27578;39531
 4706;Züngelnder Schuppenumhang;1;1030;2000
 12820;Feuerwasser der Winterfelle;1;9900;19900
-9294;Rezept: Wildrankentrank;1;100000;150000
-9294;Rezept: Wildrankentrank;1;18945;21050
-9294;Rezept: Wildrankentrank;1;18945;21050
-9294;Rezept: Wildrankentrank;1;18945;21050
-9294;Rezept: Wildrankentrank;1;31495;42772
 15229;Segenswindhammer;1;47886;59900
 4234;Schweres Leder;20;53333;53333
 4234;Schweres Leder;20;53333;53333
-1720;Wirrholzstab;1;38791;43101
-1720;Wirrholzstab;1;69313;90000
 19235;Bestien 7;1;1559600;1949500
 8190;Hanzos Schwert;1;55929;59800
 22786;Traumwinde;20;200000;200000
 15752;Muster: Lebendige Gamaschen;1;7500;159500
 8314;Alabasterplattenstulpen;1;14107;36800
 32227;Purpurspinell;1;1795000;1899900
-6511;Gesellenrobe;1;181;400
-25744;Auge eines Dunstschuppenbasilisken;90;126000;176400
-25744;Auge eines Dunstschuppenbasilisken;105;147000;205800
-25744;Auge eines Dunstschuppenbasilisken;68;52659;65824
-25744;Auge eines Dunstschuppenbasilisken;3;2205;2757
-25744;Auge eines Dunstschuppenbasilisken;1;4256;4729
-25744;Auge eines Dunstschuppenbasilisken;1;917;918
-25744;Auge eines Dunstschuppenbasilisken;42;158114;175683
 3868;Pläne: Frosttigerklinge;1;2500;7500
 3868;Pläne: Frosttigerklinge;1;2500;7500
 7910;Sternrubin;20;599999;699999
 7910;Sternrubin;20;599999;699999
 15747;Muster: Frostsäblergamaschen;1;7500;19900
-3821;Golddorn;6;5100;5100
 8838;Sonnengras;1;100;2600
-31910;Delirium Ass;1;35000;40000
 23424;Teufelseisenerz;10;55000;60000
-24477;Jaggalmuschelfleisch;10;3131;3479
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;4;3600;3996
-24477;Jaggalmuschelfleisch;10;2400;2600
-24477;Jaggalmuschelfleisch;4;3600;3900
 22451;Urluft;1;197500;208500
 22451;Urluft;1;197500;208500
 22451;Urluft;1;197500;208500
@@ -123,21 +87,11 @@
 8845;Geisterpilz;20;132464;149999
 8845;Geisterpilz;20;132464;149999
 16215;Formel: Stiefel - Große Ausdauer;1;193156;199999
-3480;Raue bronzene Schultern;1;2598;5000
-3480;Raue bronzene Schultern;1;2598;5000
-3480;Raue bronzene Schultern;1;2598;5000
 31878;Vorlage: Verschleierter Edeltopas;1;273256;291571
 31878;Vorlage: Verschleierter Edeltopas;1;273256;291571
 14869;Kriegsanführerarmschienen;1;20004;39900
 14684;Unbeugsamer Gürtel;1;15715;29900
-6530;Nachtkriecher;1;100;120
-6530;Nachtkriecher;20;2688;3360
-6530;Nachtkriecher;1;1793;1993
 14925;Festlicher Helm;1;27672;39900
 25897;Starker Erdsturmdiamant;1;882191;900970
 22522;Überragendes Zauberöl;1;68499;68499
 21887;Knotenhautleder;20;240000;240000
-9295;Rezept: Unsichtbarkeitstrank;1;25234;31543
-9295;Rezept: Unsichtbarkeitstrank;1;25234;31543
-9295;Rezept: Unsichtbarkeitstrank;1;25234;31543
-9295;Rezept: Unsichtbarkeitstrank;1;23972;29965

@@ -158,8 +158,6 @@
 29529;Trommeln der Schlacht;1;347500;350000
 29529;Trommeln der Schlacht;1;347500;350000
 13065;Zauberstab von Allistarj;1;20000;33000
-3819;Winterbiss;1;516;645
-3819;Winterbiss;8;1200;4000
 25719;Arakkoafeder;50;399999;399999
 22866;Fläschchen des reinen Todes;1;120000;150000
 17725;Formel: Waffe - Wintermacht;1;388000;485000
@@ -261,7 +259,6 @@
 23786;Khoriumkraftkern;1;238000;244500
 31136;Brustplatte des Klingendrehs;1;83604;99505
 31202;Gurt des göttlichen Segens;1;189054;194500
-2824;Hurrikan;1;54400;68000
 20958;Citrinring der Loderflamme;1;19999;19999
 20958;Citrinring der Loderflamme;1;19999;19999
 20958;Citrinring der Loderflamme;1;19999;19999
@@ -281,25 +278,9 @@
 21929;Flammenspessarit;1;3600;3900
 21929;Flammenspessarit;1;3600;3900
 12811;Rechtschaffene Kugel;1;323436;331595
-3820;Würgetang;5;6640;8300
-3820;Würgetang;20;63000;85000
-3820;Würgetang;20;63000;85000
-3820;Würgetang;20;63000;85000
-3820;Würgetang;20;53000;60000
-3820;Würgetang;1;1100;1400
-3820;Würgetang;20;26560;33200
-3820;Würgetang;9;11952;14940
-3820;Würgetang;20;26560;33200
-3820;Würgetang;20;53000;60000
 14494;Muster: Hellstoffhose;1;20000;25000
-4304;Dickes Leder;20;83584;104480
-4304;Dickes Leder;20;83584;104480
-4304;Dickes Leder;3;9597;11997
-4304;Dickes Leder;20;83584;104480
 19236;Bestien 8;1;9999999;9999999
-22831;Elixier der erheblichen Beweglichkeit;20;300000;340000
 27677;Basiliskbrocken;2;27667;30741
-4299;Muster: Wächterrüstung;1;3999;4999
 19260;Kriegsfürst 3;1;15309;17011
 13145;Riesiger Ogergürtel;1;20000;30000
 24661;Schattenratkette;1;1500542;1550000
@@ -335,9 +316,6 @@
 22832;Erstklassiger Manatrank;5;98000;107800
 22832;Erstklassiger Manatrank;5;98000;107800
 22832;Erstklassiger Manatrank;5;98000;107800
-3821;Golddorn;6;5100;5100
-3821;Golddorn;20;5512;7740
-4301;Muster: Barbarischer Gürtel;1;1312;7500
 13949;Rezept: Gebackener Lachs;1;39988;39999
 3419;Rote Rose;1;10000;15000
 3419;Rote Rose;1;10000;15000
@@ -397,7 +375,6 @@
 33052;Fischerschmaus;20;199999;199999
 33052;Fischerschmaus;20;199999;199999
 33052;Fischerschmaus;20;199999;199999
-4306;Seidenstoff;20;19900;20000
 22445;Arkaner Staub;10;149900;149900
 22445;Arkaner Staub;10;149900;149900
 22445;Arkaner Staub;10;149900;149900
@@ -413,23 +390,19 @@
 23441;Nachtauge;1;41500;44000
 23441;Nachtauge;1;41500;44000
 15745;Muster: Runenverzierter Ledergürtel;1;17500;24500
-2819;Kreuzdolch;1;5745;12345
 22913;Rezept: Hasttrank;1;499998;499999
 29739;Arkaner Foliant;1;120100;127900
 29739;Arkaner Foliant;1;120100;127900
 29739;Arkaner Foliant;1;120100;127900
-2815;Bogenklingenreißer;1;32000;36000
 4338;Magiestoff;20;89900;89900
 4338;Magiestoff;20;89900;89900
 22522;Überragendes Zauberöl;1;52250;59999
 22522;Überragendes Zauberöl;1;52250;59999
-2799;Gorillafangzahn;1;2116;2351
 23079;Tiefenperidot;1;5700;6100
 23079;Tiefenperidot;1;5700;6100
 23425;Adamantiterz;20;115000;119900
 23425;Adamantiterz;20;115000;119900
 23440;Dämmerstein;10;700000;750000
-32902;Flasche mit Nethergonenergie;6;27310;30345
 22797;Alptraumsaat;5;49000;49925
 22797;Alptraumsaat;20;150000;150000
 12691;Pläne: Wilddornpanzerung;1;10000;20000

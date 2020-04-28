@@ -7,7 +7,6 @@
 14047;Runenstoff;20;23024;28780
 14047;Runenstoff;20;22000;25000
 31861;Großer Dämmerstein;1;191548;199949
-35562;Bärenflanke;20;579998;599998
 25327;Blutrauschstab;1;100000;100000
 11138;Kleiner leuchtender Splitter;4;1923;2404
 11138;Kleiner leuchtender Splitter;2;961;1202
@@ -36,7 +35,6 @@
 21885;Urwasser;1;139969;139983
 21885;Urwasser;1;139969;139983
 21885;Urwasser;1;139969;139983
-35759;Kraftvoller Gischtsmaragd;1;689999;699999
 31304;Essenzfokussierer;1;128836;150000
 31304;Essenzfokussierer;1;128836;150000
 24274;Runenverzierter Zauberfaden;1;2659500;2679500
@@ -50,11 +48,7 @@
 27500;Rolle des Schutzes V;5;225000;250000
 3830;Rezept: Elixier der Seelenstärke;1;2612;3266
 24055;Unbeständiges Nachtauge;1;106497;114498
-34828;Antiker Silbermanschettenknopf;1;385445;428272
-34828;Antiker Silbermanschettenknopf;1;321858;402323
 647;Schicksal;1;169000;178500
-2879;Antipodenrute;1;7265;13000
-2879;Antipodenrute;1;12156;13507
 31133;Gamaschen der undurchdringlichen Dunkelheit;1;60000;60000
 31153;Axt der Legion;1;300000;350000
 22866;Fläschchen des reinen Todes;1;210000;220000
@@ -66,10 +60,6 @@
 22866;Fläschchen des reinen Todes;5;800000;1000000
 22866;Fläschchen des reinen Todes;5;899995;899995
 19280;Portal 4;1;228750;229900
-32836;Geläuterte Schattenperle;1;444444;498888
-32836;Geläuterte Schattenperle;1;485000;495000
-32836;Geläuterte Schattenperle;1;499000;499000
-32836;Geläuterte Schattenperle;1;459999;539999
 3182;Spinnenseide;1;3080;4000
 3182;Spinnenseide;1;3080;4000
 31143;Tuch der Raserei;1;70000;74500
@@ -83,8 +73,6 @@
 22449;Großer Prismasplitter;5;746538;829487
 22449;Großer Prismasplitter;5;746582;829536
 22449;Großer Prismasplitter;5;746582;829536
-34861;Geschärfter Angelhaken;20;14287;19999
-34861;Geschärfter Angelhaken;5;3800;4750
 22854;Fläschchen des unerbittlichen Angriffs;5;711995;822100
 22854;Fläschchen des unerbittlichen Angriffs;5;711995;822100
 22854;Fläschchen des unerbittlichen Angriffs;1;161000;169000
@@ -101,30 +89,6 @@
 22457;Urmana;1;209857;209878
 22457;Urmana;1;209857;209878
 10286;Herz der Wildnis;5;34608;43260
-34330;Schweres Knotenhautrüstungsset;1;169000;189000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;51250;58000
-34330;Schweres Knotenhautrüstungsset;1;169000;189000
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;140000
-34330;Schweres Knotenhautrüstungsset;1;100000;139000
-34330;Schweres Knotenhautrüstungsset;1;100000;139000
-34330;Schweres Knotenhautrüstungsset;1;51250;58000
-34330;Schweres Knotenhautrüstungsset;1;51250;58000
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
-34330;Schweres Knotenhautrüstungsset;1;51250;58000
-34330;Schweres Knotenhautrüstungsset;1;51250;58000
-34330;Schweres Knotenhautrüstungsset;1;51250;57500
-34330;Schweres Knotenhautrüstungsset;4;199996;239996
 28100;Flüchtiger Heiltrank;4;14046;15607
 28100;Flüchtiger Heiltrank;5;17558;19509
 28100;Flüchtiger Heiltrank;5;17558;19509
@@ -148,7 +112,6 @@
 24368;Waffen des Echsenkessels;1;90000;99800
 24368;Waffen des Echsenkessels;1;70000;90000
 23737;Adamantitgranate;10;97500;100000
-38225;Mycahs Botanikerbeutel;1;1900000;2100000
 29534;Grollbalgbeinrüstung;1;945000;956500
 24197;Vorlage: Fragiler lebendiger Rubin;1;195000;198800
 28103;Elixier des Adepten;20;299500;299500
@@ -199,14 +162,7 @@
 27659;Doppelwarper;20;227499;239999
 3341;Stulpen der Ogerstärke;1;152431;200000
 3341;Stulpen der Ogerstärke;1;152431;200000
-34622;Wirbelschnitter;1;2507448;2759310
-34622;Wirbelschnitter;1;1444444;1555555
 14186;Regenmachermantel;1;3772;4716
-3857;Kohle;2;4644;5806
-3857;Kohle;1;2750;3056
-3857;Kohle;1;2800;3000
-3857;Kohle;1;2750;3056
-3857;Kohle;3;6783;8619
 31234;Kristallklinge der Draenei;1;191075;210000
 22851;Fläschchen der Stärkung;1;100000;101010
 22851;Fläschchen der Stärkung;1;100000;101010
@@ -232,10 +188,6 @@
 25844;Adamantitrute;1;118000;126000
 6661;Rezept: Pikantes Deviat Supreme;1;662000;698000
 17723;Grünes Festtagshemd;1;39999;49999
-34440;Trank des verrückten Alchemisten;5;127424;141582
-34440;Trank des verrückten Alchemisten;5;127424;141582
-34440;Trank des verrückten Alchemisten;5;127424;141582
-34440;Trank des verrückten Alchemisten;5;127424;141582
 31305;Ceds Schnitzer;1;149324;150000
 31305;Ceds Schnitzer;1;149324;150000
 9295;Rezept: Unsichtbarkeitstrank;1;31600;39500

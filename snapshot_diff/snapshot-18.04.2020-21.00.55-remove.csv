@@ -11,15 +11,9 @@
 21885;Urwasser;10;1488990;1599970
 21885;Urwasser;10;1488990;1599970
 12799;Großer Opal;1;60500;68000
-24301;Muster: Weißer Arzneikittel;1;359999;389999
-24301;Muster: Weißer Arzneikittel;1;102536;128171
 31304;Essenzfokussierer;1;205246;228052
 31304;Essenzfokussierer;1;128836;142000
 31304;Essenzfokussierer;1;118836;130000
-23628;Pläne: Gesegnete Armschienen;1;242398;273797
-23628;Pläne: Gesegnete Armschienen;1;280000;290000
-23628;Pläne: Gesegnete Armschienen;1;289999;299999
-23628;Pläne: Gesegnete Armschienen;1;242398;273797
 11754;Schwarzer Diamant;20;33994;37772
 11754;Schwarzer Diamant;20;33994;37772
 25720;Muster: Schweres Knotenhautleder;1;92340;115425
@@ -61,28 +55,6 @@
 22838;Hasttrank;5;224999;244999
 22838;Hasttrank;5;224999;244999
 9298;Rezept: Elixier der Riesen;1;36926;41029
-24303;Muster: Gurt der Zerstörung;1;455000;460000
-24303;Muster: Gurt der Zerstörung;1;485000;489999
-3819;Winterbiss;13;12646;15808
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
-27503;Rolle der Stärke V;5;208000;219500
 1728;Teebus Langschwert der Loderflammen;1;1899404;1990000
 24030;Runenverzierter lebendiger Rubin;1;254982;269999
 24030;Runenverzierter lebendiger Rubin;1;254982;269999
@@ -127,60 +99,9 @@
 24058;Gravierter Edeltopas;1;120497;128999
 24058;Gravierter Edeltopas;1;120497;128999
 32409;Unerbittlicher Erdsturmdiamant;1;845000;850000
-31306;Gamaschen des heiligen Wappens;1;149900;149900
-31306;Gamaschen des heiligen Wappens;1;120346;140000
-31306;Gamaschen des heiligen Wappens;1;106400;133000
-31306;Gamaschen des heiligen Wappens;1;185000;187500
-31306;Gamaschen des heiligen Wappens;1;114364;125998
 2878;Hakenknochenaxt;1;17714;19999
-22449;Großer Prismasplitter;10;1725000;1750000
-22449;Großer Prismasplitter;3;300100;600000
-22449;Großer Prismasplitter;20;3260601;3622890
 12808;Essenz des Untodes;1;19742;21936
 12808;Essenz des Untodes;1;49916;59895
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-22839;Zerstörungstrank;5;174999;199999
-29533;Kobrahautbeinrüstung;1;1445000;1455000
-24300;Muster: Umhang der Ewigkeit;1;379999;474999
-24300;Muster: Umhang der Ewigkeit;1;699999;699999
-24300;Muster: Umhang der Ewigkeit;1;58052;65065
-23098;Gravierter Flammenspessarit;1;15600;19500
-23098;Gravierter Flammenspessarit;1;15600;119500
-23098;Gravierter Flammenspessarit;1;15600;19500
-23098;Gravierter Flammenspessarit;1;15600;19500
-23098;Gravierter Flammenspessarit;1;15600;19500
-23098;Gravierter Flammenspessarit;1;17000;18898
-23098;Gravierter Flammenspessarit;1;17000;18898
-23098;Gravierter Flammenspessarit;1;17000;18898
-23098;Gravierter Flammenspessarit;1;14499;18899
-23098;Gravierter Flammenspessarit;1;17500;18898
-23098;Gravierter Flammenspessarit;1;14499;18899
-23098;Gravierter Flammenspessarit;1;15600;19500
-24304;Muster: Schwarzer Gürtel des Wissens;1;245000;249999
 22789;Terozapfen;20;169999;179999
 22789;Terozapfen;20;169999;179999
 22789;Terozapfen;20;169999;179999
@@ -217,17 +138,9 @@
 22450;Kristall der Leere;20;750000;800000
 943;Stab des Aufsehers;1;209124;251406
 9294;Rezept: Wildrankentrank;1;12592;13991
-24302;Muster: Gurt des Unerschütterlichen;1;166514;208143
-24302;Muster: Gurt des Unerschütterlichen;1;209978;219098
-24302;Muster: Gurt des Unerschütterlichen;1;185000;220000
-24302;Muster: Gurt des Unerschütterlichen;1;453814;504238
-24302;Muster: Gurt des Unerschütterlichen;1;219499;234999
 23099;Glänzender Flammenspessarit;1;26500;28898
 23099;Glänzender Flammenspessarit;1;26500;28898
 23099;Glänzender Flammenspessarit;1;26500;28898
-23099;Glänzender Flammenspessarit;1;18899;28899
-23099;Glänzender Flammenspessarit;1;18899;28899
-23099;Glänzender Flammenspessarit;1;27000;28898
 31287;Ehrenwachenschild der Draenei;1;221157;230000
 31287;Ehrenwachenschild der Draenei;1;136800;171000
 31287;Ehrenwachenschild der Draenei;1;136735;149000
@@ -243,8 +156,6 @@
 24061;Glitzernder Edeltopas;1;168950;199899
 23571;Urmacht;1;831199;869000
 30032;Roter Gürtel der Schlacht;1;9249999;9499999
-30038;Gürtel der Zauberwucht;1;10000000;12000000
-30038;Gürtel der Zauberwucht;1;10000000;12000000
 23094;Tränenförmiger Blutgranat;1;8200;8840
 24114;Geflochtene Eterniumkette;1;449999;499999
 24114;Geflochtene Eterniumkette;1;449999;499999
@@ -259,22 +170,9 @@
 8173;Dickes Rüstungsset;2;82508;91675
 31286;Brustplatte des raschen Angriffs;1;199999;199999
 31286;Brustplatte des raschen Angriffs;1;173156;216446
-29158;Echtsilberring des Kommandanten;1;48860;53300
 29158;Echtsilberring des Kommandanten;1;2625;54000
 29158;Echtsilberring des Kommandanten;1;2625;54000
 29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;2625;54000
-29158;Echtsilberring des Kommandanten;1;48860;53300
-29158;Echtsilberring des Kommandanten;1;48860;53300
-29158;Echtsilberring des Kommandanten;1;48860;53300
-29158;Echtsilberring des Kommandanten;1;48860;53300
 15419;Kriegsbärenleder;14;19531;25914
 10978;Kleiner gleißender Splitter;1;3326;4458
 12811;Rechtschaffene Kugel;1;499999;499999
@@ -287,30 +185,13 @@
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
 16254;Formel: Waffe - Lebensdiebstahl;1;99999;124999
-3818;Blassblatt;1;608;760
-3818;Blassblatt;20;11552;14440
-3818;Blassblatt;2;1917;2130
-3818;Blassblatt;20;18198;20220
-3818;Blassblatt;14;12738;14154
-31323;Don Santos' berühmtes Jagdgewehr;1;4899552;5125815
 31285;Brustschutz der Kralle;1;141602;148800
 22831;Elixier der erheblichen Beweglichkeit;5;69599;86999
 22831;Elixier der erheblichen Beweglichkeit;20;330000;335000
 23624;Pläne: Helm des tapferen Verteidigers;1;175000;225000
 24065;Schillernder Talasit;1;54000;58336
 24057;Königliches Nachtauge;1;124913;125000
-31308;Der Überbringer des Todes;1;162171;202714
-31308;Der Überbringer des Todes;1;237333;250000
-31308;Der Überbringer des Todes;1;181818;191919
-31308;Der Überbringer des Todes;1;179999;184999
-31308;Der Überbringer des Todes;1;274889;290000
 23625;Pläne: Helm der Eidestreue;1;210540;243258
-23625;Pläne: Helm der Eidestreue;1;210540;243258
-2841;Bronzebarren;18;11350;15000
-2841;Bronzebarren;20;11500;24900
-2841;Bronzebarren;20;13200;14000
-2841;Bronzebarren;20;16876;18751
-2841;Bronzebarren;2;1687;1875
 31914;Deliriumkartenset;1;75000000;100000000
 1168;Schädelflammenschild;1;274999;299999
 24029;Tränenförmiger lebendiger Rubin;1;222118;264999
@@ -328,30 +209,12 @@
 765;Silberblatt;5;225;270
 765;Silberblatt;6;220;276
 23097;Feingeschliffener Blutgranat;1;38899;48899
-23097;Feingeschliffener Blutgranat;1;38899;48899
-23097;Feingeschliffener Blutgranat;1;45500;48898
-23097;Feingeschliffener Blutgranat;1;46000;48898
-23097;Feingeschliffener Blutgranat;1;46000;48898
 32464;Netheriterz;2;6200;7750
 23528;Teuflischer Wetzstein;7;16378;18198
 31293;Gurt des Sturms;1;248189;252737
 31293;Gurt des Sturms;1;248189;252737
 31293;Gurt des Sturms;1;159600;199500
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;8878;11098
-23100;Glitzernder Flammenspessarit;1;10000;11683
-23100;Glitzernder Flammenspessarit;1;8878;11098
-23100;Glitzernder Flammenspessarit;1;8878;11098
-23100;Glitzernder Flammenspessarit;1;9347;11684
-23100;Glitzernder Flammenspessarit;1;8878;11098
-30036;Gürtel des langen Weges;1;9999999;11499999
 17056;Leichte Feder;6;11999;11999
-30040;Gürtel der tiefen Schatten;1;9444444;9997777
 22576;Manapartikel;7;4200;90000
 24028;Feingeschliffener lebendiger Rubin;1;205000;210000
 24028;Feingeschliffener lebendiger Rubin;1;205000;210000
@@ -363,23 +226,17 @@
 24028;Feingeschliffener lebendiger Rubin;1;193341;199999
 24028;Feingeschliffener lebendiger Rubin;1;193341;199999
 30306;Muster: Stiefel der totalen Finsternis;1;250000;300000
-30306;Muster: Stiefel der totalen Finsternis;1;271629;339537
-30306;Muster: Stiefel der totalen Finsternis;1;271629;339537
 809;Blutklinge;1;129467;161834
 12361;Blauer Saphir;2;29046;36308
 3821;Golddorn;16;5000;10000
 3821;Golddorn;20;8999;9999
 3821;Golddorn;20;8999;9999
-7909;Aquamarin;1;11200;12000
-7909;Aquamarin;3;59513;69392
 31289;Stab der göttlichen Eingebung;1;160380;178200
 31289;Stab der göttlichen Eingebung;1;129874;130000
 31289;Stab der göttlichen Eingebung;1;244852;272058
 31289;Stab der göttlichen Eingebung;1;187768;234710
 13129;Feuermähnengamaschen;1;89514;112768
 13129;Feuermähnengamaschen;1;41431;66000
-30282;Muster: Stiefel der Zauberwucht;1;1995000;1999999
-30282;Muster: Stiefel der Zauberwucht;1;2495000;2790000
 15551;Dickschuppenbeinschützer;1;6657;14000
 32470;Balg eines Netherminenschinders;4;29424;36780
 24194;Vorlage: Feingeschliffener lebendiger Rubin;1;627000;663850
@@ -396,10 +253,6 @@
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
-30155;Muschelriegel;20;17536;21920
-30155;Muschelriegel;20;17536;21920
-30155;Muschelriegel;20;23776;29620
-30155;Muschelriegel;20;23776;29620
 22451;Urluft;6;1489800;1500000
 27659;Doppelwarper;20;283696;299920
 21886;Urleben;1;124999;129999
@@ -440,11 +293,7 @@
 15992;Dichtes Sprengpulver;20;74500;75000
 24479;Schattenperle;1;362848;403164
 27660;Talbuksteak;20;9300;9900
-30305;Muster: Stiefel der naturgleichen Anmut;1;999900;999900
-30305;Muster: Stiefel der naturgleichen Anmut;1;899999;949999
-30305;Muster: Stiefel der naturgleichen Anmut;1;495978;551087
 31137;Stulpen der Läuterung;1;52136;65170
-30307;Muster: Stiefel des Purpurfalken;1;280000;330000
 31292;Pulsierender Kristallschild;1;259571;325464
 31292;Pulsierender Kristallschild;1;247352;309190
 31292;Pulsierender Kristallschild;1;149999;169999
@@ -466,25 +315,6 @@
 15423;Schimärenleder;1;2809;3512
 23441;Nachtauge;7;650000;650000
 23079;Tiefenperidot;4;31164;34627
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;135679;169599
-23425;Adamantiterz;20;151515;161616
-23425;Adamantiterz;20;151515;161616
-23425;Adamantiterz;20;115184;143980
-23425;Adamantiterz;20;116352;145440
-23425;Adamantiterz;20;116352;145440
-23425;Adamantiterz;20;187100;187100
-23425;Adamantiterz;10;93550;93550
-23425;Adamantiterz;15;133750;140000
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;4;21996;25596
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;109980;127980
-23425;Adamantiterz;20;145699;169599
 20960;Gravierter Echtsilberring;1;2580;8900
 20960;Gravierter Echtsilberring;1;2580;8900
 20960;Gravierter Echtsilberring;1;2580;8900
@@ -496,10 +326,7 @@
 31290;Band der Herrschaft;1;188888;199999
 27664;Gegrillter Matschflosser;20;222222;232323
 23096;Runenverzierter Blutgranat;1;37000;39999
-23096;Runenverzierter Blutgranat;1;20000;30000
-31305;Ceds Schnitzer;1;172480;215600
 31305;Ceds Schnitzer;1;114000;142500
-31305;Ceds Schnitzer;1;129324;140000
 24059;Mächtiger Edeltopas;1;154997;154998
 24059;Mächtiger Edeltopas;1;154997;154998
 24059;Mächtiger Edeltopas;1;154997;154998

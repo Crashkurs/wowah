@@ -65,10 +65,6 @@
 29292;Hölleneberspeck;5;14168;17710
 10940;Seltsamer Staub;4;12220;13576
 7976;Pläne: Mithrilschildstachel;1;74999;89999
-22577;Schattenpartikel;8;30372;33376
-22577;Schattenpartikel;9;25400;30000
-22577;Schattenpartikel;7;27699;30777
-22577;Schattenpartikel;8;26834;29816
 29536;Netherkluftbeinrüstung;1;1579999;1579999
 22831;Elixier der erheblichen Beweglichkeit;20;421500;444500
 22831;Elixier der erheblichen Beweglichkeit;20;421500;444500
@@ -138,14 +134,12 @@
 21114;Dunkler Rumsey Rum;8;600;50000
 21845;Urmondstoff;2;699999;699999
 21845;Urmondstoff;2;682000;700000
-3385;Geringer Manatrank;5;925;999
 24056;Leuchtendes Nachtauge;1;139999;144499
 7422;Phalanxgurt;1;5190;6488
 10505;Robustes Sprengpulver;11;5000;20000
 4090;Becher des Schmerzes;1;31104;39500
 13097;Ring der Donnerbraue;1;25046;29000
 31202;Gurt des göttlichen Segens;1;159054;180000
-13003;Lord Alexanders Streitaxt;1;74460;79999
 4306;Seidenstoff;9;2025;0
 4306;Seidenstoff;20;24416;27129
 4306;Seidenstoff;20;21660;22500
@@ -173,8 +167,6 @@
 22849;Eisenschildtrank;5;236000;249000
 22849;Eisenschildtrank;5;236000;249000
 22849;Eisenschildtrank;5;236000;249000
-22710;Blutdistel;20;500000;580000
-22710;Blutdistel;9;225000;261000
 20520;Dunkelrune;1;189000;199999
 20520;Dunkelrune;1;189000;199999
 20520;Dunkelrune;1;189000;199999
@@ -250,7 +242,6 @@
 7966;Robuster Schleifstein;2;634;972
 14489;Muster: Froststoffhose;1;7500;10000
 14489;Muster: Froststoffhose;1;7500;10000
-22578;Wasserpartikel;2;30642;33673
 7080;Essenz des Wassers;1;79582;88425
 15755;Muster: Schimärenweste;1;8250;9900
 29535;Netherkobrabeinrüstung;1;2709999;2709999
@@ -266,7 +257,6 @@
 33872;Feuriger Würztalbuk;20;122222;129999
 33872;Feuriger Würztalbuk;20;122222;129999
 8394;Basiliskengehirn;1;900;999
-22642;Wirbelknochenstaub;6;33000;36300
 13122;Dunkles Phantomcape;1;17233;20000
 2862;Rauer Wetzstein;20;1900;1999
 13476;Rezept: Mächtiger Wuttrank;1;14500;14999
@@ -296,7 +286,6 @@
 29531;Trommeln der Wiederherstellung;1;326940;329999
 29531;Trommeln der Wiederherstellung;1;326940;329999
 3872;Pläne: Goldene Schuppengamaschen;1;1200;7500
-16243;Formel: Runenverzierte Arkanitrute;1;99999;139999
 818;Tigerauge;1;150;3000
 818;Tigerauge;1;150;3000
 818;Tigerauge;1;150;3000
@@ -365,7 +354,6 @@
 33954;Pläne: Hammer der rechtschaffenen Macht;1;120000;0
 11144;Echtsilberrute;1;35200;44500
 11144;Echtsilberrute;1;35200;42500
-11144;Echtsilberrute;1;21500;29999
 11144;Echtsilberrute;1;35200;40500
 22926;Rezept: Elixier der Schwächung;1;60000;60000
 2318;Leichtes Leder;10;20000;20000
@@ -445,7 +433,6 @@
 21887;Knotenhautleder;20;227724;253027
 21887;Knotenhautleder;20;227724;253027
 21887;Knotenhautleder;20;227724;253027
-21887;Knotenhautleder;20;172784;215980
 21887;Knotenhautleder;20;227724;253027
 2838;Schwerer Stein;20;1800;18000
 2838;Schwerer Stein;20;1800;18000
@@ -462,34 +449,4 @@
 2406;Muster: Feine Lederstiefel;1;2900;2999
 15419;Kriegsbärenleder;16;14400;17500
 15419;Kriegsbärenleder;20;18000;20000
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;20;99999;129999
-22785;Teufelsgras;3;12967;14250
-22785;Teufelsgras;20;86450;95000
-22785;Teufelsgras;20;86450;95000
-22785;Teufelsgras;20;106384;132980
-22785;Teufelsgras;20;135000;150000
-22785;Teufelsgras;20;135000;150000
-22785;Teufelsgras;20;135000;150000
-22785;Teufelsgras;20;135000;139999
-22785;Teufelsgras;20;106384;132980
-22785;Teufelsgras;20;106384;132980
 21877;Netherstoff;9;23040;28800

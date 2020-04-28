@@ -34,13 +34,9 @@
 5504;Würziges Muschelfleisch;9;99198;108000
 3182;Spinnenseide;1;19500;25000
 16055;Bauplan: Arkane Bombe;1;85343;91679
-10077;Adelsbrustplatte;1;20000;30000
-12799;Großer Opal;1;79660;92076
 1725;Große Reisetasche;1;17404;21756
 6603;Derwischtunika;1;59000;65000
 13008;Beinkleider der Talwinde;1;18240;22800
-10075;Rechtschaffene Schiftung;1;20000;30000
-10074;Rechtschaffene Gamaschen;1;39528;51036
 25011;Erobererbeinplatten;1;160000;200000
 1705;Geringer Mondstein;10;57600;72000
 19282;Portal 6;1;185000;200000
@@ -57,7 +53,6 @@
 3012;Rolle der Beweglichkeit;1;9000;10000
 24831;Nexuspilgerschienbeinschützer;1;37638;49548
 12977;Handschuhe der Magiekraft;1;80355;100000
-10096;Ratsherrenmanschetten;1;19616;24520
 9298;Rezept: Elixier der Riesen;1;28299;35374
 18662;Schwerer Lederball;2;12800;16000
 32249;Gischtsmaragd;1;189999;189999
@@ -105,7 +100,6 @@
 13036;Auftragsmordklinge;1;69500;76000
 15084;Tückische Lederarmschienen;1;14896;18620
 15084;Tückische Lederarmschienen;1;14896;18620
-24197;Vorlage: Fragiler lebendiger Rubin;1;95000;120000
 2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12540;15675
 2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12000;16500
 2745;Die Grünen Hügel des Schlingendorntals - Seite 21;1;12000;16500
@@ -118,7 +112,6 @@
 4424;Rolle der Willenskraft III;1;475;1000
 24047;Brillanter Dämmerstein;1;105000;109000
 3385;Geringer Manatrank;2;500;600
-10076;Adelsarmschützer;1;19393;24242
 4297;Muster: Barbarische Handschuhe;1;19999;22499
 24988;Felsfaustschulterklappen;1;140000;160000
 25905;Vorlage: Harter Erdsturmdiamant;1;75000;150000
@@ -137,7 +130,6 @@
 18600;Foliant der arkanen Brillanz;1;39999;46699
 15760;Muster: Eisenfederbrustplatte;1;45500;60000
 21929;Flammenspessarit;3;25500;27500
-12693;Pläne: Thoriumstiefel;1;63814;70904
 2842;Silberbarren;5;20750;24999
 2735;Die Grünen Hügel des Schlingendorntals - Seite 11;1;15124;18905
 6359;Feuerflossenschnapper;20;4500;11000
@@ -158,11 +150,6 @@
 22393;Kodex: Gebet des Schattenschutzes;1;39999;49999
 8398;Muster: Feste Skorpidhandschuhe;1;3520;4400
 8398;Muster: Feste Skorpidhandschuhe;1;3520;4400
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;10;127350;132300
-22445;Arkaner Staub;20;350000;350000
 22445;Arkaner Staub;10;127350;132300
 22445;Arkaner Staub;10;127350;132300
 22445;Arkaner Staub;10;127350;132300
@@ -172,14 +159,7 @@
 22445;Arkaner Staub;10;127350;132300
 22445;Arkaner Staub;10;127350;132300
 22445;Arkaner Staub;10;127350;132300
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;20;222222;222222
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;20;350000;350000
-22445;Arkaner Staub;20;249999;250000
-22445;Arkaner Staub;9;99900;99900
-22445;Arkaner Staub;20;259900;259999
-22445;Arkaner Staub;2;1100;0
+22445;Arkaner Staub;10;127350;132300
 23621;Pläne: Stulpen des eisernen Turms;1;169999;179999
 8172;Geschmeidiger dicker Balg;1;11800;13500
 19233;Bestien 5;1;1999998;1999998
@@ -216,8 +196,6 @@
 29535;Netherkobrabeinrüstung;1;2739998;2739998
 29535;Netherkobrabeinrüstung;1;2739998;2739998
 4345;Muster: Rote Wollstiefel;1;4605;5757
-25844;Adamantitrute;1;220000;240000
-25844;Adamantitrute;1;220000;240000
 17725;Formel: Waffe - Wintermacht;1;1350000;4000000
 17725;Formel: Waffe - Wintermacht;1;1350000;4000000
 17725;Formel: Waffe - Wintermacht;1;1350000;4000000
@@ -233,10 +211,7 @@
 28100;Flüchtiger Heiltrank;1;2600;4500
 28100;Flüchtiger Heiltrank;2;5200;9000
 24478;Jaggalperle;4;21740;27176
-1728;Teebus Langschwert der Loderflammen;1;2999404;3100000
 23079;Tiefenperidot;1;9300;9900
-12694;Pläne: Thoriumhelm;1;372337;465422
-12694;Pläne: Thoriumhelm;1;372337;465422
 24907;Talbalggamaschen;1;160000;190000
 32836;Geläuterte Schattenperle;1;475000;490000
 32836;Geläuterte Schattenperle;1;475000;490000
@@ -286,16 +261,11 @@
 17413;Kodex: Gebet der Seelenstärke;1;89999;99999
 11135;Große Mystikeressenz;1;11000;11700
 11135;Große Mystikeressenz;1;11000;11700
-12731;Makelloser Balg der Bestie;1;750000;790000
-12731;Makelloser Balg der Bestie;1;750000;790000
 2740;Die Grünen Hügel des Schlingendorntals - Seite 16;2;15200;19000
 21882;Seelenessenz;11;340000;358500
 15542;Tückische Kettenschulterpolster;1;3547;9900
 12363;Arkankristall;10;300000;400000
-11139;Großer leuchtender Splitter;6;10100;10500
 13011;Silbergefütterter Gürtel;1;9000;20000
-12703;Pläne: Sturmstulpen;1;215659;269574
-12703;Pläne: Sturmstulpen;1;29999;54999
 31884;Segen 5;1;1199142;1229999
 21900;Muster: Magieerfüllte Netherstoffrobe;1;294283;343876
 13422;Steinschuppenaal;8;22000;47500
@@ -333,22 +303,16 @@
 24171;Vorlage: Kette der Nebeleule;1;289145;344605
 15567;Marodeurstunika;1;19585;25607
 4477;Schändlicher Rundschild;1;13423;16779
-10095;Ratsherrenstiefel;1;32944;41180
-10091;Gotische Plattengamaschen;1;30000;40000
 4611;Blaue Perle;2;1400;6000
 4611;Blaue Perle;1;700;3000
 27516;Riesige Stachelkiemenforelle;1;51200;64000
 5631;Wuttrank;1;900;1200
 5075;Blutsplitter;9;878;1098
-12704;Pläne: Thoriumgamaschen;1;26427;33034
-12704;Pläne: Thoriumgamaschen;1;41457;46063
 12704;Pläne: Thoriumgamaschen;1;25599;32299
 23439;Edeltopas;1;108000;114500
-12717;Pläne: Löwenherzhelm;1;3499999;3999999
 24977;Häscherhandschuhe;1;43565;56957
 31887;Segen 6;1;8600000;13000000
 31887;Segen 6;1;8000000;12990000
-10108;Wandererumhang;1;26249;32812
 25649;Knotenhautlederfetzen;20;27500;29999
 24033;Gediegener Stern der Elune;1;84498;84498
 24033;Gediegener Stern der Elune;1;84498;84498
@@ -386,8 +350,6 @@
 23634;Pläne: Teufelsgehärteter Schlägel;1;150000;199998
 23634;Pläne: Teufelsgehärteter Schlägel;1;189999;199999
 2738;Die Grünen Hügel des Schlingendorntals - Seite 14;8;36000;59992
-12711;Pläne: Helm der weißen Seele;1;486080;607600
-12711;Pläne: Helm der weißen Seele;1;65000;80000
 12365;Verdichteter Stein;20;9999;9999
 12365;Verdichteter Stein;20;9999;9999
 4623;Geringer Steinschildtrank;2;8000;9000
@@ -418,7 +380,6 @@
 21884;Urfeuer;1;176000;180000
 21884;Urfeuer;1;219000;219000
 21884;Urfeuer;1;219000;219000
-12713;Pläne: Strahlende Gamaschen;1;21794;27243
 32833;Geläuterte Jaggalperle;1;19800;19999
 32833;Geläuterte Jaggalperle;1;19800;19999
 32833;Geläuterte Jaggalperle;1;19800;19999
@@ -428,7 +389,6 @@
 4251;Schultern des Hügelwächters;1;12000;15000
 4251;Schultern des Hügelwächters;1;12000;15000
 4251;Schultern des Hügelwächters;1;12000;15000
-10092;Gotische Plattenschiftung;1;31312;39140
 32231;Pyrostein;1;1360000;1460000
 17058;Fischöl;1;4007;5000
 2879;Antipodenrute;1;12691;15864

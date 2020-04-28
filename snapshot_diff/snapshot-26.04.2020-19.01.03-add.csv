@@ -96,14 +96,7 @@
 3821;Golddorn;10;5296;6620
 7912;Robuster Stein;11;3520;4400
 2319;Mittleres Leder;5;9688;12110
-16649;Schredderanleitung - Seite 5;1;1800;1900
-16649;Schredderanleitung - Seite 5;1;1600;2000
-16649;Schredderanleitung - Seite 5;1;1600;2000
-16649;Schredderanleitung - Seite 5;1;1600;2000
-16649;Schredderanleitung - Seite 5;1;1520;2000
 3576;Zinnbarren;20;23980;23980
-3227;Stab der Nachtheuler;1;7625;9532
-3227;Stab der Nachtheuler;1;7244;9055
 21886;Urleben;1;92688;113360
 21886;Urleben;1;92688;113360
 21886;Urleben;1;92688;113360
@@ -128,7 +121,6 @@
 11176;Traumstaub;20;150100;180000
 2955;Hut des Ersten Maats;1;117521;146902
 16653;Schredderanleitung - Seite 9;1;1500;2000
-16653;Schredderanleitung - Seite 9;1;1600;2000
 27658;Gerösteter Grollhuf;20;91000;96500
 27658;Gerösteter Grollhuf;20;91000;96500
 27658;Gerösteter Grollhuf;20;91000;96500
@@ -184,8 +176,6 @@
 22854;Fläschchen des unerbittlichen Angriffs;1;160000;169999
 22854;Fläschchen des unerbittlichen Angriffs;1;160000;169999
 8386;Muster: Große Voodoorobe;1;10000;12000
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;1;9560;12825
-2734;Die Grünen Hügel des Schlingendorntals - Seite 10;3;30000;40500
 23436;Lebendiger Rubin;1;193000;194000
 23436;Lebendiger Rubin;1;193000;194000
 23436;Lebendiger Rubin;1;193000;194000
@@ -234,18 +224,12 @@
 22787;Zottelkappe;20;47424;59280
 22787;Zottelkappe;20;47424;59280
 12364;Gewaltiger Smaragd;1;31600;39500
-33093;Manatrankeinspritzung;20;594938;594938
-33093;Manatrankeinspritzung;20;594938;594938
-33093;Manatrankeinspritzung;20;594938;594938
-33093;Manatrankeinspritzung;20;594938;594938
-33093;Manatrankeinspritzung;20;594938;594938
 33093;Manatrankeinspritzung;20;562000;593000
 33093;Manatrankeinspritzung;20;562000;593000
 33093;Manatrankeinspritzung;20;562000;593000
 33093;Manatrankeinspritzung;20;562000;593000
 33093;Manatrankeinspritzung;20;562000;593000
 31883;Segen 8;1;2887500;2890000
-3355;Wildstahlblume;19;29792;37240
 12363;Arkankristall;2;99900;140900
 22866;Fläschchen des reinen Todes;1;170000;179399
 22866;Fläschchen des reinen Todes;1;170000;179399
@@ -259,8 +243,6 @@
 24852;Fennklauenmantel;1;77635;99544
 22790;Urflechte;20;49512;63640
 21900;Muster: Magieerfüllte Netherstoffrobe;1;222036;259454
-3340;Pyrophorerz;10;1400;1500
-3340;Pyrophorerz;2;280;300
 16203;Große ewige Essenz;1;69000;69000
 16203;Große ewige Essenz;1;69000;69000
 16203;Große ewige Essenz;1;69000;69000
@@ -276,12 +258,8 @@
 4234;Schweres Leder;20;84500;89000
 4234;Schweres Leder;20;84500;89000
 4234;Schweres Leder;3;14397;17997
-16652;Schredderanleitung - Seite 8;1;7000;10000
-16652;Schredderanleitung - Seite 8;1;7000;10000
 31905;Furien 7;1;899999;989999
 3820;Würgetang;20;26016;32520
-20960;Gravierter Echtsilberring;1;9500;13000
-20960;Gravierter Echtsilberring;1;9500;13000
 29528;Trommeln des Krieges;1;147500;149000
 32409;Unerbittlicher Erdsturmdiamant;1;547322;608136
 13446;Erheblicher Heiltrank;1;9999;13999
@@ -354,9 +332,7 @@
 12359;Thoriumbarren;2;15960;19950
 16651;Schredderanleitung - Seite 7;1;1500;2000
 16651;Schredderanleitung - Seite 7;1;3000;3500
-16651;Schredderanleitung - Seite 7;1;7000;7500
 16651;Schredderanleitung - Seite 7;1;1500;2000
-16651;Schredderanleitung - Seite 7;1;1140;2025
 3210;Brutale Kriegsaxt;1;18006;22508
 22851;Fläschchen der Stärkung;1;130000;139000
 22851;Fläschchen der Stärkung;2;270000;280000
@@ -402,12 +378,9 @@
 13455;Großer Steinschildtrank;1;35000;40000
 3291;Ahnenwollwäsche;1;2503;4500
 16204;Illusionsstaub;20;139980;141980
-16648;Schredderanleitung - Seite 4;1;7500;10000
 16648;Schredderanleitung - Seite 4;1;8500;9000
 3202;Waldlederarmschienen;1;200000;250000
 25901;Bemerkenswerter Erdsturmdiamant;1;635000;639499
-3341;Stulpen der Ogerstärke;1;10000;11000
-21877;Netherstoff;19;22800;30000
 21877;Netherstoff;20;22016;34020
 21877;Netherstoff;20;22016;34020
 21877;Netherstoff;20;22016;34020

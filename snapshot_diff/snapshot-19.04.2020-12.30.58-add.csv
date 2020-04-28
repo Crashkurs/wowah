@@ -1,6 +1,5 @@
 31911;Delirium 8;1;3805000;4100000
 10285;Schattenseide;1;1155;1444
-1181;Rolle der Willenskraft;1;392;490
 10940;Seltsamer Staub;9;26100;26496
 10940;Seltsamer Staub;20;92620;97520
 10940;Seltsamer Staub;20;92620;97520
@@ -14,7 +13,6 @@
 24243;Adamantitpulver;20;67500;90000
 11138;Kleiner leuchtender Splitter;14;12726;14140
 11175;Große Netheressenz;2;109348;120000
-25905;Vorlage: Harter Erdsturmdiamant;1;699999;699999
 5773;Muster: Roben von Arcana;1;1800375;2000000
 13029;Umbralkristall;1;29999;39999
 1529;Jade;2;14848;16498
@@ -37,7 +35,6 @@
 24478;Jaggalperle;1;5000;6500
 24478;Jaggalperle;1;5000;6500
 24478;Jaggalperle;1;5000;6500
-27651;Bussardbissen;20;22500;24000
 27658;Gerösteter Grollhuf;20;106032;132540
 27658;Gerösteter Grollhuf;10;65813;69750
 27658;Gerösteter Grollhuf;10;65813;69750
@@ -55,11 +52,9 @@
 31288;Des Meisters Treter;1;214962;220000
 11137;Visionenstaub;5;20100;23300
 2835;Rauer Stein;11;9486;11858
-23884;Bauplan: Manatrankeinspritzung;1;16469520;19992651
 5997;Elixier der schwachen Verteidigung;20;1440;1800
 7416;Phalanxarmschienen;1;5000;7000
 11134;Geringe Mystikeressenz;1;4057;4530
-28596;Vorlage: Heller Blutgranat;1;198750;200000
 27657;Schwarzgebratener Basilisk;20;248000;262000
 11084;Großer gleißender Splitter;5;15180;17645
 11084;Großer gleißender Splitter;5;3690;4100
@@ -117,8 +112,6 @@
 24305;Muster: Cape der Entschlossenheit;1;108000;125000
 30323;Pläne: Stiefel des Beschützers;1;179756;199728
 7079;Kugel des Wassers;1;5195;6883
-7079;Kugel des Wassers;1;2000;5000
-7079;Kugel des Wassers;1;2000;5000
 27503;Rolle der Stärke V;5;202020;212121
 27503;Rolle der Stärke V;5;193840;203310
 27503;Rolle der Stärke V;5;193840;203310
@@ -127,7 +120,6 @@
 27503;Rolle der Stärke V;5;193840;203310
 27503;Rolle der Stärke V;5;193840;203310
 27503;Rolle der Stärke V;5;193840;203310
-24030;Runenverzierter lebendiger Rubin;1;245000;250000
 31299;Der Schwurbewahrer;1;149900;149900
 25708;Dickes Grollhufleder;20;602500;650000
 25708;Dickes Grollhufleder;20;602500;650000
@@ -138,13 +130,10 @@
 25708;Dickes Grollhufleder;20;602500;650000
 791;Knorriger Eschenstab;1;10603;23456
 11082;Große Astralessenz;1;5000;6000
-23883;Bauplan: Heiltrankeinspritzung;1;686250;750000
 10051;Rote Magiestofftasche;1;6650;10000
 10051;Rote Magiestofftasche;1;6650;10000
 10051;Rote Magiestofftasche;1;6650;10000
 10051;Rote Magiestofftasche;1;6650;10000
-23810;Bauplan: Krachbummroboter;1;28177;33752
-23810;Bauplan: Krachbummroboter;1;28177;33752
 23810;Bauplan: Krachbummroboter;1;28177;33752
 2770;Kupfererz;20;30000;45000
 2770;Kupfererz;20;30000;45000
@@ -174,16 +163,12 @@
 24061;Glitzernder Edeltopas;1;165500;174999
 25868;Himmelsfeuerdiamant;1;905000;910000
 6048;Schattenschutztrank;5;40000;50000
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;95000;119500
-23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;309600;509500
 30032;Roter Gürtel der Schlacht;1;9249999;9499999
 4234;Schweres Leder;4;22000;24000
-8949;Elixier der Beweglichkeit;20;40000;60000
 24114;Geflochtene Eterniumkette;1;449999;499999
 24114;Geflochtene Eterniumkette;1;449999;499999
 24114;Geflochtene Eterniumkette;1;449999;499999
 3730;Großbärenfleisch;1;1400;1500
-24048;Glatter Dämmerstein;1;127500;135899
 24048;Glatter Dämmerstein;1;127500;135899
 31226;Gamaschen des Durchtriebenen;1;180000;209999
 9187;Elixier der großen Beweglichkeit;19;50000;80000
@@ -198,7 +183,6 @@
 12527;Rippenspalter;1;289999;299999
 13757;Zitteraal;20;20300;30000
 13757;Zitteraal;8;8020;10000
-27656;Sporlingschmaus;14;39132;48916
 30810;Siegel des Sonnenzorns;250;1999999;2499999
 30810;Siegel des Sonnenzorns;250;1999999;2499999
 30810;Siegel des Sonnenzorns;50;324400;330000
@@ -223,7 +207,6 @@
 13042;Schwert des Magistraten;1;44499;54499
 13759;Roher Nachtflossenschnapper;20;10300;20000
 13759;Roher Nachtflossenschnapper;20;10300;20000
-28291;Vorlage: Glatter Golddraenit;1;192500;200000
 8150;Tiefsteinsalz;4;1500;20000
 5637;Großer Fangzahn;3;2023;2529
 10978;Kleiner gleißender Splitter;2;1800;2000
@@ -260,30 +243,6 @@
 8831;Lila Lotus;20;29000;32000
 31673;Knusperschlange;20;254999;277499
 24273;Mystischer Zauberfaden;1;1694500;1789500
-24029;Tränenförmiger lebendiger Rubin;1;209546;249999
-24029;Tränenförmiger lebendiger Rubin;1;244900;247500
-24029;Tränenförmiger lebendiger Rubin;1;244900;247500
-24029;Tränenförmiger lebendiger Rubin;1;244900;247500
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;209546;249999
-24029;Tränenförmiger lebendiger Rubin;1;209546;249999
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;209546;249999
-24029;Tränenförmiger lebendiger Rubin;1;245000;250000
-24029;Tränenförmiger lebendiger Rubin;1;245000;250000
-24029;Tränenförmiger lebendiger Rubin;1;245000;250000
-24029;Tränenförmiger lebendiger Rubin;1;245000;250000
-24029;Tränenförmiger lebendiger Rubin;1;259999;299999
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
-24029;Tränenförmiger lebendiger Rubin;1;260000;265000
 24066;Strahlender Talasit;1;55000;85500
 24066;Strahlender Talasit;1;55000;85500
 13760;Roher Sonnenschuppenlachs;20;20300;30000
@@ -293,8 +252,6 @@
 4337;Dicke Spinnenseide;10;7648;9560
 13056;Rasender Schläger;1;189999;199999
 31293;Gurt des Sturms;1;176864;180000
-23819;Elementare Zephyriumladung;2;358000;360000
-23819;Elementare Zephyriumladung;2;358000;360000
 8365;Rohe Mithrilkopfforelle;20;40120;50000
 24222;Dolch des schleichenden Todes;1;59999;76699
 29740;Teuflische Waffen;3;550100;603344
@@ -302,19 +259,6 @@
 5578;Pläne: Bronzene Brustplatte mit Versilberung;1;15220;16911
 33874;Kiblers Häppchen;20;44540;46700
 24214;Vorlage: Mächtiger Edeltopas;1;351106;395674
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;250000;299999
-24028;Feingeschliffener lebendiger Rubin;1;289940;299923
 7080;Essenz des Wassers;3;228691;254101
 31884;Segen 5;1;790000;790000
 13055;Knochenkauer;1;69999;79999
@@ -346,7 +290,6 @@
 9224;Elixier des Dämonentötens;20;642384;649980
 9224;Elixier des Dämonentötens;20;642384;649980
 9224;Elixier des Dämonentötens;20;642384;649980
-23835;Gnomischer Geflügelisierer;1;4000000;4996700
 27659;Doppelwarper;20;268040;282740
 27659;Doppelwarper;20;268040;282740
 27659;Doppelwarper;20;268040;282740
@@ -365,7 +308,6 @@
 7911;Echtsilbererz;19;26564;29516
 4306;Seidenstoff;20;19900;25000
 31878;Vorlage: Verschleierter Edeltopas;1;490000;539000
-13121;Flügel des Welplings;1;15200;19000
 8184;Feuerteufel;1;9430;12000
 10593;Unvollständiges Draenethystfragment;1;5036;6062
 13758;Roher Rotkiemen;15;11712;14640
@@ -373,17 +315,6 @@
 13758;Roher Rotkiemen;20;10120;20000
 13758;Roher Rotkiemen;20;10120;20000
 13758;Roher Rotkiemen;20;10120;20000
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;273626;299899
-24027;Klobiger lebendiger Rubin;1;273626;299899
-24027;Klobiger lebendiger Rubin;1;273626;299899
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;273626;299899
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
-24027;Klobiger lebendiger Rubin;1;259999;299999
 29739;Arkaner Foliant;1;100000;100000
 13024;Beazels Berster;1;29999;39999
 870;Feurige Kriegsaxt;1;689999;699999

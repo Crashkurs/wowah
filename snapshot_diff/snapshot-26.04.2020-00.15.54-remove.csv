@@ -7,19 +7,6 @@
 24368;Waffen des Echsenkessels;1;70000;75000
 32063;Erdelixier;5;89995;99995
 29726;Muster: Kapuze des Urlebens;1;190000;210000
-23424;Teufelseisenerz;12;94632;94632
-23424;Teufelseisenerz;20;157720;157720
-23424;Teufelseisenerz;20;157720;157720
-23424;Teufelseisenerz;20;157720;157720
-23424;Teufelseisenerz;20;157720;157720
-23424;Teufelseisenerz;20;157720;157720
-23424;Teufelseisenerz;20;100000;110000
-23424;Teufelseisenerz;20;100000;110000
-23424;Teufelseisenerz;20;100000;110000
-23424;Teufelseisenerz;20;100000;110000
-23424;Teufelseisenerz;20;100000;110000
-23424;Teufelseisenerz;20;50000;89900
-23424;Teufelseisenerz;19;58500;85000
 23097;Feingeschliffener Blutgranat;1;42299;44499
 23762;Ultraspektropische Enthüllungsbrille;1;557986;650000
 3164;Verfärbtes Worgherz;10;1032;1290
@@ -28,8 +15,6 @@
 24031;Heller lebendiger Rubin;1;258899;274499
 25896;Mächtiger Erdsturmdiamant;1;1114800;1114800
 25896;Mächtiger Erdsturmdiamant;1;1033322;1127261
-2100;Präzise kalibriertes Schießeisen;1;129498;180096
-2100;Präzise kalibriertes Schießeisen;1;93787;117234
 9898;Jazeraintumhang;1;14077;19999
 5498;Kleine irisierende Perle;1;892;1115
 27429;Zangarischer Sporenfisch;20;50000;60000
@@ -96,15 +81,12 @@
 5503;Muschelfleisch;3;1140;1425
 5503;Muschelfleisch;10;26120;32650
 33782;Beständiger Talasit;1;59999;68899
-2164;Darmreißer;1;429999;499999
-2164;Darmreißer;1;473500;499000
 10027;Schwarze Magiestoffschultern;1;40000;50000
 7414;Spitzelhose;1;25639;32049
 23099;Glänzender Flammenspessarit;1;22299;23399
 8320;Alabasterschild;1;49594;58368
 34068;Gewichtige Kürbislaterne;6;819500;1026000
 3575;Eisenbarren;3;2000;2500
-2232;Dunkelläuferstiefel;1;25019;29000
 24054;Stattliches Nachtauge;1;131895;139648
 24054;Stattliches Nachtauge;1;131895;139648
 24054;Stattliches Nachtauge;1;131895;139648
@@ -146,13 +128,9 @@
 3873;Pläne: Goldener Schuppenkürass;1;41650;50000
 23771;Grünes Rauchsignal;5;91875;100000
 23771;Grünes Rauchsignal;5;91875;100000
-27656;Sporlingschmaus;14;38348;47936
 27656;Sporlingschmaus;2;12307;15384
 27656;Sporlingschmaus;2;12307;15384
 27656;Sporlingschmaus;14;38348;47936
-27656;Sporlingschmaus;6;17900;19512
-27656;Sporlingschmaus;10;29916;32520
-27656;Sporlingschmaus;20;34500;45000
 27700;Rezept: Würziger Flusskrebs;1;247287;309109
 25708;Dickes Grollhufleder;20;492500;500000
 25708;Dickes Grollhufleder;20;492500;500000
@@ -186,30 +164,9 @@
 27657;Schwarzgebratener Basilisk;20;260520;289460
 27657;Schwarzgebratener Basilisk;20;260520;289460
 27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;260520;289460
-27657;Schwarzgebratener Basilisk;20;282800;292400
-27657;Schwarzgebratener Basilisk;20;549999;599999
-27657;Schwarzgebratener Basilisk;20;549999;599999
-27657;Schwarzgebratener Basilisk;20;549999;599999
 30421;Roter Ring der Zerstörung;1;57421;61777
 2254;Eisscheibenkriegshammer;1;32936;46170
 31185;Krone der Legion;1;550000;550000
-4417;Bauplan: Große Zephyriumladung;1;28196;35245
 2633;Dschungelarznei;2;15523;19404
 2633;Dschungelarznei;10;77616;97020
 4338;Magiestoff;20;115400;125000
@@ -218,10 +175,7 @@
 31222;Kopfputz des inneren Zorns;1;166539;189999
 3486;Schwerer Schleifstein;14;17350;19277
 31226;Gamaschen des Durchtriebenen;1;145204;193005
-2163;Schattenklinge;1;129124;161405
-2163;Schattenklinge;1;90065;110000
 18653;Bauplan: Goblinüberbrückungskabel XL;1;393568;491960
-27655;Heißer Hetzer;20;58736;68420
 27655;Heißer Hetzer;20;58736;68420
 27655;Heißer Hetzer;20;58736;68420
 27655;Heißer Hetzer;20;58736;68420
@@ -258,7 +212,3 @@
 25901;Bemerkenswerter Erdsturmdiamant;1;643999;643999
 27500;Rolle des Schutzes V;3;117000;119999
 27500;Rolle des Schutzes V;2;59598;75998
-2234;Nachtwandlerrüstung;1;35009;39000
-21877;Netherstoff;20;29999;30303
-21877;Netherstoff;20;29999;30303
-21877;Netherstoff;20;29999;30303

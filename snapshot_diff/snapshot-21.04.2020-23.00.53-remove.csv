@@ -12,9 +12,6 @@
 4251;Schultern des Hügelwächters;1;6083;7604
 4251;Schultern des Hügelwächters;1;6083;7604
 4251;Schultern des Hügelwächters;1;6083;7604
-31905;Furien 7;1;1470000;1666000
-31905;Furien 7;1;1470000;1666000
-31905;Furien 7;1;1500000;1700000
 31905;Furien 7;1;887500;890000
 24060;Glänzender Edeltopas;1;144998;144999
 24060;Glänzender Edeltopas;1;144998;144999
@@ -93,7 +90,6 @@
 22829;Erstklassiger Heiltrank;5;50000;61000
 23107;Schattendraenit;1;9882;9883
 11135;Große Mystikeressenz;2;22000;34000
-31904;Furien 4;1;14501076;15001196
 13146;Kugelspeiende Schrotflinte;1;44765;57957
 7286;Schwarzwelpenschuppe;10;200250;300000
 2835;Rauer Stein;20;49980;51980
@@ -105,7 +101,6 @@
 4232;Mittlerer Balg;8;119992;120000
 14478;Muster: Hellstoffrobe;1;5250;10000
 27657;Schwarzgebratener Basilisk;20;164500;199000
-32753;Muster: Flinkheilmantelung;1;989999;989999
 14655;Skorpashibrustplatte;1;23254;31568
 17414;Kodex: Gebet der Seelenstärke II;1;33000;35000
 16245;Formel: Stiefel - Große Beweglichkeit;1;216000;220000
@@ -120,22 +115,6 @@
 13025;Vorschlaghammer der Totenwaldfelle;1;31635;39544
 22912;Rezept: Heldentrank;1;110000;120000
 22912;Rezept: Heldentrank;1;1398800;1399900
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;247490;247490
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
-32897;Mal der Illidari;5;99995;149995
 22838;Hasttrank;5;178000;188799
 22838;Hasttrank;5;178000;188799
 22838;Hasttrank;5;178000;188799
@@ -189,11 +168,8 @@
 1210;Schattenedelstein;1;799;899
 1210;Schattenedelstein;1;799;899
 1210;Schattenedelstein;1;799;899
-32836;Geläuterte Schattenperle;1;459999;539999
-32836;Geläuterte Schattenperle;1;498999;498999
 7406;Spitzelkordel;1;4800;6000
 7406;Spitzelkordel;1;4800;6000
-31902;Furien 8;1;7999999;9999999
 25708;Dickes Grollhufleder;20;300000;359900
 25708;Dickes Grollhufleder;10;150050;160000
 24271;Zauberstoff;1;492500;519000
@@ -247,7 +223,6 @@
 23572;Urnether;2;46000;60000
 23572;Urnether;2;46000;60000
 7734;Sechsdämonentasche;1;31464;39330
-31909;Furien 2;1;1654123;1767148
 15416;Schwarze Drachenschuppe;5;63626;79500
 23883;Bauplan: Heiltrankeinspritzung;1;456250;550000
 2911;Kellers Gurt;1;39999;49999
@@ -268,23 +243,10 @@
 7557;Hauchzarte Rute;1;23667;29584
 7557;Hauchzarte Rute;1;23667;29584
 32747;Muster: Flinkschlagschultern;1;1488750;1490000
-31901;Furien Ass;1;123237;136930
-31901;Furien Ass;1;129100;153382
 31901;Furien Ass;1;125000;130000
 31901;Furien Ass;1;115000;120000
-31901;Furien Ass;1;71820;89775
-31901;Furien Ass;1;129100;153382
 31901;Furien Ass;1;93610;117013
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;95000;100000
-31901;Furien Ass;1;87500;100000
-31901;Furien Ass;1;74999;99999
-31901;Furien Ass;1;74999;99999
-31901;Furien Ass;1;78228;85286
 6612;Weisenstiefel;1;4800;6000
-31903;Furien 5;1;31500000;32000000
 774;Malachit;3;945;1200
 19441;Riesiger Giftbeutel;1;3005;3006
 19714;Silbernes Schmuckstück der Hakkari;1;110000;110000
@@ -343,7 +305,6 @@
 16203;Große ewige Essenz;1;105500;112000
 22854;Fläschchen des unerbittlichen Angriffs;5;766000;769999
 22854;Fläschchen des unerbittlichen Angriffs;5;766000;769999
-32851;Kessel des erheblichen Naturschutzes;1;351125;400000
 27667;Würziger Flusskrebs;20;91000;140000
 27667;Würziger Flusskrebs;20;91000;140000
 27667;Würziger Flusskrebs;20;91000;140000
@@ -353,7 +314,6 @@
 24302;Muster: Gurt des Unerschütterlichen;1;165000;205000
 31287;Ehrenwachenschild der Draenei;1;221157;230000
 3199;Kampfschlächter;1;14999;19999
-31892;Sturm Ass;1;37500;0
 23802;Bauplan: Verschnörkeltes Khoriumgewehr;1;227500;230000
 23571;Urmacht;1;924000;950000
 23571;Urmacht;1;924000;950000
@@ -368,7 +328,6 @@
 4234;Schweres Leder;20;999980;1199980
 4234;Schweres Leder;20;999980;1199980
 3197;Steinfräserclaymore;1;23600;29500
-31895;Sturm 4;1;250000;300000
 23438;Stern der Elune;1;45000;60000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
@@ -462,15 +421,7 @@
 1705;Geringer Mondstein;1;4999;5999
 13018;Henkerspaltbeil;1;34246;42808
 8126;Myrmidonenbrustplatte;1;19599;22624
-31882;Segen Ass;1;27168;33960
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
 31882;Segen Ass;1;45000;50000
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
 8269;Ebenholzstiefel;1;15618;19523
 7068;Elementarfeuer;4;12400;20000
 7068;Elementarfeuer;1;10600;15000
@@ -481,7 +432,6 @@
 13106;Leuchtende magische Armreife;1;31824;50000
 13106;Leuchtende magische Armreife;1;29999;39999
 3645;Sehermanschetten;1;604;756
-31899;Sturm 3;1;473784;592230
 23439;Edeltopas;1;95000;99999
 19260;Kriegsfürst 3;1;30000;30000
 2589;Leinenstoff;20;17980;25760
@@ -515,12 +465,6 @@
 22787;Zottelkappe;20;75000;75000
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5475;5500
-32833;Geläuterte Jaggalperle;1;17783;22229
-32833;Geläuterte Jaggalperle;1;19999;21199
-32833;Geläuterte Jaggalperle;1;17783;22229
-32833;Geläuterte Jaggalperle;1;17783;22229
-32833;Geläuterte Jaggalperle;1;22100;22200
-32833;Geläuterte Jaggalperle;1;19999;21199
 19707;Rotes Schmuckstück der Hakkari;1;110100;120000
 19707;Rotes Schmuckstück der Hakkari;1;110100;120000
 19707;Rotes Schmuckstück der Hakkari;1;110100;120000
@@ -623,7 +567,6 @@
 7909;Aquamarin;1;9900;10000
 7909;Aquamarin;1;9900;10000
 16051;Bauplan: Thoriumpatronen;1;7500;10000
-31884;Segen 5;1;534573;668217
 1722;Dornsteinvorschlaghammer;1;29110;30000
 13055;Knochenkauer;1;54050;70000
 32228;Engelssaphir;1;390000;750000
@@ -736,7 +679,6 @@
 12988;Sternensuchertunika;1;39999;42999
 12988;Sternensuchertunika;1;39999;42999
 10131;Klagegeiststiefel;1;19603;29504
-32839;Kessel des erheblichen Arkanschutzes;1;351125;400000
 21881;Netherweberseide;10;79500;84999
 21881;Netherweberseide;10;79500;84999
 21881;Netherweberseide;10;79500;84999

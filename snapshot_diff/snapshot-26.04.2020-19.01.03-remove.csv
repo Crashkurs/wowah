@@ -17,7 +17,6 @@
 27503;Rolle der Stärke V;4;199999;240000
 10118;Verschnörkelte Brustplatte;1;74822;93528
 14380;Blutrote Robe;1;5053;6317
-21775;Ring des Ansturms;1;82800;103500
 1705;Geringer Mondstein;1;7050;7700
 8170;Unverwüstliches Leder;20;180000;200000
 8170;Unverwüstliches Leder;20;180000;200000
@@ -43,7 +42,6 @@
 19230;Bestien 2;1;1199999;1199999
 27651;Bussardbissen;20;11000;12000
 13512;Fläschchen der obersten Macht;5;720000;720000
-17709;Rezept: Elixier der Frostmacht;1;450000;850000
 30283;Muster: Stiefel des langen Weges;1;225000;250000
 9804;Überragender Rundschild;1;2811;6000
 9405;Gurt der Golemstärke;1;28081;31201
@@ -53,7 +51,6 @@
 29460;Gefängnisschlüssel des Astraleums;10;1330100;1350000
 29460;Gefängnisschlüssel des Astraleums;1;130100;135000
 29460;Gefängnisschlüssel des Astraleums;1;130100;135000
-24066;Strahlender Talasit;1;89999;99999
 32897;Mal der Illidari;250;2440100;2450000
 31304;Essenzfokussierer;1;151908;189886
 25897;Starker Erdsturmdiamant;1;792980;921225
@@ -74,9 +71,6 @@
 22456;Urschatten;1;31458;37620
 22456;Urschatten;1;31458;37620
 22456;Urschatten;1;31458;37620
-22456;Urschatten;1;36743;43492
-22456;Urschatten;10;357020;423350
-22456;Urschatten;1;26000;30000
 22456;Urschatten;1;16000;24000
 22456;Urschatten;1;16000;24000
 22456;Urschatten;1;16000;24000
@@ -88,13 +82,6 @@
 24479;Schattenperle;1;451500;479000
 11081;Formel: Schild - Geringer Schutz;1;5568;6960
 19264;Kriegsfürst 7;1;273248;341560
-17722;Muster: Handschuhe des Altvaters;1;409280;511600
-17722;Muster: Handschuhe des Altvaters;1;338335;422919
-17722;Muster: Handschuhe des Altvaters;1;350000;400000
-17722;Muster: Handschuhe des Altvaters;1;350000;400000
-17722;Muster: Handschuhe des Altvaters;1;350000;400000
-17722;Muster: Handschuhe des Altvaters;1;350000;400000
-17722;Muster: Handschuhe des Altvaters;1;350000;400000
 8028;Pläne: Runenverzierter Mithrilhammer;1;16922;18802
 15279;Elfenbeinzauberstab;1;27400;30000
 31299;Der Schwurbewahrer;1;210000;229899
@@ -163,19 +150,14 @@
 8167;Schildkrötenschuppe;20;69999;69999
 23632;Pläne: Teufelsstahlschneide;1;130000;149999
 22912;Rezept: Heldentrank;1;103036;128796
-20709;Klarer Rumsey Rum;10;1568;1960
 27678;Grollhuffleisch;15;75343;83715
 25691;Schwere Grollhufstiefel;1;325000;350000
-21840;Netherstoffballen;10;139610;159990
-21840;Netherstoffballen;3;18000;50000
 22445;Arkaner Staub;7;82874;103593
 22445;Arkaner Staub;5;83205;91995
 15242;Gewetztes Stilett;1;6639;9999
-17724;Muster: Grünes Festtagshemd;1;450000;500000
 19233;Bestien 5;1;1949999;1949999
 28104;Elixier des Meisters;20;669508;697760
 31906;Furien 6;1;79999611;99999514
-20659;Abyssische Panzerhandschützer;1;61319;76649
 22449;Großer Prismasplitter;1;130100;132000
 20749;Hervorragendes Zauberöl;1;138500;146500
 20749;Hervorragendes Zauberöl;1;138500;146500
@@ -198,8 +180,6 @@
 4305;Seidenstoffballen;10;63992;79990
 4305;Seidenstoffballen;10;52736;65920
 19278;Portal 2;1;14300;18800
-27666;Goldfischstäbchen;20;350000;350000
-20670;Abyssische Panzerklammer;1;55674;69593
 32836;Geläuterte Schattenperle;1;405000;499999
 13487;Rezept: Wasser zu Untod transmutieren;1;76800;96000
 1206;Moosachat;1;5000;6578
@@ -216,12 +196,8 @@
 31883;Segen 8;1;4350000;7500000
 31883;Segen 8;1;4350000;7500000
 11225;Formel: Armschiene - Große Ausdauer;1;32325;39999
-21843;Magieerfüllte Netherstofftasche;1;499800;549500
 21843;Magieerfüllte Netherstofftasche;1;500000;550000
 21843;Magieerfüllte Netherstofftasche;1;500000;550000
-21843;Magieerfüllte Netherstofftasche;1;499800;549500
-21843;Magieerfüllte Netherstofftasche;1;499800;549500
-21843;Magieerfüllte Netherstofftasche;1;499800;549500
 9264;Elixier der Schattenmacht;2;40105;60000
 9264;Elixier der Schattenmacht;2;40105;60000
 9264;Elixier der Schattenmacht;2;40105;60000
@@ -247,40 +223,17 @@
 25720;Muster: Schweres Knotenhautleder;1;125000;150000
 13464;Goldener Sansam;1;12049;13065
 14779;Khans Brustharnisch;1;20020;30000
-22452;Urerde;10;281192;351490
-22452;Urerde;1;37632;47040
-22452;Urerde;20;562384;702980
-22452;Urerde;1;37632;47040
-22452;Urerde;1;37632;47040
-22452;Urerde;1;37632;47040
-22452;Urerde;1;37632;47040
-22452;Urerde;1;37632;47040
 22452;Urerde;1;30000;30000
-22452;Urerde;20;686868;696969
-22452;Urerde;1;31500;37128
-22452;Urerde;1;31500;37128
 22452;Urerde;1;30999;33389
 22452;Urerde;1;30999;33389
 22452;Urerde;1;30999;33389
-22452;Urerde;5;133560;166950
-22452;Urerde;1;32999;35148
-22452;Urerde;1;44418;49353
 4713;Silberfadenumhang;1;1989;2999
-22446;Große Planaressenz;1;84000;94000
-22446;Große Planaressenz;1;84000;94000
-22446;Große Planaressenz;1;84000;94000
-22446;Große Planaressenz;1;90100;94500
-22446;Große Planaressenz;1;90100;94500
-22446;Große Planaressenz;1;90100;94500
-22446;Große Planaressenz;1;90100;94500
 22446;Große Planaressenz;10;880100;890000
 22446;Große Planaressenz;10;880100;890000
-22446;Große Planaressenz;1;84000;94000
 22446;Große Planaressenz;1;80100;90000
 22446;Große Planaressenz;1;80100;90000
 22446;Große Planaressenz;1;80100;90000
 22446;Große Planaressenz;1;80100;90000
-32381;Bauplan: Verschmorte Verkabelung;1;125000;150000
 29733;Muster: Netherdrachenhandschuhe;1;90000;119999
 29733;Muster: Netherdrachenhandschuhe;1;90000;120000
 24977;Häscherhandschuhe;1;43565;56957
@@ -311,22 +264,12 @@
 24273;Mystischer Zauberfaden;1;1444999;1479999
 11150;Formel: Handschuhe - Bergbau;1;14112;17640
 11186;Roter Machtkristall;7;30000;50000
-11186;Roter Machtkristall;10;80000;100000
 11186;Roter Machtkristall;4;30720;34132
 11186;Roter Machtkristall;7;30000;50000
 9297;Rezept: Elixier der Traumvision;1;200000;220000
-17720;Bauplan: Schneemeister 9000;1;169030;211288
-17720;Bauplan: Schneemeister 9000;1;90000;210000
 15659;Undurchdringliche Bindungen;1;29816;37271
 10203;Oberherrenbrustplatte;1;57059;71324
 14933;Heldenhafte Stulpen;1;43514;54393
-21768;Saphirsiegel;1;87600;109500
-21768;Saphirsiegel;1;18750;49900
-21768;Saphirsiegel;1;18750;29900
-21768;Saphirsiegel;1;18750;49900
-21768;Saphirsiegel;1;38808;48510
-21768;Saphirsiegel;1;39600;49500
-21768;Saphirsiegel;1;39600;49500
 10224;Nachtschattenumhang;1;34416;43020
 22450;Kristall der Leere;1;60000;65000
 22450;Kristall der Leere;1;60000;65000
@@ -351,34 +294,22 @@
 21884;Urfeuer;1;200000;200000
 21884;Urfeuer;1;200000;200000
 21884;Urfeuer;1;200000;200000
-20667;Abyssischer Ledergürtel;1;36025;45032
 23793;Schweres Knotenhautleder;10;310500;320000
 23793;Schweres Knotenhautleder;10;310500;320000
 23793;Schweres Knotenhautleder;10;310500;320000
 21887;Knotenhautleder;20;163300;164500
-21887;Knotenhautleder;20;219999;229999
-21887;Knotenhautleder;20;219999;229999
 868;Inbrünstiger Hüter;1;186643;207381
 22565;Formel: Großer Prismasplitter;1;189331;210368
 31277;Band des Pfadfinders;1;188888;199999
 14805;Kampfrauschkniehosen;1;65846;82308
 11224;Formel: Schild - Frostwiderstand;1;300000;350000
-27699;Rezept: Goldfischstäbchen;1;275000;300000
 1979;Mauer der Toten;1;85511;150000
 30809;Mal des Sargeras;250;2408800;2501000
 30809;Mal des Sargeras;250;2408800;2501000
 6053;Rezept: Heiligschutztrank;1;25055;30000
-17706;Pläne: Schneide des Winters;1;71000;220000
-17706;Pläne: Schneide des Winters;1;447600;559500
-17706;Pläne: Schneide des Winters;1;150000;180000
 20725;Nexuskristall;1;89999;99999
 20725;Nexuskristall;1;89999;99999
 20725;Nexuskristall;1;89999;99999
 20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;1;89099;98999
-20725;Nexuskristall;1;89099;98999
-20725;Nexuskristall;1;89099;98999
 20725;Nexuskristall;1;89999;99999
-20725;Nexuskristall;6;451435;564294
 23154;Vorlage: Stürmischer Azurmondstein;1;23500;27500
-21877;Netherstoff;9;23040;28800

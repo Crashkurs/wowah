@@ -6,9 +6,6 @@
 32067;Elixier der draenischen Weisheit;20;227980;227980
 32067;Elixier der draenischen Weisheit;20;227980;227980
 23449;Khoriumbarren;20;1197200;1209000
-13039;Schädelspalterarmbrust;1;49999;74499
-13039;Schädelspalterarmbrust;1;50000;75000
-13039;Schädelspalterarmbrust;1;27200;28500
 2589;Leinenstoff;19;15000;25050
 11178;Großer strahlender Splitter;3;78591;87324
 27498;Rolle der Beweglichkeit V;1;40187;44900
@@ -33,9 +30,6 @@
 15765;Muster: Runenverzierte Lederhose;1;9896;9897
 14479;Muster: Hellstoffhandschuhe;1;4349;5437
 13037;Kristallfichtenstecher;1;15665;19582
-13037;Kristallfichtenstecher;1;19999;25599
-13037;Kristallfichtenstecher;1;25343;25343
-13037;Kristallfichtenstecher;1;14284;17856
 22831;Elixier der erheblichen Beweglichkeit;20;430000;445000
 5770;Roben von Arcana;1;112710;120000
 5770;Roben von Arcana;1;112710;120000
@@ -44,7 +38,6 @@
 31335;Hose des lebendigen Wachstums;1;2677382;2859228
 19279;Portal 3;1;25352;31690
 809;Blutklinge;1;199998;199998
-13013;Hexerältestenmantel;1;115100;143876
 10938;Geringe Magieessenz;2;5000;10000
 7972;Sekret des Untodes;10;4288;5360
 24066;Strahlender Talasit;1;99900;100000
@@ -56,22 +49,12 @@
 8490;Katzentransportkorb (Siamkatze);1;1489208;1861510
 8490;Katzentransportkorb (Siamkatze);1;1489208;1861510
 11134;Geringe Mystikeressenz;2;21300;23666
-15147;Geistwandlerumhang;1;19900;19900
 24059;Mächtiger Edeltopas;1;65000;110000
-15084;Tückische Lederarmschienen;1;10000;12500
-15084;Tückische Lederarmschienen;1;10000;12500
-15084;Tückische Lederarmschienen;1;14896;18620
-15084;Tückische Lederarmschienen;1;14896;18620
 23572;Urnether;6;111600;139500
 23572;Urnether;1;18796;18798
 13049;Claymore des Dekanats;1;9190;11488
 27501;Rolle der Willenskraft V;1;30150;34900
 27501;Rolle der Willenskraft V;1;30150;34900
-11185;Grüner Machtkristall;13;66383;82979
-11185;Grüner Machtkristall;21;20000;20000
-11185;Grüner Machtkristall;15;118605;131790
-11185;Grüner Machtkristall;14;30000;50000
-11185;Grüner Machtkristall;1;5714;7100
 11137;Visionenstaub;20;133660;148500
 11137;Visionenstaub;20;133660;148500
 11137;Visionenstaub;20;133660;148500
@@ -83,10 +66,6 @@
 11137;Visionenstaub;16;106928;118800
 13876;40-pfündiger Zackenbarsch;1;15274;19093
 14498;Muster: Runenstoffstirnband;1;17580;21975
-13038;Windhauch;1;29516;38520
-34440;Trank des verrückten Alchemisten;5;79995;79995
-34440;Trank des verrückten Alchemisten;5;79995;79995
-34440;Trank des verrückten Alchemisten;5;79995;79995
 11176;Traumstaub;20;127984;159980
 11176;Traumstaub;13;92651;102947
 34220;Wechselhafter Himmelsfeuerdiamant;1;997724;997724
@@ -125,7 +104,6 @@
 7108;Infanterieschild;1;3313;6600
 31151;Gurt der Belagerung;1;46952;60000
 21840;Netherstoffballen;1;9879;12349
-15129;Robuster Helm;1;49000;57500
 35562;Bärenflanke;5;144900;149999
 35562;Bärenflanke;5;144900;149999
 35562;Bärenflanke;5;144900;149999
@@ -191,8 +169,6 @@
 24035;Funkelnder Stern der Elune;1;33516;41895
 13014;Axt von Rin'ji;1;39592;51241
 3872;Pläne: Goldene Schuppengamaschen;1;34560;43200
-14983;Erhabene Armsplinte;1;44972;56216
-15137;Halsabschneiderfäustlinge;1;50000;60000
 24039;Stürmischer Stern der Elune;1;81928;102410
 19262;Kriegsfürst 5;1;151983;151999
 33093;Manatrankeinspritzung;5;159999;169999
@@ -208,11 +184,6 @@
 11135;Große Mystikeressenz;10;81180;90200
 11135;Große Mystikeressenz;10;81180;90200
 23573;Gehärteter Adamantitbarren;20;2399184;2498980
-21882;Seelenessenz;9;103750;110000
-21882;Seelenessenz;3;69384;77093
-21882;Seelenessenz;1;19900;19900
-21882;Seelenessenz;1;19900;19900
-21882;Seelenessenz;1;19900;19900
 31147;Anhänger der List;1;87400;109250
 22853;Fläschchen der mächtigen Wiederherstellung;5;900000;940000
 22853;Fläschchen der mächtigen Wiederherstellung;5;900000;940000
@@ -268,23 +239,10 @@
 6657;Pikantes Deviat Supreme;20;194980;194980
 6657;Pikantes Deviat Supreme;20;194980;194980
 21991;Schwerer Netherstoffverband;20;119900;129900
-15152;Nächtliche Schuhe;1;20000;40000
 31153;Axt der Legion;1;258304;300000
 3866;Pläne: Jadeschlangenklinge;1;26277;37847
 3866;Pläne: Jadeschlangenklinge;1;6399;7999
 24274;Runenverzierter Zauberfaden;1;2449999;2489999
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-21764;Rubinanhänger des Feuers;1;9630;19900
-11188;Gelber Machtkristall;18;71280;79200
 32409;Unerbittlicher Erdsturmdiamant;1;619898;619898
 11732;Buchband des Nachsinnens;1;385296;481621
 19232;Bestien 4;1;29557;37572
@@ -309,10 +267,6 @@
 24033;Gediegener Stern der Elune;1;45000;70000
 24033;Gediegener Stern der Elune;1;45000;70000
 24033;Gediegener Stern der Elune;1;45000;70000
-13043;Klinge der Titanen;1;40000;40100
-13043;Klinge der Titanen;1;40083;40800
-13043;Klinge der Titanen;1;48383;48400
-13043;Klinge der Titanen;1;48383;48400
 12988;Sternensuchertunika;1;59484;76856
 23427;Eterniumerz;20;352720;383400
 23427;Eterniumerz;20;352720;383400
@@ -333,33 +287,18 @@
 27657;Schwarzgebratener Basilisk;20;284996;284999
 27657;Schwarzgebratener Basilisk;20;284996;284999
 10939;Große Magieessenz;5;217000;250000
-13926;Goldene Perle;1;15000;16500
-13926;Goldene Perle;2;23119;25688
-13926;Goldene Perle;1;9268;11586
-13926;Goldene Perle;1;9516;13520
-13926;Goldene Perle;1;15000;16500
 23571;Urmacht;1;894000;898000
 6533;Aquadynamischer Fischanlocker;20;54000;62500
 6533;Aquadynamischer Fischanlocker;20;54000;62500
 6533;Aquadynamischer Fischanlocker;20;54000;62500
 6533;Aquadynamischer Fischanlocker;20;54000;62500
-15155;Nächtliche Handschuhe;1;29056;35000
 2592;Wollstoff;20;46000;58000
-13041;Wächterklinge;1;25351;27057
-13041;Wächterklinge;1;29000;35000
-13041;Wächterklinge;1;22083;37659
-11186;Roter Machtkristall;7;30000;50000
-11186;Roter Machtkristall;10;80000;100000
-11186;Roter Machtkristall;4;30720;34132
-11186;Roter Machtkristall;6;20000;20000
-11186;Roter Machtkristall;7;30000;50000
 2997;Wollstoffballen;10;28872;36090
 2997;Wollstoffballen;10;28872;36090
 31131;Schärpe der lautlosen Klingen;1;104007;120000
 24214;Vorlage: Mächtiger Edeltopas;1;325000;330000
 31222;Kopfputz des inneren Zorns;1;104600;120000
 23448;Teufelsstahlbarren;20;2888888;2899999
-15144;Geistwandlerlumpen;1;50000;60000
 22788;Flammenkappe;14;195700;210000
 22539;Formel: Schild - Intelligenz;1;151600;189500
 11083;Seelenstaub;16;37904;42112
@@ -398,17 +337,6 @@
 21885;Urwasser;1;119858;119870
 11138;Kleiner leuchtender Splitter;19;5852;6498
 10998;Geringe Astralessenz;2;4000;4500
-21887;Knotenhautleder;20;207500;222222
-21887;Knotenhautleder;20;167500;169900
-21887;Knotenhautleder;19;35625;0
-21887;Knotenhautleder;20;167500;169900
-21887;Knotenhautleder;20;167500;169900
-21887;Knotenhautleder;20;167500;169900
-21887;Knotenhautleder;20;167500;178900
-21887;Knotenhautleder;20;219999;229999
-21887;Knotenhautleder;20;219999;229999
-21887;Knotenhautleder;20;167500;169900
-21887;Knotenhautleder;20;167500;178900
 21887;Knotenhautleder;20;147200;184000
 21887;Knotenhautleder;20;147200;184000
 21887;Knotenhautleder;20;147200;184000
@@ -436,4 +364,3 @@
 18945;Dunkeleisenrückstände;100;131840;157300
 18945;Dunkeleisenrückstände;100;131840;157300
 18945;Dunkeleisenrückstände;100;131840;157300
-15125;Robuste Handschuhe;1;4071;4564

@@ -1,14 +1,4 @@
 10940;Seltsamer Staub;7;11907;13230
-10940;Seltsamer Staub;18;62011;68901
-10940;Seltsamer Staub;20;92620;97520
-10940;Seltsamer Staub;20;92620;97520
-10940;Seltsamer Staub;11;51359;54659
-10940;Seltsamer Staub;20;93380;99380
-10940;Seltsamer Staub;20;93380;99380
-10940;Seltsamer Staub;20;93380;99380
-10940;Seltsamer Staub;20;49900;50000
-10940;Seltsamer Staub;6;20744;23049
-10940;Seltsamer Staub;20;69147;76830
 2836;Grober Stein;20;9999;19999
 15354;Kopfjägerumhang;1;3999;4999
 14047;Runenstoff;20;52000;59900
@@ -50,22 +40,14 @@
 9253;Mittleres Kartenfragment;1;8731;9702
 9253;Mittleres Kartenfragment;1;8731;9702
 23199;Totem des Sturms;1;23712;40000
-7912;Robuster Stein;20;13000;18888
-7912;Robuster Stein;20;13000;19500
-7912;Robuster Stein;20;13000;19500
-7912;Robuster Stein;20;13000;19500
-7912;Robuster Stein;20;13000;19500
 20867;Onyxgötze;1;123138;136821
 1529;Jade;1;11500;13500
 1529;Jade;2;23000;27000
 1529;Jade;1;11500;13500
-13100;Furens Stiefel;1;35366;51708
 25896;Mächtiger Erdsturmdiamant;1;1182580;1198665
 17683;Buch: Gabe der Wildnis II;1;44099;48999
 3384;Schwacher Magiewiderstandstrank;5;34500;35500
 22452;Urerde;1;32500;34500
-4235;Schwerer Balg;3;190500;201500
-4235;Schwerer Balg;8;340673;378525
 24274;Runenverzierter Zauberfaden;1;2609999;2609999
 24274;Runenverzierter Zauberfaden;1;2979999;3000000
 2318;Leichtes Leder;20;8050;9900
@@ -74,10 +56,6 @@
 2318;Leichtes Leder;20;8050;9900
 2318;Leichtes Leder;20;8050;9900
 2318;Leichtes Leder;20;8050;9900
-30419;Blitzende Halskette;1;5525;6500
-30419;Blitzende Halskette;1;5525;6500
-30419;Blitzende Halskette;1;5525;6500
-30419;Blitzende Halskette;1;5525;6500
 33782;Beständiger Talasit;1;63094;68141
 33782;Beständiger Talasit;1;63094;68141
 33782;Beständiger Talasit;1;63094;68141
@@ -86,8 +64,6 @@
 23107;Schattendraenit;1;6050;9000
 30809;Mal des Sargeras;200;1790000;1808000
 2835;Rauer Stein;20;49999;59999
-5997;Elixier der schwachen Verteidigung;4;500;1200
-5997;Elixier der schwachen Verteidigung;20;1440;1800
 27678;Grollhuffleisch;11;39998;39999
 25669;Dicke draenische Handschuhe;1;39011;40000
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;4999;6999
@@ -122,7 +98,6 @@
 25057;Bernsteinband;1;155000;200000
 10287;Grünzwirnmantel;1;5000;5000
 2748;Die Grünen Hügel des Schlingendorntals - Seite 24;1;4999;6999
-2865;Raue bronzene Gamaschen;1;2943;2999
 22838;Hasttrank;5;229885;242385
 22838;Hasttrank;5;229885;242385
 22838;Hasttrank;5;229885;242385
@@ -177,11 +152,6 @@
 23448;Teufelsstahlbarren;1;33750;190000
 31306;Gamaschen des heiligen Wappens;1;50346;60000
 14499;Muster: Mondstofftasche;1;24088;26764
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;2;129213;143570
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;5;300000;325000
-4236;Geschmeidiger schwerer Balg;5;300000;325000
 2878;Hakenknochenaxt;1;17714;32599
 9862;Bogenschützenbeinkleider;1;8999;12999
 24207;Vorlage: Kompakter Dämmerstein;1;285000;299999
@@ -230,7 +200,6 @@
 22459;Sphäre der Leere;1;2646;2940
 22459;Sphäre der Leere;1;2646;2940
 31275;Trophäenhalskette;1;62854;70000
-13102;Cassandras Anmut;1;200318;210000
 9395;Handschuhe der Vergangenheit;1;9999;19999
 14607;Falkenauges Rundschild;1;18371;30000
 1445;Schwarzfelsschulterstücke;1;4976;4999
@@ -255,25 +224,13 @@
 2589;Leinenstoff;20;10390;14000
 1991;Goblinsuperschaufler;1;22535;49999
 28103;Elixier des Adepten;20;319999;320000
-13099;Mokassins des Weißen Hasen;1;18999;24999
 2841;Bronzebarren;20;11500;11999
 3470;Rauer Schleifstein;6;3210;3500
 31673;Knusperschlange;10;132299;135999
 24273;Mystischer Zauberfaden;1;1694999;1779999
 1179;Eiskalte Milch;1;100;100
-4337;Dicke Spinnenseide;2;1136;2120
-4337;Dicke Spinnenseide;9;10125;11200
-4337;Dicke Spinnenseide;1;1492;1658
-4337;Dicke Spinnenseide;2;3088;3860
-4337;Dicke Spinnenseide;2;2206;2506
-4337;Dicke Spinnenseide;2;2206;2506
-4337;Dicke Spinnenseide;2;2206;2506
-4337;Dicke Spinnenseide;2;2206;2506
-4337;Dicke Spinnenseide;2;2206;2506
-4337;Dicke Spinnenseide;2;2206;2506
 23436;Lebendiger Rubin;1;178500;188500
 23436;Lebendiger Rubin;1;178500;188500
-13101;Schuhe des Wolfsläufers;1;77616;97020
 31293;Gurt des Sturms;1;36864;40000
 18661;Bauplan: Weltvergrößerer;1;43500;130000
 18661;Bauplan: Weltvergrößerer;1;43500;130000
@@ -331,14 +288,6 @@
 21877;Netherstoff;20;34000;36000
 21877;Netherstoff;20;34000;36000
 33874;Kiblers Häppchen;1;1300;1500
-6037;Echtsilberbarren;20;97500;99999
-6037;Echtsilberbarren;10;58750;59999
-6037;Echtsilberbarren;20;97500;99999
-6037;Echtsilberbarren;20;37500;99999
-6037;Echtsilberbarren;20;28832;36040
-6037;Echtsilberbarren;7;12174;15218
-12361;Blauer Saphir;6;105336;119520
-12361;Blauer Saphir;1;10500;18888
 27666;Goldfischstäbchen;20;444500;449900
 23426;Khoriumerz;5;264159;293510
 23426;Khoriumerz;5;264159;293510
@@ -347,12 +296,7 @@
 6211;Rezept: Elixier der Ogerstärke;1;19909;23999
 25463;Paar Elfenbeinstoßzähne;3;22975;25528
 25463;Paar Elfenbeinstoßzähne;3;22975;25528
-11176;Traumstaub;16;90100;100000
-11176;Traumstaub;20;110100;120000
-11176;Traumstaub;20;80000;100000
-11176;Traumstaub;20;110100;120000
 11176;Traumstaub;17;47980;53312
-11176;Traumstaub;10;28224;31360
 14589;Falkenauges Schuhe;1;4999;6999
 2912;Klaue des Schattenbeschwörers;1;12999;13998
 2592;Wollstoff;20;15000;35000
@@ -374,10 +318,6 @@
 19228;Bestienkartenset;1;23700000;25200000
 7974;Scharfes Muschelfleisch;2;4268;4743
 31292;Pulsierender Kristallschild;1;78645;80000
-7911;Echtsilbererz;1;1184;1316
-7911;Echtsilbererz;8;10320;11040
-7911;Echtsilbererz;14;19124;19124
-7911;Echtsilbererz;19;26564;29516
 22445;Arkaner Staub;4;48500;51500
 22445;Arkaner Staub;20;240100;260000
 22445;Arkaner Staub;20;240100;260000
@@ -391,20 +331,11 @@
 23441;Nachtauge;1;63500;67500
 34220;Wechselhafter Himmelsfeuerdiamant;1;997500;997500
 25901;Bemerkenswerter Erdsturmdiamant;1;698686;728496
-4240;Wolltasche;1;2500;4000
-4240;Wolltasche;1;2500;4000
-4240;Wolltasche;1;2500;4000
-4240;Wolltasche;1;2500;4000
-4240;Wolltasche;1;3040;3800
-4240;Wolltasche;1;3040;3800
-4240;Wolltasche;1;2500;4000
 31255;Umhang des Geschicks;1;196447;210000
 25897;Starker Erdsturmdiamant;1;871354;889902
 14470;Muster: Runenstofftunika;1;3528;3920
 29739;Arkaner Foliant;1;114000;114000
 2800;Schwarze Samtroben;1;29999;39999
-23425;Adamantiterz;20;151515;161616
-23425;Adamantiterz;20;151515;161616
 14438;Giftschleierstiefel;1;9288;19999
 3823;Geringer Unsichtbarkeitstrank;5;125000;140000
 22446;Große Planaressenz;1;99900;99900
