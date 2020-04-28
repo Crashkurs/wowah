@@ -36,7 +36,6 @@
 2589;Leinenstoff;10;9295;11500
 2589;Leinenstoff;10;9295;11500
 14484;Muster: Hellstoffumhang;1;4560;5700
-3182;Spinnenseide;1;19500;25000
 27498;Rolle der Beweglichkeit V;5;380937;385000
 27498;Rolle der Beweglichkeit V;5;380937;385000
 1725;Große Reisetasche;1;15000;20000
@@ -93,16 +92,6 @@
 30283;Muster: Stiefel des langen Weges;1;225000;250000
 13013;Hexerältestenmantel;1;80000;80000
 22448;Kleiner Prismasplitter;1;60100;70000
-22448;Kleiner Prismasplitter;1;70100;71800
-22448;Kleiner Prismasplitter;1;70100;71999
-22448;Kleiner Prismasplitter;13;947103;1052337
-22448;Kleiner Prismasplitter;1;59531;75914
-22448;Kleiner Prismasplitter;1;72210;73810
-22448;Kleiner Prismasplitter;1;72210;73810
-22448;Kleiner Prismasplitter;2;129812;144236
-22448;Kleiner Prismasplitter;20;1298124;1442360
-22448;Kleiner Prismasplitter;1;59531;75914
-22448;Kleiner Prismasplitter;1;70100;71999
 32897;Mal der Illidari;10;110000;115000
 32897;Mal der Illidari;10;110000;115000
 32897;Mal der Illidari;10;110000;115000
@@ -164,8 +153,6 @@
 24059;Mächtiger Edeltopas;1;145000;149999
 24059;Mächtiger Edeltopas;1;145000;149999
 7364;Muster: Schwere irdene Handschuhe;1;49000;50000
-34622;Wirbelschnitter;1;1005600;1509500
-34622;Wirbelschnitter;1;3500000;4000000
 23572;Urnether;20;700000;750000
 23572;Urnether;20;700000;750000
 23572;Urnether;20;700000;750000
@@ -188,8 +175,6 @@
 34330;Schweres Knotenhautrüstungsset;1;95050;99900
 34330;Schweres Knotenhautrüstungsset;1;95050;99900
 34330;Schweres Knotenhautrüstungsset;1;95050;99900
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
-34330;Schweres Knotenhautrüstungsset;1;169999;189999
 34330;Schweres Knotenhautrüstungsset;1;95050;99900
 15409;Raffiniertes Tiefsteinsalz;1;75000;80000
 15409;Raffiniertes Tiefsteinsalz;1;75000;80000
@@ -207,28 +192,6 @@
 11137;Visionenstaub;10;70100;74000
 11137;Visionenstaub;9;68800;68900
 2966;Kriegerhose;1;1519;3500
-34827;Adligenmonokel;1;499999;555555
-3174;Spinnensekret;8;17747;22184
-3174;Spinnensekret;9;55555;69444
-3174;Spinnensekret;10;60221;66912
-3174;Spinnensekret;1;2016;2500
-34440;Trank des verrückten Alchemisten;5;79995;79995
-34440;Trank des verrückten Alchemisten;5;122655;131770
-34440;Trank des verrückten Alchemisten;1;24531;26354
-34440;Trank des verrückten Alchemisten;5;91932;102146
-34440;Trank des verrückten Alchemisten;5;91932;102146
-34440;Trank des verrückten Alchemisten;5;79995;79995
-34440;Trank des verrückten Alchemisten;5;79995;79995
-34440;Trank des verrückten Alchemisten;5;91932;102146
-34440;Trank des verrückten Alchemisten;5;91932;102146
-34440;Trank des verrückten Alchemisten;5;122655;131770
-34440;Trank des verrückten Alchemisten;5;122655;131770
-34440;Trank des verrückten Alchemisten;5;72500;80000
-34440;Trank des verrückten Alchemisten;5;122655;131770
-34440;Trank des verrückten Alchemisten;5;72500;80000
-34440;Trank des verrückten Alchemisten;5;72500;80000
-34440;Trank des verrückten Alchemisten;5;72500;80000
-34440;Trank des verrückten Alchemisten;5;102328;127910
 2911;Kellers Gurt;1;24000;25000
 11176;Traumstaub;12;54500;54644
 30323;Pläne: Stiefel des Beschützers;1;179999;199999
@@ -240,7 +203,6 @@
 31293;Gurt des Sturms;1;133643;140714
 14554;Beinplatten des Wolkenbehüters;1;245000;250000
 16248;Formel: Waffe - Unheilig;1;140000;150000
-2058;Kazons Schlägel;1;13161;16452
 13463;Traumblatt;1;14000;15000
 13463;Traumblatt;1;14000;15000
 13463;Traumblatt;1;14000;15000
@@ -258,17 +220,6 @@
 22153;Foliant der arkanen Brillanz 2;1;119900;149900
 15992;Dichtes Sprengpulver;20;14600;15000
 31305;Ceds Schnitzer;1;200000;200000
-35562;Bärenflanke;5;120277;135000
-35562;Bärenflanke;5;144900;149999
-35562;Bärenflanke;5;144900;149999
-35562;Bärenflanke;5;144900;149999
-35562;Bärenflanke;5;144900;149999
-34535;Azurblauer Welpling;1;18000000;20000000
-22449;Großer Prismasplitter;20;3576700;3598700
-22449;Großer Prismasplitter;10;1788350;1799350
-22449;Großer Prismasplitter;10;1788350;1799350
-22449;Großer Prismasplitter;10;1788350;1799350
-22449;Großer Prismasplitter;10;1788350;1799350
 22449;Großer Prismasplitter;5;660100;670000
 22449;Großer Prismasplitter;10;1660100;1670000
 22449;Großer Prismasplitter;1;175000;175000
@@ -359,7 +310,6 @@
 24053;Mystischer Dämmerstein;1;145000;149999
 9753;Zigeunerrundschild;1;8899;8999
 11139;Großer leuchtender Splitter;2;5376;6720
-34828;Antiker Silbermanschettenknopf;1;199999;239999
 31884;Segen 5;1;700000;700000
 13422;Steinschuppenaal;20;42240;52800
 13422;Steinschuppenaal;17;33456;41820
@@ -384,15 +334,6 @@
 15737;Muster: Schimärenstiefel;1;11502;14378
 13446;Erheblicher Heiltrank;1;5000;5000
 22452;Urerde;1;30000;30000
-22452;Urerde;20;686868;696969
-22452;Urerde;1;31500;37128
-22452;Urerde;1;31500;37128
-22452;Urerde;1;30999;33389
-22452;Urerde;1;30999;33389
-22452;Urerde;1;30999;33389
-22452;Urerde;5;133560;166950
-22452;Urerde;1;32999;35148
-22452;Urerde;1;44418;49353
 31186;Braxxis' Stab des Schlummers;1;100000;110000
 22446;Große Planaressenz;1;80100;90000
 22446;Große Planaressenz;1;80100;90000
@@ -401,19 +342,6 @@
 16647;Schredderanleitung - Seite 3;1;1500;2000
 22786;Traumwinde;20;155000;180000
 22786;Traumwinde;20;265000;276600
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;300000;350000
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;300000;350000
 29734;Muster: Dicke Netherschuppenbrustplatte;1;179200;224000
 13088;Gazlowes Glücksbringer;1;16872;21090
 25708;Dickes Grollhufleder;20;432500;432500
@@ -504,9 +432,6 @@
 32231;Pyrostein;1;1265000;1270000
 32231;Pyrostein;1;1265000;1270000
 21887;Knotenhautleder;20;250000;250000
-21887;Knotenhautleder;20;172784;215980
-21887;Knotenhautleder;20;219999;229999
-21887;Knotenhautleder;20;219999;229999
 10606;Bauplan: Fallschirmumhang;1;5075;6344
 16204;Illusionsstaub;20;76000;95000
 31298;Beinschützer der Zerschmetterten Hand;1;83200;99000

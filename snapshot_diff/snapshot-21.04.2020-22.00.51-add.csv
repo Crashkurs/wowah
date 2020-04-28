@@ -19,10 +19,8 @@
 5634;Trank der freien Aktion;5;50562;100000
 2915;Taraneisbrecher;1;94080;117600
 15765;Muster: Runenverzierte Lederhose;1;8248;8249
-942;Band der Eiseskälte;1;124999;144999
 22575;Lebenspartikel;10;156000;159999
 22575;Lebenspartikel;10;156000;159999
-1607;Seelenbewahrer;1;94999;99999
 7912;Robuster Stein;20;6208;7760
 13117;Ogrons Schärpe;1;61610;74683
 6271;Muster: Rote Leinenweste;1;7264;8071
@@ -114,7 +112,6 @@
 27501;Rolle der Willenskraft V;1;44999;49999
 27501;Rolle der Willenskraft V;1;44999;49999
 27501;Rolle der Willenskraft V;1;44999;49999
-19232;Bestien 4;1;49999;74999
 31298;Beinschützer der Zerschmetterten Hand;1;118500;155000
 31298;Beinschützer der Zerschmetterten Hand;1;127634;159543
 31298;Beinschützer der Zerschmetterten Hand;1;168152;178900
@@ -123,7 +120,6 @@
 31298;Beinschützer der Zerschmetterten Hand;1;185000;200000
 31298;Beinschützer der Zerschmetterten Hand;1;198724;203405
 31298;Beinschützer der Zerschmetterten Hand;1;198724;203405
-31150;Handschuhe der Frömmigkeit;1;84999;89999
 11084;Großer gleißender Splitter;7;11353;12615
 27663;Schwarzgebratener Sporenfisch;10;37240;46550
 27663;Schwarzgebratener Sporenfisch;20;84500;90000
@@ -133,7 +129,6 @@
 1717;Doppelverbundtunika;1;12702;14113
 10050;Magiestofftasche;1;19999;29999
 10050;Magiestofftasche;1;19999;29999
-22146;Buch: Gabe der Wildnis III;1;199999;249999
 22146;Buch: Gabe der Wildnis III;1;156790;174211
 2879;Antipodenrute;1;11124;12360
 3576;Zinnbarren;20;5000;5000
@@ -154,13 +149,9 @@
 4242;Geprägte Lederhose;1;1920;2999
 4242;Geprägte Lederhose;1;1920;2999
 4242;Geprägte Lederhose;1;1920;2999
-31153;Axt der Legion;1;549999;599999
 13041;Wächterklinge;1;20500;30500
-31294;Schulterstücke der Manawoge;1;128838;161048
 31294;Schulterstücke der Manawoge;1;150544;169999
 31294;Schulterstücke der Manawoge;1;150544;169999
-31294;Schulterstücke der Manawoge;1;160044;160500
-24171;Vorlage: Kette der Nebeleule;1;149999;199999
 5527;Scharfe Muscheln nach Goblinart;10;3499;4999
 5527;Scharfe Muscheln nach Goblinart;10;3499;4999
 3819;Winterbiss;1;1032;1147
@@ -204,7 +195,6 @@
 31306;Gamaschen des heiligen Wappens;1;185000;187500
 31306;Gamaschen des heiligen Wappens;1;140346;149999
 31306;Gamaschen des heiligen Wappens;1;140346;149999
-19231;Bestien 3;1;74999;99999
 8172;Geschmeidiger dicker Balg;5;61201;68001
 8172;Geschmeidiger dicker Balg;5;61201;68001
 8172;Geschmeidiger dicker Balg;5;61201;68001
@@ -213,9 +203,7 @@
 22793;Manadistel;20;74900;75000
 14114;Ureinwohnerfußlappen;1;363;750
 24886;Skettisgürtel;1;30694;39900
-31901;Furien Ass;1;78228;85286
 4676;Skelettstulpen;1;417;850
-31190;Schulterpolster des Träumers;1;149999;174999
 4236;Geschmeidiger schwerer Balg;2;129322;143691
 13512;Fläschchen der obersten Macht;1;130000;140000
 13512;Fläschchen der obersten Macht;1;130000;140000
@@ -268,9 +256,7 @@
 22457;Urmana;1;193079;194099
 22457;Urmana;1;199960;199980
 10332;Scharlachrote Stiefel;1;149999;174999
-10332;Scharlachrote Stiefel;1;149999;174999
 12208;Zartes Wolfsfleisch;10;9999;12499
-8006;Der Ziggler;1;44999;49999
 13125;Elfenkettenstiefel;1;31644;39555
 810;Hammer des Nordwindes;1;249999;274999
 31297;Robe des Purpurordens;1;499153;500000
@@ -332,7 +318,6 @@
 23439;Edeltopas;1;95000;99999
 24051;Massiver Dämmerstein;1;99900;105000
 31145;Kopfputz des Schläfers;1;91745;101939
-31145;Kopfputz des Schläfers;1;124999;149999
 24751;Dolchfennkampfweste;1;50677;59900
 24065;Schillernder Talasit;1;44200;44300
 13145;Riesiger Ogergürtel;1;26921;30874
@@ -344,7 +329,6 @@
 31308;Der Überbringer des Todes;1;274889;290000
 31308;Der Überbringer des Todes;1;199479;221644
 31308;Der Überbringer des Todes;1;199480;221645
-3075;Flammenauge;1;79999;99999
 31134;Klinge des Unglücks;1;174999;199999
 14479;Muster: Hellstoffhandschuhe;1;5940;6600
 932;Satteltaschen für ein Teufelsross;1;7200;7838
@@ -369,10 +353,6 @@
 4337;Dicke Spinnenseide;1;1177;1308
 2601;Muster: Graue Wollrobe;1;10462;11624
 13021;Einfädler;1;26411;29346
-31293;Gurt des Sturms;1;176545;177273
-31293;Gurt des Sturms;1;248189;252737
-31293;Gurt des Sturms;1;248189;252737
-31293;Gurt des Sturms;1;166864;169999
 31200;Schild des unberechenbaren Fußsoldaten;1;240270;266967
 3928;Überragender Heiltrank;5;2142;2380
 3928;Überragender Heiltrank;2;857;952
@@ -397,11 +377,6 @@
 2772;Eisenerz;20;56000;56000
 29740;Teuflische Waffen;10;1970100;1989999
 29727;Muster: Handschuhe der lebendigen Berührung;1;174870;218588
-17056;Leichte Feder;20;39999;49999
-17056;Leichte Feder;20;39999;49999
-17056;Leichte Feder;20;39999;49999
-17056;Leichte Feder;20;39999;49999
-17056;Leichte Feder;20;39999;49999
 17056;Leichte Feder;10;14652;16280
 21877;Netherstoff;20;34044;37827
 21877;Netherstoff;20;34044;37827
@@ -469,7 +444,6 @@
 2319;Mittleres Leder;20;30000;30333
 2319;Mittleres Leder;20;30000;30333
 31204;Kanonenklinge;1;184735;205261
-31204;Kanonenklinge;1;189999;199999
 23622;Pläne: Stahlgriffstulpen;1;148372;185465
 23622;Pläne: Stahlgriffstulpen;1;899999;999999
 24296;Muster: Armschienen des Unerschütterlichen;1;148960;186200
@@ -532,14 +506,9 @@
 3866;Pläne: Jadeschlangenklinge;1;9440;10489
 3866;Pläne: Jadeschlangenklinge;1;9440;10489
 7974;Scharfes Muschelfleisch;10;7499;7999
-31292;Pulsierender Kristallschild;1;449999;449999
 3860;Mithrilbarren;15;87048;118810
 22456;Urschatten;6;106000;150000
 22456;Urschatten;2;50000;60000
-31291;Kristallgeschmiedete Kriegsaxt;1;199998;199999
-31291;Kristallgeschmiedete Kriegsaxt;1;199998;199999
-31291;Kristallgeschmiedete Kriegsaxt;1;260000;285000
-31291;Kristallgeschmiedete Kriegsaxt;1;199999;224999
 23529;Adamantitwetzstein;6;119000;120000
 13121;Flügel des Welplings;1;22499;24999
 31295;Brustschutz des Dunkelpirschers;1;150000;160000

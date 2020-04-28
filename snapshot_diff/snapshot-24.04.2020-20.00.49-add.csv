@@ -10,7 +10,6 @@
 19269;Elementar 2;1;29999;29999
 14960;Oberhäuptlingsgürtel;1;60000;70000
 4300;Muster: Wächterlederarmschienen;1;2240;2800
-22522;Überragendes Zauberöl;1;58409;58410
 20823;Band der Schwermut;1;2678;3348
 20823;Band der Schwermut;1;2678;3348
 20823;Band der Schwermut;1;2678;3348
@@ -22,22 +21,6 @@
 19230;Bestien 2;1;1999999;1999999
 9298;Rezept: Elixier der Riesen;1;39264;43627
 3859;Stahlbarren;9;34200;42750
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;460000;480000
-22831;Elixier der erheblichen Beweglichkeit;20;460000;480000
-22831;Elixier der erheblichen Beweglichkeit;20;460000;480000
-22831;Elixier der erheblichen Beweglichkeit;20;460000;480000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;473500;499000
-22831;Elixier der erheblichen Beweglichkeit;20;460000;480000
 18334;Buchband des Schutzes;1;647478;719420
 13512;Fläschchen der obersten Macht;1;189999;199999
 13512;Fläschchen der obersten Macht;1;189999;199999
@@ -55,17 +38,9 @@
 20424;Sandwurmfleisch;2;10525;20000
 15279;Elfenbeinzauberstab;1;27400;30000
 8132;Myrmidonengamaschen;1;21500;23500
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
 22828;Trank der Wahnsinnsstärke;5;199999;199999
 22828;Trank der Wahnsinnsstärke;5;199999;199999
 22828;Trank der Wahnsinnsstärke;5;199999;199999
-22828;Trank der Wahnsinnsstärke;5;236500;249999
 21931;Geflochtener Kupferring;1;6675;7700
 21931;Geflochtener Kupferring;1;6675;7700
 16051;Bauplan: Thoriumpatronen;1;8999;9999
@@ -79,11 +54,7 @@
 21886;Urleben;10;1120000;1140000
 21886;Urleben;10;1120000;1140000
 4247;Lederhandschuhe des Hügelwächters;1;12802;14224
-4318;Handschuhe der Meditation;1;11044;12271
 13949;Rezept: Gebackener Lachs;1;37500;39000
-21845;Urmondstoff;1;345554;345554
-21845;Urmondstoff;1;345554;345554
-21845;Urmondstoff;1;345554;345554
 3174;Spinnensekret;10;53984;67480
 3174;Spinnensekret;10;63929;71033
 3385;Geringer Manatrank;5;3150;4000
@@ -93,87 +64,14 @@
 3385;Geringer Manatrank;5;3150;4000
 12808;Essenz des Untodes;2;6400;8000
 10604;Bauplan: Schwerkalibriges Mithrilgewehr;1;40825;50000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;25999;25999
-4306;Seidenstoff;20;19524;25780
-4306;Seidenstoff;3;3883;4314
-4306;Seidenstoff;7;7980;9975
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24500;28000
-4306;Seidenstoff;20;24200;32900
 4306;Seidenstoff;20;24000;25000
 4306;Seidenstoff;15;12750;12750
 4306;Seidenstoff;20;17000;17000
 4306;Seidenstoff;20;17000;17000
 4306;Seidenstoff;20;17000;17000
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;14500;24100
-4306;Seidenstoff;20;14500;25000
-4306;Seidenstoff;20;14500;25000
-4306;Seidenstoff;20;14500;25000
-4306;Seidenstoff;20;14500;25000
-4306;Seidenstoff;20;14500;22000
-4306;Seidenstoff;8;11800;20000
-4306;Seidenstoff;16;19464;21627
-4306;Seidenstoff;20;24330;27033
-4306;Seidenstoff;20;14500;24100
-4306;Seidenstoff;20;4500;0
 4306;Seidenstoff;20;24500;30000
-4306;Seidenstoff;20;20000;24900
-4306;Seidenstoff;20;20000;24900
-4306;Seidenstoff;20;20000;24900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;24200;32900
-4306;Seidenstoff;20;14500;25000
-4306;Seidenstoff;20;24999;25999
 4306;Seidenstoff;20;24000;25000
-4306;Seidenstoff;20;24999;25999
 4306;Seidenstoff;20;24000;25000
-4306;Seidenstoff;20;21300;25000
-4306;Seidenstoff;20;21300;25000
-4306;Seidenstoff;20;21300;25000
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
-4306;Seidenstoff;20;24999;25999
 4306;Seidenstoff;20;24000;25000
 3842;Grüne Eisengamaschen;1;5359;6999
 3832;Rezept: Elixier der Entdeckung geringer Unsichtbarkeit;1;21155;23506
@@ -220,7 +118,6 @@
 4305;Seidenstoffballen;8;27200;40000
 2862;Rauer Wetzstein;5;1930;2145
 2862;Rauer Wetzstein;5;1930;2145
-1445;Schwarzfelsschulterstücke;1;22000;25000
 4299;Muster: Wächterrüstung;1;750;5000
 5503;Muschelfleisch;1;416;500
 5503;Muschelfleisch;1;416;500
@@ -256,8 +153,6 @@
 13422;Steinschuppenaal;20;30300;50000
 13422;Steinschuppenaal;20;30300;50000
 13422;Steinschuppenaal;20;30300;50000
-20747;Geringes Manaöl;1;29999;39999
-20747;Geringes Manaöl;1;29999;39999
 16203;Große ewige Essenz;2;169734;188594
 8385;Muster: Schildkrötenschuppenhandschuhe;1;2800;3500
 4234;Schweres Leder;6;15000;15000
@@ -315,37 +210,16 @@
 2318;Leichtes Leder;20;13900;13900
 2318;Leichtes Leder;20;13900;13900
 18045;Zartes Wolfsteak;20;19000;20000
-4337;Dicke Spinnenseide;2;5881;6534
-4337;Dicke Spinnenseide;6;5000;20000
-4337;Dicke Spinnenseide;1;1154;1283
-4337;Dicke Spinnenseide;7;6075;7000
-4337;Dicke Spinnenseide;2;2466;2738
-4337;Dicke Spinnenseide;2;2466;2738
-4337;Dicke Spinnenseide;2;2466;2738
-4337;Dicke Spinnenseide;2;2466;2738
-4337;Dicke Spinnenseide;2;2466;2738
-4337;Dicke Spinnenseide;2;2466;2738
 19931;Mojowahnsinn der Gurubashi;1;499999;999999
 13926;Goldene Perle;2;24764;27516
 21305;Rote Helferbox;1;148960;186200
 5470;Donnerechsenschwanz;8;13651;17064
 19270;Elementar 3;1;18750;30000
-22826;Schleichtrank;4;35000;40000
 4338;Magiestoff;4;16000;16000
 4338;Magiestoff;20;80000;80000
 4338;Magiestoff;20;80000;80000
 4338;Magiestoff;20;80000;80000
-22827;Elixier der erheblichen Frostmacht;20;555000;600000
 21872;Schwarzschattentasche;1;2327644;2500000
-22521;Überragendes Manaöl;1;74000;75000
-22521;Überragendes Manaöl;1;69050;69900
-22521;Überragendes Manaöl;1;69050;69900
-22521;Überragendes Manaöl;1;101772;113080
-22521;Überragendes Manaöl;1;101772;113080
-22521;Überragendes Manaöl;1;74000;75000
-22521;Überragendes Manaöl;1;74000;75000
-22521;Überragendes Manaöl;1;74000;75000
-22521;Überragendes Manaöl;1;74000;75000
 6452;Gegengift;16;7155;8944
 21884;Urfeuer;1;219999;219999
 21884;Urfeuer;1;197777;199999
@@ -362,8 +236,6 @@
 4304;Dickes Leder;19;61050;62000
 4304;Dickes Leder;11;42900;42900
 2838;Schwerer Stein;20;11800;19999
-22829;Erstklassiger Heiltrank;1;23499;23999
-22829;Erstklassiger Heiltrank;1;23499;23999
 16204;Illusionsstaub;12;90914;101016
 16204;Illusionsstaub;2;9000;9000
 9719;Zerbrochene Klinge der Helden;1;17037;18931
@@ -371,7 +243,6 @@
 6338;Silberrute;1;1987;1999
 10558;Goldkraftkern;2;10258;11398
 4096;Grobes Gorillahaar;2;1423;1582
-20750;Zauberöl;1;29999;39999
 20827;Ring der Silbermacht;1;2812;3500
 20827;Ring der Silbermacht;1;2800;3500
 20827;Ring der Silbermacht;1;2812;3500

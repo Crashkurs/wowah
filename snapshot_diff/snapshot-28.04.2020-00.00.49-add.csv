@@ -2,13 +2,10 @@
 1982;Nachtklinge;1;119344;122089
 6211;Rezept: Elixier der Ogerstärke;1;9791;17239
 7330;Spitzelrundschild;1;9953;19992
-23119;Funkelnder Azurmondstein;1;7999;9999
-23119;Funkelnder Azurmondstein;1;7999;9999
 5575;Großer grüner Sack;1;5880;9950
 2589;Leinenstoff;20;5472;6840
 2589;Leinenstoff;20;5472;6840
 2589;Leinenstoff;20;5472;6840
-23131;Vorlage: Klobiger Blutgranat;1;198750;200000
 22522;Überragendes Zauberöl;1;62250;70000
 22522;Überragendes Zauberöl;1;62250;70000
 22522;Überragendes Zauberöl;1;62250;70000
@@ -18,12 +15,9 @@
 22522;Überragendes Zauberöl;1;62250;70000
 22522;Überragendes Zauberöl;1;62250;70000
 22522;Überragendes Zauberöl;1;62250;70000
-4061;Imperiale Lederarmschienen;1;5000;7500
 1725;Große Reisetasche;1;5648;19560
 2555;Rezept: Hurtigkeitstrank;1;5576;9995
 810;Hammer des Nordwindes;1;143256;173494
-3927;Feiner alter Cheddar;1;546;600
-3927;Feiner alter Cheddar;3;1620;1800
 1705;Geringer Mondstein;20;128000;150000
 1705;Geringer Mondstein;9;98100;100000
 1981;Eispanzerwams;1;66226;76180
@@ -31,16 +25,6 @@
 24116;Auge der Nacht;1;509205;550000
 24116;Auge der Nacht;1;509205;550000
 4294;Muster: Gürtel des Hügelwächters;1;3356;6620
-31861;Großer Dämmerstein;1;59999;78999
-31861;Großer Dämmerstein;1;59999;78999
-31861;Großer Dämmerstein;1;59999;78999
-31861;Großer Dämmerstein;1;159900;164900
-34831;Auge des Meeres;1;449999;549999
-32249;Gischtsmaragd;1;130000;140000
-32249;Gischtsmaragd;1;155000;160000
-32249;Gischtsmaragd;1;130000;140000
-32249;Gischtsmaragd;1;155000;160000
-32249;Gischtsmaragd;1;155000;160000
 22577;Schattenpartikel;4;14781;16423
 1973;Täuschungskugel;1;90818;91111
 6541;Weidenhandschuhe;1;5521;9952
@@ -55,19 +39,13 @@
 22832;Erstklassiger Manatrank;5;127500;129000
 22832;Erstklassiger Manatrank;5;127500;129000
 1169;Schwarzschädelschild;1;62136;78069
-23135;Vorlage: Gravierter Flammenspessarit;1;195000;200000
 7912;Robuster Stein;2;412;592
 7912;Robuster Stein;20;4120;5920
 7912;Robuster Stein;20;4120;5920
 7912;Robuster Stein;20;4120;5920
 1263;Hirnhacker;1;113017;118300
-34622;Wirbelschnitter;1;2500000;2600000
-34622;Wirbelschnitter;1;2500000;2600000
-34622;Wirbelschnitter;1;1000000;1400000
-34622;Wirbelschnitter;1;1765958;2207448
 7909;Aquamarin;2;15836;18928
 22527;Kern der Elemente;11;33300;40000
-35759;Kraftvoller Gischtsmaragd;1;266000;332500
 34330;Schweres Knotenhautrüstungsset;1;71250;80000
 2407;Muster: Weißes Lederwams;1;508;936
 27674;Felshetzerfleisch;1;1600;1738
@@ -77,7 +55,6 @@
 34440;Trank des verrückten Alchemisten;5;93090;93090
 34440;Trank des verrückten Alchemisten;5;93090;93090
 34220;Wechselhafter Himmelsfeuerdiamant;1;967748;977624
-4038;Nachthauchrobe;1;22671;24079
 2246;Myrmidonensignet;1;161875;179861
 2246;Myrmidonensignet;1;178062;197847
 2072;Zwergischer Magierstab;1;9924;27656
@@ -87,7 +64,6 @@
 4232;Mittlerer Balg;5;17320;21650
 6037;Echtsilberbarren;5;14700;18850
 22854;Fläschchen des unerbittlichen Angriffs;1;150000;160000
-3928;Überragender Heiltrank;5;1960;2450
 6396;Geschmückter Brustharnisch;1;9004;16656
 2277;Totenbeschwörergamaschen;1;21281;29102
 2915;Taraneisbrecher;1;115046;133389
@@ -96,112 +72,30 @@
 870;Feurige Kriegsaxt;1;191692;218594
 870;Feurige Kriegsaxt;1;174266;198722
 22838;Hasttrank;5;161245;171245
-22838;Hasttrank;5;161245;169245
-22838;Hasttrank;5;161245;171245
-22838;Hasttrank;5;161245;169245
-22838;Hasttrank;5;161245;171245
-22838;Hasttrank;5;161245;169245
-22838;Hasttrank;5;161245;169245
-22838;Hasttrank;5;168600;169900
-22838;Hasttrank;5;168600;169900
-22838;Hasttrank;5;168600;169900
 22838;Hasttrank;5;161245;171245
 22838;Hasttrank;5;161245;171245
-22838;Hasttrank;5;161245;171245
-22861;Fläschchen des blendenden Lichts;5;950000;950000
-22861;Fläschchen des blendenden Lichts;5;950000;950000
-22861;Fläschchen des blendenden Lichts;5;950000;950000
 1315;Lilienkranz;1;50724;66360
-4065;Gefechtsschild;1;14366;27958
 937;Schwarzer Dämmerwaldstab;1;19512;26890
 7069;Elementarluft;4;49000;56000
 23117;Azurmondstein;20;75000;99999
-23117;Azurmondstein;20;85000;110000
-23117;Azurmondstein;20;85000;110000
-23117;Azurmondstein;20;75000;99999
-23117;Azurmondstein;20;75000;99999
-23117;Azurmondstein;20;85984;94980
 23117;Azurmondstein;1;7600;9500
-23117;Azurmondstein;1;5942;6602
-23117;Azurmondstein;1;7600;9500
-23117;Azurmondstein;1;4588;5098
 23117;Azurmondstein;1;5632;7040
-4058;Glyphenverzierte Brustplatte;1;36053;44094
 783;Leichter Balg;6;5510;9988
-22866;Fläschchen des reinen Todes;1;187962;208847
-22866;Fläschchen des reinen Todes;5;800000;825000
-22866;Fläschchen des reinen Todes;1;187976;208863
-22866;Fläschchen des reinen Todes;1;187973;208859
-22866;Fläschchen des reinen Todes;1;187969;208855
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;187962;208847
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
-22866;Fläschchen des reinen Todes;1;190000;200000
 811;Axt des Tiefwaldes;1;213675;236647
 811;Axt des Tiefwaldes;1;213675;236647
 1447;Ring der Retter;1;76795;83147
 943;Stab des Aufsehers;1;80428;98999
 2243;Hand von Edward dem Seltsamen;1;277392;291122
 7428;Schattenkatzenbalg;5;5336;9970
-34861;Geschärfter Angelhaken;20;50000;60000
-34861;Geschärfter Angelhaken;20;50000;60000
-34861;Geschärfter Angelhaken;20;50000;60000
 34861;Geschärfter Angelhaken;20;47740;55220
-32409;Unerbittlicher Erdsturmdiamant;1;800000;850000
-32409;Unerbittlicher Erdsturmdiamant;1;799999;849900
-32409;Unerbittlicher Erdsturmdiamant;1;799999;849900
-32409;Unerbittlicher Erdsturmdiamant;1;664324;665505
 7070;Elementarwasser;6;6569;9912
 4449;Naraxis' Fangzahn;1;9562;13328
-23118;Gediegener Azurmondstein;1;12500;13398
-23118;Gediegener Azurmondstein;1;7219;89024
-23118;Gediegener Azurmondstein;1;7219;89024
-23118;Gediegener Azurmondstein;1;7219;89024
-23118;Gediegener Azurmondstein;1;30000;40000
-23118;Gediegener Azurmondstein;1;12000;13398
-23118;Gediegener Azurmondstein;1;12000;13398
-23118;Gediegener Azurmondstein;1;12000;13398
 23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12500;13398
-23118;Gediegener Azurmondstein;1;12500;13398
-23118;Gediegener Azurmondstein;1;12500;13398
 23118;Gediegener Azurmondstein;1;9999;12299
-23118;Gediegener Azurmondstein;1;12500;13398
 1015;Magere Wolfflanke;10;3384;6730
 6068;Rezept: Schattenöl;1;15147;21434
 1461;Streitaxt des Töters;1;5594;9968
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;266000;332500
-35758;Beständiger Gischtsmaragd;1;266000;332500
-23120;Stürmischer Azurmondstein;1;9999;17799
-23120;Stürmischer Azurmondstein;1;9999;17799
-23120;Stürmischer Azurmondstein;1;10000;17700
-23120;Stürmischer Azurmondstein;1;16116;17907
 1980;Unterweltband;1;160690;188100
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;10;350000;379999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;699999;749999
-22794;Teufelslotus;20;790000;800000
-22794;Teufelslotus;10;350000;379999
 1713;Ankh des Lebens;1;13668;29586
 2592;Wollstoff;20;38000;47500
 2592;Wollstoff;20;38000;47500
@@ -218,25 +112,7 @@
 4304;Dickes Leder;20;46384;57980
 4304;Dickes Leder;20;46384;57980
 868;Inbrünstiger Hüter;1;110258;127615
-4060;Glyphenverzierte Gamaschen;1;17421;21777
 2406;Muster: Feine Lederstiefel;1;919;4899
 3683;Rezept: Klebriger Spinnenkuchen;1;7240;16550
 1979;Mauer der Toten;1;125128;149942
 2951;Ring des Waldlandes;1;39080;45000
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;86450;95000
-22785;Teufelsgras;20;86450;95000
-22785;Teufelsgras;3;12967;14250
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;54500;73360
-22785;Teufelsgras;20;54500;73360
-22785;Teufelsgras;20;75000;89999
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;149900;169900
-22785;Teufelsgras;20;54500;73360

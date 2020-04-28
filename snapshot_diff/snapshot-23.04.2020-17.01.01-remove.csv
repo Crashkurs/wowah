@@ -34,7 +34,6 @@
 6572;Verteidigungsstarker Schild;1;1984;10000
 1169;Schwarzschädelschild;1;43173;53967
 21885;Urwasser;20;3300000;3300000
-17200;Rezept: Lebkuchen;1;133977;148863
 24274;Runenverzierter Zauberfaden;1;2559999;2579999
 24274;Runenverzierter Zauberfaden;1;2538900;2539200
 29734;Muster: Dicke Netherschuppenbrustplatte;1;405013;450015
@@ -42,32 +41,6 @@
 27658;Gerösteter Grollhuf;20;119532;151040
 11137;Visionenstaub;17;99710;110789
 2728;Die Grünen Hügel des Schlingendorntals - Seite 4;1;7500;10000
-20866;Azurgötze;2;89998;99998
-22788;Flammenkappe;14;140000;150000
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;320000;327500
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;327600;329500
 31298;Beinschützer der Zerschmetterten Hand;1;118500;155000
 34828;Antiker Silbermanschettenknopf;1;389365;432628
 13463;Traumblatt;1;15000;16500
@@ -109,7 +82,6 @@
 22838;Hasttrank;5;239999;249999
 22838;Hasttrank;5;239999;249999
 22838;Hasttrank;5;239999;249999
-15417;Teufelssaurierleder;1;12029;13365
 3576;Zinnbarren;8;3189;3543
 9298;Rezept: Elixier der Riesen;1;49821;55357
 9298;Rezept: Elixier der Riesen;1;49821;55357
@@ -121,7 +93,6 @@
 13490;Rezept: Großer Steinschildtrank;1;46000;50000
 936;Mitternachtsstreitkolben;1;21500;23000
 936;Mitternachtsstreitkolben;1;17430;23200
-13929;Scharfer geräucherter Barsch;15;2608;2898
 23572;Urnether;5;88500;94000
 23572;Urnether;5;80000;94999
 23572;Urnether;5;80000;94999
@@ -139,7 +110,6 @@
 4589;Lange elegante Feder;1;5606;6229
 4589;Lange elegante Feder;1;5606;6229
 4589;Lange elegante Feder;1;5606;6229
-23810;Bauplan: Krachbummroboter;1;46102;51224
 2770;Kupfererz;4;5800;5900
 2770;Kupfererz;4;5800;5900
 25707;Teufelsbalg;10;118632;131813
@@ -180,23 +150,14 @@
 19768;Urzeitliches Tigerleder;1;23653;26281
 24048;Glatter Dämmerstein;1;95000;98000
 24048;Glatter Dämmerstein;1;95000;98000
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-24048;Glatter Dämmerstein;1;120000;169999
-22786;Traumwinde;20;200000;200000
 10424;Pläne: Bronzene Gamaschen mit Versilberung;1;9999;10000
 22861;Fläschchen des blendenden Lichts;5;880000;880000
 22861;Fläschchen des blendenden Lichts;5;880000;880000
 13890;Panzerfisch;20;7484;8316
-13890;Panzerfisch;2;748;831
 13757;Zitteraal;2;3500;3800
 2742;Die Grünen Hügel des Schlingendorntals - Seite 18;1;7500;10000
 6476;Muster: Deviatschuppengürtel;1;50750;60000
 6362;Roher Steinschuppenkabeljau;20;66376;73751
-3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 27502;Rolle der Ausdauer V;1;2175;2416
 10978;Kleiner gleißender Splitter;1;3326;4458
 3820;Würgetang;5;6640;8300
@@ -209,14 +170,9 @@
 5498;Kleine irisierende Perle;1;930;990
 6149;Großer Manatrank;1;1040;1110
 6149;Großer Manatrank;2;2083;2315
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
 23766;Geeichtes Eterniumzielfernrohr;1;1853058;2058953
 3818;Blassblatt;1;560;600
 22577;Schattenpartikel;7;28374;31526
-20498;Silithidenchitin;2;10592;11768
 23439;Edeltopas;1;98010;98010
 23439;Edeltopas;1;98010;98010
 12979;Flammenfluchumhang;1;10925;20000
@@ -232,23 +188,16 @@
 24273;Mystischer Zauberfaden;1;1654500;1689500
 8167;Schildkrötenschuppe;17;97654;108505
 1168;Schädelflammenschild;1;145236;181545
-1168;Schädelflammenschild;1;183866;204296
 2453;Beulengras;1;232;258
 2453;Beulengras;4;144;180
 2453;Beulengras;20;560;700
 24029;Tränenförmiger lebendiger Rubin;1;205000;209000
-22787;Zottelkappe;20;190000;200000
-22787;Zottelkappe;2;149999;179999
-22787;Zottelkappe;20;149999;179999
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;7500;10000
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;7500;10000
 23436;Lebendiger Rubin;1;180577;200642
 23436;Lebendiger Rubin;1;180577;200642
 23436;Lebendiger Rubin;1;180577;200642
 23436;Lebendiger Rubin;1;182201;202446
-6291;Roher glänzender Kleinfisch;1;781;868
-6291;Roher glänzender Kleinfisch;20;15630;17367
-6291;Roher glänzender Kleinfisch;20;15630;17367
 3355;Wildstahlblume;20;31500;35000
 3355;Wildstahlblume;3;4826;6033
 3355;Wildstahlblume;1;1222;1528
@@ -261,9 +210,6 @@
 23784;Adamantitrahmen;1;45000;74900
 23784;Adamantitrahmen;1;45000;74900
 23784;Adamantitrahmen;1;45000;74900
-29727;Muster: Handschuhe der lebendigen Berührung;1;200390;222656
-8391;Kicherfangunterkiefer;3;2901;3224
-8391;Kicherfangunterkiefer;3;2901;3224
 21877;Netherstoff;20;32800;38500
 21877;Netherstoff;20;32800;38500
 21877;Netherstoff;20;32800;38500
@@ -290,16 +236,6 @@
 22791;Netherblüte;20;349999;399999
 22791;Netherblüte;20;349999;399999
 22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
 3486;Schwerer Schleifstein;7;8540;9489
 11176;Traumstaub;20;127244;141382
 11176;Traumstaub;20;127244;141382
@@ -308,9 +244,6 @@
 32620;Zeitverlorene Schriftrolle;1;13488;14987
 2592;Wollstoff;20;20990;30000
 29426;Siegel der Feuerschwingen;26;197800;202000
-4461;Raptorbalg;1;286;318
-4461;Raptorbalg;6;1719;1910
-4461;Raptorbalg;6;1719;1910
 4461;Raptorbalg;6;1719;1910
 4461;Raptorbalg;6;1719;1910
 4461;Raptorbalg;1;286;318
@@ -364,26 +297,19 @@
 23449;Khoriumbarren;20;1505000;1590000
 14552;Palisadenschulterstücke;1;63640;70712
 7974;Scharfes Muschelfleisch;6;3850;4000
-20854;Vorlage: Amulett des Mondes;1;24740;27489
 7911;Echtsilbererz;1;1430;1520
 7911;Echtsilbererz;13;9750;11000
 11986;Thalliumreifen;1;5380;6725
 22445;Arkaner Staub;20;299000;299999
 22445;Arkaner Staub;20;299000;299999
 22445;Arkaner Staub;20;299000;299999
-6317;Roher Lochfrenzy;5;8505;9450
 10592;Katzenaugenelixier;2;2324;2582
 10592;Katzenaugenelixier;20;23245;25828
-5740;Rote Feuerwerksrakete;5;64455;66065
-5740;Rote Feuerwerksrakete;5;64455;66065
 23441;Nachtauge;5;275000;290000
 24047;Brillanter Dämmerstein;1;99999;124999
-24047;Brillanter Dämmerstein;1;120000;169999
 24047;Brillanter Dämmerstein;1;99999;124999
 24047;Brillanter Dämmerstein;1;99999;124999
 24047;Brillanter Dämmerstein;1;99999;124999
-24047;Brillanter Dämmerstein;1;120000;169999
-24047;Brillanter Dämmerstein;1;120000;169999
 4625;Feuerblüte;20;157600;159999
 10606;Bauplan: Fallschirmumhang;1;6900;7400
 23762;Ultraspektropische Enthüllungsbrille;1;37986;0
@@ -403,23 +329,6 @@
 29540;Verstärkte Bergbautasche;1;495000;500000
 25699;Kristalldurchdrungenes Leder;17;93101;103446
 23425;Adamantiterz;6;46873;52082
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
 34440;Trank des verrückten Alchemisten;5;93345;103717
 34440;Trank des verrückten Alchemisten;5;93345;103717
 34440;Trank des verrückten Alchemisten;5;93345;103717

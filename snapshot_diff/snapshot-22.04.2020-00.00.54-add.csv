@@ -1,6 +1,4 @@
 8274;Wackerer Brustschutz;1;26910;30000
-31911;Delirium 8;1;3356960;3371200
-31911;Delirium 8;1;3289821;3303776
 25042;Netherumhang;1;492296;499999
 25042;Netherumhang;1;482296;499999
 14048;Runenstoffballen;2;30000;30500
@@ -17,60 +15,9 @@
 14047;Runenstoff;20;35000;40000
 14047;Runenstoff;20;35000;40000
 14047;Runenstoff;20;35000;40000
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;5;99375;99999
-32062;Elixier der erheblichen Seelenstärke;5;99375;99999
-32062;Elixier der erheblichen Seelenstärke;10;200000;200000
-32062;Elixier der erheblichen Seelenstärke;5;99375;99999
-32062;Elixier der erheblichen Seelenstärke;10;111000;112400
-32062;Elixier der erheblichen Seelenstärke;10;111000;112400
-32062;Elixier der erheblichen Seelenstärke;10;111000;112400
-32062;Elixier der erheblichen Seelenstärke;10;111000;112400
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;5;99375;99999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;3;41997;62997
-32062;Elixier der erheblichen Seelenstärke;5;69995;104995
-32062;Elixier der erheblichen Seelenstärke;5;69995;104995
-32062;Elixier der erheblichen Seelenstärke;20;439984;449980
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;5;69995;104995
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;5;69995;104995
-32062;Elixier der erheblichen Seelenstärke;20;224999;224999
-32062;Elixier der erheblichen Seelenstärke;5;69995;104995
-32062;Elixier der erheblichen Seelenstärke;20;291600;299500
-32062;Elixier der erheblichen Seelenstärke;20;291600;299500
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
-32062;Elixier der erheblichen Seelenstärke;10;159992;199990
-32062;Elixier der erheblichen Seelenstärke;10;179990;249990
 31861;Großer Dämmerstein;1;120000;120000
 31861;Großer Dämmerstein;1;120000;120000
 31905;Furien 7;1;1099999;1599999
-31905;Furien 7;1;1470000;1666000
-31905;Furien 7;1;1470000;1666000
-31905;Furien 7;1;1500000;1700000
 24060;Glänzender Edeltopas;1;142498;142499
 24060;Glänzender Edeltopas;1;142498;142499
 11288;Großer Magiezauberstab;1;12302;20000
@@ -80,13 +27,6 @@
 31906;Furien 6;1;79999608;99999510
 22562;Formel: Überragendes Manaöl;1;425005;450000
 22575;Lebenspartikel;3;62886;66540
-33093;Manatrankeinspritzung;20;649900;649900
-33093;Manatrankeinspritzung;20;649900;649900
-33093;Manatrankeinspritzung;20;649880;649880
-33093;Manatrankeinspritzung;20;649880;649880
-33093;Manatrankeinspritzung;20;649880;649880
-33093;Manatrankeinspritzung;20;649880;649880
-33093;Manatrankeinspritzung;20;649880;649880
 25896;Mächtiger Erdsturmdiamant;1;954067;967044
 3356;Königsblut;20;2500;4500
 3356;Königsblut;20;2500;4500
@@ -103,26 +43,11 @@
 811;Axt des Tiefwaldes;1;154123;158888
 33782;Beständiger Talasit;1;59999;68899
 33782;Beständiger Talasit;1;51000;52000
-33782;Beständiger Talasit;1;65000;69999
-33782;Beständiger Talasit;1;65000;69999
 23107;Schattendraenit;14;180180;200200
 30809;Mal des Sargeras;2;20498;22776
-31904;Furien 4;1;14501076;15001196
 3830;Rezept: Elixier der Seelenstärke;1;180500;199999
 22565;Formel: Großer Prismasplitter;1;220000;230000
 27501;Rolle der Willenskraft V;3;141302;157002
-33092;Heiltrankeinspritzung;20;559000;559999
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;2;2000;2000
-33867;Gebratene Blutflosse;20;70240;80000
-33867;Gebratene Blutflosse;20;70240;80000
-33867;Gebratene Blutflosse;20;70240;80000
-33867;Gebratene Blutflosse;20;70240;80000
 2996;Leinenstoffballen;1;1900;2375
 2771;Zinnerz;20;15050;20000
 22838;Hasttrank;5;162599;167599
@@ -190,11 +115,6 @@
 22838;Hasttrank;5;135000;145000
 22838;Hasttrank;5;135000;145000
 22838;Hasttrank;5;162599;167599
-33208;Fläschchen des chromatischen Wunders;1;135000;145000
-33208;Fläschchen des chromatischen Wunders;1;135000;145000
-33208;Fläschchen des chromatischen Wunders;1;135000;145000
-33208;Fläschchen des chromatischen Wunders;1;135000;145000
-33208;Fläschchen des chromatischen Wunders;1;135000;145000
 22146;Buch: Gabe der Wildnis III;1;100000;120000
 29529;Trommeln der Schlacht;1;399500;399900
 21767;Einfacher Opalring;1;11400;14250
@@ -216,7 +136,6 @@
 21767;Einfacher Opalring;1;11400;14250
 3819;Winterbiss;20;13000;17000
 27503;Rolle der Stärke V;3;199999;199999
-31902;Furien 8;1;7999999;9999999
 24271;Zauberstoff;1;435500;459000
 24271;Zauberstoff;1;435500;459000
 24271;Zauberstoff;1;435500;459000
@@ -229,28 +148,12 @@
 24271;Zauberstoff;1;435500;459000
 24271;Zauberstoff;1;435500;459000
 24271;Zauberstoff;1;435500;459000
-31909;Furien 2;1;1654123;1767148
 21775;Ring des Ansturms;1;86800;103500
 2672;Sehniges Wolfsfleisch;10;27424;34280
 22793;Manadistel;15;77424;86026
-33053;Heiße Forelle in Butter;4;1200;1600
-33053;Heiße Forelle in Butter;5;1500;2000
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;129100;153382
-31901;Furien Ass;1;95000;100000
-31901;Furien Ass;1;87500;100000
-31901;Furien Ass;1;71820;89775
-31901;Furien Ass;1;78228;85286
-31901;Furien Ass;1;123237;136930
-31901;Furien Ass;1;74999;99999
-31901;Furien Ass;1;74999;99999
 29159;Leuchtendes Thoriumband;1;26800;33500
 31190;Schulterpolster des Träumers;1;121600;152000
 31190;Schulterpolster des Träumers;1;121600;152000
-31903;Furien 5;1;31500000;32000000
 24207;Vorlage: Kompakter Dämmerstein;1;120000;149909
 22449;Großer Prismasplitter;1;150500;159000
 22449;Großer Prismasplitter;1;150500;159000
@@ -289,7 +192,6 @@
 21768;Saphirsiegel;1;39600;49500
 21768;Saphirsiegel;1;39600;49500
 15233;Wilde Axt;1;15714;26500
-31892;Sturm Ass;1;37500;0
 31892;Sturm Ass;1;46549;58187
 23571;Urmacht;2;1608000;1700000
 23571;Urmacht;1;954000;959999
@@ -304,9 +206,7 @@
 4234;Schweres Leder;20;54500;70000
 4234;Schweres Leder;20;54500;70000
 33122;Umhang der Dunkelheit;1;4609599;4995999
-33122;Umhang der Dunkelheit;1;3999999;3999999
 7991;Pläne: Mithrilschuppenschultern;1;100000;140000
-31895;Sturm 4;1;250000;300000
 4562;Abspalteraxt;1;953;1192
 4091;Witwenmacher;1;31229;39037
 32227;Purpurspinell;1;1990000;1999999
@@ -320,18 +220,7 @@
 3820;Würgetang;16;2400;5500
 30422;Diamantener Fokusring;1;21400;24250
 32231;Pyrostein;1;1490000;1499999
-32067;Elixier der draenischen Weisheit;20;352780;383360
-32067;Elixier der draenischen Weisheit;10;199990;199990
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;27168;33960
-31882;Segen Ass;1;36358;42450
-31882;Segen Ass;1;36358;42450
 3818;Blassblatt;20;4550;15000
-31899;Sturm 3;1;473784;592230
 33081;Voodooschädel;1;38475;48094
 24205;Vorlage: Massiver Dämmerstein;1;699999;700000
 9883;Zaubererhose;1;7539;13000
@@ -349,8 +238,6 @@
 24272;Schattenstoff;1;473000;498500
 12205;Weißes Spinnenfleisch;4;12235;13595
 31134;Klinge des Unglücks;1;117600;147000
-31917;Delirium 3;1;707500;730000
-31917;Delirium 3;1;557500;750000
 22563;Formel: Überragendes Zauberöl;1;425000;450000
 21764;Rubinanhänger des Feuers;1;9120;11400
 21764;Rubinanhänger des Feuers;1;9120;11400
@@ -381,17 +268,11 @@
 30040;Gürtel der tiefen Schatten;1;7991458;7999999
 3821;Golddorn;20;14500;17000
 3821;Golddorn;20;14500;17000
-31884;Segen 5;1;534573;668217
 23426;Khoriumerz;14;207844;209468
 32063;Erdelixier;5;89995;99995
 22573;Erdpartikel;2;13845;15384
 2319;Mittleres Leder;20;28500;31500
 2319;Mittleres Leder;20;28500;31500
-33173;Zornstahlschultern;1;3000000;3750000
-31910;Delirium Ass;1;38000;40000
-31910;Delirium Ass;1;37500;40000
-31910;Delirium Ass;1;39108;43453
-31910;Delirium Ass;1;27500;29500
 23424;Teufelseisenerz;6;35352;35748
 23424;Teufelseisenerz;20;117840;119160
 23424;Teufelseisenerz;20;117840;119160
@@ -431,13 +312,8 @@
 23449;Khoriumbarren;17;998750;1450000
 23449;Khoriumbarren;20;1767676;1777777
 8845;Geisterpilz;11;86911;88374
-31918;Delirium 2;1;30000;40000
 22574;Feuerpartikel;1;34363;37070
 22574;Feuerpartikel;10;343630;370700
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
-33825;Schädelfischsuppe;5;244875;244950
 33052;Fischerschmaus;20;386000;390000
 22456;Urschatten;1;26000;34500
 22456;Urschatten;1;26000;34500
@@ -477,18 +353,6 @@
 13139;Bauchripper;1;31543;34900
 23079;Tiefenperidot;20;275800;306444
 23425;Adamantiterz;19;99745;110828
-33872;Feuriger Würztalbuk;20;79200;90000
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;107999;135999
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;72222;79999
-33872;Feuriger Würztalbuk;20;79200;90000
-33872;Feuriger Würztalbuk;20;107999;135999
-33872;Feuriger Würztalbuk;20;79200;90000
-33872;Feuriger Würztalbuk;20;107999;135999
 27664;Gegrillter Matschflosser;20;222222;232323
 22446;Große Planaressenz;1;97000;97000
 22446;Große Planaressenz;1;97000;97000

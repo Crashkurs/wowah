@@ -46,15 +46,12 @@
 31868;Tückischer Edeltopas;1;250000;275000
 31868;Tückischer Edeltopas;1;250000;275000
 31868;Tückischer Edeltopas;1;250000;275000
-24683;Erzmagiermantel;1;1951709;1990000
 22848;Elixier der Schwächung;1;7500;10000
 7912;Robuster Stein;20;13000;18000
 15359;Schwindlerweste;1;18674;23343
-21949;Vorlage: Rubinschlange;1;4502500;4900000
 23574;Rezept: Urmacht transmutieren;1;118608;131787
 13756;Roher Sommerbarsch;20;80270;90000
 13756;Roher Sommerbarsch;14;60189;70000
-24306;Muster: Wickeltuch der Vergeltung;1;170000;190000
 2955;Hut des Ersten Maats;1;985173;990000
 15561;Plünderergamaschen;1;7057;14000
 22452;Urerde;7;292000;305000
@@ -84,7 +81,6 @@
 24039;Stürmischer Stern der Elune;1;95000;110000
 24039;Stürmischer Stern der Elune;1;95000;110000
 24039;Stürmischer Stern der Elune;1;95000;110000
-22557;Formel: Waffe - Meister des Kampfes;1;375000;390000
 24478;Jaggalperle;1;11500;12000
 24478;Jaggalperle;1;5019;6274
 24478;Jaggalperle;1;4559;5699
@@ -247,7 +243,6 @@
 14344;Großer glänzender Splitter;1;70100;79000
 14344;Großer glänzender Splitter;1;70100;79000
 19235;Bestien 7;1;1507600;2000000
-28100;Flüchtiger Heiltrank;5;14072;17590
 13006;Masse von McGowan;1;76698;80000
 23632;Pläne: Teufelsstahlschneide;1;137973;153303
 16202;Geringe ewige Essenz;1;20100;25000
@@ -310,14 +305,12 @@
 4304;Dickes Leder;20;95000;110000
 4304;Dickes Leder;20;95000;110000
 4304;Dickes Leder;20;95000;110000
-31323;Don Santos' berühmtes Jagdgewehr;1;6500000;6900000
 31899;Sturm 3;1;473784;592230
 23439;Edeltopas;2;280000;295000
 24051;Massiver Dämmerstein;1;165000;180000
 23446;Adamantitbarren;9;84500;89775
 13422;Steinschuppenaal;12;20180;29900
 9435;Genetzte Knochenstulpen;1;136326;142508
-31308;Der Überbringer des Todes;1;274889;290000
 1998;Kanalisierungsstab der Blutskalpe;1;22473;28092
 31283;Schärpe des besiegelten Schicksals;1;156800;171000
 8167;Schildkrötenschuppe;20;190000;198000
@@ -382,38 +375,6 @@
 31200;Schild des unberechenbaren Fußsoldaten;1;186200;232750
 31200;Schild des unberechenbaren Fußsoldaten;1;186200;232750
 19281;Portal 5;1;14000;40000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
-14227;Eisenweberseide;1;97500;99000
 17056;Leichte Feder;2;2414;9200
 1714;Caliseas Halskette;1;23802;25000
 1714;Caliseas Halskette;1;23802;25000
@@ -445,17 +406,6 @@
 12361;Blauer Saphir;6;79616;99520
 19268;Elementar Ass;1;348750;400000
 19268;Elementar Ass;1;348750;400000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 7909;Aquamarin;20;253600;309500
 13129;Feuermähnengamaschen;1;125512;147591
 30282;Muster: Stiefel der Zauberwucht;1;2110000;2110000
@@ -514,16 +464,6 @@
 22445;Arkaner Staub;20;299960;299960
 22445;Arkaner Staub;20;299960;299960
 22445;Arkaner Staub;7;104986;104986
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
-7076;Essenz der Erde;1;95000;99000
 23620;Pläne: Teufelszornstulpen;1;149998;149999
 21881;Netherweberseide;7;52500;69900
 21881;Netherweberseide;5;47500;50000

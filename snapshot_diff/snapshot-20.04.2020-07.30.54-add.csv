@@ -1,34 +1,13 @@
 15121;Robuste Stiefel;1;4585;5732
-11039;Formel: Umhang - Schwache Beweglichkeit;1;20300;30000
-11039;Formel: Umhang - Schwache Beweglichkeit;1;28000;30000
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;82336;92920
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;82336;92920
-16084;Erste Hilfe für Experten - Verbinden, aber richtig;1;82336;92920
-14483;Muster: Teufelsstoffhose;1;59999;69999
 3356;Königsblut;20;4040;4580
 3356;Königsblut;20;4040;4580
 3356;Königsblut;20;4040;4580
 3356;Königsblut;2;404;458
-14474;Muster: Froststoffhandschuhe;1;89999;99999
-12359;Thoriumbarren;20;88000;132000
-12359;Thoriumbarren;20;88000;132000
-12359;Thoriumbarren;20;105980;139980
-12359;Thoriumbarren;20;105980;139980
-12359;Thoriumbarren;20;105980;139980
 27651;Bussardbissen;20;21000;22500
 2775;Silbererz;1;3481;3868
 20725;Nexuskristall;5;350100;400000
 20725;Nexuskristall;5;350100;400000
 15927;Helle Sphäre;1;5964;7456
-13446;Erheblicher Heiltrank;5;70150;77170
-13446;Erheblicher Heiltrank;5;70150;77170
-13446;Erheblicher Heiltrank;1;9999;17799
-13446;Erheblicher Heiltrank;1;9999;17799
-13446;Erheblicher Heiltrank;1;9999;17799
-13446;Erheblicher Heiltrank;1;9999;17799
-7416;Phalanxarmschienen;1;5000;7000
-14478;Muster: Hellstoffrobe;1;5250;10000
-14478;Muster: Hellstoffrobe;1;9599;15999
 10601;Bauplan: Hellaugenschutzbrille;1;10000;20000
 22788;Flammenkappe;1;10000;10010
 22788;Flammenkappe;1;10000;10010
@@ -41,7 +20,6 @@
 22788;Flammenkappe;1;10000;10010
 22788;Flammenkappe;1;10000;10010
 9821;Haltbare Armschienen;1;2787;3484
-13463;Traumblatt;1;15000;16500
 16006;Empfindlicher Arkanitwandler;1;776655;888888
 16006;Empfindlicher Arkanitwandler;1;776655;888888
 11040;Morgenkorn;5;15210;17680
@@ -64,7 +42,6 @@
 6373;Elixier der Feuermacht;1;2593;2882
 6373;Elixier der Feuermacht;1;2593;2882
 6373;Elixier der Feuermacht;1;2593;2882
-7406;Spitzelkordel;1;4800;6000
 23573;Gehärteter Adamantitbarren;5;645000;700000
 23573;Gehärteter Adamantitbarren;5;645000;700000
 23573;Gehärteter Adamantitbarren;5;645000;700000
@@ -73,15 +50,8 @@
 7734;Sechsdämonentasche;1;30949;35499
 23111;Stattlicher Schattendraenit;1;11000;11999
 23111;Stattlicher Schattendraenit;1;11000;11999
-13455;Großer Steinschildtrank;1;35000;40000
-13455;Großer Steinschildtrank;1;35000;40000
-9950;Häuptlingsbrustplatte;1;42937;53672
 19269;Elementar 2;1;24495;31661
-9944;Bannzaubererkristall;1;27424;34280
-9944;Bannzaubererkristall;1;27424;34280
-10034;Smokinghemd;1;93000;99999
 12695;Pläne: Strahlende Handschuhe;1;35600;49500
-10036;Smokingjacke;1;499999;499999
 2878;Hakenknochenaxt;1;23520;29400
 22449;Großer Prismasplitter;1;124974;124987
 22449;Großer Prismasplitter;1;124974;124987
@@ -96,17 +66,14 @@
 15737;Muster: Schimärenstiefel;1;10764;11960
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
-13454;Großes Arkanelixier;20;122222;123344
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
-13454;Großes Arkanelixier;10;50470;61050
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
 13454;Großes Arkanelixier;1;2570;3033
-13454;Großes Arkanelixier;16;88000;90000
 2564;Elfengeistklauen;1;27578;39531
 12820;Feuerwasser der Winterfelle;1;20167;22008
 12820;Feuerwasser der Winterfelle;1;20167;22008
@@ -139,10 +106,6 @@
 22457;Urmana;1;209957;209978
 22457;Urmana;1;209957;209978
 22457;Urmana;1;209957;209978
-11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;8884;9871
-11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;3800;4750
-11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;2500;3500
-7428;Schattenkatzenbalg;5;3800;4100
 14498;Muster: Runenstoffstirnband;1;49500;55000
 21151;Schwarzer Rumsey Rum;1;1020;1079
 21151;Schwarzer Rumsey Rum;1;1020;1079
@@ -152,11 +115,6 @@
 10286;Herz der Wildnis;1;6078;7042
 10286;Herz der Wildnis;1;6078;7042
 10286;Herz der Wildnis;1;6078;7042
-22861;Fläschchen des blendenden Lichts;1;156102;166200
-22861;Fläschchen des blendenden Lichts;1;156102;166200
-14485;Muster: Hexerzwirngamaschen;1;150000;160000
-12212;Dschungeleintopf;20;29984;37480
-9955;Häuptlingsschultern;1;17299;24124
 13005;Amys Decke;1;7524;9405
 24368;Waffen des Echsenkessels;1;80000;80000
 24368;Waffen des Echsenkessels;1;80000;80000
@@ -166,66 +124,31 @@
 9486;Superaufgeladene Streitaxt;1;17545;21932
 24051;Massiver Dämmerstein;1;117000;124997
 24057;Königliches Nachtauge;1;102500;109247
-14479;Muster: Hellstoffhandschuhe;1;4804;6006
-14479;Muster: Hellstoffhandschuhe;1;5058;6323
-14479;Muster: Hellstoffhandschuhe;1;5058;6323
-14479;Muster: Hellstoffhandschuhe;1;34004;45006
-14479;Muster: Hellstoffhandschuhe;1;5990;6656
-14479;Muster: Hellstoffhandschuhe;1;5058;6323
 17706;Pläne: Schneide des Winters;1;200000;250000
-10065;Dämmergewirkte Robe;1;20000;30000
 23097;Feingeschliffener Blutgranat;1;44500;47798
 23097;Feingeschliffener Blutgranat;1;44500;47798
 23097;Feingeschliffener Blutgranat;1;44500;47798
 23097;Feingeschliffener Blutgranat;1;44500;47798
-13453;Elixier der rohen Gewalt;11;49500;55000
 3369;Grabmoos;9;2259;2907
 3369;Grabmoos;20;5020;6460
-8171;Unverwüstlicher Balg;4;6400;8000
-8171;Unverwüstlicher Balg;10;11296;14120
 6037;Echtsilberbarren;20;59984;64980
 22832;Erstklassiger Manatrank;1;18000;19999
-13447;Elixier der Weisen;4;19832;22035
 2452;Flitzdistel;12;6312;7152
 3419;Rote Rose;1;39950;44389
 3419;Rote Rose;1;39950;44389
 3419;Rote Rose;1;39950;44389
-14477;Muster: Geisterzwirnhandschuhe;1;140000;150000
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
 23119;Funkelnder Azurmondstein;1;7999;9999
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;135980;145980
-11176;Traumstaub;20;80000;100000
-11023;Anconahuhn;1;9800;14500
-11023;Anconahuhn;1;9999;15000
-11023;Anconahuhn;1;10000;15000
 2592;Wollstoff;20;15152;18940
-8170;Unverwüstliches Leder;16;108800;130000
-8170;Unverwüstliches Leder;20;15000;0
-8170;Unverwüstliches Leder;11;70400;83000
-8170;Unverwüstliches Leder;3;13500;14625
-8170;Unverwüstliches Leder;1;6400;8000
-16072;Expertenkochbuch;1;33750;50000
-16072;Expertenkochbuch;1;33750;50000
 27660;Talbuksteak;20;8200;8700
 27660;Talbuksteak;20;8200;8700
 31152;Brustschutz der Illumination;1;67046;75606
 2575;Rotes Leinenhemd;1;30000;50000
 2575;Rotes Leinenhemd;1;30000;50000
-16112;Handbuch: Schwerer Seidenverband;1;87166;91458
-16112;Handbuch: Schwerer Seidenverband;1;87166;91458
-16112;Handbuch: Schwerer Seidenverband;1;87166;91458
 12682;Pläne: Thoriumrüstung;1;448000;557500
 10603;Bauplan: Ultraschutzbrille der Katzensicht;1;5147;5719
-10070;Rechtschaffene Rüstung;1;46936;58671
 13011;Silbergefütterter Gürtel;1;6004;7505
-7411;Spitzelumhang;1;2999;7999
-14470;Muster: Runenstofftunika;1;3528;3920
 3823;Geringer Unsichtbarkeitstrank;1;10084;15038
 3823;Geringer Unsichtbarkeitstrank;1;10084;15038
 3823;Geringer Unsichtbarkeitstrank;1;10084;15038
@@ -234,10 +157,6 @@
 23096;Runenverzierter Blutgranat;1;27500;29999
 3608;Pläne: Mächtiger Eisenhammer;1;3584;4480
 6410;Insignienarmschienen;1;4848;6060
-14484;Muster: Hellstoffumhang;1;17840;29800
 23105;Robuster Tiefenperidot;1;11000;12299
 23105;Robuster Tiefenperidot;1;11000;12299
 23105;Robuster Tiefenperidot;1;11000;12299
-16113;Handbuch: Magiestoffverband;1;125000;150000
-16113;Handbuch: Magiestoffverband;1;181962;197453
-16113;Handbuch: Magiestoffverband;1;181962;197453

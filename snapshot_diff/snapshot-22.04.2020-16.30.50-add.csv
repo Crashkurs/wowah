@@ -31,7 +31,6 @@
 7912;Robuster Stein;20;9900;10202
 7912;Robuster Stein;20;9900;10202
 7912;Robuster Stein;20;9900;10202
-2046;Kukri der Blaukiemen;1;21363;26704
 23574;Rezept: Urmacht transmutieren;1;100000;125000
 24654;Konsortiumstiefel;1;1441035;1460000
 32249;Gischtsmaragd;1;310000;330000
@@ -193,11 +192,6 @@
 30809;Mal des Sargeras;58;531984;539980
 30809;Mal des Sargeras;4;40552;40552
 6347;Formel: Armschiene - Schwache Stärke;1;3398;6748
-1973;Täuschungskugel;1;143600;179500
-1973;Täuschungskugel;1;72400;88000
-1973;Täuschungskugel;1;75164;93955
-1973;Täuschungskugel;1;86927;98900
-1973;Täuschungskugel;1;86927;98900
 20870;Jaspisgötze;1;10000;20000
 13446;Erheblicher Heiltrank;5;70150;77170
 13446;Erheblicher Heiltrank;5;70150;77170
@@ -267,7 +261,6 @@
 12365;Verdichteter Stein;20;7500;8000
 12365;Verdichteter Stein;20;7500;8000
 9298;Rezept: Elixier der Riesen;1;27084;30094
-1996;Voodooband;1;12580;14999
 15352;Kopfjägerrundschild;1;6151;10000
 12363;Arkankristall;1;53000;60000
 12363;Arkankristall;1;53000;60000
@@ -297,9 +290,6 @@
 19712;Lila Schmuckstück der Hakkari;1;131400;140000
 19712;Lila Schmuckstück der Hakkari;1;131400;140000
 10605;Bauplan: Zaubermachtschutzbrille Xtrem;1;1312;4500
-20828;Ring des Zwielichts;1;19503;25079
-20828;Ring des Zwielichts;1;19503;25079
-20828;Ring des Zwielichts;1;19503;25079
 20828;Ring des Zwielichts;1;19503;25079
 20828;Ring des Zwielichts;1;19503;25079
 20828;Ring des Zwielichts;1;19503;25079
@@ -336,7 +326,6 @@
 7079;Kugel des Wassers;1;4900;4900
 7079;Kugel des Wassers;1;4900;4900
 27503;Rolle der Stärke V;4;190750;199900
-1728;Teebus Langschwert der Loderflammen;1;2999404;3100000
 22914;Rezept: Zerstörungstrank;1;900000;1000000
 13490;Rezept: Großer Steinschildtrank;1;46000;50000
 31299;Der Schwurbewahrer;1;158026;170000
@@ -474,7 +463,6 @@
 21768;Saphirsiegel;1;54099;67624
 21768;Saphirsiegel;1;49568;63210
 9294;Rezept: Wildrankentrank;1;8806;9784
-23112;Golddraenit;20;189999;199999
 31287;Ehrenwachenschild der Draenei;1;221157;230000
 24061;Glitzernder Edeltopas;1;120000;140000
 24061;Glitzernder Edeltopas;1;120000;140000
@@ -511,7 +499,6 @@
 2730;Die Grünen Hügel des Schlingendorntals - Seite 6;1;10375;20000
 4091;Witwenmacher;1;33718;38000
 4091;Witwenmacher;1;33718;38000
-2011;Verdrehter Säbel;1;5760;10000
 15739;Muster: Runenverzierte Lederarmschienen;1;6000;7000
 14344;Großer glänzender Splitter;1;70100;75000
 14344;Großer glänzender Splitter;1;70100;75000
@@ -603,22 +590,14 @@
 27677;Basiliskbrocken;1;12160;15200
 10998;Geringe Astralessenz;2;4325;4806
 19260;Kriegsfürst 3;1;30000;30000
-2589;Leinenstoff;11;1514;4500
-2589;Leinenstoff;20;3090;9000
-2589;Leinenstoff;20;7790;10000
 23446;Adamantitbarren;20;190000;198900
 24751;Dolchfennkampfweste;1;79900;79900
 12979;Flammenfluchumhang;1;10925;20000
-1991;Goblinsuperschaufler;1;22535;35099
-1991;Goblinsuperschaufler;1;29562;37953
 13145;Riesiger Ogergürtel;1;27140;60000
 28103;Elixier des Adepten;20;249800;249999
 28103;Elixier des Adepten;20;249800;249999
 4611;Blaue Perle;3;6168;7752
-1979;Mauer der Toten;1;1969799;2462249
-1979;Mauer der Toten;1;204911;300000
 1979;Mauer der Toten;1;154911;180000
-1998;Kanalisierungsstab der Blutskalpe;1;22473;28092
 24273;Mystischer Zauberfaden;1;1694999;1699999
 21764;Rubinanhänger des Feuers;1;9120;11400
 24029;Tränenförmiger lebendiger Rubin;1;210000;215000
@@ -768,8 +747,6 @@
 23634;Pläne: Teufelsgehärteter Schlägel;1;210000;220000
 4461;Raptorbalg;7;1506;1883
 4719;Nachthauchumhang;1;45255;56569
-1980;Unterweltband;1;58899;60000
-1980;Unterweltband;1;160000;180000
 21755;Aquamarinanhänger des Kriegers;1;43720;57150
 23117;Azurmondstein;20;95000;99009
 8170;Unverwüstliches Leder;20;85000;99000
@@ -822,8 +799,6 @@
 23425;Adamantiterz;20;146960;146960
 23425;Adamantiterz;20;146960;146960
 22853;Fläschchen der mächtigen Wiederherstellung;5;825000;850000
-22853;Fläschchen der mächtigen Wiederherstellung;1;190000;192500
-22853;Fläschchen der mächtigen Wiederherstellung;1;190000;192500
 20960;Gravierter Echtsilberring;1;32320;43300
 2744;Die Grünen Hügel des Schlingendorntals - Seite 20;1;5030;5778
 6661;Rezept: Pikantes Deviat Supreme;1;689999;790000
@@ -847,7 +822,4 @@
 23440;Dämmerstein;1;70000;74500
 15982;Blutgewebte Rute;1;12213;19900
 16113;Handbuch: Magiestoffverband;1;75000;100000
-1982;Nachtklinge;1;84269;88888
-1982;Nachtklinge;1;149600;159500
-1982;Nachtklinge;1;149600;159500
 24202;Vorlage: Stürmischer Stern der Elune;1;189500;237500

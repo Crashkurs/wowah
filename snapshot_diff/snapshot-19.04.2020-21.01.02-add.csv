@@ -10,8 +10,6 @@
 22825;Elixier der Heilkraft;5;118750;149900
 23437;Talasit;12;540000;700000
 23437;Talasit;1;30179;31185
-23115;Kompakter Golddraenit;1;14999;19999
-23115;Kompakter Golddraenit;1;14999;19999
 24870;Eisenrückengürtel;1;29641;33200
 15765;Muster: Runenverzierte Lederhose;1;8498;8499
 7676;Disteltee;10;44450;50000
@@ -63,8 +61,6 @@
 21885;Urwasser;1;139972;139986
 21885;Urwasser;1;139972;139986
 24053;Mystischer Dämmerstein;1;179999;198899
-31304;Essenzfokussierer;1;200000;220000
-31304;Essenzfokussierer;1;205246;228052
 8180;Jagdbogen;1;360;700
 24274;Runenverzierter Zauberfaden;1;2598980;2599240
 24274;Runenverzierter Zauberfaden;1;2559500;2599500
@@ -82,9 +78,6 @@
 27500;Rolle des Schutzes V;5;249995;299995
 27500;Rolle des Schutzes V;5;249995;299995
 31303;Valanos' Langbogen;1;155000;182000
-31303;Valanos' Langbogen;1;156270;183344
-31303;Valanos' Langbogen;1;156270;200000
-31303;Valanos' Langbogen;1;202304;252881
 30809;Mal des Sargeras;27;258100;350000
 13446;Erheblicher Heiltrank;1;9999;17799
 13446;Erheblicher Heiltrank;1;9999;17799
@@ -106,7 +99,6 @@
 24062;Robuster Talasit;1;55000;58999
 24062;Robuster Talasit;1;55000;58999
 22146;Buch: Gabe der Wildnis III;1;199999;249999
-3576;Zinnbarren;17;27186;33983
 24291;Sumpflordranke;1;750;2000
 24305;Muster: Cape der Entschlossenheit;1;149999;199999
 31153;Axt der Legion;1;549999;599999
@@ -126,8 +118,6 @@
 22914;Rezept: Zerstörungstrank;1;944133;980100
 23111;Stattlicher Schattendraenit;1;10500;11999
 23111;Stattlicher Schattendraenit;1;10500;11999
-13096;Hierophantenband;1;41869;60000
-13096;Hierophantenband;1;59500;76000
 19231;Bestien 3;1;74999;99999
 8397;Muster: Feste Skorpidarmschienen;1;5880;7350
 25707;Teufelsbalg;1;9375;9500
@@ -158,9 +148,6 @@
 22449;Großer Prismasplitter;1;139999;149999
 22449;Großer Prismasplitter;1;139999;149999
 19441;Riesiger Giftbeutel;2;4500;6000
-23098;Gravierter Flammenspessarit;1;16000;17798
-23098;Gravierter Flammenspessarit;1;16000;17798
-23098;Gravierter Flammenspessarit;1;16000;17798
 23098;Gravierter Flammenspessarit;1;16000;17798
 22450;Kristall der Leere;10;550100;700000
 23099;Glänzender Flammenspessarit;1;26699;27799
@@ -216,7 +203,6 @@
 18945;Dunkeleisenrückstände;100;65000;75000
 24048;Glatter Dämmerstein;1;119999;168899
 24245;Glühkappe;6;1314;3000
-13102;Cassandras Anmut;1;200318;210000
 30810;Siegel des Sonnenzorns;79;715000;755500
 19262;Kriegsfürst 5;1;169965;169982
 27502;Rolle der Ausdauer V;5;10000;10500
@@ -224,21 +210,10 @@
 3820;Würgetang;20;20000;20000
 3820;Würgetang;9;9050;9900
 29547;Windschuppen;2;63750;80000
-5498;Kleine irisierende Perle;2;3138;3487
-5498;Kleine irisierende Perle;5;7000;15000
-5498;Kleine irisierende Perle;1;1900;2024
-5498;Kleine irisierende Perle;8;34400;38848
-5498;Kleine irisierende Perle;1;928;1160
-5498;Kleine irisierende Perle;3;2364;2967
-5498;Kleine irisierende Perle;1;300;30000
 5498;Kleine irisierende Perle;1;1115;1394
-5498;Kleine irisierende Perle;5;7000;25000
 24758;Umbrafennstiefel;1;37194;40000
 25744;Auge eines Dunstschuppenbasilisken;1;1014;1100
-13106;Leuchtende magische Armreife;1;17999;24999
-13106;Leuchtende magische Armreife;1;15324;19999
 24198;Vorlage: Scheinender lebendiger Rubin;1;244876;260973
-23446;Adamantitbarren;6;34200;36000
 118;Schwacher Heiltrank;5;100;150
 118;Schwacher Heiltrank;5;75;0
 118;Schwacher Heiltrank;5;75;0
@@ -249,10 +224,7 @@
 28103;Elixier des Adepten;20;255000;300000
 24272;Schattenstoff;1;306000;350000
 24272;Schattenstoff;1;306000;350000
-13099;Mokassins des Weißen Hasen;1;18999;24999
 24273;Mystischer Zauberfaden;1;1694500;1769500
-13110;Schreckenswolfharnisch;1;56086;59908
-13110;Schreckenswolfharnisch;1;55000;65000
 25700;Teufelsschuppen;14;106250;120000
 19265;Kriegsfürst 8;1;23625;23628
 15925;Gesellenstock;1;658;1200
@@ -261,7 +233,6 @@
 24066;Strahlender Talasit;1;54499;84499
 32833;Geläuterte Jaggalperle;1;19999;23399
 32833;Geläuterte Jaggalperle;1;19999;23399
-13101;Schuhe des Wolfsläufers;1;77616;97020
 23100;Glitzernder Flammenspessarit;1;8900;10098
 8171;Unverwüstlicher Balg;3;2250;3000
 17056;Leichte Feder;20;39999;49999
@@ -276,7 +247,6 @@
 21877;Netherstoff;20;24000;35000
 21877;Netherstoff;20;24000;35000
 21877;Netherstoff;20;24000;35000
-12361;Blauer Saphir;6;105336;119520
 3821;Golddorn;11;6700;7150
 3821;Golddorn;20;12000;13000
 3821;Golddorn;20;12000;13000
@@ -329,7 +299,6 @@
 24203;Vorlage: Glänzender Dämmerstein;1;499999;799999
 24195;Vorlage: Tränenförmiger lebendiger Rubin;1;499999;799999
 24195;Vorlage: Tränenförmiger lebendiger Rubin;1;499999;799999
-13109;Cape der schwarzen Flamme;1;35891;39878
 8170;Unverwüstliches Leder;11;70400;83000
 27676;Seltsame Sporen;7;2100;10000
 15066;Eisenfederbrustplatte;1;895475;995000
@@ -344,7 +313,6 @@
 21860;Magieerfüllte Netherstoffstiefel;1;280000;295000
 9359;Wirts drittes Bein;1;27000;29000
 13112;Geflügelter Helm;1;21904;27380
-13105;Sutarns Ring;1;3220;19900
 12184;Raptorfleisch;3;11425;21782
 8401;Muster: Feste Skorpidgamaschen;1;3315;4144
 7971;Schwarze Perle;1;169839;194799
@@ -370,4 +338,3 @@
 23440;Dämmerstein;1;53867;63706
 32902;Flasche mit Nethergonenergie;5;44550;49500
 32902;Flasche mit Nethergonenergie;5;44550;49500
-31305;Ceds Schnitzer;1;172480;215600

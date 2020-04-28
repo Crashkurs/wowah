@@ -3,24 +3,6 @@
 10940;Seltsamer Staub;18;62011;68901
 14048;Runenstoffballen;7;71862;79847
 14047;Runenstoff;14;23632;26257
-22785;Teufelsgras;20;23376;29220
-22785;Teufelsgras;13;9750;20000
-22785;Teufelsgras;20;23376;29220
-22785;Teufelsgras;20;23376;29220
-22785;Teufelsgras;20;23376;29220
-22785;Teufelsgras;20;23376;29220
-22825;Elixier der Heilkraft;20;446380;456380
-31861;Großer Dämmerstein;1;85000;90000
-31861;Großer Dämmerstein;1;85000;90000
-31861;Großer Dämmerstein;1;124999;149999
-31861;Großer Dämmerstein;1;124999;149999
-31861;Großer Dämmerstein;1;124999;149999
-31861;Großer Dämmerstein;1;124999;149999
-31861;Großer Dämmerstein;1;85000;90000
-31861;Großer Dämmerstein;1;85000;90000
-31861;Großer Dämmerstein;1;85000;90000
-31861;Großer Dämmerstein;1;150000;180000
-31868;Tückischer Edeltopas;1;269999;289999
 11175;Große Netheressenz;1;72403;80447
 22794;Teufelslotus;8;305901;339890
 13146;Kugelspeiende Schrotflinte;1;47122;58903
@@ -46,22 +28,12 @@
 22838;Hasttrank;5;162599;168599
 22838;Hasttrank;5;162599;168599
 22838;Hasttrank;5;162599;168599
-9925;Fährtenleserhandgelenksschützer;1;12128;15160
 11018;Erde von Un'Goro;63;19706;54633
 11018;Erde von Un'Goro;4;1155;1244
-11018;Erde von Un'Goro;40;71791;79768
-11018;Erde von Un'Goro;7;4665;5183
-11018;Erde von Un'Goro;64;57292;71616
 6601;Derwischstiefel;1;3845;4272
 31670;Raptorrippchen;2;3527;3919
-9950;Häuptlingsbrustplatte;1;42937;53672
 11082;Große Astralessenz;10;45600;57000
-9944;Bannzaubererkristall;1;27424;34280
-9944;Bannzaubererkristall;1;27424;34280
-13137;Eisenwirker;1;9880;12350
-13137;Eisenwirker;1;10000;15000
 25707;Teufelsbalg;5;66165;73517
-13132;Skelettschultern;1;37705;40783
 5471;Hirschfleisch;7;6972;7040
 5635;Scharfe Klaue;5;7836;9795
 22839;Zerstörungstrank;5;178599;182599
@@ -88,14 +60,8 @@
 16203;Große ewige Essenz;2;130100;140000
 16203;Große ewige Essenz;2;130100;140000
 23077;Blutgranat;5;41922;46580
-9941;Bannzauberermantel;1;19573;26092
-9941;Bannzauberermantel;1;9784;25000
 9719;Zerbrochene Klinge der Helden;1;17596;19551
 9719;Zerbrochene Klinge der Helden;1;17596;19551
-11038;Formel: Zweihandwaffe - Geringe Willenskraft;1;3800;5000
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
-22844;Erheblicher Naturschutztrank;5;38412;48015
 2449;Erdwurzel;20;1344;1680
 27498;Rolle der Beweglichkeit V;3;89588;112860
 13890;Panzerfisch;20;8037;8931
@@ -107,56 +73,26 @@
 10978;Kleiner gleißender Splitter;4;1431;1564
 10978;Kleiner gleißender Splitter;19;7351;8168
 6149;Großer Manatrank;5;6052;6725
-31882;Segen Ass;1;25231;31539
-31882;Segen Ass;1;89715;89944
 11177;Kleiner strahlender Splitter;12;7525;8361
 11177;Kleiner strahlender Splitter;20;12541;13935
 4721;Insignienmantel;1;8988;11236
-31863;Ausbalanciertes Nachtauge;1;71440;89300
-31863;Ausbalanciertes Nachtauge;1;67868;84835
-31863;Ausbalanciertes Nachtauge;1;71440;89300
-31863;Ausbalanciertes Nachtauge;1;71440;89300
-22845;Erheblicher Arkanschutztrank;2;79288;99110
 27677;Basiliskbrocken;1;15279;16977
 2447;Friedensblume;20;9556;12820
 14801;Kampfrauschcape;1;26099;32624
 23625;Pläne: Helm der Eidestreue;1;180000;180000
-9956;Kriegstreiberarmschienen;1;30000;40000
 21841;Netherstofftasche;1;66433;73815
 21841;Netherstofftasche;1;66433;73815
 21841;Netherstofftasche;1;66433;73815
 23100;Glitzernder Flammenspessarit;1;12052;13391
 23100;Glitzernder Flammenspessarit;1;12052;13391
-13133;Schulterklappen des Drachenfeuers;1;73794;92243
-13133;Schulterklappen des Drachenfeuers;1;73794;92243
-21877;Netherstoff;20;31536;39420
-21877;Netherstoff;20;31536;39420
-21877;Netherstoff;20;44767;49742
-21877;Netherstoff;20;44767;49742
-21877;Netherstoff;14;28000;28000
 3575;Eisenbarren;20;42807;47563
 3575;Eisenbarren;20;42807;47563
 6338;Silberrute;1;2124;2360
-12361;Blauer Saphir;1;17556;19920
-12361;Blauer Saphir;6;105336;119520
-12361;Blauer Saphir;1;17556;19920
-12361;Blauer Saphir;1;17556;19920
-12361;Blauer Saphir;7;71610;89513
-12361;Blauer Saphir;2;21657;27072
-31877;Vorlage: Energieerfülltes Nachtauge;1;91199;113999
 2452;Flitzdistel;12;7181;7978
 10096;Ratsherrenmanschetten;1;19616;24520
-31837;Kodex: Gebet des Schattenschutzes II;1;39199;48999
-11023;Anconahuhn;1;9999;15000
-11023;Anconahuhn;1;10000;15000
 7976;Pläne: Mithrilschildstachel;1;40000;57500
-31865;Energieerfülltes Nachtauge;1;169999;189999
-13131;Spiegelpanzermantel;1;43468;50000
 14799;Kampfrauschstiefel;1;55385;69232
 27676;Seltsame Sporen;8;25942;28824
-13135;Fürstliche Armschützer;1;37667;47084
-13135;Fürstliche Armschützer;1;39650;49563
-13135;Fürstliche Armschützer;1;35783;44729
 8845;Geisterpilz;20;126000;129999
 8845;Geisterpilz;20;126000;129999
 8845;Geisterpilz;20;126000;129999
@@ -168,23 +104,12 @@
 13926;Goldene Perle;2;24570;27300
 4305;Seidenstoffballen;1;6290;6988
 7911;Echtsilbererz;1;1184;1316
-9954;Häuptlingsgamaschen;1;30000;40000
 4306;Seidenstoff;12;7140;13908
 4306;Seidenstoff;6;6325;7028
-31878;Vorlage: Verschleierter Edeltopas;1;440000;470000
-31878;Vorlage: Verschleierter Edeltopas;1;500000;550000
 10159;Quecksilbriger Umhang;1;36620;45776
 23620;Pläne: Teufelszornstulpen;1;160000;160000
-21881;Netherweberseide;10;125000;129999
-21881;Netherweberseide;1;9560;13200
-21881;Netherweberseide;10;125000;129999
-21881;Netherweberseide;3;40500;49500
-21881;Netherweberseide;1;13500;16500
-31876;Vorlage: Ausbalanciertes Nachtauge;1;299973;349992
-31876;Vorlage: Ausbalanciertes Nachtauge;1;335000;349500
 6371;Feueröl;2;11855;13172
 23636;Pläne: Todeslied;1;180000;180000
-13138;Der Verstummer;1;17298;20000
 8401;Muster: Feste Skorpidgamaschen;1;5500;6112
 4338;Magiestoff;5;20805;23116
 4338;Magiestoff;20;87500;100000
@@ -193,10 +118,5 @@
 4338;Magiestoff;16;39360;57024
 4338;Magiestoff;20;49200;71280
 23079;Tiefenperidot;4;26865;29850
-21887;Knotenhautleder;18;33750;0
-21887;Knotenhautleder;20;157500;169900
-21887;Knotenhautleder;20;157500;169900
-21887;Knotenhautleder;20;157500;169900
-21887;Knotenhautleder;20;157500;169900
 4096;Grobes Gorillahaar;2;1503;1670
 6359;Feuerflossenschnapper;16;31836;35374

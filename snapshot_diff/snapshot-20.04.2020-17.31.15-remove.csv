@@ -31,10 +31,6 @@
 22785;Teufelsgras;20;24000;24500
 22785;Teufelsgras;20;15000;25000
 22891;Zauberfoliant des Schattenzauberschutzes IV;1;304324;338138
-30420;Schwerer Jadering;1;4761;5952
-30420;Schwerer Jadering;1;4761;5952
-30420;Schwerer Jadering;1;5600;7000
-30420;Schwerer Jadering;1;5600;7000
 23437;Talasit;1;30000;32000
 23437;Talasit;1;30000;32000
 24060;Glänzender Edeltopas;1;150000;150000
@@ -43,9 +39,7 @@
 9253;Mittleres Kartenfragment;1;8731;9702
 13020;Bogen des Himmelsstürmers;1;123477;200000
 24870;Eisenrückengürtel;1;29641;33200
-31142;Klinge des gefangenen Wissens;1;182008;227511
 13134;Gürtel des Gladiators;1;51574;59999
-24683;Erzmagiermantel;1;1951709;1990000
 12202;Tigerfleisch;10;1020;1080
 12202;Tigerfleisch;10;1020;1080
 12202;Tigerfleisch;4;1280;1360
@@ -91,15 +85,6 @@
 30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;10;122750;124750
 30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;10;122750;124750
-30809;Mal des Sargeras;12;143600;153344
-30809;Mal des Sargeras;10;103000;115000
-30809;Mal des Sargeras;27;258100;350000
 30809;Mal des Sargeras;18;147470;184338
 30809;Mal des Sargeras;10;98550;99720
 30809;Mal des Sargeras;4;39420;39888
@@ -205,8 +190,6 @@
 3576;Zinnbarren;20;18000;23000
 3576;Zinnbarren;20;18000;23000
 22529;Wildwedel;7;12000;13000
-31138;Gurt des Sturmfürsten;1;59703;60000
-31138;Gurt des Sturmfürsten;1;49999;59999
 12363;Arkankristall;1;27000;29000
 22527;Kern der Elemente;4;8700;9300
 22866;Fläschchen des reinen Todes;1;217400;217400
@@ -217,8 +200,6 @@
 11018;Erde von Un'Goro;32;9300;9900
 19280;Portal 4;1;25744;49680
 936;Mitternachtsstreitkolben;1;22500;24000
-31143;Tuch der Raserei;1;74174;92718
-31143;Tuch der Raserei;1;71154;88943
 25708;Dickes Grollhufleder;11;26400;33000
 23111;Stattlicher Schattendraenit;1;11666;12963
 23111;Stattlicher Schattendraenit;1;11666;12963
@@ -282,12 +263,7 @@
 22450;Kristall der Leere;1;59999;59999
 22450;Kristall der Leere;1;59999;59999
 13454;Großes Arkanelixier;20;122222;123344
-31079;Quecksilberadamantit;2;76718;77777
-31079;Quecksilberadamantit;1;33217;41522
-31079;Quecksilberadamantit;2;66435;83044
-31079;Quecksilberadamantit;2;66435;83044
 31079;Quecksilberadamantit;1;88199;97999
-31079;Quecksilberadamantit;4;382720;478400
 9294;Rezept: Wildrankentrank;1;6100;6500
 23112;Golddraenit;2;19135;23919
 23112;Golddraenit;1;19135;23919
@@ -316,16 +292,9 @@
 22459;Sphäre der Leere;1;2646;2940
 22459;Sphäre der Leere;1;2646;2940
 13890;Panzerfisch;2;628;786
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
-30810;Siegel des Sonnenzorns;10;88150;99150
 30810;Siegel des Sonnenzorns;3;20900;24900
-30810;Siegel des Sonnenzorns;10;88150;99150
 30810;Siegel des Sonnenzorns;250;1999999;2499999
 30810;Siegel des Sonnenzorns;250;1999999;2499999
-30810;Siegel des Sonnenzorns;3;20900;24500
-30810;Siegel des Sonnenzorns;10;88150;99150
 30810;Siegel des Sonnenzorns;10;88150;99150
 30810;Siegel des Sonnenzorns;10;88150;99150
 30810;Siegel des Sonnenzorns;10;88150;99150
@@ -338,29 +307,12 @@
 30810;Siegel des Sonnenzorns;11;97777;98888
 30810;Siegel des Sonnenzorns;16;120448;133824
 30810;Siegel des Sonnenzorns;58;406000;435000
-30810;Siegel des Sonnenzorns;250;2299999;2299999
-30810;Siegel des Sonnenzorns;100;924400;935100
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;10;92440;93510
-30810;Siegel des Sonnenzorns;100;924400;935100
-30810;Siegel des Sonnenzorns;100;924400;935100
-30810;Siegel des Sonnenzorns;100;924400;935100
 30810;Siegel des Sonnenzorns;250;1700000;1800000
-30810;Siegel des Sonnenzorns;6;43788;44862
 25843;Teufelseisenrute;1;110000;130000
 29425;Mal von Kil'jaeden;2;21780;21780
 29425;Mal von Kil'jaeden;2;21500;23000
 29425;Mal von Kil'jaeden;7;65792;73103
 25909;Vorlage: Mystischer Himmelsfeuerdiamant;1;174420;218025
-31127;Halsberge des Totemzorns;1;80000;120000
-31136;Brustplatte des Klingendrehs;1;72013;83348
 31136;Brustplatte des Klingendrehs;1;83604;99505
 14915;Jadebrustplatte;1;54879;68599
 6362;Roher Steinschuppenkabeljau;17;24512;40041
@@ -380,70 +332,20 @@
 6149;Großer Manatrank;5;4672;5840
 6149;Großer Manatrank;2;1868;2336
 6149;Großer Manatrank;1;1090;1160
-31147;Anhänger der List;1;43254;100000
 24758;Umbrafennstiefel;1;37194;40000
 14256;Teufelsstoff;1;46336;51485
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
-4304;Dickes Leder;20;170000;178000
 4304;Dickes Leder;15;46750;70000
-4304;Dickes Leder;20;170000;178000
 4304;Dickes Leder;12;11520;14400
 22577;Schattenpartikel;5;20249;22499
 25744;Auge eines Dunstschuppenbasilisken;3;3577;3975
 25744;Auge eines Dunstschuppenbasilisken;5;5962;6625
 25744;Auge eines Dunstschuppenbasilisken;5;5962;6625
-31145;Kopfputz des Schläfers;1;77600;99500
-31145;Kopfputz des Schläfers;1;124999;149999
 24065;Schillernder Talasit;1;45000;50000
 22849;Eisenschildtrank;1;38900;39900
 13422;Steinschuppenaal;20;59584;75980
 13422;Steinschuppenaal;11;33431;41789
 4611;Blaue Perle;1;100;20000
-31134;Klinge des Unglücks;1;106400;133000
 25867;Erdsturmdiamant;1;963500;970000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
-8167;Schildkrötenschuppe;20;190000;198000
 22787;Zottelkappe;20;60000;60000
 22787;Zottelkappe;20;60000;60000
 13760;Roher Sonnenschuppenlachs;10;58896;73620
@@ -483,36 +385,15 @@
 21877;Netherstoff;20;24000;32500
 21877;Netherstoff;20;24000;32500
 12361;Blauer Saphir;1;12088;15110
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
-7080;Essenz des Wassers;1;95000;99000
 2838;Schwerer Stein;20;17400;19000
 2838;Schwerer Stein;20;11800;17500
 2838;Schwerer Stein;20;9900;15000
 2838;Schwerer Stein;20;9900;15000
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
 7078;Essenz des Feuers;1;94999;98999
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
-7078;Essenz des Feuers;1;95000;99000
 15565;Marodeursstiefel;1;9911;20000
 24771;Grollhufschulterschutz;1;59235;69044
 23426;Khoriumerz;5;264159;293510
 8169;Dicker Balg;2;1270;1350
-31131;Schärpe der lautlosen Klingen;1;100000;150000
 8838;Sonnengras;1;2700;2900
 11139;Großer leuchtender Splitter;15;13230;14700
 22791;Netherblüte;20;299998;324998
@@ -529,16 +410,12 @@
 16204;Illusionsstaub;1;5993;6659
 16204;Illusionsstaub;1;5993;6659
 15187;Prätorianerschulterstücke;1;16377;25000
-12731;Makelloser Balg der Bestie;1;750000;790000
-12731;Makelloser Balg der Bestie;1;750000;790000
 13064;Jainas Feuerteufel;1;57230;59900
 12684;Pläne: Thoriumarmschienen;1;29567;32853
 27499;Rolle der Intelligenz V;3;12015;13350
 18782;Obere Hälfte von 'Hochentwickelte Rüstungsschmiedekunst: Band 2';1;60685;67428
 9252;Unteres Kartenfragment;1;8731;9702
 31137;Stulpen der Läuterung;1;54880;68600
-31137;Stulpen der Läuterung;1;58242;65825
-31137;Stulpen der Läuterung;1;49526;59533
 13926;Goldene Perle;1;12000;13500
 7974;Scharfes Muschelfleisch;10;30750;50000
 7974;Scharfes Muschelfleisch;9;675;50000
@@ -598,7 +475,6 @@
 22446;Große Planaressenz;1;98500;104500
 32902;Flasche mit Nethergonenergie;6;27659;30733
 24255;Gurt des Unerschütterlichen;1;3333333;3499999
-31126;Handschuhe der Wildheit;1;117000;130000
 3864;Citrin;1;6537;7264
 4096;Grobes Gorillahaar;6;4600;4900
 1982;Nachtklinge;1;94269;99899

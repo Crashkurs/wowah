@@ -38,7 +38,6 @@
 818;Tigerauge;1;627;697
 818;Tigerauge;1;627;697
 818;Tigerauge;1;627;697
-17200;Rezept: Lebkuchen;1;133977;148863
 5117;Farbenprächtiger Federbusch;2;2608;2898
 11754;Schwarzer Diamant;20;18312;20346
 11754;Schwarzer Diamant;20;18312;20346
@@ -71,33 +70,7 @@
 3830;Rezept: Elixier der Seelenstärke;1;36247;45309
 10214;Elegante Handschuhe;1;25418;31773
 11134;Geringe Mystikeressenz;2;11854;13172
-20866;Azurgötze;2;89998;99998
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;285660;293000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;20;342500;350000
-22788;Flammenkappe;14;140000;150000
-22788;Flammenkappe;20;320000;327500
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;20;254400;328000
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;20;327600;329500
 22788;Flammenkappe;16;158000;158800
-22788;Flammenkappe;20;509980;609980
-22788;Flammenkappe;5;54945;54945
-22788;Flammenkappe;20;509980;609980
 13014;Axt von Rin'ji;1;37636;47046
 16245;Formel: Stiefel - Große Beweglichkeit;1;14587;18234
 16245;Formel: Stiefel - Große Beweglichkeit;1;14587;18234
@@ -124,7 +97,6 @@
 2553;Rezept: Elixier der schwachen Beweglichkeit;1;7149;7944
 22146;Buch: Gabe der Wildnis III;1;164633;182925
 22146;Buch: Gabe der Wildnis III;1;210000;220000
-15417;Teufelssaurierleder;1;12029;13365
 12365;Verdichteter Stein;20;29900;29900
 3576;Zinnbarren;8;3735;4150
 9298;Rezept: Elixier der Riesen;1;22871;28589
@@ -154,7 +126,6 @@
 10076;Adelsarmschützer;1;19393;24242
 11225;Formel: Armschiene - Große Ausdauer;1;4960;6200
 13490;Rezept: Großer Steinschildtrank;1;47612;59515
-13929;Scharfer geräucherter Barsch;15;2608;2898
 24030;Runenverzierter lebendiger Rubin;1;245000;250000
 23572;Urnether;20;450000;500000
 23572;Urnether;20;450000;500000
@@ -181,7 +152,6 @@
 15287;Kreuzzüglerbogen;1;39651;49564
 9944;Bannzaubererkristall;1;27424;34280
 22793;Manadistel;4;20763;23070
-23810;Bauplan: Krachbummroboter;1;46102;51224
 13137;Eisenwirker;1;12451;13834
 15677;Wunderbare Schultern;1;58185;72732
 10217;Elegante Gamaschen;1;46703;58379
@@ -272,7 +242,6 @@
 19768;Urzeitliches Tigerleder;1;23660;26288
 19768;Urzeitliches Tigerleder;1;23660;26288
 10279;Smaragdhelm;1;62537;78172
-22786;Traumwinde;20;200000;200000
 8173;Dickes Rüstungsset;2;101322;112580
 7455;Ritterbeinschützer;1;18998;23748
 20667;Abyssischer Ledergürtel;1;36025;45032
@@ -280,7 +249,6 @@
 22861;Fläschchen des blendenden Lichts;1;169000;179000
 22861;Fläschchen des blendenden Lichts;1;169000;179000
 27498;Rolle der Beweglichkeit V;1;40187;45000
-13890;Panzerfisch;2;748;831
 13890;Panzerfisch;20;7487;8319
 15395;Jadefeuerschulterklappen;1;33212;41516
 15395;Jadefeuerschulterklappen;1;33212;41516
@@ -304,7 +272,6 @@
 10620;Thoriumerz;10;49900;49900
 10620;Thoriumerz;20;99900;99900
 19262;Kriegsfürst 5;1;170000;175000
-3395;Rezept: Begrenzter Unverwundbarkeitstrank;1;35830;37589
 15419;Kriegsbärenleder;14;23822;29778
 15757;Muster: Tückische Lederhose;1;8973;11217
 2824;Hurrikan;1;58016;72520
@@ -325,10 +292,6 @@
 1721;Wikingerkriegshammer;1;31698;39623
 1721;Wikingerkriegshammer;1;31698;39623
 1721;Wikingerkriegshammer;1;38147;47684
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
-6325;Rezept: Glänzender Kleinfisch;1;27090;30100
 23766;Geeichtes Eterniumzielfernrohr;1;1853573;2059525
 24942;Blutschuppengürtel;1;91656;99000
 3818;Blassblatt;20;89999;99999
@@ -337,7 +300,6 @@
 11177;Kleiner strahlender Splitter;20;11412;12680
 11177;Kleiner strahlender Splitter;12;6847;7608
 31285;Brustschutz der Kralle;1;121602;139900
-20498;Silithidenchitin;2;10592;11768
 19282;Portal 6;1;280234;311371
 27677;Basiliskbrocken;1;15359;17066
 11144;Echtsilberrute;1;23000;24500
@@ -361,14 +323,10 @@
 10560;Instabiler Auslöser;2;84070;93411
 15274;Rutengängerstab;1;93463;116829
 8167;Schildkrötenschuppe;17;91556;101729
-1168;Schädelflammenschild;1;183866;204296
 13110;Schreckenswolfharnisch;1;117600;147000
 2453;Beulengras;20;1246;1384
 24029;Tränenförmiger lebendiger Rubin;1;245000;250000
 15983;Gaeas Szepter;1;25775;32219
-22787;Zottelkappe;2;149999;179999
-22787;Zottelkappe;20;190000;200000
-22787;Zottelkappe;20;149999;179999
 11988;Tellurband;1;21496;26870
 14311;Himmlische Bindungen;1;19576;26096
 2732;Die Grünen Hügel des Schlingendorntals - Seite 8;1;5734;6371
@@ -382,9 +340,6 @@
 12704;Pläne: Thoriumgamaschen;1;26427;33034
 13021;Einfädler;1;28672;31858
 13044;Dämonentöter;1;83612;92902
-6291;Roher glänzender Kleinfisch;20;15630;17367
-6291;Roher glänzender Kleinfisch;20;15630;17367
-6291;Roher glänzender Kleinfisch;1;781;868
 23100;Glitzernder Flammenspessarit;1;11777;13086
 23100;Glitzernder Flammenspessarit;1;11777;13086
 3355;Wildstahlblume;20;89999;99999
@@ -396,9 +351,6 @@
 7091;Muster: Handschuhe des wahren Glaubens;1;4940;6175
 10184;Schwadroneursarmschienen;1;19546;25058
 22824;Elixier der erheblichen Stärke;14;153664;192080
-29727;Muster: Handschuhe der lebendigen Berührung;1;200390;222656
-8391;Kicherfangunterkiefer;3;2901;3224
-8391;Kicherfangunterkiefer;3;2901;3224
 13004;Fackel von Austen;1;53199;66499
 15276;Maguslangstab;1;135676;169595
 17056;Leichte Feder;20;24620;27356
@@ -450,16 +402,6 @@
 4318;Handschuhe der Meditation;1;8670;9633
 4318;Handschuhe der Meditation;1;8670;9633
 8827;Elixier des Wasserwandelns;9;9040;10044
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
-22791;Netherblüte;20;349999;399999
 9402;Erdgeborener Kilt;1;38000;47500
 3486;Schwerer Schleifstein;7;10124;11249
 8284;Arkane Stiefel;1;33644;42056
@@ -474,9 +416,6 @@
 29732;Muster: Netherdrachenhelm;1;200000;250000
 14922;Festliche Sabatons;1;46243;57804
 14922;Festliche Sabatons;1;46243;57804
-4461;Raptorbalg;6;1719;1910
-4461;Raptorbalg;1;286;318
-4461;Raptorbalg;6;1719;1910
 15272;Schneidenaxt;1;156063;195079
 15272;Schneidenaxt;1;165568;206960
 17722;Muster: Handschuhe des Altvaters;1;338335;422919
@@ -521,7 +460,6 @@
 16215;Formel: Stiefel - Große Ausdauer;1;151999;189999
 14552;Palisadenschulterstücke;1;63638;70709
 14552;Palisadenschulterstücke;1;47120;58900
-20854;Vorlage: Amulett des Mondes;1;24740;27489
 18679;Kühler Ring;1;89270;99189
 18679;Kühler Ring;1;37704;50000
 4410;Bauplan: Schattenschutzbrille;1;4616;5771
@@ -547,15 +485,12 @@
 7462;Rittergurt;1;20260;22511
 21881;Netherweberseide;5;122500;125000
 21881;Netherweberseide;10;245000;250000
-6317;Roher Lochfrenzy;5;8505;9450
 10381;Kommandantengurt;1;45587;56984
 14491;Muster: Runenstoffhose;1;22163;24626
 10592;Katzenaugenelixier;20;23250;25833
 10592;Katzenaugenelixier;2;2325;2583
 31295;Brustschutz des Dunkelpirschers;1;131441;145000
 14973;Glorreicher Schild;1;84048;105060
-5740;Rote Feuerwerksrakete;5;64455;66065
-5740;Rote Feuerwerksrakete;5;64455;66065
 15423;Schimärenleder;1;2464;3080
 23441;Nachtauge;1;68399;75999
 15745;Muster: Runenverzierter Ledergürtel;1;18620;23275
@@ -607,23 +542,6 @@
 20960;Gravierter Echtsilberring;1;10149;11276
 20960;Gravierter Echtsilberring;1;10149;11276
 20960;Gravierter Echtsilberring;1;10149;11276
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
-3823;Geringer Unsichtbarkeitstrank;5;125495;159995
 13052;Kriegstreiber;1;51680;64600
 16055;Bauplan: Arkane Bombe;1;93807;117259
 8318;Alabasterplattengamaschen;1;53964;67455
